@@ -1,0 +1,104 @@
+[
+    {
+      "userid": 820,
+      "status_changed": "2022-03-23 04:33:48",
+      "documents": [
+          {
+            "main": "Teacher Learning Behavior During the Covid 19 Pandemic.pdf - Risma Sinaga.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "Teacher Learning Behavior During the Covid 19 Pandemic.pdf - Risma Sinaga.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 161741,
+                  "hash": "9782377a18143b5e4f625e70f5152719",
+                  "mtime": "2022-03-23 02:05:30",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/450872",
+                  "filesize": 2377436,
+                  "fileid": 450872
+                }
+            ],
+            "eprintid": 40429,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161741",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 161741,
+            "security": "public",
+            "placement": 1,
+            "format": "text"
+          }
+      ],
+      "date": "2022-02-12",
+      "metadata_visibility": "show",
+      "title": "(Similarity Checl): Teacher Learning Behavior During the Covid-19 Pandemic.  Edwina Rusvita Nur; Risma Margaretha Sinaga; Pujiati",
+      "subjects": [
+        "GT"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40429",
+      "divisions": [
+        "FKIP10"
+      ],
+      "dir": "disk0\/00\/04\/04\/29",
+      "datestamp": "2022-03-23 04:33:48",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "corp_creators": [
+        "Prodi S2 Pendidikan IPS FKIP Unila",
+        "Prodi S1 Pendidikan Geografi FKIP Unila",
+        "Prodi S1 Pendidikan Geografi FKIP Unila"
+      ],
+      "eprint_status": "archive",
+      "ispublished": "unpub",
+      "abstract": "During the Covid-19 pandemic, there were many problems that afflicted the entire community,\r\nespecially in the field of education. This happens because the learning process is carried out remotely or\r\nonline. Distance learning that is carried out affects the quality of student learning. Teachers must continue\r\nto strive to be able to understand and find out whether the subject matter taught to students has been truly\r\nunderstood or not. This must be done because teachers are required to be ready to anticipate, face\r\nchallenges, and solve problems that occur in the learning process even though online. The purpose of this\r\nstudy was to determine the learning behavior of social studies teachers during the Covid-19 pandemic.\r\nThe research method used was qualitative descriptive with Miles and Huberman data analysis techniques.\r\nData was collected through interviews, documentation, and observation. The results showed that the\r\nlearning behavior of social studies teachers at SMPN 33 Bandarlampung was not optimal in distance learning activities, because teachers were less varied in using teaching materials and learning media, so students were not very active during distance learning and students' social studies learning outcomes were not maximized. There are several efforts that can be made to improve the quality of distance learning by optimizing the asynchronous-synchronous learning model and conducting collaborative learning with\r\nteachers, students, and parents.",
+      "date_type": "completed",
+      "eprintid": 40429,
+      "lastmod": "2022-03-23 04:33:48",
+      "official_url": "https:\/\/ijmmu.com\/index.php\/ijmmu\/article\/view\/3119\/2679",
+      "full_text_status": "public",
+      "publisher": "FKIP Universitas Lampung",
+      "rev_number": 7,
+      "creators": [
+        {
+          "name": {
+            "given": "Rusvita Nur",
+            "family": "Nur",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "sinaga_rmargaretha@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Risma Margaretha",
+            "family": "Sinaga"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Pujiati",
+            "given": "P"
+          },
+          "id": "pujiatifkipunila@gmail.com"
+        }
+      ]
+    }
+]
+

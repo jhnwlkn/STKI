@@ -1,0 +1,3303 @@
+[
+    {
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Demokrasi adalah sebuah konsep yang abstrak dalam konteks ide, Namun demikian ide demokrasi itu sendiri secara umum berasal dari nilai-nilai barat, contohnya seperti adanya tiga arti penting demokrasi : persamaan, keadilan dan kebebasan. Konsep tersebut berasal dari ide bahwa revolusi kebebasan di Prancis pada awal abad ke- 18.Nurcholish Madjid atau Cak Nur memiliki ide murni terkait dengan demokrasi.",
+      "corp_creators": [
+        "FISIP Unila"
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "divisions": [
+        "FISIP3"
+      ],
+      "datestamp": "2017-11-16 02:25:33",
+      "dir": "disk0\/00\/00\/44\/35",
+      "full_text_status": "public",
+      "publisher": "FISIP UNILA",
+      "rev_number": 6,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Budi Harjo",
+            "given": "Budi Harjo"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "warganegara",
+            "given": "Arizka"
+          }
+        }
+      ],
+      "eprintid": 4435,
+      "lastmod": "2017-11-16 02:25:33",
+      "number": 1,
+      "refereed": "TRUE",
+      "date_type": "published",
+      "publication": "Jurnal Analisis Sosial Politik",
+      "date": "2017-07-01",
+      "documents": [
+          {
+            "docid": 17338,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "main": "Jurnal Analisis sosial dan Politik Budi Harjo.pdf",
+            "language": "en",
+            "eprintid": 4435,
+            "pos": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "filename": "Jurnal Analisis sosial dan Politik Budi Harjo.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 17338,
+                  "datasetid": "document",
+                  "mtime": "2017-11-03 07:48:09",
+                  "hash": "9a0b4f6b63b9c443d30350da3d0f1978",
+                  "fileid": 44063,
+                  "filesize": 690274,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/44063"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17338",
+            "rev_number": 1
+          }
+      ],
+      "userid": 120,
+      "status_changed": "2017-11-16 02:25:33",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4435",
+      "type": "article",
+      "issn": "2580-8559",
+      "volume": 1,
+      "subjects": [
+        "JC"
+      ],
+      "metadata_visibility": "show",
+      "title": "Demokrasi Perbandingan Demokrasi ala Cak Nur dan Konsep Barat."
+    },
+    {
+      "pagerange": "1-7",
+      "subjects": [
+        "JC"
+      ],
+      "metadata_visibility": "show",
+      "title": "Global Governance: Perspektif Liberalisme",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6374",
+      "type": "article",
+      "issn": "1979–0899X",
+      "volume": 4,
+      "userid": 680,
+      "status_changed": "2018-01-29 04:11:24",
+      "publication": "JOD Fisip Unbara",
+      "date": "2011-12-30",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 19298,
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "Global Governance (unbara).pdf",
+            "language": "en",
+            "files": [
+                {
+                  "mtime": "2018-01-26 14:10:40",
+                  "hash": "7e51767bb7a2905764e992871aec9986",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/59199",
+                  "fileid": 59199,
+                  "filesize": 317166,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Global Governance (unbara).pdf",
+                  "datasetid": "document",
+                  "objectid": 19298
+                }
+            ],
+            "pos": 1,
+            "eprintid": 6374,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19298",
+            "rev_number": 1
+          }
+      ],
+      "date_type": "published",
+      "official_url": "https:\/\/jodfisipunbara.files.wordpress.com\/2012\/07\/5-robi-oke-hal-1-7.pdf",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "creators": [
+        {
+          "id": "robi_ck@yahoo.com",
+          "name": {
+            "family": "Cahyadi",
+            "given": "Robi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "eprintid": 6374,
+      "lastmod": "2018-01-29 04:11:24",
+      "number": 8,
+      "refereed": "TRUE",
+      "divisions": [
+        "FISIP3"
+      ],
+      "dir": "disk0\/00\/00\/63\/74",
+      "datestamp": "2018-01-29 04:11:24",
+      "eprint_status": "archive",
+      "abstract": "The emergence of global governance as the needs of \"legitimacy\" of the norms in force in the world at\r\nthat time. Term of the legitimacy is the product of the politics that provide justification. Global\r\ngovernance is seen more as a political product rather than as a concept is useful as a source of\r\nlegitimacy. Governance issues reduced a political as a concept, mechanism and process of\r\nreorganizing the world to be more open to the market.\r\nKeywords: Global governance, legitimacy, a product of politics, liberalism",
+      "ispublished": "pub"
+    },
+    {
+      "creators": [
+        {
+          "id": "robi_ck@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Cahyadi",
+            "given": "Robi"
+          }
+        }
+      ],
+      "full_text_status": "public",
+      "publisher": "JSP UGM 2017",
+      "rev_number": 7,
+      "refereed": "TRUE",
+      "lastmod": "2019-11-07 04:35:39",
+      "eprintid": 15818,
+      "datestamp": "2019-11-07 04:35:39",
+      "dir": "disk0\/00\/01\/58\/18",
+      "divisions": [
+        "FISIP3"
+      ],
+      "ispublished": "pub",
+      "abstract": "Peer Review : Penilaian Rekan Sejawat",
+      "eprint_status": "archive",
+      "subjects": [
+        "JA",
+        "JC"
+      ],
+      "title": "Peer Review Jurnal Nasional TerAkreditasi JSP UGM; Piil Pesenggiri (2017)",
+      "metadata_visibility": "show",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15818",
+      "status_changed": "2019-11-07 04:35:39",
+      "userid": 680,
+      "publication": "Piil Pesenggiri, A Concept of Political Power In Lampung Culture",
+      "documents": [
+          {
+            "docid": 28920,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "2. Peer Review JurNasTerakreditasi JSP UGM.pdf",
+            "language": "en",
+            "eprintid": 15818,
+            "pos": 1,
+            "files": [
+                {
+                  "filename": "2. Peer Review JurNasTerakreditasi JSP UGM.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 28920,
+                  "datasetid": "document",
+                  "hash": "af24363a1dbd29bf7180ce849848d341",
+                  "mtime": "2019-11-06 15:01:32",
+                  "filesize": 1347184,
+                  "fileid": 135801,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/135801"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28920"
+          }
+      ]
+    },
+    {
+      "userid": 680,
+      "status_changed": "2019-11-07 04:35:55",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 28921,
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "3. Peer Review JurNas Terakreditasi MIMBAR; Des 2017.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "hash": "230ee7eec6b7b076b37007a2176c5c82",
+                  "mtime": "2019-11-06 15:12:58",
+                  "fileid": 135815,
+                  "filesize": 1386371,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/135815",
+                  "filename": "3. Peer Review JurNas Terakreditasi MIMBAR; Des 2017.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 28921,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 15819,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28921"
+          }
+      ],
+      "publication": "Vote BUying In Lampung Local Election",
+      "date": "2017-12",
+      "metadata_visibility": "show",
+      "title": "Peer Review Jurnal Nasional Terakreditasi MIMBAR Unisba 2017",
+      "subjects": [
+        "JC"
+      ],
+      "volume": 33,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15819",
+      "divisions": [
+        "FISIP3"
+      ],
+      "datestamp": "2019-11-07 04:35:55",
+      "dir": "disk0\/00\/01\/58\/19",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Peer Review ; Penilaian rekan sejawat",
+      "date_type": "published",
+      "lastmod": "2019-11-07 04:35:55",
+      "eprintid": 15819,
+      "refereed": "TRUE",
+      "number": 2,
+      "rev_number": 6,
+      "official_url": "https:\/\/ejournal.unisba.ac.id\/index.php\/mimbar\/article\/view\/2664",
+      "publisher": "LPPM Unisba",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "robi_ck@yahoo.com",
+          "name": {
+            "given": "Robi",
+            "family": "Cahyadi",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ]
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6140",
+      "type": "article",
+      "issn": "1410-4946",
+      "volume": 21,
+      "pagerange": "74-86",
+      "subjects": [
+        "JC"
+      ],
+      "metadata_visibility": "show",
+      "related_url": [
+        {
+          "url": "https:\/\/jurnal.ugm.ac.id\/jsp\/article\/view\/28702",
+          "type": "pub"
+        }
+      ],
+      "title": "Piil Pesenggiri, A Concept of Political Power in Lampung Culture",
+      "publication": "JSP UGM",
+      "date": "2017-11-10",
+      "documents": [
+          {
+            "language": "en",
+            "main": "6. Piil Pesenggiri A Concept of Political Power in Lampung Culture - Robi CK.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19050",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/56453",
+                  "fileid": 56453,
+                  "filesize": 569710,
+                  "mtime": "2017-11-28 12:24:52",
+                  "hash": "d8f25fbe28080a4c7bedcf569745f639",
+                  "datasetid": "document",
+                  "objectid": 19050,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "6. Piil Pesenggiri A Concept of Political Power in Lampung Culture - Robi CK.pdf"
+                }
+            ],
+            "eprintid": 6140,
+            "pos": 2,
+            "mime_type": "application\/pdf",
+            "docid": 19050,
+            "format": "text",
+            "placement": 2,
+            "security": "public"
+          }
+      ],
+      "userid": 680,
+      "status_changed": "2017-11-28 13:15:17",
+      "rev_number": 14,
+      "official_url": "https:\/\/jurnal.ugm.ac.id\/jsp\/article\/view\/28702",
+      "publisher": "University of Gadjah Mada",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "robi_ck@yahoo.com",
+          "name": {
+            "given": "Robi",
+            "family": "Cahyadi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "lastmod": "2017-11-28 13:41:30",
+      "contact_email": "robi_ck@yahoo.com",
+      "eprintid": 6140,
+      "refereed": "TRUE",
+      "number": 1,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "abstract": "Power is the main focus of political science, so far the concept of power that exists in Indonesia\r\ncomes from the conception of western cultural thought, especially Europe, which influenced the\r\nthinking of the thinkers of the era of Greece, Rome, and medieval Europe. After the reform and era\r\nafter 2000, Indonesian thinkers tried to offer the concept of power based on local wisdom based on\r\nlocal culture. So that emerged local concepts of politics and power. This paper attempts to relate\r\nthe principles of the local culture of Lampung piil pesenggiri in the context of contemporary politics\r\ntoday, especially in the election, including things mystical. The method used in this research\/\r\nwriting by using qualitative methods with secondary data sources and literature study. The result\r\nin the level of the concept piil pesenggiri be ideal, but the level is still questionable practice.",
+      "ispublished": "pub",
+      "divisions": [
+        "FISIP3"
+      ],
+      "dir": "disk0\/00\/00\/61\/40",
+      "datestamp": "2017-11-28 13:15:17"
+    },
+    {
+      "date_type": "published",
+      "lastmod": "2020-03-12 03:39:51",
+      "eprintid": 15830,
+      "refereed": "TRUE",
+      "official_url": "http:\/\/aura-publishing.com\/category\/buku-baru-2\/",
+      "publisher": "Aura Publisher",
+      "rev_number": 9,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "family": "Cahyadi",
+            "given": "Robi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "robi_ck@yahoo.com"
+        }
+      ],
+      "isbn": "978-623-211-058-8",
+      "divisions": [
+        "FISIP3"
+      ],
+      "dir": "disk0\/00\/01\/58\/30",
+      "datestamp": "2019-11-07 04:38:04",
+      "eprint_status": "archive",
+      "abstract": "SIMILARITY INDEX",
+      "ispublished": "pub",
+      "metadata_visibility": "show",
+      "title": "SIMILARITY CHECK RESULT BUKU POLITICAL ECONOMY",
+      "pagerange": "1-162",
+      "subjects": [
+        "JC"
+      ],
+      "volume": 1,
+      "type": "book_section",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15830",
+      "book_title": "Political Economy,",
+      "userid": 680,
+      "status_changed": "2019-11-07 04:38:04",
+      "documents": [
+          {
+            "main": "1. Buku Political Economy, Cek Similarity 20.pdf",
+            "language": "en",
+            "eprintid": 15830,
+            "pos": 1,
+            "files": [
+                {
+                  "hash": "c77ab34a25768b9345c7f98917b9a897",
+                  "mtime": "2019-11-06 16:28:02",
+                  "fileid": 135875,
+                  "filesize": 18944093,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/135875",
+                  "filename": "1. Buku Political Economy, Cek Similarity 20.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 28930,
+                  "datasetid": "document"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28930",
+            "rev_number": 3,
+            "docid": 28930,
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "placement": 1,
+            "security": "public",
+            "format": "text"
+          }
+      ],
+      "place_of_pub": "Bandar Lampung",
+      "date": 2019,
+      "pages": 162
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41075",
+      "type": "other",
+      "id_number": "EC00202213585",
+      "metadata_visibility": "show",
+      "related_url": [
+        {
+          "url": "https:\/\/dgip.go.id\/"
+        }
+      ],
+      "title": "SURAT PENCATATAN CIPTAAN  'Buku Etika Politik dan Pemerintahan'",
+      "subjects": [
+        "JC"
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "main": "sertifikat_HAKI Etika Pol Pem RcK.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162499",
+            "rev_number": 1,
+            "eprintid": 41075,
+            "pos": 1,
+            "files": [
+                {
+                  "hash": "5d4e673be01eb9c3578e0055934c06cf",
+                  "mtime": "2022-04-05 06:53:23",
+                  "filesize": 2055237,
+                  "fileid": 456157,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456157",
+                  "filename": "sertifikat_HAKI Etika Pol Pem RcK.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 162499,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 162499,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1
+          },
+          {
+            "language": "en",
+            "main": "sertifikat_HAKI Etika Pol Pem RcK.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162500",
+            "files": [
+                {
+                  "mtime": "2022-04-05 07:02:30",
+                  "hash": "5d4e673be01eb9c3578e0055934c06cf",
+                  "fileid": 456159,
+                  "filesize": 2055237,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456159",
+                  "hash_type": "MD5",
+                  "filename": "sertifikat_HAKI Etika Pol Pem RcK.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 162500,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 2,
+            "eprintid": 41075,
+            "mime_type": "application\/pdf",
+            "docid": 162500,
+            "format": "text",
+            "placement": 2,
+            "security": "public"
+          }
+      ],
+      "place_of_pub": "Jakarta",
+      "date": "2022-02-24",
+      "userid": 680,
+      "status_changed": "2022-04-05 07:13:36",
+      "lastmod": "2022-04-05 07:13:36",
+      "eprintid": 41075,
+      "official_url": "https:\/\/dgip.go.id\/",
+      "full_text_status": "public",
+      "publisher": "Direktorat Jenderal Kekayaan Intelektual Kementerian Hukum & HAM",
+      "rev_number": 8,
+      "creators": [
+        {
+          "id": "robi_ck@yahoo.com",
+          "name": {
+            "given": "Robi",
+            "family": "Cahyadi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Buku Etika Politik dan Pemerintahan\r\n\r\nEC00202213585",
+      "divisions": [
+        "FISIP3"
+      ],
+      "datestamp": "2022-04-05 07:13:36",
+      "dir": "disk0\/00\/04\/10\/75"
+    },
+    {
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 19084,
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "main": "OPINI ROBI CAHYADI KURNIAWAN_ Utak Atik Pasangan Calon Pilgub Lampung 2018 (1) – duajurai.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19084",
+            "rev_number": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 19084,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "OPINI ROBI CAHYADI KURNIAWAN_ Utak Atik Pasangan Calon Pilgub Lampung 2018 (1) – duajurai.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/56610",
+                  "filesize": 2299689,
+                  "fileid": 56610,
+                  "mtime": "2017-11-30 05:32:40",
+                  "hash": "16cb08fced14c2229578ff24d94c45c5"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 6161
+          }
+      ],
+      "publication": "duajurai.co",
+      "date": "2017-05-04",
+      "userid": 680,
+      "status_changed": "2017-11-30 07:13:54",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6161",
+      "type": "article",
+      "metadata_visibility": "show",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/duajurai.co\/2017\/05\/04\/opini-robi-cahyadi-kurniawan-utak-atik-pasangan-calon-pilgub-lampung-2018-1\/"
+        }
+      ],
+      "title": "Utak Atik Pasangan Calon Pilgub lampung 2018",
+      "pagerange": "1-10",
+      "subjects": [
+        "JC"
+      ],
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Tulisan ini mengulas tentang peta politik menjelang pilgub Lampung 2018, siapa saja calon yang akan muncul, peluang mendapatkan perahu partai politik, peluang pasangan wakil gubernur dan relasi dengan pemilih.",
+      "divisions": [
+        "FISIP6"
+      ],
+      "dir": "disk0\/00\/00\/61\/61",
+      "datestamp": "2017-11-30 07:13:54",
+      "lastmod": "2017-11-30 07:13:54",
+      "eprintid": 6161,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "official_url": "http:\/\/duajurai.co\/2017\/05\/04\/opini-robi-cahyadi-kurniawan-utak-atik-pasangan-calon-pilgub-lampung-2018-1\/",
+      "publisher": "duajurai.co",
+      "rev_number": 6,
+      "creators": [
+        {
+          "id": "robi_ck@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Cahyadi",
+            "given": "Robi"
+          }
+        }
+      ],
+      "date_type": "published"
+    },
+    {
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Abstract: The representation of women in parliament is still far from the quota that has been determined in the policy, which is 30% so that the role of women in parliament is still not optimal in fighting for pro-gender equality. The method in this study uses a qualitative method with a descriptive approach, with a number of informants as many as 11 informants with details 2 from the Lampung Parliamentary Women's Caucus management, 6 from government officials in Lampung Province and 1 from public policy observers. The results obtained are that the Parliamentary Women's Caucus in Lampung synergizes with various government agencies in Lampung Province, namely the Office of Women's Empowerment and Child Protection, the General Elections Commission (KPU), collaboration is also carried out with the Damar Non-Governmental Organization, Mass Media and other community organizations that are pro- With gender equality, the goal is to manage the budget and implement work programs, namely optimizing policies that favor gender equality, but from the results of the research the Lampung Women's Parliamentary Caucus has not been able to carry out its role optimally, this is due to a lack of coordination and meetings between the Lampung Parliamentary Women's Caucus officials so that the policy that are in favor of gender also cannot be carried out optimally. 5 aspects of the theory of networking institutionalism, it is known that the organizational aspect is not optimal because there are still internal constraints, namely the lack of intensive coordination between the Lampung Parliamentary Women's Caucus administrators.\r\n\r\nKeywords: Networking Institutionalism, Pro Gender Policy",
+      "divisions": [
+        "FISIP3"
+      ],
+      "datestamp": "2022-04-28 05:15:17",
+      "dir": "disk0\/00\/04\/14\/94",
+      "lastmod": "2022-04-28 05:15:17",
+      "eprintid": 41494,
+      "refereed": "TRUE",
+      "number": 2,
+      "official_url": "https:\/\/nakhoda.ejournal.unri.ac.id\/index.php\/njip\/article\/view\/158",
+      "publisher": "Lab JIP FISIP Universitas Riau",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Cahyadi",
+            "given": "Robi"
+          },
+          "id": "robi_ck@yahoo.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Hertanto",
+            "family": "Hertanto"
+          },
+          "id": "hertanto.1960@fisip.unila.ac.id"
+        }
+      ],
+      "date_type": "published",
+      "documents": [
+          {
+            "main": "Nakhkoda Unri  Robi.pdf",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 41494,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Nakhkoda Unri  Robi.pdf",
+                  "datasetid": "document",
+                  "objectid": 163128,
+                  "mtime": "2022-04-28 03:09:45",
+                  "hash": "286ef45c280bb94d63585b00da48effa",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/459469",
+                  "filesize": 552420,
+                  "fileid": 459469
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163128",
+            "docid": 163128,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "format": "text"
+          }
+      ],
+      "publication": "Nakhoda: Jurnal Ilmu Pemerintahan",
+      "date": "2021-12-28",
+      "userid": 680,
+      "referencetext": "Daftar Pustaka\r\nAlafanda, Ayon. 2020. “Peran Perempuan Di Lembaga Lesilatif (Suatu Kajian Di DPRK Simeulue Periode 2009-2014.” ETD Unsyiah.\r\nArdi, Anis Maryuni. 2014. “Perempuan Di Legislatif : Advokasi Perempuan Legislatif Bagi Kepentingan Dapil Di Dewan Perwakilan Rakyat Daerah Jawa Timur.” Jurnal Politik Muda Volume 3(Nomor 3). Asrida, Wan, Wazni, and Chitra Puspita Dewi. 2012. “Gerakan Politik Perempuan Partai Golkar Kota Pekanbaru Periode 2004-2009 Dalam Memperjuangkan Kepentingan Perempuan.” Jurnal Nahkoda\r\n11(17).\r\nBudiatri, Aisah Putri. 2011. “Bayang-Bayang Afirmasi Keterwakilan Perempuan Di Parlemen Di Indonesia.” Jurnal Studi Politik Volume 1(No. 2).\r\nDarmastuti, Ari. 2020. Partai Politik, Pemilihan Umum Dan Peran Perempuan Dalam Politik Dan Pembangunan. Yogyakarta: Quantum.\r\nDarmastuti, Ari, and Dkk. 2011. “Studi Kebijakan Pembangunan Daerah Berperspektif Gender Di Kabupaten Lampung Tengah.” Jurnal Sosiologi Vol 14(No 1.).\r\nDpd.go.id. 2015. “KPP RI Meneguhkan Komitmen Politik Perempuan Parlemen Bagi Keterwakilan Isu Perempuan Dan Anak.” DPD RI. Retrieved (http:\/\/portal.dpd.go.id\/artikel-905-kaukus-perempuan- parlemen-ri--meneguhkan-komitmen-politik-perempuan-parlemen-bagi-keterwakilan-isu- perempuan-dan-anak).\r\nFirdaus, M. Aziz. 2012. Dasar- Dasar Ilmu Politik. Jakarta: Ombak.\r\nInwantoro, T. 2013. “Faktor-Faktor Yang Mempengaruhi Rendahnya Tingkat Partisipasi Politik Perempuan Pada Pemilu Legislatif DPRD Mojokerto 2014.” Universitas Diponegoro.\r\nIstiana, Hikmah, and Mursidin. 2008. “Optimalisasi Peran Gender Dalam Upaya Peningkatan Kesejahteraan Nelayan.” Jurnal Sosial Ekonomi Kelautan Dan Perikanan Volume 3(Nomor 2).\r\nJacobus, Adrianus. 2016. “Peranan Anggota Dewan Perwakilan Rakyat Daerah Perempuan Dalam Merespon Kepentingan Perempuan Di Kabupaten Kepulauan Siau Tagulandang Biaro.” Politico 5(1).\r\nkoalisiperempuan.or.id. 2015. “Butuh Kebijakan Untuk Terwujudnya Kesetaraan Gender.” Koalisiperempuan.or.Id. Retrieved (https:\/\/www.koalisiperempuan.or.id\/2015\/12\/08\/butuh- kebijakan-untuk-terwujudnya-kesetaraan-gender\/).\r\nMufarrochah, Lailiyul. 2020. “Peran Perempuan Di Lembaga Legislatif Kabupaten Mojokerto Dalam Perspektif Konstruksi Sosial.” UIN Sunan Ampel Surabaya.\r\nMuslimat, Ade. 2016. “Rendahnya Partisipasi Wanita Di Bidang Politik.” Jurnal Studi Gender Dan Anak\r\nVol 3(No 2).\r\nNovita, Irma, Jendrius, Fachri Adnan, and Tito Handoko. 2018. “Eksistensi Komisionner Perempuan Dalam Mewujudkan Kesetaraan Gender Pada KPU Provinsi Dan Kabupaten\/Kota Di Sumatera Barat.” Jurnal Nahkoda Volume 17(30).\r\nPatton, Michael Quinn. 2015. Qualitative Research & Evaluation Methods 4th Edition. Library of Congres Catalogue-in Publication Data. United Stated of America.\r\nPurwanti, Ani. 2015. “Partisipasi Perempuan Pada Lembaga Legislatif Tahun 2014-2019 Di Provinsi\r\n \r\nJawa Timur.” Masalah-Masalah Hukum 44(2).\r\nRhodes, R. A., S. A. Binder, and B. A. Rockman. 2016. The Oxford Handbook of Political Institutions.\r\nNew York: Oxford University Press.\r\nSitanggang, Alfred Reynaldo. 2019. “Analisis Peran Legislator Perempuan Dalam Formulasi Kebijakan Publik Di Kota Pematang Siantar.” Universitas Katolik Parahyangan.\r\nStoker, and Marsh. 2011. Teori Dan Metode Dalam Ilmu Politik. Bandung: Nusa media.\r\nSubagya, Slamet, Siany Indria L, and Atik Catur Budiati. 2013. “Pengarusutamaan Gender Dan Optimalisasi Peran Serikat Pekerja Sebagai Upaya Perlindungan Berbasis Gender Bagi Perempuan Buruh Pabrik Di Kabupaten Karanganyar.” Jurnal Forum Ilmu Sosila Volume 40(Nomor 1).\r\nSugiyono. 2018. Metode Penelitian Kuantitatif, Kualitatif Dan R & D. Bandung: Alfabeta.\r\nSyafrudin, Iqbal. 2021. “Peran Anggota Badan Legislatif Perempuan Dalam Perspektif Gender.” CIVICS\r\n6(1).\r\nTashandra, Nabilla. 2016. “Diskriminasi Gender, Tujuh UU Terkait Perempuan Ini Perlu Di Ubah.”\r\nKompas.Com.\tRetrieved\r\n(https:\/\/amp.kompas.com\/nasional\/read\/2016\/03\/06\/17335421\/Diskriminasi.Gender.Tujuh.UU.Terk ait.Perempuan.Ini.Perlu.Diubah).\r\nWazni. 2011. “Rekrutmen Calon Legislatif Perempuan Oleh Partai Politik Di Kota Pekan Baru Pada Pemilu 2009.” Jurnal Nahkoda 10(16).\r\nYasmin, Yuditya Firdauza, and Dewi Erowati. 2019. “Peran Anggota Legislatif Perempuan Di DPRD Kabupaten Kebumen Periode 2014-2019.” Journal of Politic and Government Studies 8(4)",
+      "status_changed": "2022-04-28 05:15:17",
+      "volume": 20,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41494",
+      "type": "article",
+      "issn": "2656-5277",
+      "metadata_visibility": "show",
+      "related_url": [
+        {
+          "url": "https:\/\/nakhoda.ejournal.unri.ac.id\/index.php\/njip\/article\/view\/158"
+        }
+      ],
+      "title": "Networking Institutionalism by the Lampung Parliamentary Women's Caucus in Optimizing Gender Policy",
+      "pagerange": "46-57",
+      "subjects": [
+        "H1",
+        "JC"
+      ]
+    },
+    {
+      "eprintid": 41076,
+      "lastmod": "2022-04-05 07:13:38",
+      "creators": [
+        {
+          "id": "robi_ck@yahoo.com",
+          "name": {
+            "given": "Robi",
+            "family": "Cahyadi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Krisbintoro",
+            "given": "Sigit"
+          },
+          "id": null
+        }
+      ],
+      "full_text_status": "public",
+      "official_url": "https:\/\/dgip.go.id\/",
+      "publisher": "Direktorat Jenderal Kekayaan Intelektual Kementerian Hukum & HAM",
+      "rev_number": 7,
+      "date_type": "published",
+      "ispublished": "pub",
+      "abstract": "Buku Ekologi Politik dan Pemerintahan\r\n\r\nEC00202215691",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/04\/10\/76",
+      "datestamp": "2022-04-05 07:13:38",
+      "divisions": [
+        "FISIP3"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41076",
+      "type": "other",
+      "title": "SURAT PENCATATAN CIPTAAN 'Buku Ekologi Politik dan Pemerintahan'",
+      "related_url": [
+        {
+          "url": "https:\/\/dgip.go.id\/"
+        }
+      ],
+      "metadata_visibility": "show",
+      "id_number": "EC00202215691",
+      "subjects": [
+        "JC"
+      ],
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 162501,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "sertifikat_HAKI Ekologi Pol Pem RcK.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 162501,
+                  "hash": "a8a30648a1dc6d4687feb6ab4261f365",
+                  "mtime": "2022-04-05 07:06:38",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456166",
+                  "filesize": 2055522,
+                  "fileid": 456166
+                }
+            ],
+            "pos": 1,
+            "eprintid": 41076,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162501",
+            "main": "sertifikat_HAKI Ekologi Pol Pem RcK.pdf",
+            "language": "en"
+          }
+      ],
+      "date": "2022-02-07",
+      "place_of_pub": "Jakarta",
+      "status_changed": "2022-04-05 07:13:38",
+      "userid": 680
+    },
+    {
+      "date": "2022-12-28",
+      "documents": [
+          {
+            "main": "2360-61-10281-1-10-20221229 Mauli_Arizka.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "filename": "2360-61-10281-1-10-20221229 Mauli_Arizka.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 187162,
+                  "datasetid": "document",
+                  "mtime": "2023-01-25 03:04:34",
+                  "hash": "a2044a2c2a81129c562a1a1fa45e4327",
+                  "fileid": 524944,
+                  "filesize": 432140,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/524944"
+                }
+            ],
+            "eprintid": 47996,
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187162",
+            "mime_type": "application\/pdf",
+            "docid": 187162,
+            "security": "public",
+            "placement": 1,
+            "format": "text"
+          }
+      ],
+      "userid": 570,
+      "status_changed": "2023-01-25 03:36:04",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47996",
+      "issn": "2252-5270",
+      "volume": 11,
+      "subjects": [
+        "G1",
+        "JA",
+        "JC",
+        "JF"
+      ],
+      "pagerange": "128-144",
+      "eprint_status": "archive",
+      "abstract": "The  failure  of  political  parties  and  the  mistakes  of  their  elites  have  made  swing  voters maintained  in  every  election.  Swing  voters  are  not  the  same  as abstainwho  do  not exercise  their  constitutional  rights.  Swing  voters  are  voters  who  change  their  choice  or change  their  support  for the  implementation  of  the  previous  election. This  research  uses descriptive qualitative research method. The results show that theswing voters are caused by  the  failure  of  political  parties  in  carrying  out  the  function  of  cadre  and  political education,  that  political parties are  not  a  tool  for the  struggle  of  society,  clarity  of  party programs and platforms, that pragmatic reasons are not rational, that the party's image is declining  in  the  eyes  of  voters  due  to  the  behavior  of  political  elites,  the  form  of  voter protest,  mass  mobilization,  situational  influences,  candidate  figures,  and  alternative candidates which are considered credible.",
+      "ispublished": "pub",
+      "datestamp": "2023-01-25 03:36:04",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "official_url": "https:\/\/journals.unihaz.ac.id\/index.php\/mimbar\/article\/view\/2360\/1464",
+      "contact_email": "maulikurniacahyani@gmail.com",
+      "lastmod": "2023-01-25 03:36:04",
+      "eprintid": 47996,
+      "refereed": "TRUE",
+      "date_type": "published",
+      "publication": "MIMBAR Jurnal Penelitian Sosial dan Politik",
+      "projects": [
+        "xxx"
+      ],
+      "funders": [
+        "xxx"
+      ],
+      "referencetext": "Efriza. 2012. Polical Explore Sebuah Kajian\r\nIlmu Politik.Alpabeta: Bandung\r\nFirmanzah. 2007. Marketing Politik Antara\r\nPemahaman dan Realitas. Yayasan Obor\r\nIndonesia.Jakarta.\r\nHusein, Harun. 2014. Pemilu Indonesia,\r\nFakta, Angka, Analisis dan Studi\r\nBanding .Perluden. Jakarta.\r\nNajib, Muhammad ,2019. Jalan Demokrasi\r\n.Republika.Jakarta.\r\nPerdana, Aditya DKK. 2019. Tata Kelola\r\nPemilu di Indonesia. Komisi Pemilihan\r\nUmum. Jakarta.\r\nSigoyono.2013. Metode Penelitian\r\nKombinasi . Alpabeta: Bandung\r\nAmir Samsuadi dkk, 2019. Menjadi Bijak\r\nBagi Pemilih Pemula Berdasarkan\r\nInformasi dari Media Sosial di\r\nKabupaten Kpulauan Meranti. Jurnal\r\npengabdian masyarakat Multi Disiplin.\r\nAccessed at 09.00 WIB.\r\nDebora Sanur, 2019. Hasil Survei\r\nElektabilitas dan Swings Voter dalam\r\nPilpres 2019. Ejournal. Accessed on 4\r\nFebruary 2020, at 12.00 WIB\r\nFajar, Muhammad (2019).Swing Voters dan\r\nCognitive Dissonance Theory: Prabowo\r\nMenang? Jurnalislam.com. 08 April\r\n2019. Jakarta. Accessed on 10\/03\/2020,\r\nat 11.30 WIB\r\nSusi Dian Rahayu.2013.Analisis Fenomena\r\nSwing Voters pada Pemilu Reformasi di\r\nKabupaten Rembang .e-journal. Volume 2 nomor 1. Accessed on 10\/03\/2020, 10.20 WIB\r\nHafi,Muhammad.2018.Swing Voter\r\nDiharapkan Tidak Golput Pada Pemilu\r\n2019. Republika.co.id. Jakarta. 15\r\nOktober 2018. Accessed on 10\/03\/2020,\r\nat 09.05 WIB\r\nHusein,Harun. 2014. Menjaring Swing\r\nVoter Lewat Debat Capres.\r\nRepublika.co.id. Jakarta. 30 Juni 2014.\r\nAccessed on 10\/03\/2020, 11.10 WIB\r\nKPU.go.id. Pemilu 2009. Accessed January\r\n19, 2019 at 09.15 WIB\r\nKPU.go.id. Pemilu 2004.\r\nKarina, Jessie, 2019. Sebulan jelang pemilu\r\nini elektabilitas Jokowi-Yusuf kalla dan\r\nPrabowo- Sandiaga Uno menurut 3\r\nlembaga survey. Kompas Com.\r\nhttps:\/\/nasional.kompas.com\/read\/2019\/0\r\n3\/20\/11480371\/sebulan-jelang-pemiluini-elektabilitas-jokowi-maruf-danprabowo-sandi?page=all. Accessed on 5\r\nFebruary 2021, 10.00 WIB\r\nPrabowo,Dani 2014.Disahkan KPU ini hasil\r\nperolehan suara pemilu tahun 2014.\r\nDapat diakes pada https:\/\/\r\nnasional.kompas.com\/\r\nread\/2014\/05\/09\/2357075\/Disahkan.KP\r\nU.Ini.Perolehan.Suara.Pemilu.Legislatif.\r\n2014. Accessed on 4 February 2014 at\r\n13.00 WIB\r\nRiskinaswara,Leski. 2019.Swing Voters\r\ndalam Dinamika Demokrasi Indonesia di\r\nEra\r\nDigitalhttps:\/\/aptika.kominfo.go.id\/2019\/\r\n03\/swing-voters-dalam-dinamikademokrasi-indonesia-di-era-digital\/.24\r\nMaret 2019. Accessed April 15, 2020,\r\n20:20 WIB\r\nRepublika.co.id.\r\nhttps:\/\/www.republika.co.id\/berita\/nasio\r\nnal\/politik\/18\/10\/15\/pgnfk9430-swingvoters-diharapkan-tidak-golput-padapemilu-2019\r\nSamsul.. Ashar, 2019. Inilah partai politik\r\nperaih lonjakan suara di pemilu\r\n2019.https:\/\/nasional.kontan.co.id\/news\/i\r\nnilah-partai-politik-peraih-lonjakansuara-di-pemilu-2019. Accessed on\r\nSeptember 18, 2019\r\nUndang-Undang 2 Tahun 2011 tentang\r\nperubahan atas Undang-Undang No 2\r\nTahun 2008 tentang partai politik",
+      "keywords": "xxxx",
+      "metadata_visibility": "show",
+      "id_number": "https:\/\/doi.org\/10.32663\/jpsp.v11i2.2360",
+      "related_url": [
+        {
+          "url": "https:\/\/journals.unihaz.ac.id\/index.php\/mimbar\/article\/view\/2360"
+        }
+      ],
+      "title": "POLITICAL PARTIES AND SWING VOTERS IN THE 2014 AND 2019 ELECTIONS IN INDONESIA",
+      "divisions": [
+        "FISIP6"
+      ],
+      "dir": "disk0_bak\/00\/04\/79\/96",
+      "publisher": "UNIHAZ",
+      "creators": [
+        {
+          "id": "maulikurniacahyani@gmail.com",
+          "name": {
+            "given": "Mauli Kurnia",
+            "family": "Cahyani",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "arizka.warganegara@fisip.unila.ac.id",
+          "name": {
+            "given": "Arizka",
+            "family": "Warganegara",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "anna_tabah@yahoo.com",
+          "name": {
+            "family": "Maryanah",
+            "given": "Tabah",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "number": 2,
+      "note": "xxxx"
+    },
+    {
+      "userid": 572,
+      "status_changed": "2020-05-30 06:40:43",
+      "publication": "Jurnal Administrasi Negara Sawala",
+      "date": "2019-06-30",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/197104",
+                  "fileid": 197104,
+                  "filesize": 858640,
+                  "mtime": "2020-05-30 06:17:28",
+                  "hash": "02f9855bf333dbf1f120665da6bb2982",
+                  "datasetid": "document",
+                  "objectid": 34538,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Jurnal Sawala 2019 Dedy, Yulianto dan Alamsyah.pdf"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 21156,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34538",
+            "main": "Jurnal Sawala 2019 Dedy, Yulianto dan Alamsyah.pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 34538
+          },
+          {
+            "docid": 34539,
+            "mime_type": "text\/html",
+            "security": "public",
+            "placement": 2,
+            "format": "text",
+            "main": "index.html",
+            "language": "en",
+            "eprintid": 21156,
+            "pos": 2,
+            "files": [
+                {
+                  "filesize": 21475,
+                  "fileid": 197112,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/197112",
+                  "mtime": "2020-05-30 06:19:24",
+                  "hash": "0d9363caa68f0efb2179d69b058af555",
+                  "objectid": 34539,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "index.html",
+                  "mime_type": "text\/html"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34539",
+            "rev_number": 2
+          }
+      ],
+      "pagerange": "48-66",
+      "subjects": [
+        "JC"
+      ],
+      "metadata_visibility": "show",
+      "title": "Determinan Indeks Pembangunan Manusia Di Kabupaten Lampung Tengah, Provinsi Lampung, Indonesia",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21156",
+      "issn": "ISSN : 2598-4039 (Online) ISSN : 2302-2231 (Print)",
+      "volume": 7,
+      "divisions": [
+        "FISIP2"
+      ],
+      "datestamp": "2020-05-30 06:40:43",
+      "dir": "disk0\/00\/02\/11\/56",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "United Nations has been changed Millennium Development Goals (MDGs) into Sustainable Development Goals (SDGs). This change has been strengthening human development as one of SDGs pillar beside economic development, ecology development, and institutional development. One of the global instruments to explain human development is the Human Development Index (HDI). Today, one of academic debate surrounding the HDI is what is the determinant of HDI. Based on secondary data in Central Lampung District, Lampung Province, Indonesia, this paper attempt to examine the relationship between independent variables (RLS, HLS, AHH, and PKP) and IPM as the dependent variable. The result shows that RLS, HLS, AHH, and PKP have a positive relationship with IPM. However, each variable has a different effect on IPM. We find that RLS and HLS is the most significant contributor for the IPM. We discuss the theoretical and practical implication this finding in the context of Lampung Province and Central Lampung District.",
+      "date_type": "published",
+      "rev_number": 8,
+      "official_url": "https:\/\/e-jurnal.lppmunsera.org\/index.php\/Sawala\/issue\/view\/158",
+      "publisher": "Prodi Administrasi Negara FISIP Universitas Serang Raya",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "dedy.hermawan@fisip.unila.ac.id",
+          "name": {
+            "family": "Dedy Hermawan",
+            "given": "Dedy",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Yulianto",
+            "family": "Yulianto",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "yulianto@fisip.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Alamsyah",
+            "given": "Alamsyah"
+          },
+          "id": "gezalian@gmail.com"
+        }
+      ],
+      "eprintid": 21156,
+      "lastmod": "2020-05-30 06:40:43",
+      "number": 1,
+      "refereed": "TRUE"
+    },
+    {
+      "issn": "2622-3740",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47692",
+      "type": "article",
+      "volume": 5,
+      "subjects": [
+        "JC"
+      ],
+      "pagerange": "1002-1009",
+      "title": "Pemikiran Politik Thomas Hobbes dalam Serial Drama Squid Game",
+      "metadata_visibility": "show",
+      "id_number": "DOI: https:\/\/doi.org\/10.34007\/jehss.v5i2.1349",
+      "date": "2022-11",
+      "publication": "Journal of Education, Humaniora and Social Sciences (JEHSS)",
+      "documents": [
+          {
+            "language": "en",
+            "main": "Pemikiran Politik-JEHSS-Nov_2022.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186785",
+            "rev_number": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522381",
+                  "filesize": 381105,
+                  "fileid": 522381,
+                  "hash": "2d0491bd62fa57c6f8327c52863d63dd",
+                  "mtime": "2023-01-10 11:29:26",
+                  "datasetid": "document",
+                  "objectid": 186785,
+                  "mime_type": "application\/pdf",
+                  "filename": "Pemikiran Politik-JEHSS-Nov_2022.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "eprintid": 47692,
+            "pos": 1,
+            "mime_type": "application\/pdf",
+            "docid": 186785,
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "status_changed": "2023-01-11 01:58:42",
+      "userid": 813,
+      "creators": [
+        {
+          "name": {
+            "family": "Elyta",
+            "given": "Elyta",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "elytahadisusilo@gmail.com"
+        },
+        {
+          "name": {
+            "family": "Hertanto",
+            "given": "Hertanto",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "hertanto.1960@fisip.unila.ac.id"
+        }
+      ],
+      "official_url": "https:\/\/mahesainstitute.web.id\/ojs2\/index.php\/jehss\/article\/view\/1349",
+      "rev_number": 6,
+      "publisher": "Mahesa Research Center",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 2,
+      "eprintid": 47692,
+      "lastmod": "2023-01-11 01:58:42",
+      "date_type": "published",
+      "ispublished": "pub",
+      "abstract": "In 2021, South Korea will make the Squid Game drama series with the mystery horror genre. The research will look at the political thinking of Thomas Hobbes in this series with the aim of analyzing the form of natural consciousness, social contract in the form of the State which is broadcast through storylines, dialogues and descriptions of the situation in the Korean drama series Squid Game. This article is a literature study on the state of nature, social contract and the concept of the state from Thomas Hobbes' political thought through the drama series Squid Game produced from South Korea. His opinion of the state is scary, cruel, and obeyed like Leviathan to make the disorderly state of human nature controllable. Human nature is homo homini lupus or humans are wolves to each other. The social contract according to Thomas Hobbes is an agreement between the people and the state, but the state is not bound by the social contract. The state\/king position is above the social contract, the state has absolute authority or is called the king, it cannot be wrong. This study concludes that in the Korean drama series Squad Game, there is a thought by Thomas Hobbes which states the importance of absolute state power to create perfection. Peace can be obtained by presenting fear to the individual through the State, conflict will be avoided, society will be subject to the law with fear that is continuously maintained by the State.",
+      "eprint_status": "archive",
+      "dir": "disk0_bak\/00\/04\/76\/92",
+      "datestamp": "2023-01-11 01:58:42",
+      "divisions": [
+        "FISIP6"
+      ]
+    },
+    {
+      "date_type": "published",
+      "lastmod": "2019-11-04 07:37:30",
+      "eprintid": 14916,
+      "number": 2,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "official_url": "https:\/\/journal.unnes.ac.id\/nju\/index.php\/jpi\/article\/view\/19122\/9441",
+      "publisher": "Universitas Negeri Semarang",
+      "rev_number": 6,
+      "creators": [
+        {
+          "id": "hermawan.dedy@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hermawan",
+            "given": "Dedy"
+          }
+        },
+        {
+          "name": {
+            "given": "Robi",
+            "family": "Cahyadi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "robi_ck@yahoo.com"
+        }
+      ],
+      "divisions": [
+        "FISIP2"
+      ],
+      "dir": "disk0\/00\/01\/49\/16",
+      "datestamp": "2019-11-04 07:37:30",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Distributive politics is part of the concept of patronage or clientelism, term of clientelism commonly referred to in some scientific literature. Research on distributive politics in the context of local politics, especially in the election of regional heads is still rare. Previous studies are still conducted within the national scope, such as presidential and legislative elections. This research tries to answer the question of how the process of distributive politics and manipulative policies runs in the local context of Bandar Lampung Local Election in 2015.The study was conducted in Bandar Lampung City in September 2016 until January 2017. This research used qualitative method through in-depth interview approach to informants related to the research. The informant consisted of several political actors, Herman HN's successful team and academics. The result of this research indicates that politics of distributive among voters occurs in the selection of Bandar Lampung Mayor. There is a symbiotic mutualism between candidate and the voters in Bandar Lampung Local Election. Voters can be influenced by the choice of imaging of candidate, through the concept of distributive politics or pork barrels politics or provide necessary needs for the voting community with infrastructure policy; roads and bridges, free education, free health and religious social assistance. Other results indicate that the manipulative policies carried out by candidate make voters lulled to absurd performance that ends in the Bandar Lampung City budget crisis after the policy is rolled out.",
+      "metadata_visibility": "show",
+      "title": "Hasil scan similarity artikel \"Distributive Politics and Manipulative Policy in Local Election\"",
+      "subjects": [
+        "JC"
+      ],
+      "pagerange": "180-190",
+      "volume": 4,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14916",
+      "type": "article",
+      "issn": "2477-8060, 2503-4456",
+      "userid": 659,
+      "status_changed": "2019-11-04 07:37:30",
+      "documents": [
+          {
+            "pos": 1,
+            "eprintid": 14916,
+            "files": [
+                {
+                  "mtime": "2019-11-01 05:41:21",
+                  "hash": "01651f98ede515b101cbd31fbcd48a90",
+                  "filesize": 2978994,
+                  "fileid": 128682,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/128682",
+                  "hash_type": "MD5",
+                  "filename": "Jurnal_Indonesia_Political_Science.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 28036,
+                  "datasetid": "document"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28036",
+            "main": "Jurnal_Indonesia_Political_Science.pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 28036,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publication": "Politik Indonesia: Indonesian Political Science Review",
+      "date": "2019-07-25"
+    },
+    {
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "datestamp": "2022-09-05 09:59:20",
+      "dir": "disk0\/00\/04\/47\/49",
+      "divisions": [
+        "FISIP3"
+      ],
+      "creators": [
+        {
+          "id": "hertanto.1960@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hertanto",
+            "given": "Hertanto"
+          }
+        }
+      ],
+      "publisher": "Journal of Governance and Political Social",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "lastmod": "2022-09-05 09:59:20",
+      "eprintid": 44749,
+      "date": 2022,
+      "documents": [
+          {
+            "main": "Candidates & Popular Issues in 2020, UMA 2021.pdf.pdf",
+            "language": "en",
+            "eprintid": 44749,
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "Candidates & Popular Issues in 2020, UMA 2021.pdf.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 166628,
+                  "hash": "3da257ab2f7e4910b56e71ffd4d785d7",
+                  "mtime": "2022-09-05 06:25:53",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/483218",
+                  "filesize": 437758,
+                  "fileid": 483218
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166628",
+            "docid": 166628,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "format": "text"
+          }
+      ],
+      "status_changed": "2022-09-05 09:59:20",
+      "userid": 813,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44749",
+      "type": "other",
+      "subjects": [
+        "JA",
+        "JC"
+      ],
+      "title": "Similirity : Candidates and Popular Issues in the 2020 Regional Head Election among Netizens in Bandar Lampung",
+      "metadata_visibility": "show"
+    },
+    {
+      "lastmod": "2022-09-05 09:59:40",
+      "eprintid": 44754,
+      "publisher": "Universitas Negeri Jakarta dan Mahkamah Konstitusi",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hertanto",
+            "given": "Hertanto"
+          },
+          "id": "hertanto.1960@fisip.unila.ac.id"
+        }
+      ],
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/47\/54",
+      "datestamp": "2022-09-05 09:59:40",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44754",
+      "type": "other",
+      "metadata_visibility": "show",
+      "title": "Similirity : PEMILUKADA LAMPUNG PASCA-ORDE BARU:\r\nPERSAINGAN PARPOL, KONFLIK ELIT, DAN PERILAKU PEMILIH",
+      "subjects": [
+        "JA",
+        "JC",
+        "JF"
+      ],
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 166634,
+            "mime_type": "application\/pdf",
+            "pos": 1,
+            "eprintid": 44754,
+            "files": [
+                {
+                  "hash": "4cb857feb09c0776d66686b2f464a880",
+                  "mtime": "2022-09-05 06:31:27",
+                  "filesize": 460734,
+                  "fileid": 483251,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/483251",
+                  "filename": "HERTANTO, Pilkada Lampung Pasca Orba1.doc.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 166634,
+                  "datasetid": "document"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166634",
+            "rev_number": 1,
+            "main": "HERTANTO, Pilkada Lampung Pasca Orba1.doc.pdf",
+            "language": "en"
+          }
+      ],
+      "date": 2011,
+      "userid": 813,
+      "status_changed": "2022-09-05 09:59:40"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44771",
+      "type": "other",
+      "metadata_visibility": "show",
+      "title": "Similirity : PETA KEKUATAN POLITIK PARTAIPARTAI ISLAM:\r\nPERSAINGAN DAN KOALISI DALAM PEMILU DI LAMPUNG",
+      "subjects": [
+        "JC"
+      ],
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 166659,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "main": "PETA PARPOL ISLAM_JID_Unand_2014.pdf.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166659",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mtime": "2022-09-05 07:11:04",
+                  "hash": "9bf7610d08b41470c8506fe031750009",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/483389",
+                  "fileid": 483389,
+                  "filesize": 679065,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "PETA PARPOL ISLAM_JID_Unand_2014.pdf.pdf",
+                  "datasetid": "document",
+                  "objectid": 166659
+                }
+            ],
+            "pos": 1,
+            "eprintid": 44771
+          }
+      ],
+      "date": 2014,
+      "userid": 813,
+      "status_changed": "2022-09-05 10:00:13",
+      "lastmod": "2022-09-05 10:00:13",
+      "eprintid": 44771,
+      "full_text_status": "public",
+      "publisher": "Universitas Andalas",
+      "rev_number": 9,
+      "creators": [
+        {
+          "id": "hertanto.1960@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Hertanto",
+            "family": "Hertanto"
+          }
+        }
+      ],
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "divisions": [
+        "FISIP3"
+      ],
+      "datestamp": "2022-09-05 10:00:13",
+      "dir": "disk0\/00\/04\/47\/71"
+    },
+    {
+      "date": 2021,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 166642,
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "National_Insight_JGCS_V5N2_10_21.pdf.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "filename": "National_Insight_JGCS_V5N2_10_21.pdf.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 166642,
+                  "datasetid": "document",
+                  "mtime": "2022-09-05 06:47:54",
+                  "hash": "418b5b39904ff0975488918608171584",
+                  "fileid": 483305,
+                  "filesize": 2132033,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/483305"
+                }
+            ],
+            "eprintid": 44760,
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166642"
+          }
+      ],
+      "userid": 813,
+      "status_changed": "2022-09-05 09:59:54",
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44760",
+      "subjects": [
+        "JA",
+        "JC"
+      ],
+      "metadata_visibility": "show",
+      "title": "Similirity : National Insights and Youth Political Attitudes in Rural Lampung\r\nAgainst Negative Campaign",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "divisions": [
+        "FISIP3"
+      ],
+      "dir": "disk0\/00\/04\/47\/60",
+      "datestamp": "2022-09-05 09:59:54",
+      "full_text_status": "public",
+      "publisher": "Universitas Muhammadiyah Tangerang",
+      "rev_number": 8,
+      "creators": [
+        {
+          "name": {
+            "family": "Hertanto",
+            "given": "Hertanto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "hertanto.1960@fisip.unila.ac.id"
+        },
+        {
+          "id": "handi.mulyaningsih@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Handi",
+            "family": "Handi Mulyaningsih"
+          }
+        }
+      ],
+      "lastmod": "2022-09-05 09:59:54",
+      "eprintid": 44760
+    },
+    {
+      "date": 2020,
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166631",
+            "pos": 1,
+            "eprintid": 44752,
+            "files": [
+                {
+                  "filename": "HAK PILIH NARAPIDANA_JURSOS_20.pdf.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 166631,
+                  "datasetid": "document",
+                  "hash": "8eef467e369080204640f18f60dd1bc9",
+                  "mtime": "2022-09-05 06:29:17",
+                  "fileid": 483233,
+                  "filesize": 278657,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/483233"
+                }
+            ],
+            "language": "en",
+            "main": "HAK PILIH NARAPIDANA_JURSOS_20.pdf.pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "docid": 166631,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "status_changed": "2022-09-05 09:59:25",
+      "userid": 813,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44752",
+      "type": "other",
+      "subjects": [
+        "JA",
+        "JC"
+      ],
+      "title": "Similirity : PEMENUHAN HAK  PILIH NARAPIDANA \r\nPADA PEMILIHAN GUBERNUR DAN WAKIL GUBERNUR LAMPUNG",
+      "metadata_visibility": "show",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/04\/47\/52",
+      "datestamp": "2022-09-05 09:59:25",
+      "divisions": [
+        "FISIP6"
+      ],
+      "creators": [
+        {
+          "name": {
+            "family": "Hertanto",
+            "given": "Hertanto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "hertanto.1960@fisip.unila.ac.id"
+        },
+        {
+          "id": "handi.mulyaningsih@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Handi",
+            "family": "Handi Mulyaningsih"
+          }
+        }
+      ],
+      "rev_number": 8,
+      "publisher": "Universitas Lampung",
+      "full_text_status": "public",
+      "lastmod": "2022-09-05 09:59:25",
+      "eprintid": 44752
+    },
+    {
+      "ispublished": "pub",
+      "abstract": "Do religious parties have an electoral advantage in winning the election easily compared to secular parties? I argue that religious parties have some electoral advantages from having religious voters as their primary supporters. However, they must have some strategies to attract median voters or other social classes outside their traditional base to win the election. They must also make a \"holy\" effort to maintain their morality as their religious and moral guardian in government, which is difficult in democratic politics. This essay also argues that Indonesia is an outlier in the winning trend of Islamic parties in religious societies across the globe, but further studies are needed because there is a new critical juncture. The rest of this essay will support my argument with some evidence from several countries.",
+      "eprint_status": "archive",
+      "datestamp": "2022-10-07 01:41:30",
+      "dir": "disk0\/00\/04\/55\/81",
+      "divisions": [
+        "FISIP3"
+      ],
+      "creators": [
+        {
+          "id": "budi.kurniawan@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Budi",
+            "family": "Kurniawan"
+          }
+        }
+      ],
+      "rev_number": 7,
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "lastmod": "2022-10-07 01:41:30",
+      "eprintid": 45581,
+      "date": 2022,
+      "publication": "Journal of Politics and Identity",
+      "documents": [
+          {
+            "main": "Do religius get bennefit .pdf",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 45581,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/505928",
+                  "fileid": 505928,
+                  "filesize": 166197,
+                  "hash": "5b0f73ccfac6b6de4670fcb7cba87f6a",
+                  "mtime": "2022-10-06 16:43:36",
+                  "datasetid": "document",
+                  "objectid": 184361,
+                  "mime_type": "application\/pdf",
+                  "filename": "Do religius get bennefit .pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184361",
+            "rev_number": 1,
+            "docid": 184361,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "format": "text"
+          }
+      ],
+      "status_changed": "2022-10-07 01:41:30",
+      "userid": 284,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45581",
+      "subjects": [
+        "JA",
+        "JC"
+      ],
+      "title": "Do religious parties inevitably have political\/electoral advantages in religious societies?",
+      "metadata_visibility": "show"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47283",
+      "type": "article",
+      "metadata_visibility": "show",
+      "title": "Faktor Ekonomi yang Mempengaruhi Demokrasi dan Demokratisasi",
+      "subjects": [
+        "JC"
+      ],
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186268",
+            "eprintid": 47283,
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "Economic Factors Influencing Democracy and Dictatorship id (1).pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 186268,
+                  "hash": "279fd2ebdc405b2dfe8ff875569ff46e",
+                  "mtime": "2022-12-16 01:29:10",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/518911",
+                  "fileid": 518911,
+                  "filesize": 127439
+                }
+            ],
+            "language": "en",
+            "main": "Economic Factors Influencing Democracy and Dictatorship id (1).pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 186268,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publication": "Journal Indonesian Democracy",
+      "date": 2022,
+      "userid": 284,
+      "status_changed": "2022-12-16 01:45:30",
+      "lastmod": "2022-12-16 01:45:30",
+      "eprintid": 47283,
+      "refereed": "FALSE",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Kurniawan",
+            "given": "Budi"
+          },
+          "id": "budi.kurniawan@fisip.unila.ac.id"
+        }
+      ],
+      "eprint_status": "archive",
+      "abstract": "Apa dampak faktor-faktor ekonomi seperti sumber daya alam, bantuan luar negeri, dan ketidaksetaraan terhadap demokrasi? Mengapa beberapa negara kaya terus menjadi otoriter? Makalah ini menantang teori modernisasi, yang berpendapat bahwa peningkatan kesejahteraan dapat memfasilitasi demokrasi dan demokratisasi. Saya berpendapat bahwa pembangunan ekonomi tidak dapat memfasilitasi demokrasi dan demokratisasi. Namun, kemajuan dalam pembangunan ekonomi akan bertahan bagi suatu negara untuk tetap demokratis daripada memfasilitasi demokratisasi dari otoriter. Sumber daya alam dan bantuan asing menghambat demokrasi karena otonomi negara dari masyarakat.\r\n\r\n\r\nMakalah ini dibagi menjadi beberapa bagian berikut ini. Pertama, saya mengevaluasi teori modernisasi. Pada bagian ini, saya memberikan beberapa penjelasan mengapa beberapa negara berpenghasilan tinggi tetap otoriter, dan mengapa bantuan asing menghambat demokrasi. Pada bagian kedua, saya menganalisis kelangsungan hidup demokrasi untuk mendukung argumen saya mengapa pembangunan ekonomi\/kesejahteraan dapat mempertahankan demokrasi. Pada bagian ketiga, saya menganalisis isu ketimpangan dan demokrasi. Pada bagian ini saya berargumen bahwa ketidaksetaraan menghambat demokrasi jika jenis ketidaksetaraan yang dimaksud adalah kepemilikan tanah, bukan ketidaksetaraan pendapatan.",
+      "ispublished": "unpub",
+      "divisions": [
+        "FISIP3"
+      ],
+      "datestamp": "2022-12-16 01:45:30",
+      "dir": "disk0\/00\/04\/72\/83"
+    },
+    {
+      "full_text_status": "public",
+      "rev_number": 7,
+      "creators": [
+        {
+          "id": "budi.kurniawan@fisip.unila.ac.id",
+          "name": {
+            "given": "Budi",
+            "family": "Kurniawan",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "lastmod": "2020-05-30 20:00:04",
+      "eprintid": 21207,
+      "refereed": "FALSE",
+      "divisions": [
+        "FISIP3"
+      ],
+      "dir": "disk0\/00\/02\/12\/07",
+      "datestamp": "2020-05-30 20:00:04",
+      "eprint_status": "archive",
+      "ispublished": "unpub",
+      "abstract": "For the long decades, the Malthus idea of food supply became immensely popular when\r\nwe talk about the food security and famines. Malthus argues that the food security and\r\nfamines are caused by the lack of food supply. The growth of population creates more\r\nfood demand; on the other hand, the food supply is limited. The land for agriculture is\r\ndecreased, as an impact of rapid growth population (Malthus, 1789). The Malthusian\r\ntradition emphasizes the drivers of demand. On this perspective, trend in population is\r\nthe crucial factor of the increase of food demand (Godfray, et. al. 2010, p. 2770-2772).\r\nIn addition, based on this point of view, the policy instrument proposed is related to the\r\ncontrol of the population such as female education and promoting easy access to\r\ncontraception. Furthermore, they also argue that the problem of food also is caused by\r\nthe supply side. The decrease of crop yield is the significant factor of the decreases of\r\nfood supply.",
+      "subjects": [
+        "HB",
+        "JC"
+      ],
+      "metadata_visibility": "show",
+      "title": "Food Security and Entitlement: A Critical Analyses",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21207",
+      "userid": 284,
+      "status_changed": "2020-05-30 20:00:04",
+      "publication": "Survey of Critical Concept",
+      "documents": [
+          {
+            "main": "Food-Security-and-Entitlement-A-Critical-Analyses-.pdf",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 21207,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/197452",
+                  "filesize": 107442,
+                  "fileid": 197452,
+                  "mtime": "2020-05-30 14:24:19",
+                  "hash": "19edd52b900e9332c7513f7c570123a9",
+                  "datasetid": "document",
+                  "objectid": 34594,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Food-Security-and-Entitlement-A-Critical-Analyses-.pdf"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34594",
+            "docid": 34594,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "format": "text"
+          }
+      ]
+    },
+    {
+      "date": "2011-12-07",
+      "publication": "The Jakarta Post",
+      "documents": [
+          {
+            "language": "en",
+            "main": "indonesia-needs-powerful-kpk.html",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34572",
+            "rev_number": 3,
+            "eprintid": 21189,
+            "pos": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "filename": "indonesia-needs-powerful-kpk.html",
+                  "mime_type": "text\/html",
+                  "objectid": 34572,
+                  "datasetid": "document",
+                  "mtime": "2020-05-30 13:27:59",
+                  "hash": "4b6367b0c26fe119cbbca295d09da51c",
+                  "fileid": 197332,
+                  "filesize": 74148,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/197332"
+                }
+            ],
+            "docid": 34572,
+            "mime_type": "text\/html",
+            "format": "text",
+            "content": "published",
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "status_changed": "2020-05-30 19:58:14",
+      "userid": 284,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21189",
+      "subjects": [
+        "JC",
+        "JF",
+        "JQ"
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/www.thejakartapost.com\/news\/2011\/12\/07\/indonesia-needs-powerful-kpk.html"
+        }
+      ],
+      "title": "Indonesia needs powerful KPK",
+      "metadata_visibility": "show",
+      "ispublished": "pub",
+      "abstract": "In his article that appeared in the Nov. 28, 2011 edition of The Jakarta Post, House of Representatives member Fahri Hamzah argues that the Corruption Eradication Commission (KPK) is a very powerful institution in a democratic regime.\r\n\r\nHe further emphasizes that there should be no strong institution or superbody in democratic countries.\r\n\r\nHowever, there is a fallacy in Hamzah’s point of view. The main point is the way Hamzah thinks about democratic regimes. Could democratic countries form strong institutions like the KPK?",
+      "eprint_status": "archive",
+      "datestamp": "2020-05-30 19:58:14",
+      "dir": "disk0\/00\/02\/11\/89",
+      "divisions": [
+        "FISIP3"
+      ],
+      "creators": [
+        {
+          "name": {
+            "family": "Kurniawan",
+            "given": "Budi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "budi.kurniawan@fisip.unila.ac.id"
+        }
+      ],
+      "full_text_status": "public",
+      "rev_number": 10,
+      "refereed": "FALSE",
+      "lastmod": "2020-05-30 19:58:14",
+      "eprintid": 21189,
+      "date_type": "published"
+    },
+    {
+      "userid": 284,
+      "status_changed": "2020-05-31 06:26:27",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 34648,
+            "content": "presentation",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "Kampus_Indonesia_dan_Korupsi.pdf",
+            "language": "id",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Kampus_Indonesia_dan_Korupsi.pdf",
+                  "datasetid": "document",
+                  "objectid": 34648,
+                  "mtime": "2020-05-31 05:01:32",
+                  "hash": "830427d7da2bdb4ba53a43e7d93e14c2",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/197816",
+                  "fileid": 197816,
+                  "filesize": 67259
+                }
+            ],
+            "eprintid": 21257,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34648",
+            "rev_number": 3
+          }
+      ],
+      "date": "2020-05",
+      "metadata_visibility": "show",
+      "pedagogic_type": "presentation",
+      "title": "Kampus Indonesia dan Korupsi",
+      "subjects": [
+        "JA",
+        "JC"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21257",
+      "type": "teaching_resource",
+      "skill_areas": [
+        "Political Economy of Development"
+      ],
+      "divisions": [
+        "FISIP3"
+      ],
+      "datestamp": "2020-05-31 06:26:27",
+      "dir": "disk0\/00\/02\/12\/57",
+      "eprint_status": "archive",
+      "ispublished": "unpub",
+      "abstract": "Sumber daya alam yang selama ini jadi penopang ekonomi membuat warga negaranya cendrung\r\ntidak kritis terhadap prilaku korupsi. Kaya dengan sumber daya alam berarti anggaran dari publik\r\nmayoritas berasal dari sektor itu dan minim dari pajak. Akibatnya adalah masyarakat tidak punya\r\nkeingginan untuk berpartisipasi dalam melakukan kontrol terhadap anggaran karena mereka\r\ntidak merasa \"diganggu\". Namun hal yang berbeda terjadi jika anggaran publik berasal dari\r\npajak, mereka merasa uang mereka diambil atas nama kepentingan umum, oleh sebab itu rasa\r\nmemiliki atas anggran publik besar. Partisipasi untuk mengontrol anggaran publik pun\r\nmeningkat. Partisipasi mengontrol anggaran tinggi, korupsipun minim, akibatnya adalah\r\npembangunan jalan dan ekonomipun menjadi maju.",
+      "copyright_holders": [
+        "Kurniawan, Budi"
+      ],
+      "eprintid": 21257,
+      "lastmod": "2020-05-31 06:26:27",
+      "full_text_status": "public",
+      "rev_number": 10,
+      "creators": [
+        {
+          "name": {
+            "given": "Budi",
+            "family": "Kurniawan",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "budi.kurniawan@fisip.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "title": "PERGESERAN PARADIGMA DAN JEBAKAN PENDEKATAN OLD-INSTITUTIONALISM DALAM STUDI POLITIK DAN PEMERINTAHAN DI UNIVERSITAS LAMPUNG",
+      "pagerange": "114-121",
+      "subjects": [
+        "JC"
+      ],
+      "volume": 5,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21229",
+      "userid": 284,
+      "status_changed": "2020-05-31 02:18:41",
+      "documents": [
+          {
+            "language": "en",
+            "main": "PERGESERAN_PARADIGMA_DAN_JEBAKAN_PENDEKA.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34626",
+            "files": [
+                {
+                  "objectid": 34626,
+                  "datasetid": "document",
+                  "filename": "PERGESERAN_PARADIGMA_DAN_JEBAKAN_PENDEKA.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 197660,
+                  "filesize": 394729,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/197660",
+                  "hash": "d825d1d3a49f4ff751bc2d70d85f7ffe",
+                  "mtime": "2020-05-31 01:52:37"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 21229,
+            "mime_type": "application\/pdf",
+            "docid": 34626,
+            "format": "text",
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publication": "Jurnal Ilmiah Administrasi Publik dan Pembangunan",
+      "date": 2014,
+      "date_type": "published",
+      "lastmod": "2020-05-31 02:18:41",
+      "eprintid": 21229,
+      "refereed": "FALSE",
+      "number": 2,
+      "full_text_status": "public",
+      "rev_number": 10,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Budi",
+            "family": "Kurniawan"
+          },
+          "id": "budi.kurniawan@fisip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FISIP3"
+      ],
+      "datestamp": "2020-05-31 02:18:41",
+      "dir": "disk0\/00\/02\/12\/29",
+      "eprint_status": "archive",
+      "abstract": "The main purpose of this research is to identify the position of political studies in the Department of Government, the University of Lampung (Unila) in the middle of trend and the paradigm shifts in political science. The methodology used is qualitative research with content (simple quantitative data) and discourse analyses. The primary data are 80 undergraduate students' theses that are collected randomly. This research concludes that there is a fallacy in the meaning of politics among students perception. The politics means\r\nthe study of political party, voting behaviour and election. In contrast,according to the students' point if views, the study of government is the study of state institutions with the old-institutionalism approach.",
+      "ispublished": "pub"
+    },
+    {
+      "monograph_type": "project_report",
+      "type": "monograph",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22075",
+      "title": "Pengaruh Publikasi Hasil Survey Politik\r\nTerhadap Prilaku Memilih",
+      "metadata_visibility": "show",
+      "subjects": [
+        "JC"
+      ],
+      "documents": [
+          {
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35472",
+            "pos": 1,
+            "eprintid": 22075,
+            "files": [
+                {
+                  "objectid": 35472,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "Pengaruh Publikasi Hasil Survey.pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 286669,
+                  "fileid": 203435,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/203435",
+                  "mtime": "2020-05-30 14:38:49",
+                  "hash": "bc50596892c9ea093d8d1cce61928f13"
+                }
+            ],
+            "language": "id",
+            "main": "Pengaruh Publikasi Hasil Survey.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 35472,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "date": 2009,
+      "place_of_pub": "Bandar Lampung",
+      "status_changed": "2020-06-08 05:36:38",
+      "userid": 284,
+      "succeeds": 21209,
+      "eprintid": 22075,
+      "lastmod": "2020-06-08 05:36:38",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kurniawan",
+            "given": "Budi"
+          },
+          "id": "budi.kurniawan@fisip.unila.ac.id"
+        }
+      ],
+      "full_text_status": "public",
+      "publisher": "DIPA FISIP, Jurusan Ilmu Pemerintahan, Universitas Lampung",
+      "rev_number": 4,
+      "institution": "University of Lampung",
+      "ispublished": "unpub",
+      "abstract": "This research aim is to find the impact of political survey publication to the voter\r\nbehaviour. With the quantitative survey methods, this reseach used a sample from\r\nstudents of Lampung University population. This research find that there is a sinificant\r\nbandwagon effect to the voters behaviour. Voter tend to vote the candidate that is\r\npredicted will win the ellection. There is also underdog effect but smaller than\r\nbandwagon effect.\r\nKeywords: Underdog effect, Bandwagon effect, voter behaviour",
+      "department": "Government",
+      "eprint_status": "archive",
+      "datestamp": "2020-06-08 05:36:38",
+      "dir": "disk0\/00\/02\/20\/75",
+      "divisions": [
+        "FISIP3"
+      ]
+    },
+    {
+      "subjects": [
+        "HB",
+        "JC",
+        "JF"
+      ],
+      "title": "Penjelasan Teori Institusi dan Model Prisoner Dilemma dalam Kasus Pembatasan Sosial Berskala Besar (PSBB) Covid 19 di Indonesia 2020",
+      "metadata_visibility": "show",
+      "type": "experiment",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21237",
+      "status_changed": "2020-05-31 02:58:12",
+      "userid": 284,
+      "date": "2020-05",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 34629,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "main": "PSBB.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 34629,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "PSBB.pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 164213,
+                  "fileid": 197695,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/197695",
+                  "mtime": "2020-05-31 02:45:25",
+                  "hash": "efb135cd0b74ef00f934dc5772f01276"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 21237,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34629"
+          }
+      ],
+      "creators": [
+        {
+          "id": "budi.kurniawan@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kurniawan",
+            "given": "Budi"
+          }
+        }
+      ],
+      "rev_number": 10,
+      "full_text_status": "public",
+      "lastmod": "2020-05-31 02:58:12",
+      "eprintid": 21237,
+      "dir": "disk0\/00\/02\/12\/37",
+      "datestamp": "2020-05-31 02:58:12",
+      "divisions": [
+        "FISIP3"
+      ],
+      "ispublished": "unpub",
+      "abstract": "Apakah orang Indonesia tidak disiplin ? Tingkah laku manusia itu bisa diatur dengan tegaknya aturan. Ilmuwan sosial menyebutnya institusi.",
+      "eprint_status": "archive"
+    },
+    {
+      "subjects": [
+        "JA",
+        "JC",
+        "JF",
+        "JQ",
+        "JS"
+      ],
+      "pagerange": "24-27",
+      "title": "Politik Gentong Babi",
+      "editors": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Karzi",
+            "given": "Udo Z"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22666",
+      "type": "book_section",
+      "status_changed": "2020-06-19 01:45:46",
+      "book_title": "Gotong Royong Melawan Poltik Uang",
+      "userid": 284,
+      "date": "2015-10",
+      "pages": 94,
+      "place_of_pub": "Bandar Lampung",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 36138,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 36138,
+                  "mime_type": "application\/pdf",
+                  "filename": "pol gentong babi.pdf",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/207850",
+                  "filesize": 9194624,
+                  "fileid": 207850,
+                  "hash": "03b44e5001ff783eb25c72f72cf3f41a",
+                  "mtime": "2020-06-18 13:15:52"
+                }
+            ],
+            "eprintid": 22666,
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36138",
+            "main": "pol gentong babi.pdf",
+            "language": "en"
+          }
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "budi.kurniawan@fisip.unila.ac.id",
+          "name": {
+            "given": "Budi",
+            "family": "Kurniawan",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "publisher": "Sai Wawai Publishing",
+      "full_text_status": "public",
+      "rev_number": 11,
+      "refereed": "TRUE",
+      "eprintid": 22666,
+      "lastmod": "2020-06-19 01:45:46",
+      "dir": "disk0\/00\/02\/26\/66",
+      "datestamp": "2020-06-19 01:45:46",
+      "divisions": [
+        "FISIP3"
+      ],
+      "isbn": "978-602-72378-2-7",
+      "ispublished": "pub",
+      "abstract": "Politik Gentong Babi atau pig barrel politics adalah istilah ilmu politik yang masih terasa asing untuk masyarakat Indonesia. Belum ada literatur yang serius membahas tentang hal ini di Indonesia dan khususnya Lampung. Walau masih jarang dalam kajian ilmu politik di Indonesia, politik genton babi sering kita temui dalam kehidupan sehari-hari menjelang pemilihan kepala daerah di Lampung",
+      "eprint_status": "archive"
+    },
+    {
+      "status_changed": "2019-11-07 04:37:58",
+      "book_title": "Political Economy,",
+      "userid": 680,
+      "documents": [
+          {
+            "pos": 2,
+            "eprintid": 15814,
+            "files": [
+                {
+                  "hash": "0b025935fbb486a222b58c467edfe9aa",
+                  "mtime": "2019-11-06 14:48:50",
+                  "filesize": 774233,
+                  "fileid": 135779,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/135779",
+                  "filename": "Peer Review Buku Political Economy.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 28917,
+                  "datasetid": "document"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28917",
+            "rev_number": 4,
+            "main": "Peer Review Buku Political Economy.pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "formatdesc": "ImageMagick conversion from text to application\/pdf",
+            "docid": 28917,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "subjects": [
+        "JC"
+      ],
+      "title": "Buku Political Economy; Peer Review",
+      "metadata_visibility": "show",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15814",
+      "type": "book_section",
+      "volume": 1,
+      "dir": "disk0\/00\/01\/58\/14",
+      "datestamp": "2019-11-07 04:37:58",
+      "divisions": [
+        "FISIP3"
+      ],
+      "abstract": "Peer Review",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kurniawan",
+            "given": "Budi"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Cahyadi",
+            "given": "Robi"
+          },
+          "id": "robi_ck@yahoo.com"
+        }
+      ],
+      "publisher": "Aura Publisher",
+      "rev_number": 12,
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2019-11-07 04:37:58",
+      "eprintid": 15814
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32854",
+      "type": "other",
+      "metadata_visibility": "show",
+      "related_url": [
+        {
+          "url": "http:\/\/repository.lppm.unila.ac.id\/21643\/"
+        }
+      ],
+      "title": "Penilaian Teman Sejawat: Political Economy of Development from Global to Indonesian Context A Review of Literature",
+      "subjects": [
+        "JC",
+        "JF"
+      ],
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 149700,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "main": "Dok baru 2021-06-25 11.08.12.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "hash": "396f205de0948edd913fba06601c15f8",
+                  "mtime": "2021-06-25 04:30:06",
+                  "fileid": 389020,
+                  "filesize": 650055,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/389020",
+                  "filename": "Dok baru 2021-06-25 11.08.12.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 149700,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 32854,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/149700"
+          }
+      ],
+      "userid": 284,
+      "status_changed": "2021-06-25 05:37:28",
+      "eprintid": 32854,
+      "lastmod": "2021-06-25 05:37:28",
+      "publisher": "CV. Anugrah Utama Raharja",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kurniawan",
+            "given": "Budi"
+          },
+          "id": "budi.kurniawan@fisip.unila.ac.id"
+        },
+        {
+          "id": "robi_ck@yahoo.com",
+          "name": {
+            "family": "Cahyadi",
+            "given": "Robi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "eprint_status": "archive",
+      "abstract": "Why do some governments perform well, when the others perform badly in the issue of development such as poverty, welfare, public good provision, environment, and the lack of human development? Different theories exist in the literature regarding these questions. The main aims of this book are; firstly, to discuss the debate among scholars to frame these questions. Secondly, to find novelty in this study so far in order to support this thesis argument that academia has insufficiently addressed the research question so far.",
+      "ispublished": "pub",
+      "divisions": [
+        "FISIP3"
+      ],
+      "dir": "disk0\/00\/03\/28\/54",
+      "datestamp": "2021-06-25 05:37:28"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32859",
+      "type": "other",
+      "related_url": [
+        {
+          "url": "http:\/\/repository.lppm.unila.ac.id\/30751\/"
+        }
+      ],
+      "title": "Penilaian Teman Sejawat: Dana Desa and Trust Issue (Case Studies in Desa Sumber Jaya, Pesawaran, Lampung, Indonesia). Administrativa: Jurnal Birokrasi, Kebijakan dan Pelayanan Publik, 3 (2). pp. 127-136. ISSN 2714-7673",
+      "metadata_visibility": "show",
+      "subjects": [
+        "JC"
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "main": "Dok baru 2021-06-25 11.13.28.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/149720",
+            "eprintid": 32859,
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/389069",
+                  "fileid": 389069,
+                  "filesize": 745933,
+                  "hash": "885deaf153cf3cac302c504d40310094",
+                  "mtime": "2021-06-25 04:56:29",
+                  "datasetid": "document",
+                  "objectid": 149720,
+                  "mime_type": "application\/pdf",
+                  "filename": "Dok baru 2021-06-25 11.13.28.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 149720,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "status_changed": "2021-06-25 05:37:23",
+      "userid": 284,
+      "lastmod": "2021-06-25 05:37:23",
+      "eprintid": 32859,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Budi",
+            "family": "Kurniawan"
+          },
+          "id": "budi.kurniawan@fisip.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Indrajat",
+            "given": "Himawan",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "lilih",
+            "family": "muflihah",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Hertanto",
+            "given": "Hertanto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "hertanto.1960@fisip.unila.ac.id"
+        }
+      ],
+      "publisher": "Administrativa: Jurnal Birokrasi, Kebijakan dan Pelayanan Publik, 3 (2). pp. 127-136. ISSN 2714-7673",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "abstract": "his research aims to find the impact of village fund (dana desa) programs on social capital and political participation in the Village or rural area in Indonesia. This is a case study research, located in Sumber Jaya Village (Desa Sumber Jaya), Pesawaran Regency, Lampung Province. We also used a quantitative well-informed person assessment research method, a method that assesses the issue of research by asking the stakeholders who have good information about the research topic. There were 33 research respondents who were subsequently asked through questionnaires. The results show that there is still a high tradition of gotong royong, and guyub culture in Sumber Jaya Village, however, when we asked them whether the influence of village funds on social capital and political participation, generally respondents think that there was an influence as seen by the trend of declining scores when we asked by combining the variable of village funds, together with social capital and political participation. Regarding this result, our policy recommendation for future village fund policy based on the game theory model is that government should spend more on social safety net programs or universal basic income in the form of private goods rather than infrastructure spending in the form of public goods.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/03\/28\/59",
+      "datestamp": "2021-06-25 05:37:23",
+      "divisions": [
+        "FISIP3"
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "title": "Pilkada di Era Pandemi: Tantangan Partisipasi Pemilih",
+      "subjects": [
+        "JC"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31591",
+      "type": "book_section",
+      "userid": 5926,
+      "book_title": "PILKADA DI MASA PANDEMI:  Tantangan dan Harapan Dari Beragam Perspektif",
+      "status_changed": "2021-06-02 01:06:54",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/142909",
+            "eprintid": 31591,
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "PILKADA DI MASA PANDEMI GABUNG.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 142909,
+                  "hash": "f0b033df76015731ca11deda7703e43e",
+                  "mtime": "2021-06-01 07:26:39",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/374263",
+                  "filesize": 5375164,
+                  "fileid": 374263
+                }
+            ],
+            "language": "en",
+            "main": "PILKADA DI MASA PANDEMI GABUNG.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 142909,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "lastmod": "2021-06-02 01:06:54",
+      "eprintid": 31591,
+      "refereed": "TRUE",
+      "publisher": "AURA CV. Anugrah Utama Raharja",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Selvi Diana",
+            "family": "Meilinda"
+          },
+          "id": "selvi.meilinda@fisip.unila.ac.id"
+        },
+        {
+          "id": "yulianto@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Yulianto",
+            "family": "Yulianto"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Meiliyana",
+            "given": "Meiliyana"
+          },
+          "id": "melyanwar@yahoo.com"
+        }
+      ],
+      "isbn": "978-623-211-253-7",
+      "divisions": [
+        "FISIP2"
+      ],
+      "dir": "disk0\/00\/03\/15\/91",
+      "datestamp": "2021-06-02 01:06:54",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "eprint_status": "archive",
+      "abstract": "Pemungutan suara Pilkada serentak dilaksanakan dalam\r\nkondisi pandemi pada tanggal 9 Desember 2020. Penyelenggaran ini\r\ntetap dilaksanakan dengan alasan bahwa 1) pemerintah tidak\r\nmengijinkan 270 daerah dipimpin oleh pelaksana tugas (Plt) dalam\r\nwaktu bersamaan. 2) untuk menjamin hak konstitusional rakyat\r\nuntuk memilih dan dipilih sesuai dengan agenda yang telah diatur\r\ndalam undang-undang dan atau berbagai peraturan perundangundangan.\r\n3)\r\nPilkada\r\nsudah\r\ndilakukan\r\npenundaan\r\ndari\r\nyang\r\nsemula\r\n\r\ndijadwalkan\r\npada\r\n23\r\nSeptember\r\n2020.\r\n4)\r\nhingga\r\nsaat\r\nini\r\ntidak\r\nada\r\n\r\nsatu\r\npihak\r\npun\r\nyang\r\nbisa\r\nmemastikan\r\nkapan\r\npandemi\r\nCOVID-19\r\nberakhir. 5) pertimbangan tata kelola anggaran. Dalam kondisi \r\npandemi, KPU tetap menargetkan partisipasi pemilih sebesar 77,5%.\r\nSementara itu, berdasarkan hasil survei proyeksi tingkat partisipasi\r\npemilih di Propinsi Lampung yang dilakukan pada November 2020,\r\ndiperoleh angka rata-rata 73,1%.  Hasil proyeksi ini tergolong tinggi\r\nmengingat jumlah pasien positif COVID-19 di Provinsi Lampung\r\nterus meningkat cukup signifikan setiap harinya. Untuk mewujudkan\r\nharapan tingginya partisipasi pemilih di Lampung, penyelenggara\r\nberupaya dengan berbagai strategi dan kegiatan seperti membentuk\r\nrelawan demokrasi, membuat aplikasi gerbang demokrasi dan\r\npemilih pemula, sosialisasi ke KPPS, dan roadshow serta menerapkan\r\n12 hal baru pada pelaksanaan pemungutan suara. Upaya-upaya ini\r\npada akhirnya merefleksikan pemerintah ketika memutuskan untuk menyelenggarakan Pilkada selama pandemi, pemerintah sebagai\r\npembuat keputusan tentu harus meyakinkan publik mengenai\r\nkecilnya potensi kemungkinan risiko terpaparnya pemilih, petugas\r\npemungutan suara dan potensi penularan lainnya di tempat\r\npemungutan suara. Hal ini memerlukan komitmen implementasi\r\nlangkah-langkah untuk melindungi kesehatan public ketika \r\npemungutan suara, serta di sisi lain juga sebagai strategi untuk\r\nmeyakinkan pemilih.",
+      "ispublished": "pub"
+    },
+    {
+      "userid": 357,
+      "status_changed": "2022-03-10 08:59:09",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161373",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/448214",
+                  "filesize": 889865,
+                  "fileid": 448214,
+                  "hash": "ab202249293403c59d66af52e3d4693e",
+                  "mtime": "2022-03-10 04:54:49",
+                  "datasetid": "document",
+                  "objectid": 161373,
+                  "mime_type": "application\/pdf",
+                  "filename": "1311_merged.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "eprintid": 40081,
+            "pos": 1,
+            "language": "en",
+            "main": "1311_merged.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "docid": 161373
+          }
+      ],
+      "date": 2018,
+      "metadata_visibility": "show",
+      "title": "Buku Dinamika Penyelenggaraan Pemilu dan Pilkada di Indonesia",
+      "subjects": [
+        "JC"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40081",
+      "type": "book",
+      "divisions": [
+        "FISIP4"
+      ],
+      "dir": "disk0\/00\/04\/00\/81",
+      "datestamp": "2022-03-10 08:59:09",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "eprintid": 40081,
+      "lastmod": "2022-03-10 08:59:09",
+      "refereed": "TRUE",
+      "publisher": "Asnalitera Yogyakarta",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "creators": [
+        {
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "name": {
+            "given": "Nanang Trenggono",
+            "family": "Nanang Trenggono",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ]
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39932",
+      "type": "other",
+      "subjects": [
+        "J1",
+        "JC"
+      ],
+      "title": "Penilairan Rekan Sejawat : Membangun Kampanye Yang Setara",
+      "metadata_visibility": "show",
+      "date": 2018,
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 161222,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Budaya Organisasi.pdf",
+                  "datasetid": "document",
+                  "objectid": 161222,
+                  "mtime": "2022-03-08 04:38:26",
+                  "hash": "76189cc138de5b1cce1aba67cf758c8b",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/447061",
+                  "filesize": 685607,
+                  "fileid": 447061
+                }
+            ],
+            "pos": 1,
+            "eprintid": 39932,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161222",
+            "rev_number": 1,
+            "main": "Budaya Organisasi.pdf",
+            "language": "en"
+          },
+          {
+            "main": "Dinamika Penyelenggara.pdf",
+            "language": "en",
+            "pos": 2,
+            "eprintid": 39932,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 161223,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Dinamika Penyelenggara.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/447063",
+                  "filesize": 573934,
+                  "fileid": 447063,
+                  "mtime": "2022-03-08 04:38:44",
+                  "hash": "42901f608f6e7dbebc0d816014dbe714"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161223",
+            "docid": 161223,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 2,
+            "format": "text"
+          }
+      ],
+      "status_changed": "2022-03-08 07:21:22",
+      "userid": 357,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Nanang Trenggono",
+            "family": "Nanang Trenggono"
+          },
+          "id": "nanang.trenggono@fisip.unila.ac.id"
+        }
+      ],
+      "rev_number": 9,
+      "publisher": "Asnalitera Yogyakarta",
+      "full_text_status": "public",
+      "lastmod": "2022-03-08 07:21:22",
+      "eprintid": 39932,
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/03\/99\/32",
+      "datestamp": "2022-03-08 07:21:22",
+      "divisions": [
+        "FISIP4"
+      ]
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "family": "Nidzam",
+            "given": "Sulaiman",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "nizamm01@ukm.my"
+        },
+        {
+          "id": "hertanto.1960@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Hertanto",
+            "family": "Hertanto"
+          }
+        },
+        {
+          "name": {
+            "given": "Bakaruddin",
+            "family": "Rosyidi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "bakrandalas@gmail.com"
+        }
+      ],
+      "publisher": "Jurusan Ilmu Politik Universitas Andalas, Padang",
+      "number": 1,
+      "dir": "disk0\/00\/01\/83\/78",
+      "divisions": [
+        "FISIP3"
+      ],
+      "title": "COMPETING MODELS IN POLITICAL COALITION ANALYSIS: SYSTEM OR TRANSACTIONAL?",
+      "related_url": [
+        {
+          "url": "https:\/\/fisip.unand.ac.id\/en\/alumni\/data-alumni\/tahun-2019\/item\/134-jurnal-analisis-politik",
+          "type": "pub"
+        }
+      ],
+      "id_number": 75171266,
+      "metadata_visibility": "show",
+      "publication": "Jurnal Analisis Politik",
+      "date_type": "published",
+      "rev_number": 6,
+      "official_url": "https:\/\/fisip.unand.ac.id\/en\/alumni\/data-alumni\/tahun-2019\/item\/134-jurnal-analisis-politik",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "contact_email": "jap.unand@gmail.com",
+      "lastmod": "2020-03-05 09:14:22",
+      "eprintid": 18378,
+      "datestamp": "2020-03-05 09:14:22",
+      "abstract": "Abstract \r\nSystems analysis is very popular in social sciences. The structural functionalism theory espoused by Parsons, Easton’s with political system, and Almond’s explanation on the role of individual politics through biological organism analogy. All these theories place emphasis on the importance of norms, roles, function, structure, law, coercion and equilibrium in the given system. Nevertheless, these models fail to explain the conduct of wrong-doers which are in conflict with norms, order and laws. In daily occurrences there are those who craftily circumvent the system in such a way that their actions are unnoticeable. Such individuals place their interests foremost even if they are in conflict with norms and order. Thus the transactional model tries to explain the conduct of such individuals who give emphasis on interest and opportunity at the expense of system. This study utilises the transactional model to analyse the formation and fragmentation of political coalition with reference to Malaysia and Indonesia. In this context, the transactional approach is more realistic in explaining political transformation. It also places the individual’s role in a more meaningful position by not merely being subjected to regulation and system. The individual is free to use their ability and thoughts in deciding the suitable outcome, opting for a rational choice and does not react like an ordinary member of society who is subjected to social coercion and norms. Individuals are consistently competing due to limited resources and have often to make the best choice from limited options available. \r\nKey words : System analysis, structural fungtionalism model, transactional model, political coalition, political transformation.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "subjects": [
+        "JC"
+      ],
+      "pagerange": "11-30",
+      "issn": "2089-2179",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18378",
+      "type": "article",
+      "volume": 2,
+      "status_changed": "2020-03-05 09:14:22",
+      "userid": 813,
+      "date": "2014-03",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 31527,
+                  "datasetid": "document",
+                  "filename": "Jurnal Analisis Politik.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 154590,
+                  "filesize": 709811,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/154590",
+                  "hash": "d200e783f45ab5458b87baa2ce4e334e",
+                  "mtime": "2020-03-05 04:51:42"
+                }
+            ],
+            "eprintid": 18378,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31527",
+            "rev_number": 1,
+            "main": "Jurnal Analisis Politik.pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 31527
+          }
+      ]
+    },
+    {
+      "keywords": "xxxxx",
+      "related_url": [
+        {
+          "url": "http:\/\/wacanapublik.stisipoldharmawacana.ac.id\/index.php\/wacanapublik\/issue\/view\/10"
+        }
+      ],
+      "title": "Pemilihan Kepala Daerah Lampung Selatan: Telaah Pengaruh Pendidikan Politik, Komunikasi Politik dan Sosial Ekonomi terhadap Partisipasi Politik",
+      "metadata_visibility": "show",
+      "referencetext": "Apriliana. (2012). Pengaruh Pendidikan Politik Terhadap Partisipasi Politik Masyarakat Kecamatan Kuala\r\n(Studi Kasus Masyarakat Desa Balai Kasih Kecamatan Kuala Kabupaten Langkat). Medan:\r\nUniversitas Negeri Medan.\r\n\r\nKharisma, D. (2015). Peran Pendidikan Politik terhadap Partisipasi Politik Pemilih Muda. Jurnal\r\nPolitico, 4(2).\r\n\r\nKPU Lampung Selatan. (2015). Dokumen hasil rekapitulasi perhitungan suara pemilihan kepala daerah\r\nKabupaten Lampung Selatan tahun 2015. Lampung Selatan: KPU.\r\n\r\nNimmo, D. (2007). Political Comunication And Publcik Opinion in America (Komunikasi Politik :\r\n\r\nKomunikator, Pesan dan Media) (Cetakan kedua) (terjemahan Tjun Sujarman). Bandung: Remaja\r\nRosda Karya.",
+      "publication": "PEMILIHAN KEPALA DAERAH KABUPATEN LAMPUNG SELATAN: TELAAH PENGARUH PENDIDIKAN POLITIK, KOMUNIKASI POLITIK DAN SOSIAL EKONOMI TERHADAP PARTISIPASI POLITIK",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Tamara",
+            "given": "Guntur Ardyan"
+          },
+          "id": "ardyanguntur@gmail.com"
+        },
+        {
+          "id": "ari.darmastuti@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Ari",
+            "family": "Darmastuti"
+          }
+        },
+        {
+          "id": "arizka.warganegara@fisip.unila.ac.id",
+          "name": {
+            "family": "Warganegara",
+            "given": "Arizka",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "publisher": "Stisipol Darma Wacana Metro",
+      "note": "xxxxx",
+      "number": 2,
+      "dir": "disk0\/00\/04\/49\/08",
+      "divisions": [
+        "FISIP3"
+      ],
+      "subjects": [
+        "G1",
+        "JA",
+        "JC",
+        "JF"
+      ],
+      "pagerange": "113-123",
+      "issn": "1858-2400",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44908",
+      "type": "article",
+      "volume": 14,
+      "status_changed": "2022-09-13 07:37:53",
+      "userid": 570,
+      "date": "2020-11-01",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 166829,
+            "mime_type": "application\/pdf",
+            "eprintid": 44908,
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 166829,
+                  "mime_type": "application\/pdf",
+                  "filename": "47-147-1-PB (1)_Guntur_Arizka.pdf",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/484563",
+                  "filesize": 885946,
+                  "fileid": 484563,
+                  "hash": "54e7e855484bd6cf8b2c4ec72c5de06c",
+                  "mtime": "2022-09-13 04:19:22"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166829",
+            "rev_number": 1,
+            "main": "47-147-1-PB (1)_Guntur_Arizka.pdf",
+            "language": "en"
+          }
+      ],
+      "date_type": "published",
+      "rev_number": 9,
+      "official_url": "http:\/\/wacanapublik.stisipoldharmawacana.ac.id\/index.php\/wacanapublik\/issue\/view\/10",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2022-09-13 07:37:53",
+      "contact_email": "arizka.warganegara@fisip.unila.ac.id",
+      "eprintid": 44908,
+      "datestamp": "2022-09-13 07:37:53",
+      "ispublished": "pub",
+      "abstract": "The decreasing of public’s politics participation phenomenon on Regional Head Election of Lampung Selatan District was about 72 % on 2010 and 65% on 2015. Based on average counts of Regional Head Election 2015, Kalianda Sub District was the lowest. This is a quantitative study with explanatory method. The 250 samples were determined by using  proportional area random sampling. The result shows that the public’s political education was categorized low. Meanwhile, Kalianda Sub District has a high number for public’s politics communication or the other words publics have a good political communication to the candidates. The public’s economic status in Kalianda Sub District is categorized as high enough, on the other words that people already have a good living for both in economy and social. Based on statistical test result, Political Education  has an  impact to the politics participation partially by t count  > t table as 3,630 > 1,977, with 43,3% amount of  impact. The political Communication has an impact to politics participation about 4,260 > 1,977 on t count > t table, with 62,2% impact. Social Economics status has an impact by t count > t table  about 3,315 > 1,977, with 48% amount of  impact. Whereas, political education, political communication, and Social Economics status have an impact with the review  Fcount > Ftable (68,957 > 2,710 ) and 51,2%  amount of impact.",
+      "eprint_status": "archive"
+    },
+    {
+      "dir": "disk0_bak\/00\/04\/97\/98",
+      "datestamp": "2023-04-08 13:22:59",
+      "divisions": [
+        "FISIP3"
+      ],
+      "ispublished": "pub",
+      "abstract": "Tulisan ini sebagai bagian dari arbituari saya pada sosok Profesor David Beetham,seorang teoritikus sosial Universitas Leeds yang pada tanggal 5 Juli 2022 menginggalkan kita semua.Beetham banyak melahirkan teori dan konsep popular keilmuan sosial politik, mulai dari audit demokrasisampai dengan hak asasi manusia. Banyak sekali pemikiran Beetham yang sangat relevan dengan kondisi sosial politik Indonesia hari ini,setidaknya dalam konteks melihat bagaimana progres transisi demokrasi di Indonesia setelah lebih dari 20tahun reformasi politik berlangsung.",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "refereed": "TRUE",
+      "eprintid": 49798,
+      "contact_email": "arizka.warganegara@fisip.unila.ac.id",
+      "lastmod": "2023-04-08 13:22:59",
+      "creators": [
+        {
+          "id": "arizka.warganegara@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Arizka",
+            "family": "Warganegara"
+          }
+        }
+      ],
+      "official_url": "https:\/\/www.antaranews.com\/berita\/3084313\/mengamati-koalisi-partai-politik",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "status_changed": "2023-04-08 13:22:59",
+      "userid": 570,
+      "documents": [
+          {
+            "eprintid": 49798,
+            "pos": 1,
+            "files": [
+                {
+                  "mtime": "2023-04-06 13:07:15",
+                  "hash": "70dd28db3729d54678b28aa93f492df7",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/539390",
+                  "fileid": 539390,
+                  "filesize": 990669,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Mengamati _koalisi_ partai politik - ANTARA News.pdf",
+                  "datasetid": "document",
+                  "objectid": 189435
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189435",
+            "rev_number": 1,
+            "main": "Mengamati _koalisi_ partai politik - ANTARA News.pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 189435,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "date": "2022-08-28",
+      "publication": "Mengamati Koalisi Partai Politik",
+      "title": "Mengamati Koalisi Partai politik",
+      "metadata_visibility": "show",
+      "subjects": [
+        "JA",
+        "JC"
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49798"
+    },
+    {
+      "date_type": "published",
+      "official_url": "http:\/\/wacanapublik.stisipoldharmawacana.ac.id\/index.php\/wacanapublik\/article\/view\/10",
+      "publisher": "Jurnal Wacana Metro",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Arizka",
+            "family": "Warganegara"
+          },
+          "id": "arizka.warganegara@fisip.unila.ac.id"
+        }
+      ],
+      "lastmod": "2020-06-30 03:47:26",
+      "eprintid": 22876,
+      "number": 1,
+      "refereed": "TRUE",
+      "divisions": [
+        "FISIP3"
+      ],
+      "datestamp": "2020-06-30 03:47:26",
+      "dir": "disk0\/00\/02\/28\/76",
+      "eprint_status": "archive",
+      "abstract": "hasil penilaian rekan sejawat",
+      "ispublished": "pub",
+      "subjects": [
+        "JC"
+      ],
+      "pagerange": "1-6",
+      "metadata_visibility": "show",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/wacanapublik.stisipoldharmawacana.ac.id\/index.php\/wacanapublik\/article\/view\/10"
+        }
+      ],
+      "title": "Reviewer Hasil Penilaian sejawat\r\nJurnal Wacana metro an Arizka Warganegara",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22876",
+      "type": "article",
+      "issn": "2656-9558",
+      "volume": 13,
+      "userid": 570,
+      "status_changed": "2020-06-30 03:47:26",
+      "publication": "Jurnal Wacana metro",
+      "date": "2019-05-16",
+      "documents": [
+          {
+            "eprintid": 22876,
+            "pos": 1,
+            "files": [
+                {
+                  "mtime": "2020-06-30 03:24:16",
+                  "hash": "610037216a1fe21cce2b4b3bdc400d23",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/209951",
+                  "filesize": 303656,
+                  "fileid": 209951,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "awn.pdf",
+                  "datasetid": "document",
+                  "objectid": 36424
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36424",
+            "main": "awn.pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 36424,
+            "mime_type": "application\/pdf"
+          }
+      ]
+    },
+    {
+      "divisions": [
+        "FISIP6"
+      ],
+      "dir": "disk0_bak\/00\/04\/80\/23",
+      "publisher": "Department of Political Science, USU",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Warganegara",
+            "given": "Arizka"
+          },
+          "id": "arizka.warganegara@fisip.unila.ac.id"
+        },
+        {
+          "id": "febrian@usm.my",
+          "name": {
+            "given": "Muhammad",
+            "family": "Febriansyah",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Lee",
+            "family": "Kuok Tiung"
+          },
+          "id": "lee@ums.edu.my"
+        }
+      ],
+      "note": "xxxx",
+      "number": 1,
+      "publication": "New Media, Incumbency and Malaysian Politics: The Defeat of the Barisan Nasional (BN) in GE14 (2018)",
+      "referencetext": "ANSOLABEHERE, S., HANSEN, J. M., HIRANO, S. & SNYDER JR, J. M. 2007. The incumbency advantage in US primary elections. Electoral Studies, 26, 660-668.\r\nASHWORTH, S. & BUENO DE MESQUITA, E. 2008. Electoral selection, strategic challenger entry, and the incumbency advantage. The Journal of Politics, 70, 1006-1025.\r\nAVIS, E., FERRAZ, C., FINAN, F. & VARJÃO, C. 2017. Money and politics: The effects of campaign spending limits on political competition and incumbency advantage. National Bureau of Economic Research.\r\nBRAMBOR, T. & CENEVIVA, R. Incumbency advantage in Brazilian mayoral elections.  APSA 2011 Annual Meeting Paper, 2011.\r\nCHANDRA, K. 2007. Why ethnic parties succeed: Patronage and ethnic head counts in India, Cambridge University Press.\r\nCHAPPELL JR, H. W. 1990. Economic performance, voting, and political support: A unified approach. The Review of Economics and Statistics, 313-320.\r\nDASSONNEVILLE, R. & HOOGHE, M. 2017. Economic indicators and electoral volatility: economic effects on electoral volatility in Western Europe, 1950–2013. Comparative European Politics, 15, 919-943.\r\nEGGERS, A. C. & FISHER, A. C. 2011. Electoral accountability and the UK parliamentary expenses scandal: Did voters punish corrupt MPs? Available at SSRN 1931868.\r\nFERNÁNDEZ-VÁZQUEZ, P., BARBERÁ, P. & RIVERO, G. 2016. Rooting out corruption or rooting for corruption? The heterogeneous electoral consequences of scandals. Political Science Research and Methods, 4, 379-397.\r\nHIRANO, S. & SNYDER JR, J. M. 2012. Primary elections and political accountability: What happens to incumbents in scandals? Quarterly Journal of Political Science forthcoming.\r\nKHENG, C. B. 2005. Ethnicity in the Making of Malaysia. In: GUNGGU, W. (ed.) Nation-Building: Five Southeast Asian Histories. Singapore: ISEAS. Singapore: Institute of Southeast Asian Studies.\r\nLEE, C. 2019. Economic Voting and the End of Dominant Party Rule in Malaysia.\r\nLIJPHART, A. 1969. Consociational Democracy. World Politics, 21, 207-225.\r\nLONG, N. C. The impact of incumbent scandals on senate elections, 1974-2008.  Western Political Science Association 2011 Annual Meeting Paper, 2011.\r\nLONG, N. C. 2019. The Impact of Incumbent Scandals on Senate Elections, 1972–2016. Social Sciences, 8, 114.\r\nMOHAMAD, M. 2008. Malaysia—democracy and the end of ethnic politics? Australian Journal of International Affairs, 62, 441-459.\r\nMONIRUZZAMAN, M. 2013. The 13th Malaysian general election: Uncertainties and expectations. Intellectual Discourse, 21, 55.\r\nNADZRI, M. M. 2019. The 14th General Election, the Fall of Barisan Nasional, and Political Development in Malaysia, 1957–2018. Journal of Current Southeast Asian Affairs, 37, 139-171.\r\nNOOR, M. N. M. 2020. Pilihan Raya dan Politik Malaysia Pasca PRU 2018: Persaingan, Dinamik dan Implikasi (Elections and Politics In Malaysia Post GE 2018: Contestations, Dynamics and Implications). Jebat: Malaysian Journal of History, Politics & Strategic Studies, 47.\r\nO'SHANNASSY, M. 2009. Beyond the Barisan Nasional?: a Gramscian perspective of the 2008 Malaysian general election. Contemporary Southeast Asia: A Journal of International and Strategic Affairs, 31, 88-109.\r\nOSTWALD, K., SCHULER, P. & CHONG, J. M. 2019. Triple Duel: The Impact of Coalition Fragmentation and Three-Corner Fights on the 2018 Malaysian Election. Journal of Current Southeast Asian Affairs, 37, 31-55.\r\nPRAINO, R., STOCKEMER, D. & MOSCARDELLI, V. G. 2013. The lingering effect of scandals in congressional elections: Incumbents, challengers, and voters. Social Science Quarterly, 94, 1045-1061.\r\nRAVISHANKAR, N. 2009. The cost of ruling: anti-incumbency in elections. Economic and Political Weekly, 92-98.\r\nRICO, G. 2012. The 2010 regional election in Catalonia: a multilevel account in an age of economic crisis. South European Society and Politics, 17, 217-238.\r\nSCHWINDT-BAYER, L. A. 2005. The incumbency disadvantage and women's election to legislative office. Electoral Studies, 24, 227-244.\r\nSULISTIYANTO, P. 2009. Incumbent, Populism and the Decline of Royal Power1. Deepening Democracy in Indonesia?: Direct Elections for Local Leaders (Pilkada), 190.\r\nTHE WORLD BANK. 2018. Country Profile: Malaysia [Online]. Available: https:\/\/data.worldbank.org\/country\/malaysia [Accessed 13th of June 2018].\r\nTORCAL, M. 2014. The incumbent electoral defeat in the 2011 Spanish national elections: The effect of the economic crisis in an ideological polarized party system. Journal of Elections, Public Opinion & Parties, 24, 203-221.\r\nTROUNSTINE, J. 2011. Evidence of a local incumbency advantage. Legislative Studies Quarterly, 36, 255-280.\r\nTROUNSTINE, J. 2013. Turnout and incumbency in local elections. Urban Affairs Review, 49, 167-189.\r\nWARGANEGARA, A., MAKHYA, S. & DRAJAT, D. K. 2019. Globalization, Democratization and Political Change in Malaysia (New Media And 2018 Elections). Journal of Governance, 4, 187-204.\r\nWEISS, M. L. 2013a. Malaysia’s 13th general elections: Same result, different outcome. Asian survey, 53, 1135-1158.\r\nWEISS, M. L. 2013b. Parsing the power of “New Media” in Malaysia. Journal of Contemporary Asia, 43, 591-612.\r\nWELSH, B. 2019. “Saviour” Politics and Malaysia’s 2018 Electoral Democratic Breakthrough: Rethinking Explanatory Narratives and Implications. Journal of Current Southeast Asian Affairs, 37, 85-108.\r\nYAAKOP, M. R. M. 2010. The British legacy on the development of politics in Malaya. International Journal for Historical Studies, 2, 41-60.",
+      "keywords": "New Media, Malaysian politics, GE14, Democracy, Government, Incumbency and Election",
+      "metadata_visibility": "show",
+      "id_number": "https:\/\/doi.org\/10.32734\/politeia.v15i1.8883",
+      "title": "New Media, Incumbency and Malaysian Politics: The Defeat of the Barisan Nasional (BN) in GE14 (2018)",
+      "related_url": [
+        {
+          "url": "https:\/\/talenta.usu.ac.id\/politeia\/article\/view\/8883"
+        }
+      ],
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "The Malaysian 14th General Election (GE14) has ended the political domination of Barisan Nasional (BN) of the last 61 years and resulted in a new discussion in Malaysian politics. The main purpose of this study is to explore the factors that caused BN to fail in the last election and to refine the incumbency theory posited by Hirano and Snyder Jr (2012) and Torcal (2014). We argue that various factors have contributed to the defeat of the BN government in the 14th GE, namely the 1MDB corruption scandal, the implementation of the progressive Good and Service Tax (GST), the rise of living costs, and the China-oriented foreign and economic policies, as well as the Mahathir factor. Our results also contribute to further developing incumbency theory. Instead of relying on traditional factor of incumbent defeat in election such as scandal and economic factors, the role of new media in spreading the news about the corruption scandal and the government’s economic underperformance have also contributed to a political shift in Malaysia.",
+      "datestamp": "2023-01-26 01:38:31",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "official_url": "https:\/\/talenta.usu.ac.id\/politeia\/article\/view\/8883",
+      "lastmod": "2023-01-26 01:38:31",
+      "eprintid": 48023,
+      "contact_email": "arizka.warganegara@fisip.unila.ac.id",
+      "refereed": "TRUE",
+      "date_type": "published",
+      "date": "2023-01-22",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 187188,
+            "files": [
+                {
+                  "mtime": "2023-01-25 12:19:29",
+                  "hash": "cb86c391983883a5cd215819e198df0e",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/525170",
+                  "fileid": 525170,
+                  "filesize": 320706,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "8883-Article Text-38931-3-10-20230124.pdf",
+                  "datasetid": "document",
+                  "objectid": 187188
+                }
+            ],
+            "eprintid": 48023,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187188",
+            "rev_number": 1,
+            "main": "8883-Article Text-38931-3-10-20230124.pdf",
+            "language": "en"
+          }
+      ],
+      "userid": 570,
+      "status_changed": "2023-01-26 01:38:31",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48023",
+      "type": "article",
+      "issn": "0216-9290",
+      "volume": 15,
+      "pagerange": "27-47",
+      "subjects": [
+        "J1",
+        "JA",
+        "JC",
+        "JQ"
+      ]
+    },
+    {
+      "eprint_status": "archive",
+      "abstract": "The role of religious actors in disaster response, an issue that is generally understood as being dominated by secular perspectives, is increasingly receiving attention. Surprisingly considering its likelihood to offer relevant insights, however, the concept of post-secularism has seldom been adopted as an analytical framework. In response, in this study we adopt a Habermasian lens to examine the relations between religious and secular actors in Indonesia with respect to the 2018 Sunda Strait tsunami, with particular focus on domestic faith organisations. Through interviewing representatives from three prominent religious organisations and a figure from a relevant independent statutory authority, we highlight these institutions' contributions to the disaster response, alongside their struggles to legitimise their leadership potential. Thus, by demonstrating the existence of constraints on religious groups playing a consequential role in a public concern that would benefit from multiple perspectives and competencies, we exemplify how Habermas’ vision of a post-secular society is playing out in a disaster context and identify areas in which collaboration between ostensibly secular and religious actors might be improved.",
+      "ispublished": "pub",
+      "datestamp": "2023-01-26 01:38:26",
+      "contact_email": "arizka.warganegara@fisip.unila.ac.id",
+      "eprintid": 48021,
+      "lastmod": "2023-01-26 01:38:26",
+      "refereed": "TRUE",
+      "rev_number": 13,
+      "full_text_status": "public",
+      "official_url": "https:\/\/www.sciencedirect.com\/science\/article\/abs\/pii\/S221242092100337X",
+      "date_type": "published",
+      "documents": [
+          {
+            "eprintid": 48021,
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 187186,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "Pengesahan dan Paper International Journal of Disaster Risk Reduction.pdf",
+                  "mime_type": "application\/pdf",
+                  "fileid": 525149,
+                  "filesize": 966588,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/525149",
+                  "mtime": "2023-01-25 11:51:44",
+                  "hash": "380fe6bdcd5ee13e9825bb7811a5a4e0"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187186",
+            "rev_number": 1,
+            "main": "Pengesahan dan Paper International Journal of Disaster Risk Reduction.pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "docid": 187186,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "date": "2021-07",
+      "userid": 570,
+      "status_changed": "2023-01-26 01:38:26",
+      "volume": 61,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48021",
+      "type": "article",
+      "issn": 22124209,
+      "subjects": [
+        "G1",
+        "GE",
+        "GN",
+        "H1",
+        "JA",
+        "JC",
+        "JF",
+        "JS"
+      ],
+      "pagerange": "1-9",
+      "divisions": [
+        "FISIP6"
+      ],
+      "dir": "disk0_bak\/00\/04\/80\/21",
+      "number": 102371,
+      "note": "xxxx",
+      "publisher": "Elsevier",
+      "creators": [
+        {
+          "name": {
+            "family": "Warganegara",
+            "given": "Arizka",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "arizka.warganegara@fisip.unila.ac.id"
+        },
+        {
+          "id": "msamson6@depaul.edu",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Maxim G.M",
+            "family": "Samson"
+          }
+        }
+      ],
+      "publication": "A post-tsunami sea change? Towards post-secular disaster response in Indonesia",
+      "referencetext": "Adeney-Risakotta, B. (2009) ‘Is there a meaning in natural disasters? Constructions of culture, religion and science’. Exchange. 38(3). pp. 226-243. doi:10.1163\/157254309X449719.\r\n\r\nAdiyoso, W. and H. Kanegae (2013) ‘The preliminary study of the role of Islamic teaching in the disaster risk reduction (a qualitative case study of Banda Aceh, Indonesia)’. Procedia Environmental Studies. 17. pp. 918-927. doi:10.1016\/j.proenv.2013.02.110.\r\n\r\nAger, A. (2014) ‘Faith and the secular: tensions in realising humanitarian principles’. Forced Migration Review. 48. pp. 16-18. https:\/\/www.fmreview.org\/sites\/fmr\/files\/FMRdownloads\/en\/faith\/ager.pdf\r\n\r\nAger, A. and J. Ager (2011) ‘Faith and the discourse of secular humanitarianism’. Journal of Refugee Studies 24(3). pp. 456-472. doi:10.1093\/jrs\/fer030.\r\n\r\nAger, A. and J. Ager (2015) Faith, Secularism, and Humanitarian Engagement: Finding the Place of Religion in the Support of Displaced Communities. Palgrave Macmillan, New York.\r\n\r\nAger, A. and J. Ager (2016) ‘Sustainable development and religion: accommodating diversity in a post-secular age’. The Review of Faith & International Affairs. 14(3). pp. 101-105. doi:10.1080\/15570274.2016.1215813.\r\n\r\nAlvian, R.A. (2020) ‘Reconfiguring Jokowi’s partnership with NU and Muhammadiyah’. East Asia Forum, 19 November. [Viewed 3 April 2021]. Available from: https:\/\/www.eastasiaforum.org\/2020\/11\/19\/reconfiguring-jokowis-partnership-with-nu-and-muhammadiyah\/\r\n\r\nAntara (2018) ‘BNPB merilis korban Tsunami Selat Sunda sementara 429 Jiwa’. Tempo.co, 25 December. [Viewed 19 December 2020]. Available from: https:\/\/nasional.tempo.co\/read\/1158699\/bnpb-merilis-korban-tsunami-selat-sunda-sementara-429-jiwa\/full&view=ok\r\n\r\nAspinall, E. (2019) ‘Indonesia’s election and the return of ideological competition’. New Mandala, 22 April. [Viewed 19 December 2020]. Available from: https:\/\/www.newmandala.org\/indonesias-election-and-the-return-of-ideological-competition\/\r\n\r\nAzra, A. (2004) ‘Political Islam in post-Soeharto Indonesia’. In V. Hooker and A. Saikal (eds) Islamic Perspectives on the New Millennium. Institute of Southeast Asian Studies, Singapore. pp. 133-149.\r\n\r\nBadan Pusat Statistik (2010) Penduduk Menurut Wilayah dan Agama yang Dianut. Provinsi Lampung. [Viewed 19 December 2020]. Available from: https:\/\/sp2010.bps.go.id\/index.php\/site\/tabel?tid=321&wid=1800000000\r\n\r\nBaidhawy, Z. (2015) ‘The role of faith-based organization in coping with disaster management and mitigation: Muhammadiyah’s experience’. Journal of Indonesian Islam. 9(2). pp. 167-194. doi:10.15642\/JIIS.2015.9.2.167-194.\r\n\r\nBarton, G. (2010) ‘Indonesia: legitimacy, secular democracy and Islam’. Politics and Policy. 38(3). pp. 471-496. doi:10.1111\/j.1747-1346.2010.00244.x.\r\n\r\nBeckford, J.A. (2012) ‘SSSR presidential address public religions and the postsecular: critical reflections’. Journal for the Scientific Study of Religion. 51(1). pp. 1-19. doi:10.1111\/j.1468-5906.2011.01625.x.\r\n\r\nBentzen, J.S. (2019) ‘Acts of God? Religiosity and natural disasters across subnational world districts’. The Economic Journal. 129(622). pp. 2295-2321. doi:10.1093\/ej\/uez008.\r\n\r\nBerger, P.L. (1967) The Sacred Canopy: Elements of a Sociological Theory of Religion: Doubleday & Company, Inc., Garden City.\r\n\r\nBerger, P.L. (1999) ‘The desecularization of the world: a global overview’. In P.L. Berger (ed) The Desecularization of the World: Resurgent Religion and World Politics. Ethics and Public Policy Center, Washington, D.C. pp. 1-18.\r\n\r\nBettiza, G. and F. Dionigi. (2014) Beyond Constructivism’s Liberal Bias: Islamic Norm Entrepreneurs in a Post-Secular World Society. European University Institute (EUI) Working Papers, Max Weber Programme (MWP) 2014\/10. Available from: https:\/\/cadmus.eui.eu\/handle\/1814\/31692\r\n\r\nBruce, S. (2002) God is Dead: Secularization in the West. Blackwell Publishers Ltd., Oxford.\r\n\r\nBruce, S. (2013) ‘Post-secularity and religion in Britain: an empirical assessment’. Journal of Contemporary Religion. 28(3). pp. 369-384. doi:10.1080\/13537903.2013.831642.\r\n\r\nBuehler, M. (2014) ‘Elite competition and changing state-society relations: shari’a policymaking in Indonesia’. In M. Ford and T. Pepinsky (eds) Beyond Oligarchy: Wealth, Power, and Contemporary Indonesian Politics. Cornell Southeast Asia Program Publications, Ithaca. pp. 157-175.\r\n\r\nBurhani, A.N. (2020) ‘Nahdlatul Ulama versus Jokowi: The NU normal?’ Institute of Southeast Asian Studies (ISEAS), 19 October. [Viewed 4 April 2021]. Available from: https:\/\/www.iseas.edu.sg\/media\/commentaries\/nahdlatul-ulama-versus-jokowi-the-nu-normal\/\r\n\r\nBush, R., P. Fountain and R.M. Feener (2015) ‘Religious actors in disaster relief: an introduction’. International Journal of Mass Emergencies and Disasters. 33(1). pp. 1-16.\r\n\r\nCabinet Secretariat of the Republic of Indonesia (2019) ‘Disaster education important, President Jokowi says’. 2 February. [Viewed 19 December 2020]. Available from: https:\/\/setkab.go.id\/en\/disaster-education-important-president-jokowi-says\/\r\n\r\nCasanova, J. (1994) Public Religions in the Modern World. The University of Chicago Press, Chicago.\r\n\r\nClarke, G. (2010) ‘Trans-faith humanitarian partnerships: the case of Muslim Aid and the United Methodist Committee on Relief’. The European Journal of Development Research. 22(4). pp. 510-528. doi:10.1057\/ejdr.2010.22.\r\n\r\nCloke, P. and J. Beaumont (2012) ‘Geographies of postsecular rapprochement in the city’. Progress in Human Geography. 37(1). pp. 27-51.\r\n\r\nCollins, E.F. (2004) Islam and the habits of democracy: Islamic organizations in post-New Order South Sumatra. Indonesia. 78. Pp. 93-120. \r\n\r\nDavie, G. (2002) Europe: The Exceptional Case: Parameters of Faith in the Modern World. Darton, Longman & Todd, London.\r\n\r\nDe Cordier, B. (2009) ‘Faith-based aid, globalisation and the humanitarian frontline: an analysis of Western-based Muslim aid organisations’. Disasters. 33(4). pp. 608-628. doi:10.1111\/j.0361-3666.2008.01090.x.\r\n\r\nDillon, M. (2010) ‘Can post-secular society tolerate religious differences?’ Sociology of Religion. 71(2). pp. 139-156. doi:10.1093\/socrel\/srq024.\r\n\r\nEnsor, M.O. (2003) ‘Disaster evangelism: religion as a catalyst for change in post-Mitch Honduras’. International Journal of Mass Emergencies and Disasters. 21(2). pp. 31-49.\r\n\r\nEriksen, C. (2019). ‘Coping, caring and believing: the embodied work of disaster recovery workers’. Emotion, Space and Society. 32. doi:10.1016\/j.emospa.2019.100592.\r\n\r\nFealy, G. (2020) Jokowi in the Covid-19 era: repressive pluralism, dynasticism and the overbearing state. Bulletin of Indonesian Economic Studies. 56(4). pp. 301-323. doi:10.1080\/00074918.2020.1846482.\r\n\r\nFeener, R.M. and P. Daly (2016) Religion and reconstruction in the wake of disaster. Asian Ethnology. 75(1). pp. 191-202. https:\/\/www.jstor.org\/stable\/43855331.\r\n\r\nFountain, P. (2016) ‘Mennonite disaster relief and the interfaith encounter in Aceh, Indonesia’. Asian Ethnology. 75(1). pp. 163-190. https:\/\/www.jstor.org\/stable\/43855330. \r\n\r\nFountain, P. and L. McLaughlin (2016) Salvage and salvation. Asian Ethnology. 75(1). pp. 1-28. https:\/\/www.jstor.org\/stable\/43855324.\r\n\r\nGero, A., S. Fletcher, M. Rumsey, J. Thiessen, N. Kuruppu, J. Buchan, J. Daly and J. Willetts (2013) Disaster Response and Climate Change in the Pacific. National Climate Change Adaptation Research Facility (NCCARF), Gold Coast. Available from: https:\/\/opus.lib.uts.edu.au\/bitstream\/10453\/30882\/1\/2012002394OK.pdf\r\n\r\nGianisa, A. and L. Le De (2017). ‘The role of religious beliefs and practices in disaster: the case study of 2009 earthquake in Padang City, Indonesia’. Disaster Prevention and Management. 27(1). pp. 74-86. doi: 10.1108\/DPM-10-2017-0238.\r\n\r\nGill, A. (2001) ‘Religion and comparative politics’. Annual Review of Political Science. 4. pp. 117-138. doi:10.1146\/annurev.polisci.4.1.117.\r\n\r\nGingerich, T.R., D.L. Moore, R. Brodrick and C. Beriont (2017) Local Humanitarian Leadership and Religious Literacy: Engaging with Religion, Faith, and Faith Actors. Oxfam, Oxford. Available from: https:\/\/s3.amazonaws.com\/oxfam-us\/www\/static\/media\/files\/Oxfam_Harvard_Local_humanitarian_leadership_and_religious_literacy.pdf\r\n\r\nGregersen, N.H. (2017) ‘Positive loss and tragic memory: on the preservation of community’. Dialog. 56(4). pp. 361-372. doi:10.1111\/dial.12356.\r\n\r\nHa, K.-M. (2015) ‘The role of religious beliefs and institutions in disaster management: a case study’. Religions. 6. pp. 1314-1329. doi:10.3390\/rel6041314.\r\n\r\nHabermas, J. (2006) ‘Religion in the public sphere’. European Journal of Philosophy. 14(1). pp. 1-25. doi:10.1111\/j.1468-0378.2006.00241.x.\r\n\r\nHabermas, J. (2008) ‘Notes on post-secular society’. New Perspectives Quarterly. 25(4). pp. 17-29. doi:10.1111\/j.1540-5842.2008.01017.x\r\n\r\nHara, T. (2016) ‘The ghosts of tsunami dead and Kokoro no kea in Japan’s religious landscape’. Journal of Religion in Japan. 5. pp. 176-198. doi:10.1163\/22118349-00502002.\r\n\r\nHaynes, J. (2013) ‘What do faith-based organisations seek at the United Nations?’ [Viewed 19 December 2020]. Available from: https:\/\/www.e-ir.info\/2013\/11\/15\/what-do-faith-based-organisations-seek-at-the-united-nations\/\r\n\r\nHervieu-Léger, D. (2000) Religion as a Chain of Memory. Translated by S. Lee. Polity Press, Cambridge.\r\n\r\nIradat, D. (2019) ‘Jokowi calls for stronger disaster mitigation cooperation’. Medcom.id, 23 July. [Viewed 19 December 2020]. Available from: https:\/\/www.medcom.id\/english\/national\/Wb7LLyMk-jokowi-calls-for-stronger-disaster-mitigation-cooperation\r\n\r\nJellets, J. (2008) ‘Enduring Katrina: a firsthand look at The Salvation Army’s disaster relief efforts’. Weatherwise. 61(5). pp. 14-19. https:\/\/doi.org\/10.3200\/WEWI.61.5.14-19\r\n\r\nJoakim, E.P. and R.S. White (2015) ‘Exploring the impact of religious beliefs, leadership, and networks on response and recovery of disaster-affected populations: a case study from Indonesia’. Journal of Contemporary Religion. 30(2). pp. 193-212. doi:10.1080\/13537903.2015.1025538.\r\n\r\nJunker-Kenny, M. (2011) Habermas and Theology. T&T Clark International, London.\r\n\r\nKong, L. (2010) ‘Global shifts, theoretical shifts: changing geographies of religion’. Progress in Human Geography. 34(6). pp. 755-776. doi:10.1177\/0309132510362602.\r\n\r\nKraft, K. (2015) ‘Faith and impartiality in humanitarian response: lessons from Lebanese evangelical churches providing food aid’. International Review of the Red Cross. 97(897\/898). pp. 395-421. doi:10.1017\/S1816383115000570.\r\n\r\nKuwado, F.J. (2019) ‘Jokowi minta pemuka agama dilibatkan untuk edukasi bencana’. Kompas, 2 February. [Viewed 19 December 2020]. Available from: https:\/\/nasional.kompas.com\/read\/2019\/02\/02\/18020031\/jokowi-minta-pemuka-agama-dilibatkan-untuk-edukasi-bencana\/\r\n\r\nLatter, J.H. (1981) ‘Tsunamis of volcanic origin: summary of causes, with particular reference to Krakatoa, 1883’. Bulletin Volcanologique. 44(3). pp. 467-490. https:\/\/doi.org\/10.1007\/BF02600578\r\n\r\nLiddle, R.W. and S. Mujani (2007) ‘Leadership, party, and religion: explaining voting behavior in Indonesia’. Comparative Political Science. 40(7). pp. 832-857. doi:10.1177\/0010414006292113.\r\n\r\nMartin, D. (1969) The Religious and the Secular: Studies in Secularization. Schocken Books, New York.\r\n\r\nMartin, D. (1991) ‘The secularization issue: prospect and retrospect’. The British Journal of Sociology. 42(3). pp. 465-474. doi:10.2307\/591190.\r\n\r\nMcGregor, A. (2010) ‘Geographies of religion and development: rebuilding sacred spaces in Aceh, Indonesia, after the tsunami’. Environment and Planning A. 42. pp. 729-746. doi:10.1068\/a4273.\r\n\r\nMcLaughlin, L. (2011) ‘In the wake of the tsunami: religious responses to the Great East Japan Earthquake’. CrossCurrents. 61(3). pp. 290-297. https:\/\/doi.org\/10.1111\/j.1939-3881.2011.00184.x\r\n\r\nMietzner, M. and B. Muhtadi (2018) ‘Explaining the 2016 Islamist mobilisation in Indonesia: religious intolerance, militant groups and the politics of accommodation’. Asian Studies Review. 42(3). pp. 479-497. doi:10.1080\/10357823.2018.1473335.\r\n\r\nThe New York Times. (1994). ‘At least 134 are killed in Indonesian earthquake’. 17 February. [Viewed 4 April 2021]. Available from: https:\/\/www.nytimes.com\/1994\/02\/17\/world\/at-least-134-are-killed-in-indonesian-earthquake.html\r\n\r\nNorichika, H. (2016) ‘Continuing bonds in the Tōhoku disaster area: locating the destinations of spirits’. Journal of Religion in Japan. 5. pp. 199-226. doi:10.1163\/22118349-00502006.\r\n\r\nNurdin, M.R. (2015) ‘Disaster ‘caliphatization’: Hizbut Tahrir Indonesia, Islamic Aceh, and the Indian Ocean Tsunami’. International Journal of Mass Emergencies and Disasters. 33(1). pp. 75-95.\r\n\r\nParmar, S., A. Lobb, S. Purdin and S. McDonnell (2007) ‘Enhancing collaboration during humanitarian response: an interim report from stakeholders survey’. Prehospital and Disaster Medicine. 22(5). pp. 414-417. doi:10.1017\/s1049023x00005136.\r\n\r\nPepinsky, T.B., R.W. Liddle and S. Mujani (2012) ‘Testing Islam’s political advantage: evidence from Indonesia’. American Journal of Political Science. 56(3). pp. 584-600. doi:10.1111\/j.1540-5907.2011.00570.x.\r\n\r\nPew Research Center (2018) The Age Gap in Religion around the World. Pew Research Center, Washington D.C.\r\n\r\nRitchie, H. and M. Roser (2019) ‘Natural disasters’. Our World in Data. [Viewed 19 December 2020]. Available from: https:\/\/ourworldindata.org\/natural-disasters\r\n\r\nRokib, M. (2012) ‘The significant role of religious group’s response to natural disaster in Indonesia: the case of Santri Tanggap Bencana (Santana)’. IJIMS, Indonesian Journal of Islam and Muslim Societies. 2(1). pp. 53-77. doi:10.18326\/ijims.v2i1.53-77.\r\n\r\nRosenow-Williams, K. and Z. Sezgin (2014) ‘Islamic migrant organizations: little-studied actors in humanitarian action’. International Migration Review. 48(2). pp. 324-353. doi:10.1111\/imre.12061.\r\n\r\nSchäfer, S. (2019) ‘Democratic decline in Indonesia: the role of religious authorities’. Pacific Affairs. 92(2). pp. 235-255. doi:10.5509\/2019922235\r\n\r\nSchlehe, J. (2010) ‘Anthropology of religion: disasters and the representations of tradition and modernity’. Religion. 40. pp. 112-120. doi:10.1016\/j.religion.2009.12.004.\r\n\r\nShafer, A. (2010) ‘Spirituality and mental health in humanitarian contexts: an exploration based on World Vision's Haiti earthquake response’. Intervention. 8(2). pp. 121-130. doi:10.1097\/WTF.0b013e32833c1f57.\r\n\r\nStark, R. (1999) ‘Secularization, R.I.P.’ Sociology of Religion. 60(3). pp. 249-273. doi:10.2307\/3711936.\r\n\r\nTaylor, C. (2007) A Secular Age. The Belknap Press of Harvard University Press, Cambridge.\r\n\r\nTaylor, H. and R. Peace (2015) ‘Children and cultural influences in a natural disaster: flood response in Surakarta, Indonesia’. International Journal of Disaster Risk Reduction. 13. pp. 76-84. doi:10.1016\/j.ijdrr.2015.04.001.\r\n\r\nTempo.co. (2003). ‘Korupsi di Lampung mencapai Rp 470,2 miliar’. 24 July. [Viewed 3 April 2021]. Available from: https:\/\/nasional.tempo.co\/read\/3992\/korupsi-di-lampung-mencapai-rp-4702-miliar\r\n\r\nKuwado, F.J. (2019) ‘Jokowi minta pemuka agama dilibatkan untuk edukasi bencana’. Kompas, 2 February. [Viewed 19 December 2020]. Available from: https:\/\/nasional.kompas.com\/read\/2019\/02\/02\/18020031\/jokowi-minta-pemuka-agama-dilibatkan-untuk-edukasi-bencana\/\r\n\r\nThaut, L.C. (2009) ‘The role of faith in Christian faith-based humanitarian agencies: constructing the taxonomy’. Voluntas. 20. pp. 319-350. doi:10.1007\/s11266-009-9098-8.\r\n\r\nTomalin, E. (2020) ‘Global aid and faith actors: the case for an actor-orientated approach to the ‘turn to religion’’. International Affairs. 96(2). pp. 323-342. doi:10.1093\/ia\/iiaa006.\r\n\r\nTorpey, J. (2010) ‘A (post-) secular age? Religion and the two exceptionalisms’. Social Research. 77(1). pp. 269-296. https:\/\/www.jstor.org\/stable\/40972251\r\n\r\nUnited Nations High Commissioner for Refugees (UNHCR) (2014) On Faith-Based Organizations, Local Faith Communities and Faith Leaders. UNHCR, Geneva. Available from: https:\/\/www.unhcr.org\/539ef28b9.pdf\r\n\r\nWahid, K.H.A. (2001) ‘Indonesia’s mild secularism’. SAIS Review. 21(2). pp. 25-28. doi:10\/1353\/sais\/2001.0051.\r\n\r\nWeber, M. (1905\/2002) The Protestant Ethic and the “Spirit” of Capitalism and Other Writings. Translated by P. Baehr and G.C. Wells. Penguin Books. New York.\r\n\r\nWilford, J. (2010) ‘Sacred archipelagos: geographies of secularization’. Progress in Human Geography. 34(3). pp. 328-348. doi:10.1177\/0309132509348558.\r\n\r\nWilkinson, O. (2018a) ‘Secular humanitarians and the postsecular: reflections on Habermas and the Typhoon Haiyan disaster response’. Journal of Contemporary Religion. 33(2). pp. 193-208. doi:10.1080\/13537903.2018.1469260.\r\n\r\nWilkinson, O. (2018b) ‘‘Faith can come in, but not religion’: secularity and its effects on the disaster response to Typhoon Haiyan’. Disasters. 42(3). pp. 459-474. doi:10.1111\/disa.12258.\r\n\r\nWilson, E.K. (2017) ‘‘Power differences’ and ‘the power of difference’: the dominance of secularism as ontological injustice. Globalizations. 14(7). pp. 1076-1093. doi:10.1080\/14747731.2017.1308062",
+      "id_number": "https:\/\/doi.org\/10.1016\/j.ijdrr.2021.102371",
+      "metadata_visibility": "show",
+      "title": "A post-tsunami sea change? Towards post-secular disaster response in Indonesia",
+      "related_url": [
+        {
+          "url": "https:\/\/www.sciencedirect.com\/science\/article\/abs\/pii\/S221242092100337X"
+        }
+      ],
+      "keywords": "Post-secular; disaster response; tsunami; collaborative governance; Indonesia; Asia"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Agung",
+            "family": "Wibawa"
+          },
+          "id": "agung.wibawa@fisip.unila.ac.id"
+        }
+      ],
+      "publisher": "Ilmu Komunikasi FISIP UNILA",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "lastmod": "2021-04-13 02:11:33",
+      "eprintid": 29087,
+      "ispublished": "pub",
+      "abstract": "Riviewer Kerya Ilmiah : BANTAHAN SALAFIYYUN TERHADAP KONSEP  DEMOKRASI YUSUF AL QARDHAWI",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/02\/90\/87",
+      "datestamp": "2021-04-13 02:11:33",
+      "divisions": [
+        "FISIP4"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/29087",
+      "type": "other",
+      "subjects": [
+        "H1",
+        "JC"
+      ],
+      "title": "Riviewer Kerya Ilmiah : BANTAHAN SALAFIYYUN TERHADAP KONSEP  DEMOKRASI YUSUF AL QARDHAWI",
+      "metadata_visibility": "show",
+      "date": 2020,
+      "documents": [
+          {
+            "language": "en",
+            "main": "2. BANTAHAN SALAFIYYUN TERHADAP KONSEP  DEMOKRASI YUSUF AL QARDHAWI.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43196",
+            "rev_number": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/257991",
+                  "filesize": 553189,
+                  "fileid": 257991,
+                  "mtime": "2021-04-12 02:28:20",
+                  "hash": "a9bdd75a833774aef991c7eb869acc9b",
+                  "datasetid": "document",
+                  "objectid": 43196,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "2. BANTAHAN SALAFIYYUN TERHADAP KONSEP  DEMOKRASI YUSUF AL QARDHAWI.pdf"
+                }
+            ],
+            "eprintid": 29087,
+            "pos": 1,
+            "mime_type": "application\/pdf",
+            "docid": 43196,
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "status_changed": "2021-04-13 02:11:33",
+      "userid": 258
+    }
+]
+

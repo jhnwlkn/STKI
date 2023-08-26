@@ -1,0 +1,205 @@
+[
+    {
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Susanto",
+            "family": "Henry"
+          },
+          "id": "henry.susanto@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Yusuf",
+            "given": "Perdana",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Justika",
+            "given": "Indriyani"
+          },
+          "type": null,
+          "id": "justika.indriyani@gmail.com"
+        }
+      ],
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "This study aims to determine how the existence, impacts the function of the Sakukha Tradition in\r\nthe Buay Pernong Pekon Balak Community, West Lampung. The method used in this research is the\r\ndescriptive method with a qualitative approach. The data collection technique is done using observation,\r\ninterviews, documentation. The data analysis technique used is qualitative data analysis techniques. Based\r\non the results of the research, it was found that the existence of the Sakukha Tradition in the Buay\r\nPernong community has existed since ancient times as a symbol of magic and warfare, but currently, it is\r\nused as a symbol of gratitude for the Buay Pernong community, besides that it is used as a form of\r\ncommunity entertainment and a place to connect friendship. Although several things have changed, it is\r\ndifferent for the young generation of Buay Pernong Pekon Balak who is still wise and wise in responding\r\nto the entry of new cultures without causing the loss of the old culture by introducing the sakukha\r\ntradition through the media. This is also supported by the functions and roles of local government and\r\ntraditional leaders to maintain and preserve regional culture, especially the sakukha tradition, so that it\r\nwill not be lost by increasingly modern times, proven by the construction of a sakukha icon, precisely in\r\nHamtebiu park, Liwa West Lampung.",
+      "divisions": [
+        "FKIP24"
+      ],
+      "dir": "disk0\/00\/03\/08\/72",
+      "datestamp": "2021-05-27 02:37:02",
+      "lastmod": "2021-05-27 02:37:02",
+      "eprintid": 30872,
+      "number": 5,
+      "refereed": "TRUE",
+      "rev_number": 6,
+      "official_url": "https:\/\/ijmmu.com\/index.php\/ijmmu\/index",
+      "publisher": "IJMMU",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "henry.susanto@fkip.unila.ac.id",
+          "name": {
+            "family": "Henry",
+            "given": "Susanto",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Yusuf Perdana",
+            "family": "Yusuf Perdana"
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Indriyani",
+            "family": "Justika"
+          },
+          "id": "justika.indriyani@gmail.com"
+        }
+      ],
+      "date_type": "published",
+      "documents": [
+          {
+            "docid": 139320,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "main": "2598-8110-1-PB.pdf",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 30872,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "2598-8110-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 139320,
+                  "hash": "7052f58754e8102d98fb640f1002e02c",
+                  "mtime": "2021-05-26 14:32:21",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/366050",
+                  "fileid": 366050,
+                  "filesize": 639576
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/139320",
+            "rev_number": 1
+          }
+      ],
+      "publication": "International Journal of Multicultural and Multireligious Understanding (IJMMU)",
+      "date": "2021-05-10",
+      "userid": 2779,
+      "status_changed": "2021-05-27 02:37:02",
+      "volume": 8,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30872",
+      "type": "article",
+      "issn": "2364-5369",
+      "metadata_visibility": "show",
+      "title": "Sakukha Traditions: Preserving the Tradition in the Society of West Lampung to Enhance Historical Mindness",
+      "related_url": [
+        {
+          "url": "https:\/\/ijmmu.com\/index.php\/ijmmu",
+          "type": "pub"
+        }
+      ],
+      "pagerange": "446-457",
+      "subjects": [
+        "D051"
+      ]
+    },
+    {
+      "title": "Kompetisi Visualisasi Rempah\/Jalur Rempah",
+      "metadata_visibility": "show",
+      "output_media": "Poster",
+      "subjects": [
+        "D051",
+        "D1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20242",
+      "type": "exhibition",
+      "status_changed": "2020-05-22 02:50:57",
+      "event_title": "Kompetisi Visualisasi Rempah, Lomba Poster dan Animasi",
+      "userid": 2792,
+      "documents": [
+          {
+            "license": "cc_gnu_gpl",
+            "main": "Poster 1_Paint_Finish.jpg",
+            "language": "id",
+            "eprintid": 20242,
+            "pos": 1,
+            "files": [
+                {
+                  "filename": "Poster 1_Paint_Finish.jpg",
+                  "hash_type": "MD5",
+                  "mime_type": "image\/jpeg",
+                  "objectid": 33577,
+                  "datasetid": "document",
+                  "hash": "4ad156e19654780d8789c13b417ccab3",
+                  "mtime": "2020-05-20 09:01:37",
+                  "filesize": 332946,
+                  "fileid": 190750,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/190750"
+                }
+            ],
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33577",
+            "docid": 33577,
+            "mime_type": "image\/jpeg",
+            "security": "public",
+            "content": "published",
+            "placement": 1,
+            "formatdesc": "Kompetisi Visualisasi Rempah\/ Jalur Rempah",
+            "format": "image"
+          }
+      ],
+      "date_type": "submitted",
+      "contact_email": "jalurrempah@kemendikbud.go.id",
+      "lastmod": "2020-05-22 02:50:57",
+      "eprintid": 20242,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Putra",
+            "family": "Purwanto"
+          },
+          "id": "purwanto.putra@fisip.unila.ac.id"
+        }
+      ],
+      "official_url": "https:\/\/kebudayaan.kemdikbud.go.id\/bpnbkepri\/kompetisi-visualisasi-rempah-lomba-poster-dan-animasi\/",
+      "event_location": "Kemendikbud",
+      "event_dates": "April 14, 2020",
+      "full_text_status": "public",
+      "rev_number": 10,
+      "datestamp": "2020-05-22 02:50:57",
+      "dir": "disk0\/00\/02\/02\/42",
+      "divisions": [
+        "FISIP4"
+      ],
+      "abstract": "Karya ini ingin menghubungkan situasi terkini peradaban manusia di seluruh dunia yang terancam runtuh menghadapi masalah terbesar abad ini, yaitu wabah Virus Korona yang telah menghilankan jutaan nyawa dan belum ditemukan obatnya. Kemudian secara singkat dan mendalam poster ini menjelaskan peran rempah-rempah yang telah digunakan selama ratusan tahun untuk mengobati penyakit dan kemungkinan turut memperbaiki keadaan krisis akibat Virus Korona. \r\n\r\nPoster ini menjadi manifestasi untuk menunjukan kepada generasi muda Indonesia tentang bagaimana besar dan gemilangnya sejarah Jalur Rempah Nusantara, yang telah ada sejak ribuan tahun lalu dan memberi pengaruh pada peradaban manusia dalam berbagai aspek di lingkup domestik, Indonesia bahkan global. Pada kesempatan ini sekaligus diharapkan akan menjadi momentum tepat untuk mempengaruhi persepsi dan menajamkan pikiran generasi milenial, agar secara kreatif dan inovatif mendayagunakan budaya rempah sebagai suatu kekayaan kultural yang sangat bernilai kedepannya. Dan menggiring perhatian generasi muda Indonesia untuk turut membantu menyelesaikan masalah-masalah terkait rempah-rempah yang selama ini terlewatkan oleh mereka.",
+      "eprint_status": "archive"
+    }
+]
+

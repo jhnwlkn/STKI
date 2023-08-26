@@ -1,0 +1,268 @@
+[
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6466",
+      "type": "article",
+      "issn": "1799-2591",
+      "volume": 8,
+      "pagerange": "105-112",
+      "subjects": [
+        "L1",
+        "PR"
+      ],
+      "metadata_visibility": "show",
+      "title": "Attitude and Motivation in Learning a Local\r\nLanguage",
+      "publication": "Theory and Practice in Language Studies",
+      "date": "2018-01-01",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19408",
+            "rev_number": 2,
+            "files": [
+                {
+                  "objectid": 19408,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "Attitude and Motivation in Learning a Local.pdf",
+                  "mime_type": "application\/pdf",
+                  "fileid": 59881,
+                  "filesize": 2822610,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/59881",
+                  "mtime": "2018-02-09 17:54:00",
+                  "hash": "31044b9a65d4197c2d38ed1487c20bdb"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 6466,
+            "language": "en",
+            "main": "Attitude and Motivation in Learning a Local.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "docid": 19408
+          }
+      ],
+      "userid": 500,
+      "status_changed": "2018-02-13 07:29:23",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "creators": [
+        {
+          "name": {
+            "given": "Farida",
+            "family": "Ariyani",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "dulifarida@gmail.com"
+        },
+        {
+          "name": {
+            "family": "MULYANTO WIDODO",
+            "given": "MULYANTO W",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "mulyanto.widodo@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Setiyadi",
+            "family": "Bambang"
+          },
+          "id": null
+        }
+      ],
+      "lastmod": "2018-02-13 07:34:00",
+      "eprintid": 6466,
+      "refereed": "TRUE",
+      "number": 1,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Abstract—Some studies have been conducted to relate motivation with second \/foreign language learning.\r\nBelmechri and Hummel (1988) introduced intensity and desire in exploring motivation in the acquisition of a\r\nsecond language. In some studies motivation was classified into integrative and instrumental (Gardner and\r\nLambert, 1972; Ely, 1986; Oxford and Shearin, 1994; and Sung and Padila, 1998), while some other studies\r\nmotivation was classified into extrinsic and intrinsic (Dornyei (1994; Ramage, 1990; and Noels et al. 1999).\r\nUnlike the concept of motivation introduced by Oller et al.(1977 and Spolsky ( 1969), who did not separate\r\nattitude from motivation in language learning motivation in language learning in the study is separated from\r\nattitude. This study attempted to investigate how individual differences with regard to attitude and motivation\r\nare correlated in language learning. The participants in this study consisted of 75 students of a university in\r\nIndonesia who have been learning Lampungese language, a local language, since Elementary School. The data\r\nof attitude and motivation, which were collected through questionnaires, were analyzed by undertaking\r\ncorrelation analyses. The findings show that attitude and motivation was significantly correlated. The\r\npedagogical implications were also provided in this study.\r\nIndex Terms—attitude to language, attitude to language teaching, attitude to native speakers, intrinsic\r\nmotivation, extrinsic motivation term",
+      "divisions": [
+        "FKIP7"
+      ],
+      "datestamp": "2018-02-13 07:29:23",
+      "dir": "disk0\/00\/00\/64\/66"
+    },
+    {
+      "eprintid": 19387,
+      "lastmod": "2020-05-04 01:49:21",
+      "refereed": "TRUE",
+      "number": 4,
+      "official_url": "http:\/\/www.ijllnet.com\/journal\/index\/2569",
+      "publisher": "International Journal of Language & Linguistics",
+      "rev_number": 9,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "family": "Flora",
+            "given": "Flora",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "There had been many studies conducted to investigate the benefits of Mind Mapping (MM) in the writing process and Three-Step-Interview (TSI ) in the speaking process, this study set out to investigate the effectiveness of an integrated technique which was the combination of MM and TSI in teaching writing. This technique was intended to facilitate the students with individual and group brainstorming practice and to help create another teaching procedure which could effectively solve the students’ writing problem, especially in generating and organizing ideas in the pre-writing process. The subject of this study was 29 students who took Intermediate Writing subject at English Department Faculty of Education, Lampung University-Indonesia . The pretest and posttest were administered before and after the treatment. The data was analyzed by means of the paired sample t-test. The result shows that the students' writing ability significantly improved subsequent to the treatment. It also reveals that the most significant improvements were those of the writing content and organization aspects. The results are discussed in relation to relevant previous research findings.",
+      "divisions": [
+        "FKIP1"
+      ],
+      "dir": "disk0\/00\/01\/93\/87",
+      "datestamp": "2020-05-04 01:49:21",
+      "volume": 6,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19387",
+      "issn": "2374-8850",
+      "metadata_visibility": "show",
+      "title": "Integrating Mind Mapping (MM) and Three-Step-Interview (TSI) in Enhancing Students’ Writing Process in Foreign Language Setting",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/www.ijllnet.com\/journal\/index\/2569"
+        }
+      ],
+      "pagerange": "145-150",
+      "subjects": [
+        "LB",
+        "PR"
+      ],
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 305812,
+                  "fileid": 162150,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/162150",
+                  "hash": "55dfebbaebf45572a23428afec16bab0",
+                  "mtime": "2020-05-01 13:12:16",
+                  "objectid": 32614,
+                  "datasetid": "document",
+                  "filename": "ILL PUBLISHING.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "eprintid": 19387,
+            "pos": 2,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32614",
+            "main": "ILL PUBLISHING.pdf",
+            "language": "en",
+            "placement": 2,
+            "security": "public",
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 32614
+          }
+      ],
+      "publication": "International Journal of Language and Linguistics",
+      "date": "2019-12",
+      "userid": 848,
+      "status_changed": "2020-05-04 01:49:21"
+    },
+    {
+      "status_changed": "2019-05-09 02:32:15",
+      "userid": 236,
+      "date": "2019-12-20",
+      "publication": "SEMINAR NASIONAL HASIL- HASIL PENGABDIAN KEPADA MASYARAKAT 2008\" BERKARYA DAN BERINOVASI UTUK BANGSA BERBASIS PEMBANGUNAN YANG BERKELANJUTAN",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 25114,
+            "mime_type": "application\/pdf",
+            "pos": 1,
+            "eprintid": 12124,
+            "files": [
+                {
+                  "filesize": 1726371,
+                  "fileid": 108490,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/108490",
+                  "mtime": "2019-05-09 02:11:56",
+                  "hash": "56816e6df3567295baac59b7b905a6f7",
+                  "objectid": 25114,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "PENGABDIAN ENDANG.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25114",
+            "main": "PENGABDIAN ENDANG.pdf",
+            "language": "en"
+          }
+      ],
+      "pagerange": "118-124",
+      "subjects": [
+        "PR"
+      ],
+      "title": "Pelatihan Pengucapan Bahasa Prancis Baku (Prononciation Du Francais Standard) Bagi Guru- Guru Bahasa Prancis SMA\/ SMK - Lampung\r\nTahun Ajaran 2018\/ 2019",
+      "metadata_visibility": "show",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12124",
+      "datestamp": "2019-05-09 02:32:15",
+      "dir": "disk0\/00\/01\/21\/24",
+      "divisions": [
+        "FKIP7"
+      ],
+      "abstract": "Abstrak—Banyak guru bahasa Prancis yang belum bisa mengucapkan bahasa prancis dengan benar sesuai dengan aksen dan peraturanya. Tujuan yang ingin dicapai dalam kegiatan ini adalah memberikan pengetahuan atau wawasan kepada para guru tentang pengucapan baku \/ pelafalan standar alphabet Prancis ( vokal sengau, nasal ,semi vocal , konsonan, semi konsonan), fonetik internasional, kata- kata, kalimat dalam bahasa Prancis yang benar sesuai dengan aksen dan penekanannya(stress). Metode yang digunakan dalam pelatihan ini adalah metode ceramah, Tanya jawab, dan praktek, yaitu para guru menyimak penjelasan yang diberikan oleh nara sumber dengan seksama dan antusias dengan dibantu media power point yang ditampilkan melalui LCD beserta video pembelajaran pengucapan bahasa Prancis. Untuk skor rata- rata Post- Test dari hasil para guru adalah 81.8 dengan interpretasi nilai Baik. Perolehan skor rata – rata tersebut menunjukkan peningkatan 40.7 point dari skor sebelumnya 41.1 (kurang). Dari hasil tersebut menunjukkan bahwa ada peningkatan pengetahuan dan pemahaman para guru selama pelatihan berlangsung. Perolehan skor pada interpretasi nilai Baik Sekali sebesar 50% ( 5 orang), interpretasi nilai Baik sebesar 10% ( 1 orang), dan nilai Cukup  sebanyak  40% ( 4 orang). Hasil tersebut tentu saja belum maksimal dapat 100% bagus semua dan belum sesuai dengan yang diharapkan oleh nara sumber.\r\n\r\nKata Kunci—Pengucapan Baku, Bahasa Prancis, Guru SMA\/SMK",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "given": "Endang",
+            "family": "Ikhtiarti",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "endangikhtiarti@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rosita",
+            "given": "Diana"
+          },
+          "id": "ndianarosita@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rini",
+            "given": "Setia"
+          }
+        },
+        {
+          "name": {
+            "given": "Dian",
+            "family": "Pratiwi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "publisher": "LEMBAGA PENELITIAN DAN PENGABDIAN KEPADA MASYARAKAT UNIVERSITAS LAMPUNG",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "refereed": "TRUE",
+      "eprintid": 12124,
+      "lastmod": "2019-05-09 02:32:15"
+    }
+]
+

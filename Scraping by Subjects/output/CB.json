@@ -1,0 +1,243 @@
+[
+    {
+      "status_changed": "2020-02-17 03:39:40",
+      "userid": 2785,
+      "date": 2019,
+      "documents": [
+          {
+            "docid": 30379,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "cover full buku 7 tokoh ok.pdf",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 17273,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "cover full buku 7 tokoh ok.pdf",
+                  "datasetid": "document",
+                  "objectid": 30379,
+                  "mtime": "2019-12-07 04:03:36",
+                  "hash": "c1195948f0f367ccbb92abd43889bd32",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/146277",
+                  "fileid": 146277,
+                  "filesize": 330900
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30379",
+            "rev_number": 1
+          }
+      ],
+      "subjects": [
+        "CB",
+        "Z665",
+        "Z719",
+        "ZA"
+      ],
+      "editors": [
+        {
+          "id": "renti.oktaria@fkip.unila.ac.id",
+          "name": {
+            "family": "Renti",
+            "given": "Oktaria",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "title": "Tujuh Tokoh Nasional Sumatera Barat Di Bidang Pendidikan Dan Pers (Buku Pelajaran Sekolah Untuk SMP)",
+      "metadata_visibility": "show",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17273",
+      "type": "book",
+      "datestamp": "2020-02-17 03:39:40",
+      "dir": "disk0\/00\/01\/72\/73",
+      "divisions": [
+        "FKIP23"
+      ],
+      "isbn": 9786239127411,
+      "ispublished": "pub",
+      "abstract": "Ada berbagai ragam perjuangan, satu di antaranya adalah perjuangan tanpa senjata yang sangat penting namun sering terlupakan adalah perjungan di bidang pendidikan dan pers. Apa yang mereka telah lakukan menjadai inspirasi dan panduan untuk kita terapkan. Agar bangsa kita menjadi semakin maju dan berjaya kedepannya. Hal yang tepat kiranya jika tokoh-tokoh dipelajari dan digali kembali kiprah ketokohannya. \r\nAda banyak tokoh nasional yang berjuang pada bidang pendidikan dan pers dan berpengaruh signifikan signifikan dalam mencerdaskan bangsa. Ide dan perjuangannya begitu monumental dan beberapa masih dapat kita rasakan sampai saat ini. Para tokoh nasional ini dengan dedikasi tanpa kenal lelah telah mengorbankan harta dan bendanya. \r\nMelalui buku ini kita diajak untuk kembali mengingatkan dan meneladani kiprah beberapa tokoh nasional asal Sumatera Barat yang telah berjuang dan mengorbankan dirinya untuk perkembangan pendidikan dan pers di Indonesia. Ada 7 tokoh inspirasi yang kiprahnya bukan hanya di Indonesia dan bahkan juga diakui di luar negeri. Betapa bangganya kita.",
+      "eprint_status": "archive",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Purwanto",
+            "given": "Putra"
+          },
+          "id": "purwanto.putra@fisip.unila.ac.id"
+        }
+      ],
+      "rev_number": 10,
+      "publisher": "Petualang Literasi",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "eprintid": 17273,
+      "lastmod": "2020-02-17 03:39:40"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6637",
+      "type": "conference_item",
+      "event_type": "workshop",
+      "subjects": [
+        "CB",
+        "H1",
+        "HM",
+        "HN",
+        "L1"
+      ],
+      "metadata_visibility": "show",
+      "title": "PENGUATAN TRADISI LISAN SEBAGAI UPAYA EKSISTENSI NILAI-NILAI MULTIKULTUR",
+      "date": "2018-03-23",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19602",
+            "rev_number": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "filename": "Tradisi Lisan.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 19602,
+                  "datasetid": "document",
+                  "mtime": "2018-03-23 07:55:18",
+                  "hash": "89e0fda924edca4050a3bc406b8aaec2",
+                  "fileid": 61189,
+                  "filesize": 96348,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61189"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 6637,
+            "language": "en",
+            "main": "Tradisi Lisan.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "docid": 19602
+          }
+      ],
+      "userid": 265,
+      "status_changed": "2018-04-13 03:02:47",
+      "event_title": "PENGUATAN TRADISI LISAN SEBAGAI UPAYA EKSISTENSI NILAI-NILAI MULTIKULTUR",
+      "full_text_status": "public",
+      "event_location": "PESISIR BARAT",
+      "rev_number": 11,
+      "creators": [
+        {
+          "id": "sinarbanten1@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yanzi",
+            "given": "Hermi"
+          }
+        }
+      ],
+      "eprintid": 6637,
+      "lastmod": "2018-04-13 03:02:47",
+      "pres_type": "paper",
+      "refereed": "TRUE",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "abstract": "Salah satu ciri khas dari keberagaman yang mudah dikenali dari setiap tradisi adalah aspek bahasa. Aspek bahasa atau tradisi lisan ini sudah hampir ditinggalkan oleh sebagian masyarakat adat. Anggapan malu menggunakan bahasa dan sastra lisan daerah sangat mempengaruhi kelestarian dari tradisi lisan tersebut. \r\n\r\nPenguatan tradisi lisan yang dimaksud pada tulisan ini merupakan upaya dari pelestarian sastra lisan Hahiwang yang ada di Provinsi Lampung Kabupaten Pesisir Barat. Kajian terhadap penguatan tradisi lisan sangat mempengaruhi nilai-nilai multikultur masyarakat setempat yang bukan berasal dari suku Lampung. Secara praktis, karya ilmiah ini diharapkan bahan masukan bagi masyarakat dan pemerintah daerah untuk saling mengusahakan dan membudayakan penguatan tradisi lisan sebagai upaya mengaktualisasi nilai-nilai multikultur.\r\n\r\nKata kunci : Multikultur, Nilai-Nilai Multikultur, Tradisi Lisan.",
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP12"
+      ],
+      "dir": "disk0\/00\/00\/66\/37",
+      "datestamp": "2018-04-13 03:02:47"
+    },
+    {
+      "event_type": "conference",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10463",
+      "metadata_visibility": "show",
+      "title": "Intelectual Skills Enhancement by Using Dukasan\r\nMedia in Learning of Pancasila and Civic Education\r\nat Junior High School 26 Bandar Lampung",
+      "pagerange": "62-67",
+      "subjects": [
+        "CB",
+        "H1",
+        "L1",
+        "Q1"
+      ],
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "docid": 23480,
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23480",
+            "pos": 1,
+            "eprintid": 10463,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/97134",
+                  "filesize": 2736483,
+                  "fileid": 97134,
+                  "mtime": "2018-12-04 10:12:35",
+                  "hash": "e11a2e4557ade16fd22f4a062464362b",
+                  "datasetid": "document",
+                  "objectid": 23480,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Intelectual Skills Enhancement_ACEC015 ke repository kim.pdf"
+                }
+            ],
+            "language": "en",
+            "main": "Intelectual Skills Enhancement_ACEC015 ke repository kim.pdf"
+          }
+      ],
+      "date": "2018-04",
+      "userid": 265,
+      "status_changed": "2018-12-19 07:05:26",
+      "event_title": "Intelectual Skills",
+      "lastmod": "2018-12-19 07:05:26",
+      "eprintid": 10463,
+      "pres_type": "paper",
+      "refereed": "TRUE",
+      "official_url": "https:\/\/www.atlantis-press.com\/article\/25905907",
+      "event_dates": "April 2018",
+      "event_location": "Bandung, Indonesia",
+      "full_text_status": "public",
+      "rev_number": 10,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Hermi",
+            "family": "Yanzi"
+          },
+          "id": "sinarbanten1@yahoo.co.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "pitoewas",
+            "given": "berchah"
+          },
+          "id": "pitoewas745@gmail.com"
+        }
+      ],
+      "date_type": "published",
+      "eprint_status": "archive",
+      "abstract": "Abstract— The use of innovative media is needed in\r\nincreasing students' thinking ability. The purpose of this study\r\nwas to obtain an overview of the application of innovative media\r\nDukasan to improve intellectual skills in the subjects of Pancasila\r\nand Civic Education at Junior High School 26 Bandar Lampung.\r\nThis research uses a mixed method approach with class room\r\naction research design which includes four series of activities,\r\nnamely planning, implementation, observation, reflection. The\r\nresults showed that the planning phase of the first cycle obtained\r\n32.5% in the unfavorable category, cycle II obtained 55% in the\r\nunfavorable category and cycle III obtained 87.5% in the very\r\ngood category. In the implementation phase of the first cycle, it\r\ngot 42% in the good enough category, 57% for cycle II in the\r\nunfavorable category and 79% for cycle III in the good category.\r\nThe results of the assessment of the increase in students'\r\nintellectual skills in the first cycle obtained 33.3% with the bad\r\ncategory, while the second and the third cycle scored 51.1% with\r\na fairly good category and 84.4% with a very good category\r\nrespectively. Based on the results of the study showed that during\r\nthe three cycles of significant changes in the results of intellectual\r\nskills assessment from 33.3% to 84.4%, it can be concluded that\r\nthe Dukasan media is effective in improving intellectual skills in\r\nlearning PPKn.\r\nKeywords— intelectual skills; dukasan media",
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP12"
+      ],
+      "dir": "disk0\/00\/01\/04\/63",
+      "datestamp": "2018-12-19 07:05:26"
+    }
+]
+

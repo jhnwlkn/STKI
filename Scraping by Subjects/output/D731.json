@@ -1,0 +1,193 @@
+[
+    {
+      "status_changed": "2020-08-31 01:56:11",
+      "book_title": "Proseding Seminar Nasional Program Studi Sejarah se-Indonesia",
+      "userid": 250,
+      "date": 2016,
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37432",
+            "eprintid": 23798,
+            "pos": 1,
+            "files": [
+                {
+                  "mtime": "2020-08-29 08:46:50",
+                  "hash": "7af278c7f61b20d9370f18411ce7d2c3",
+                  "fileid": 217177,
+                  "filesize": 29692981,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/217177",
+                  "hash_type": "MD5",
+                  "filename": "Prosiding Sejarah (4)_2.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 37432,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "main": "Prosiding Sejarah (4)_2.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 37432,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "subjects": [
+        "D1",
+        "D731",
+        "D839"
+      ],
+      "pagerange": "448-457",
+      "title": "Pertempuran 5 Jam di Kalianda: Mempertahanan Republik Indonesia di Pintu Gerbang Sumatera",
+      "metadata_visibility": "show",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23798",
+      "type": "book_section",
+      "dir": "disk0\/00\/02\/37\/98",
+      "datestamp": "2020-08-31 01:56:11",
+      "divisions": [
+        "FKIP24"
+      ],
+      "isbn": 9786026042002,
+      "ispublished": "pub",
+      "abstract": "Tanggal 1 Januari 1949, bertetapan dengan 12 hari setelah meruntuhkan Ibukota Yogyakarta, Belanda mengarahkan pasukannya menuju sai bumi ruwa jurai, Karesidenan Lampung dan melumpuhkan Teluk Betung-Tanjung Karang, Ibukota karesidenan. Lampung yang sebelumnya jauh dari hingar bingar bunyi tembakan mendadak panas dengan kobaran semangat rakyat untuk mempertahankan wilayahnya demi mempertahankan kemerdekaan Republik Indonesia dari Agresi Militer Belanda II. Salah satu wilayah yang bergejolak di Lampung adalah Kalianda, kota yang berada di ujung selatan Pulau Sumatera. Apa artinya Indonesia tanpa wilayahnya, inilah kesadaran nasionalisme yang dimiliki rakyat Lampung untuk berjuang mempertahankan wilayahnya. Ada peristiwa heroic yang dikenang masyarakat Kalianda yaitu pertempuran 5 jam yang berhasil memukul mundur tentara Belanda tanggal 21 Maret 1949 oleh segenap kekuatan perlawanan rakyat semesta pimpinan Kolonel Makmum Rasyid. Pertempuran 5 jam terjadi pukul 01.00 sampai pukul 05.00. Pertempuran mengakibatkan 10 korban jiwa, 2 korban luka-luka dari pasukan Kolonel Makmun Rasyid 9 orang tewas dari pihak Belanda.",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "SUPARMAN",
+            "family": "ARIF"
+          },
+          "id": "suparman.arif@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "M",
+            "given": "Syaiful"
+          },
+          "id": "syaiful.m@fkip.unila.ac.id"
+        }
+      ],
+      "full_text_status": "public",
+      "publisher": "FIS UNY",
+      "rev_number": 9,
+      "refereed": "FALSE",
+      "lastmod": "2020-08-31 01:56:11",
+      "eprintid": 23798
+    },
+    {
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 141033,
+            "files": [
+                {
+                  "objectid": 141033,
+                  "datasetid": "document",
+                  "filename": "EJMCM_Volume 7_Issue 3_Pages 4413-4427_4.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 369999,
+                  "filesize": 181643,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/369999",
+                  "hash": "8e025c650bc017d339113d1616f38a1d",
+                  "mtime": "2021-05-28 15:19:42"
+                }
+            ],
+            "eprintid": 31213,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/141033",
+            "rev_number": 1,
+            "main": "EJMCM_Volume 7_Issue 3_Pages 4413-4427_4.pdf",
+            "language": "en"
+          }
+      ],
+      "date": "2020-12-21",
+      "publication": "European Journal of Molecular & Clinical Medicine",
+      "status_changed": "2021-05-29 00:36:20",
+      "userid": 8592,
+      "volume": 7,
+      "issn": "ISSN 2515-8260",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31213",
+      "type": "article",
+      "title": "The Beruang Hitam Paramilitary Struggle to Maintain Indonesian Independence in the Year of1949 inLampung",
+      "metadata_visibility": "show",
+      "pagerange": "4413-4427",
+      "subjects": [
+        "D731"
+      ],
+      "ispublished": "pub",
+      "abstract": "Abstract: This study aims to determine the guerrilla struggle of the BeruangHitam troops in defending Lampung so that it remains part of the independent Republic of Indonesia. This research is a qualitative research with historical methods and data collection techniques using the literature techniques, documentation, interviews with descendants of Abu BakarSidiq and the former of BeruangHitam troops. The results of this study indicated that the BeruangHitam paramilitary was a defense force for the country whose members consisted of ALRI (Navy of the Republic of Indonesia), the People and in their struggle several TNI asked to join. BeruangHitam troops decided to carry out a guerrilla warfare strategy because of the bigger enemy force and unbalanced weaponry so that it was impossible to carry out an open warfare, besides Lampung geographic which was mostly forests, hills and  mountains, it was very possible to use a guerrilla war strategy. The guerrilla war of BeruangHitam troops spread throughout Lampung, namely: Lampung Selatan, Gedong Air, Kemiling, Sukadanaham, Way Lima, GunungSugih, Metro, and Lampung Utara. BeruangHitam troops had a major contribution in defending Lampung and succeeded in maintaining the residency of Lampung in Bukit Kemuning, Lampung Utara. Before carrying out the attack, the BeruangHitam troops always prepared the war strategies, defensive strategies and attack techniques which were the key to success in every battle.   \r\n \r\nKeywords: The BeruangHitam Paramilitary, Abu Bakar Sidiq, Guerrilla Warfare, Struggle, Maintain the Independence of the Republic of Indonesia, War Strategy, Defensive Strategy, Offensive strategy.",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/03\/12\/13",
+      "datestamp": "2021-05-29 00:36:20",
+      "divisions": [
+        "FKIP24"
+      ],
+      "number": 3,
+      "refereed": "TRUE",
+      "lastmod": "2021-05-29 00:36:20",
+      "eprintid": 31213,
+      "creators": [
+        {
+          "name": {
+            "given": "Imanita",
+            "family": "Myristica",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "myristica.imanita@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Triaristina",
+            "family": "Aprila"
+          },
+          "id": "aprilia@fkip.unila.ac.id"
+        },
+        {
+          "id": "yustina.sriekwandari@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Sri Ekwandari",
+            "family": "Yustina"
+          }
+        },
+        {
+          "name": {
+            "family": "Maskun",
+            "given": "Maskun",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "maskun.1959@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Valensy Rachmedita",
+            "family": "Valensy Rachmedita"
+          },
+          "id": "valensy.rachmedita02@fkip.unila.ac.id"
+        }
+      ],
+      "official_url": "https:\/\/ejmcm.com\/article_4670.html",
+      "publisher": "European Journal of Molecular & Clinical Medicine",
+      "full_text_status": "public",
+      "rev_number": 11,
+      "date_type": "published"
+    }
+]
+

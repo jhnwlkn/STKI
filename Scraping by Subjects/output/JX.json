@@ -1,0 +1,68 @@
+[
+    {
+      "divisions": [
+        "FISIP8"
+      ],
+      "dir": "disk0\/00\/04\/56\/83",
+      "datestamp": "2022-10-14 01:20:08",
+      "eprint_status": "archive",
+      "abstract": "In this chapter, Hurd argues that Libya’s strategy of appealing to various international laws and symbols and reinterpreting them in light of new evidence succeeded in increasing its supporters and delegitimizing the sanctions imposed on it, prompting America and Britain to reconsider their decisions. When Libya was confronted with UN sanctions in the early 1990s, it was a relatively weak state confronted with the international community. In the absence of coercive resources or powerful supporters, Libya's approach to weakening sanctions relied on absorbing and appropriating the symbols and principles of liberal internationalism. According to Hurd, this case is important because it demonstrates more broadly how the legitimacy of an institution is a source of power for weak actors (Libya) as well as a constraint on the behavior of powerful actors (p.137). This legitimacy produces powerful symbols in international relations that are strategically useful to states in pursuing their interests.",
+      "ispublished": "unpub",
+      "lastmod": "2022-10-14 01:20:08",
+      "eprintid": 45683,
+      "full_text_status": "public",
+      "rev_number": 8,
+      "creators": [
+        {
+          "id": "budi.kurniawan@fisip.unila.ac.id",
+          "name": {
+            "given": "Budi",
+            "family": "Kurniawan",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "userid": 284,
+      "status_changed": "2022-10-14 01:20:08",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184489",
+            "rev_number": 1,
+            "eprintid": 45683,
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/506723",
+                  "filesize": 65076,
+                  "fileid": 506723,
+                  "mtime": "2022-10-13 17:20:18",
+                  "hash": "b76e3686458b9ac0c5f90f3acb5cc753",
+                  "datasetid": "document",
+                  "objectid": 184489,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Hurd, (2007) Chapter 6.pdf"
+                }
+            ],
+            "language": "en",
+            "main": "Hurd, (2007) Chapter 6.pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "docid": 184489,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "date": "2022-10",
+      "metadata_visibility": "show",
+      "title": "Review Chapter 6: Ian Hurd (2007),\"Libya and the Sanctions\" in After Anarchy: Legitimacy and Power in the UN Security Council",
+      "subjects": [
+        "JX",
+        "JZ"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45683",
+      "type": "teaching_resource"
+    }
+]
+

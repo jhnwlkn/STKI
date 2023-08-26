@@ -1,0 +1,754 @@
+[
+    {
+      "eprintid": 11145,
+      "lastmod": "2019-05-02 04:18:11",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "official_url": "https:\/\/jurnal.fmipa.unila.ac.id\/index.php\/semirata\/article\/viewFile\/621\/441",
+      "event_dates": "10 - 12 Mei 2013",
+      "event_location": "FMIPA Universitas Lampung",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "creators": [
+        {
+          "id": "rusdi.evizal@fp.unila.ac.id",
+          "name": {
+            "family": "Evizal",
+            "given": "Rusdi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Endah",
+            "family": "Setyaningrum"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Agung",
+            "family": "Wibawa"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Deddy",
+            "family": "Aprilani",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "FMIPA Universitas Lampung"
+      ],
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Indonesia merupakan wilayah hot spot biodiversitas dunia termasuk kekayaan ragam tumbuhan obat. Berbagai suku memanfaatkan tumbuhan sebagai bahan etnomedisin\r\ndengan keunikan ramuan dan cara penyajian. Kearifan lokal, pengobatan tradisonal, dan pengetahuan etnobotani perlu dipelajari dan dikembangkan. Penelitian ini bertujuan untuk menginventarisasi tumbuhan obat dan bagian yang digunakan untuk ramuan dan menginventarisasi ramuan tumbuhan obat cara penggunaannya oleh etnis lokal di Lampung Timur. Penelitian ini menggunakan metode survei dengan penentuan sampel informan menggunakan metode snowball sampling dari 3 kecamatan yaitu Way Jepara, Melinting, dan Jabung. Hasil menunjukkan bahwa pengobat tradisional merupakan suku Lampung asli,\r\nperempuan atau laki-laki, dengan usia berkisar 50-79 tahun berpendidikan tidak tamat SD atau tamat SD. Menjadi pengobat umumnya sebagai pekerjaan samping, penghidupan utama umumnya sebagai petani atau pekebun. Terdapat 69 jenis tumbuhan berupa pohon atau herba dengan bagian yang digunakan sebagai bahan ramuan obat berupa, daun, batang, kulit batang, buah, umbi, akar atau keseluruhan herba. Tumbuhan tersebut dimanfaatkan sebagai ramuan untuk pengobatan berbagai penyakit dan perawatan kesehatan mulai dari penyakit yang umum yaitu mencret, batuk, bisul, pengobatan luka, demam, sariawan, campak,\r\ncacingan, penyakit yang spesifik seperti maag, sakit kuning, vertigo, rematik, darah tinggi,kencing manis serta perawatan khusus seperti perawatan pasca melahirkan, patah tulang, dan ingin mempunyai keturunan.",
+      "divisions": [
+        "FP2"
+      ],
+      "dir": "disk0\/00\/01\/11\/45",
+      "datestamp": "2019-05-02 04:18:11",
+      "event_type": "conference",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11145",
+      "metadata_visibility": "show",
+      "title": "Keragaman Tumbuhan dan Ramuan Etnomedisin Lampung Timur",
+      "pagerange": "277-293",
+      "subjects": [
+        "QH301",
+        "RV"
+      ],
+      "documents": [
+          {
+            "docid": 24136,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "main": "Keragaman Tumbuhan dan Ramuan Etnomedisin Lampung Timur.pdf",
+            "language": "en",
+            "eprintid": 11145,
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 24136,
+                  "mime_type": "application\/pdf",
+                  "filename": "Keragaman Tumbuhan dan Ramuan Etnomedisin Lampung Timur.pdf",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/101809",
+                  "filesize": 968587,
+                  "fileid": 101809,
+                  "hash": "e27a682183c5459e895d35d6c61153d7",
+                  "mtime": "2019-04-12 06:47:59"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24136",
+            "rev_number": 1
+          }
+      ],
+      "date": "2013-05",
+      "userid": 255,
+      "event_title": "PROSIDING SEMINAR dan rapat tahunan bidang ilmu MIPA PTN BKS Barata'",
+      "status_changed": "2019-05-02 04:18:11"
+    },
+    {
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/01\/68\/74",
+      "datestamp": "2019-11-18 07:14:33",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Carpal Tunnel Syndrome adalah kumpulan gejala akibat penekanan pada nervus medianus oleh ligamentum karpal\r\ntransversal di dalam terowongan karpal pada pergelangan tangan. Carpal Tunnel Syndrome memiliki hubungan dengan\r\npekerjaan dengan gerakan berulang dan posisi menetap pada jangka waktu yang lama. Carpal Tunnel Syndrome\r\nmerupakan salah satu penyakit yang sering dijumpai pada pekerja-pekerja industri pada negara maju. Gambaran klinis\r\nCarpal Tunnel Syndrome adalah nyeri di tangan atau lengan, terutama pada malam hari atau saat sedang melakukan\r\npekerjaan, parestesia seperti kesemutan pada distribusi nervus medianus, dan sering terjadi bilateral. Pengobatan Carpal Tunnel Syndrome dapat berupa terapi definitif dan terapi konservatif. Salah satu terapi konservatif dalam Carpal Tunnel Syndrome adalah dengan pemberian vitamin B6. Pisang (Musa sp.) merupakan salah satu komoditas yang melimpah di\r\nIndonesia, terbukti memiliki kandungan vitamin B6 yang tinggi. Diketahui bahwa konsumsi vitamin B6, dapat memperbaiki gejala klinis pasien Carpal Tunnel Syndrome, karena kondisi saraf yang tidak terdiagnosis sebelumnya. Hal ini berkaitan dengan status vitamin B6 dalam tubuh dan fakta bahwa vitamin B6 dapat bertindak sebagai analgesik dengan meningkatkan ambang nyeri. Vitamin B6 yang terkandung dalam pisang, berpotensi mengurangi rasa nyeri dengan cara meningkatkan sintesis dopamin dan menghambat sintesis glutamat pada pasien Carpal Tunnel Syndrome. \r\nKata kunci: Carpal tunnel syndrome, pisang (Musa sp.), vitamin B6",
+      "date_type": "published",
+      "eprintid": 16874,
+      "lastmod": "2019-11-18 07:14:33",
+      "refereed": "TRUE",
+      "number": 2,
+      "publisher": "Fakultas Kedokteran Universitas Lampung press",
+      "official_url": "http:\/\/juke.kedokteran.unila.ac.id\/index.php\/agro\/article\/view\/2417\/pdf",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "itamaulianap@gmail.com.",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Prabiwi",
+            "given": "Dita Maulina"
+          }
+        },
+        {
+          "name": {
+            "family": "Carolia",
+            "given": "Novita",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "novitacarolia@rocketmail.com"
+        }
+      ],
+      "userid": 109,
+      "status_changed": "2019-11-18 07:14:33",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 29961,
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "main": "2417-3133-1-PB.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29961",
+            "rev_number": 1,
+            "files": [
+                {
+                  "objectid": 29961,
+                  "datasetid": "document",
+                  "filename": "2417-3133-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 143262,
+                  "filesize": 115681,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/143262",
+                  "hash": "d091cf5ac35ad5265b1444d26bd1b2a7",
+                  "mtime": "2019-11-18 03:59:54"
+                }
+            ],
+            "eprintid": 16874,
+            "pos": 1
+          }
+      ],
+      "publication": "AGROMEDICINE UNILA",
+      "date": "2019-10",
+      "metadata_visibility": "show",
+      "title": "Potensi Pisang (Musa sp.) sebagai Sumber Vitamin B6 dalam Terapi Konservatif Carpal Tunnel Syndrome",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/juke.kedokteran.unila.ac.id\/index.php\/agro\/article\/view\/2417\/pdf"
+        }
+      ],
+      "subjects": [
+        "R1",
+        "RS",
+        "RV"
+      ],
+      "pagerange": "383-387",
+      "volume": 6,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16874",
+      "issn": "2356-332X"
+    },
+    {
+      "refereed": "TRUE",
+      "number": 2,
+      "eprintid": 5179,
+      "lastmod": "2017-11-10 14:37:43",
+      "creators": [
+        {
+          "name": {
+            "family": "Ramadhian",
+            "given": "Muhammad Ricky",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "rickyramadhian@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Rahmatia",
+            "given": "Niken"
+          }
+        }
+      ],
+      "rev_number": 11,
+      "publisher": "Juke Unila",
+      "full_text_status": "restricted",
+      "date_type": "published",
+      "ispublished": "pub",
+      "abstract": "Aterosklerosis merupakan penyakit dimana terjadi proses pembentukkan plak di dalam lumen pembuluh darah arteri. Penyebab pasti terbentuknya plak aterosklerosis belum diketahui namun faktor resiko mayor seperti hiperkolesterolemia, obesitas, hipertensi, merokok, diabetes berperan dalam proses pembentukkan dan perkembangan plak. Obat-obatan penurun kolesterol sering digunakan dalam terapi aterosklerosis . Cabai, tanaman dari genus capsicum yang memiliki zat aktif kapsaikin . Zat aktif kapsaisin ini sudah banyak diteliti di bidang kesehatan karena memiliki banyak manfaat bagi tubuh, salah satunya pada sistem kardiovaskuler , terutama pada aterogenesis. Penelitian pada hewan percobaan membuktikan bahwa aktivasi TRPV1 oleh zat kapsaisin dapat menurunkan kadar kolesterol darah dengan cara penurunan serapan kolesterol dan peningkatan efluks dari kolesterol , serta berfungsi melindungi endotel pembuluh darah dengan regulasi peningkatan zat vasodilator seperti nitrit oksida. Potensi cabai sebagai anti-aterosklerosis alami telah dibuktikan padapenelitian hewan percobaan , namun data percobaan pada manusia masih minimal. \r\nKata Kunci : aterosklerosis , cabai , kapsaisin, kolesterol",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/00\/51\/79",
+      "datestamp": "2017-11-10 14:37:43",
+      "divisions": [
+        "FK1"
+      ],
+      "volume": 6,
+      "issn": "2337-3776",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5179",
+      "related_url": [
+        {
+          "url": "http:\/\/juke.kedokteran.unila.ac.id\/index.php\/majority\/article\/view\/1013"
+        }
+      ],
+      "title": "Potensi Cabai sebagai Anti-Aterosklerosis",
+      "metadata_visibility": "show",
+      "subjects": [
+        "R1",
+        "RV"
+      ],
+      "documents": [
+          {
+            "format": "text",
+            "content": "published",
+            "security": "validuser",
+            "placement": 1,
+            "mime_type": "application\/xml",
+            "docid": 18126,
+            "rev_number": 4,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18126",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/49345",
+                  "filesize": 16470,
+                  "fileid": 49345,
+                  "mtime": "2017-11-10 13:40:29",
+                  "hash": "53112102ba56cacb2bb8b531582df6f9",
+                  "datasetid": "document",
+                  "objectid": 18126,
+                  "mime_type": "application\/xml",
+                  "hash_type": "MD5",
+                  "filename": 1013
+                }
+            ],
+            "eprintid": 5179,
+            "pos": 1,
+            "language": "en",
+            "main": 1013
+          }
+      ],
+      "date": "2017-03",
+      "publication": "Majority",
+      "status_changed": "2017-11-10 14:37:43",
+      "userid": 154
+    },
+    {
+      "publication": "Majority",
+      "date": "2017-03",
+      "documents": [
+          {
+            "main": "1089-1655-1-PB.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "hash": "28734c54f5ef2f34935099e8b23809a5",
+                  "mtime": "2017-11-10 13:35:36",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/49327",
+                  "fileid": 49327,
+                  "filesize": 114706,
+                  "mime_type": "application\/pdf",
+                  "filename": "1089-1655-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 18122
+                }
+            ],
+            "pos": 1,
+            "eprintid": 5178,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18122",
+            "mime_type": "application\/pdf",
+            "docid": 18122,
+            "content": "published",
+            "placement": 1,
+            "security": "validuser",
+            "format": "text"
+          }
+      ],
+      "userid": 154,
+      "status_changed": "2017-11-10 14:10:12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5178",
+      "type": "article",
+      "issn": "2337-3776",
+      "volume": 6,
+      "subjects": [
+        "R1",
+        "RV"
+      ],
+      "pagerange": "61-64",
+      "metadata_visibility": "show",
+      "title": "Arometerapi Bunga Lavender (Lavandula angustifolia)\r\ndalam Menurunkan Risiko Insomnia",
+      "eprint_status": "archive",
+      "abstract": "bstrak\r\nInsomnia adalah keadaan sulit dalam memulai tidur, mempertahankan tidur, dan tidur yang tidak menyegarkan dalam 1\r\nbulan atau lebih. Penyakit ini menjadi masalah kesehatan di negara maju maupun berkembang. Insomnia paling sering\r\ndisebabkan oleh depresi dan ansietas. Penanganan untuk menurunkan risiko insomnia dengan menggunakan aromaterapi\r\ndibandingkan penanganan farmakoterapi yang sering menimbulkan efek samping bagi penderita insomnia. Aromaterapi\r\nmerupakan teknik pengobatan dengan aroma minyak esensial dari proses penyulingan berbagai bagian tanaman, bunga,\r\nmaupun pohon yang masing-masing mengandung sifat terapi yang berbeda. Salah satu aroma yang paling digemari adalah\r\nbunga lavender (Lavandula angustifolia). Tanaman ini merupakan famili Lamiaceae yang berasal dari wilayah selatan Laut\r\nTengah sampai Afrika tropis dan ke timur sampai India yaitu menyebar dari Kepulauan Kanari, Afrika Utara dan Timur,\r\nEropa selatan dan Mediterania, serta Arabia. Bunga lavender (Lavandula angustifolia) memberikan efek sedative karena\r\nmemiliki kandungan aktif utama yaitu linalool (C10H18O). Mekanisme dari aromaterapi bunga lavender (Lavandula\r\nangustifolia) yang mengandung linalool dengan merangsang daerah di otak yaitu nucleus raphe yang akan mensekresikan\r\nserotonin yang dapat menghantarkan seseorang untuk dapat tidur.\r\nKata kunci: aromaterapi, bunga lavender (Lavandula angustifolia), insomnia, linalool",
+      "ispublished": "pub",
+      "divisions": [
+        "FK1"
+      ],
+      "datestamp": "2017-11-10 14:10:12",
+      "dir": "disk0\/00\/00\/51\/78",
+      "rev_number": 8,
+      "publisher": "Juke Unila",
+      "full_text_status": "restricted",
+      "creators": [
+        {
+          "id": "rickyramadhian@gmail.com",
+          "name": {
+            "given": "Muhammad Ricky",
+            "family": "Ramadhian",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Zettira",
+            "given": "Ocsi Zara",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "contact_email": "rickyramadhian@gmail.com",
+      "eprintid": 5178,
+      "lastmod": "2017-11-10 14:10:12",
+      "refereed": "TRUE",
+      "number": 2
+    },
+    {
+      "pagerange": "1-12",
+      "subjects": [
+        "RV"
+      ],
+      "title": "Characterization of protease from bacillus sp. on medium\r\ncontaining FeCl3 exposed to magnetic field 0.2 mT",
+      "metadata_visibility": "show",
+      "issn": "1755-1315",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7997",
+      "volume": 130,
+      "status_changed": "2018-06-28 01:58:59",
+      "userid": 965,
+      "date": 2018,
+      "publication": "IOP Conf. Series: Earth and Environmental Science",
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "docid": 21032,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21032",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/71163",
+                  "fileid": 71163,
+                  "filesize": 630896,
+                  "mtime": "2018-06-27 06:23:09",
+                  "hash": "3c4bc739e8ab40580bd7c21ec0748acb",
+                  "datasetid": "document",
+                  "objectid": 21032,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Sumardi_2018_IOP_Conf._Ser.%3A_Earth_Environ._Sci._130_012046.pdf"
+                }
+            ],
+            "eprintid": 7997,
+            "pos": 1,
+            "language": "en",
+            "main": "Sumardi_2018_IOP_Conf._Ser.%3A_Earth_Environ._Sci._130_012046.pdf"
+          }
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "sumardi_bio@yahoo.co.id",
+          "name": {
+            "family": "Sumardi",
+            "given": "Sumardi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Agustrina",
+            "family": "Rochmah",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "agustrina@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Christina Nugroho",
+            "family": "Ekowati",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Yovita Selvie",
+            "family": "Pasaribu"
+          }
+        }
+      ],
+      "official_url": "http:\/\/iopscience.iop.org\/article\/10.1088\/1755-1315\/130\/1\/012046",
+      "rev_number": 6,
+      "publisher": "IOP Publishing",
+      "full_text_status": "public",
+      "number": 1,
+      "refereed": "TRUE",
+      "eprintid": 7997,
+      "lastmod": "2018-06-28 01:58:59",
+      "dir": "disk0\/00\/00\/79\/97",
+      "datestamp": "2018-06-28 01:58:59",
+      "ispublished": "pub",
+      "abstract": "This purpose of this research is to determine the character of the protease enzymes\r\nfrom Bacillus sp. on media content of FeCl3 exposed to 0.2 mT magnetic field. The data\r\nobtained were analyzed descriptively. The result showed that protease enzyme without Fe\r\nresulted in the highest activity at pH 8, temperature 30°C with the addition of activator Mn2+,\r\nand Vmax of 0.28 U\/ml, and Km of 4.60 U\/ml. The protease enzyme on media without magnetic\r\nfield exposure and containing Fe yielded the highest activity at pH 8, temperature 30°C with\r\nthe addition of activator Mn2+, and Vmax of 0.33 U\/ml, and Km of 5.64 U\/ml. The protease\r\nenzyme on medium with magnetic field exposure and use Fe as inductors have the highest\r\nactivity at pH 9, the temperature of 55° C with the addition of activator Mn2+, and Vmax of 0.35\r\nU\/ml, and Km 10.04 U\/ml.",
+      "eprint_status": "archive"
+    },
+    {
+      "date_type": "published",
+      "rev_number": 7,
+      "official_url": "http:\/\/juke.kedokteran.unila.ac.id\/index.php\/majority\/index",
+      "publisher": "Jurnal Majority FK Unila",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "cakrawijaya@rocketmail.com",
+          "name": {
+            "family": "Wijaya",
+            "given": "Cakra",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Asep",
+            "family": "Sukohar"
+          },
+          "id": "asepsukohar@gmail.com"
+        },
+        {
+          "id": "dr.triumiana.unila@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Soleha",
+            "given": "Tri Umiana"
+          }
+        }
+      ],
+      "eprintid": 6936,
+      "lastmod": "2018-05-28 03:44:46",
+      "refereed": "TRUE",
+      "number": 2,
+      "divisions": [
+        "FK1"
+      ],
+      "datestamp": "2018-05-28 03:44:46",
+      "dir": "disk0\/00\/00\/69\/36",
+      "eprint_status": "archive",
+      "abstract": "Tidur merupakan hal yang sangat penting untuk manusia, tidur berpengaruh pada fisiologi dan psikologi tubuh. Dua puluh persen penduduk dunia mengalami gangguan tidur. Tart cherry merupakan buah dengan kandungan melatonin yang tinggi, melatonin dapat membantu proses inisiasi tidur. Penelitian ini bertujuan untuk mengetahui pengaruh pemberian konsentrat tart cherry terhadap perpanjangan waktu tidur mencit. Penelitian ini menggunakan metode penelitian eksperimental dengan pendekatan post test only controlled group design. Sampel penelitian menggunakan 28 mencit CBA yang dibagi dalam empat kelompok yaitu kelompok kontrol (K) yang diberikan fenobarbital 40 mg\/kgbb, perlakuan satu (P1) yang diberikan konsetrat tart cherry 0,039 ml dan fenobarbital 40 mg\/kgbb, perlakuan dua (P2) yang diberikan konsentrat tart cherry 0,078 ml dan fenobarbital 40 mg\/kgbb, perlakuan tiga (P3) yang diberikan konsetrat tart cherry 0,156 ml dan fenobarbital 40 mg\/kg. Waktu tidur mencit diukur mulai dari mencit kehilangan reflek righting dan kembali dapat melakukan reflek righting. Didapatkan perbedaan bermakna waktu tidur mencit antara P2 dengan kontrol (p=0,001), P3 dengan kontrol (p=0,001) dan P3 dengan P2 (p=0,001). Tidak ada perbedaan bermakna antara P1 dengan kontrol. Pemberian konsentrat tart cherry memperpanjang waktu tidur mencit.\r\nKata Kunci: Tidur, Tart Cherry, Melatonin, Fenobarbital",
+      "ispublished": "pub",
+      "pagerange": "117-121",
+      "subjects": [
+        "RS",
+        "RV"
+      ],
+      "metadata_visibility": "show",
+      "title": "Pengaruh Pemberian Dosis Bertingkat Konsentrat Tart Cherry (Prunus cerasus) Terhadap Perpanjangan Waktu Tidur Mencit yang Diinduksi Fenobarbital",
+      "related_url": [
+        {
+          "url": "http:\/\/juke.kedokteran.unila.ac.id\/index.php\/majority\/article\/view\/1862"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6936",
+      "type": "article",
+      "issn": "2337-3776",
+      "volume": 7,
+      "userid": 151,
+      "status_changed": "2018-05-28 03:44:46",
+      "publication": "Jurnal Majority",
+      "date": "2018-03-01",
+      "documents": [
+          {
+            "eprintid": 6936,
+            "pos": 1,
+            "files": [
+                {
+                  "hash": "5364322fb870a6ec3ecf81d657b50097",
+                  "mtime": "2018-05-25 04:00:44",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/63552",
+                  "filesize": 651454,
+                  "fileid": 63552,
+                  "mime_type": "application\/pdf",
+                  "filename": "1862-2581-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 19907
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19907",
+            "rev_number": 1,
+            "main": "1862-2581-1-PB.pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "docid": 19907,
+            "mime_type": "application\/pdf"
+          }
+      ]
+    },
+    {
+      "dir": "disk0\/00\/01\/20\/31",
+      "datestamp": "2019-05-09 01:38:25",
+      "divisions": [
+        "FK1"
+      ],
+      "ispublished": "pub",
+      "abstract": "histopatologi yang dapat bersifat akut, kronis, difus atau lokal. Asam jengkolat dapat membentuk kristal tajam pada suasana yang asam dan flavonoid dapat menurunkan kadar prostaglandin yang dapat mempengaruhi mukosa lambung. Mengetahui pengaruh ekstrak etanol 96% biji jengkol (Pithecellobium jiringa) pada gambaran histopatologi dan berat gaster tikus putih (Rattus norvegicus) galur Sprague Dawley. Penelitian ini merupakan penelitian analitik eksperimental dengan metode Post Test Only Control Group Design. Menggunakan 20 ekor tikus putih (Rattus norvegicus) jantan galur Sprague Dawley dengan berat badan 200−250 gram, berumur 3−4 bulan yang dibagi menjadi 4 kelompok untuk digunakan sebagai penelitian. Berdasarkan hasil uji Kruskal-Wallis, diperoleh nilai p<0,05 yang menunjukkan terdapat perbedaan kerusakan mukosa gaster terhadap peningkatan dosis ekstrak etanol 96% biji jengkol. Hasil uji one way ANOVA diperoleh nilai p>0,05 yang menunjukkan tidak terdapat perbedaan berat gaster terhadap peningkatan dosis ekstrak etanol 96% biji jengkol. Peningkatan dosis ekstrak etanol 96% biji jengkol dapat menyebabkan kerusakan mukosa gaster dan tidak terdapat pengaruh terhadap berat gaster.\r\nKata kunci: Histopatologi, Jengkol, Lambung",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "hartanto",
+            "given": "bayu arief"
+          },
+          "id": "bayuharief@gmail.com"
+        },
+        {
+          "id": "novitacarolia@rocketmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Carolia",
+            "given": "Novita"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "maulana",
+            "given": "muhammad",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publisher": "Juke Unila",
+      "official_url": "http:\/\/juke.kedokteran.unila.ac.id\/index.php\/majority\/article\/download\/2052\/2020",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "refereed": "FALSE",
+      "number": 3,
+      "eprintid": 12031,
+      "lastmod": "2019-05-09 01:38:25",
+      "status_changed": "2019-05-09 01:38:25",
+      "userid": 109,
+      "date": "2018-12",
+      "publication": "Majority",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25014",
+            "rev_number": 1,
+            "eprintid": 12031,
+            "pos": 1,
+            "files": [
+                {
+                  "mtime": "2019-05-08 05:19:01",
+                  "hash": "e285a503732655a448f9b97d7bc72ca4",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/107697",
+                  "fileid": 107697,
+                  "filesize": 253287,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "2052-2771-1-PB.pdf",
+                  "datasetid": "document",
+                  "objectid": 25014
+                }
+            ],
+            "language": "en",
+            "main": "2052-2771-1-PB.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 25014,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "subjects": [
+        "R1",
+        "RM",
+        "RV"
+      ],
+      "pagerange": "49-55",
+      "title": "Pengaruh Ekstrak Etanol 96% Biji Jengkol (Pithecollobium jiringa) Terhadap Gambaran Histopatologi Gaster dan Berat Gaster Tikus Putih (Rattus norvegicus) Jantan Galur Sprague dawley",
+      "metadata_visibility": "show",
+      "issn": "2337-3776",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12031",
+      "type": "article",
+      "volume": 7
+    },
+    {
+      "number": 1,
+      "refereed": "TRUE",
+      "eprintid": 16871,
+      "lastmod": "2019-11-18 07:14:31",
+      "creators": [
+        {
+          "name": {
+            "family": "iryani",
+            "given": "tesia",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Carolia",
+            "given": "Novita"
+          },
+          "id": "novitacarolia@rocketmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "fitria",
+            "family": "saftarina"
+          },
+          "id": "fitria205@yahoo.co.id"
+        }
+      ],
+      "official_url": "http:\/\/juke.kedokteran.unila.ac.id\/index.php\/medula\/article\/view\/2359\/pdf",
+      "full_text_status": "public",
+      "publisher": "fakultas kedokteran universitas lampung",
+      "rev_number": 9,
+      "date_type": "published",
+      "ispublished": "pub",
+      "abstract": "Terdapat beberapa faktor penyebab rendahnya partisipasi pria dalam melaksanakan program KB dan kesehatan reproduksi,\r\nsalah satunya adalah terbatas nya jangkauan pelayanan kontrasepsi pria. Maka dilakukan penelitian ini untuk menambah\r\nmetode kontrasepsi pada pria. Karena banyak nya tersebar tanaman leunca (solanum nigrum l) di indonesia dan\r\nmempunyai kandungan antifertilitas, maka buah leunca dipilih dalam penelitian ini. Penelitian ini adalah eksperimental\r\ndengan desain penelitian Randomized Post Test Control Group Design. Sampel tikus putih galur Sprague dawley sebanyak\r\n28 ekor, yang dibagi menjadi 4 kelompok. Pada kelompok 1 tidak diberi esktrak leunca, kelompok 2 dosis 100 mg\/kgBB,\r\nkelompok 3 dosis 200 mg\/kgBB, dan kelompok 4 dosis 400 mg\/kgBB, dengan pemberian satu kali sehari sebanyak 1 ml,\r\nselama 28 hari. Alat ukur yang dipakai adalah neraca analitik dan Haemocytometer Neubauer. Analisis data yang dipakai\r\nadalah one-way anova yang dilanjutkan uji post-hoc. Didapatkan hasil rata-rata jumlah sperma pada kelompok 1 (kelompok\r\nkontrol) adalah 67 juta\/ml, kelompok 2 (dosis 100 mg\/kgBB) adalah 56,35 juta\/ml, kelompok 3 (dosis 200 mg\/kgBB) adalah\r\n45,71 juta\/ml, dan kelompok 4 (dosis 400 mg\/kgBB) adalah 31,85 juta\/ml. Hasil uji bivariat dengan one-way anova\r\ndiperoleh nilai p=0,001 (p<0,05). Yang berarti terdapat pengaruh pemberian ekstrak buah leunca terhadap penurunan\r\njumlah spermatozoa pada tikus putih. Simpulan dari penelitian terdapat pengaruh ekstrak etanol buah leunca terhadap penurunan jumlah spermatozoa pada tikus putih galur Sprague dawley (p=0,001).\r\nKata Kunci : Infertilitas, Leunca (Solanum nigrum l), Spermatozoa",
+      "eprint_status": "archive",
+      "datestamp": "2019-11-18 07:14:31",
+      "dir": "disk0\/00\/01\/68\/71",
+      "divisions": [
+        "FK1"
+      ],
+      "volume": 9,
+      "issn": "2339-1227",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16871",
+      "related_url": [
+        {
+          "url": "http:\/\/juke.kedokteran.unila.ac.id\/index.php\/medula\/article\/view\/2359\/pdf",
+          "type": "pub"
+        }
+      ],
+      "title": "Efek Pemberian Ekstrak Etanol Buah Leunca (Solanum Nigrum L) Secara Oral\r\nTerhadap Penurunan Jumlah Spermatozoa Tikus Putih (Rattus Norvegicus L) Galur sprague dawley",
+      "id_number": "http:\/\/juke.kedokteran.unila.ac.id\/index.php\/medula\/article\/view\/2359\/pdf",
+      "metadata_visibility": "show",
+      "pagerange": "99-101",
+      "subjects": [
+        "R1",
+        "RC",
+        "RS",
+        "RV"
+      ],
+      "documents": [
+          {
+            "docid": 29959,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "main": "2359-3071-1-PB.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29959",
+            "eprintid": 16871,
+            "pos": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "filename": "2359-3071-1-PB.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 29959,
+                  "datasetid": "document",
+                  "mtime": "2019-11-18 03:52:08",
+                  "hash": "e5ae4ebbb62fe60fbafff453bc5bf318",
+                  "filesize": 771989,
+                  "fileid": 143245,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/143245"
+                }
+            ]
+          }
+      ],
+      "publication": "MEDULA, medicalprofession journal of lampung university",
+      "status_changed": "2019-11-18 07:14:31",
+      "userid": 109
+    }
+]
+

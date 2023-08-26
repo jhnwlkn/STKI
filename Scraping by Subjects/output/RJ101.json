@@ -1,0 +1,944 @@
+[
+    {
+      "date_type": "published",
+      "eprintid": 5156,
+      "lastmod": "2017-11-10 14:16:30",
+      "number": 2,
+      "refereed": "TRUE",
+      "publisher": "Fakultas Kedokteran Unila",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "creators": [
+        {
+          "name": {
+            "family": "Alyssa Fairudz Shiba",
+            "given": "Alyssa",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "farlyssa@gmail.com"
+        }
+      ],
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/00\/51\/56",
+      "datestamp": "2017-11-10 14:16:30",
+      "corp_creators": [
+        "Fakultas Kedokteran Universitas Lampung"
+      ],
+      "eprint_status": "archive",
+      "abstract": "Gagal jantung adalah keadaan ketidakmampuan jantung untuk memompa cukup darah ke seluruh tubuh sesuai dengan\r\npemenuhan kebutuhan tubuh. Pada anak, salah satu etiologi paling sering penyebab gagal jantung adalah penyakit jantung\r\nrematik yang merupakan sekuel dari demam reumatik, suatu infeksi yang diakibatkan Streptococcus grup A. Seorang anak\r\nlaki-laki usia 8 tahun datang dengan keluhan sesak napas saat beraktivitas, batuk berdahak, nyeri sendi, demam ringan yang\r\nhilang timbul, dan pembesaran skrotum yang mulai dirasakan sejak 1 bulan sebelum masuk rumah sakit. Pada pemeriksaan\r\nfisik didapatkan frekuensi nadi 110x\/m, frekuensi napas 32 x\/m, terdapat peningkatan Jugular Venous Pressure (JVP),\r\nmurmur pansistolik dengan derajat 4\/6 disertai thrill, pembesaran batas jantung, ronki basah halus pada seluruh lapang\r\nparu, hepar teraba membesar dengan tepi tumpul dan pembesaran skrotum konsistensi lunak namun tidak hiperemis. Pada\r\npemeriksaan penunjang hasil laboratorium menunjukkan peningkatan laju endap darah (LED), anti-streptolisin O (ASTO)\r\npositif dengan C- Reactive Protein (CRP) kuantitatif >12 mg\/L; foto toraks menunjukkan kesan kardiomegali; pemanjangan\r\ninterval PR pada elektrokardiografi (EKG) dan hasil ekokardiografi menunjukkan regurgitasi mitral beratet causa Rheumatic\r\nHeart Disease (RHD) dan regurgitasi mitral ringan. Pasien didiagnosa dengan penyakit jantung rematik dengan gagal jantung\r\nNew York Heart Association (NYHA) II. Pasien diberikan tatalaksana tirah baring dan oksigenasi, diuretik, Angiotensin\r\nConverting Enzyme Inhibitor (ACEI), antibiotik, dan steroid.",
+      "ispublished": "pub",
+      "metadata_visibility": "show",
+      "title": "Penyakit Jantung Rematik pada Anak Laki-laki Usia 8 Tahun",
+      "subjects": [
+        "RJ101"
+      ],
+      "pagerange": "13-21",
+      "volume": 7,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5156",
+      "type": "article",
+      "issn": "2339-1227",
+      "userid": 60,
+      "status_changed": "2017-11-10 14:16:30",
+      "documents": [
+          {
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 18075,
+            "mime_type": "application\/pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18075",
+            "rev_number": 1,
+            "pos": 1,
+            "eprintid": 5156,
+            "files": [
+                {
+                  "objectid": 18075,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "712-2093-1-PB.pdf",
+                  "mime_type": "application\/pdf",
+                  "fileid": 49106,
+                  "filesize": 227053,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/49106",
+                  "mtime": "2017-11-10 09:59:17",
+                  "hash": "57896d690de0afec59d3da687ade821c"
+                }
+            ],
+            "language": "en",
+            "main": "712-2093-1-PB.pdf"
+          }
+      ],
+      "publication": "Medula",
+      "date": "2017-04"
+    },
+    {
+      "userid": 694,
+      "status_changed": "2017-06-02 05:40:04",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 2507,
+            "mime_type": "application\/pdf",
+            "eprintid": 2630,
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 2507,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "PAPARAN PRENATAL VALPROAT DAN AUTISM SPECTRUM DISORDER (ASD) PADA ANAK.pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 770102,
+                  "fileid": 18157,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/18157",
+                  "mtime": "2017-05-31 11:54:53",
+                  "hash": "64d5270cc503af5111a918d1cef89860"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2507",
+            "rev_number": 1,
+            "main": "PAPARAN PRENATAL VALPROAT DAN AUTISM SPECTRUM DISORDER (ASD) PADA ANAK.pdf",
+            "language": "en"
+          }
+      ],
+      "publication": "MAJORITY",
+      "date": "2016-09",
+      "metadata_visibility": "show",
+      "title": "Paparan Prenatal Valproat dan Autism Spectrum Disorder (ASD) pada Anak",
+      "subjects": [
+        "RJ101"
+      ],
+      "volume": 5,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2630",
+      "type": "article",
+      "issn": "2337 - 3776",
+      "divisions": [
+        "FK1"
+      ],
+      "datestamp": "2017-06-02 05:40:04",
+      "dir": "disk0\/00\/00\/26\/30",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Autism spectrum disorder adalah gangguan perkembangan pervasif dengan karakteristik keterlambatan dan penyimpangan dalam perkembangan keterampilan sosial, bahasa dan komunikasi, serta perilaku. Center for Diseases Control and Prevention (CDC) di Amerika Serikat pada bulan Maret 2013 melaporkan bahwa prevalensi autis meningkat menjadi 1:50 dalam kurun waktu satu tahun dengan mayoritas penderita adalah anak laki-laki. Penyebab pasti autisme sampai saat ini belum diketahui pasti walaupun banyak faktor yang diperkirakan memiliki peran dalam etiologi, pencetus, dan peningkatan risiko gangguan ini. Pendapat ahli menyatakan bahwa genetik dan lingkungan adalah faktor utama dan paparan prenatal valproat merupakan salah satu diantaranya. Valproat adalah obat yang digunakan untuk terapi epilepsi generalisata terutama bangkitan lena dan sindrom bipolar episode manik. Mekanisme kerja obat ini yaitu dengan meningkatkan daya konduksi membran kalium sehingga terjadi hiperpolarisasi potensial istirahat membran neuron. Beberapa penelitian mengenai hubungan paparan prenatal valproat terhadap perkembangan neuron anak menunjukkan hasil bahwa valproat dapat meningkatkan risiko munculnya autism spectrum disorder dan beberapa gangguan perkembangan neurologik lain pada anak, seperti gangguan bahasa, gangguan pengenalan lingkungan, dan penurunan skor IQ pada anak.",
+      "date_type": "published",
+      "lastmod": "2017-06-02 05:40:04",
+      "eprintid": 2630,
+      "refereed": "TRUE",
+      "number": 3,
+      "rev_number": 6,
+      "publisher": "Medical Journal of Lampung University",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Fauziah",
+            "family": "Lubis"
+          },
+          "id": null
+        },
+        {
+          "id": "yadisuwandi04@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Jhons Fatriyadi",
+            "family": "Suwandi"
+          }
+        }
+      ]
+    },
+    {
+      "volume": 6,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5324",
+      "issn": "2337-3776",
+      "metadata_visibility": "show",
+      "title": "Nebulisasi NaCl 3% Lebih Efektif daripada NaCl 0,9% pada Bronkiolitis Akut",
+      "subjects": [
+        "RJ101"
+      ],
+      "pagerange": "136-141",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18279",
+            "pos": 1,
+            "eprintid": 5324,
+            "files": [
+                {
+                  "mtime": "2017-11-12 22:54:20",
+                  "hash": "c67eedcbbbf649c356a69f098ac14966",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/50493",
+                  "fileid": 50493,
+                  "filesize": 775539,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "1124-1726-1-PB.pdf",
+                  "datasetid": "document",
+                  "objectid": 18279
+                }
+            ],
+            "language": "en",
+            "main": "1124-1726-1-PB.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 18279,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publication": "Majority",
+      "date": "2017-07",
+      "userid": 60,
+      "status_changed": "2017-11-16 04:44:18",
+      "eprintid": 5324,
+      "lastmod": "2017-11-16 04:44:18",
+      "refereed": "TRUE",
+      "number": 3,
+      "publisher": "Juke Unila",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "N. Dearasi Deby",
+            "family": "Nadhifanny"
+          },
+          "id": "dearasideby@gmail.com"
+        }
+      ],
+      "eprint_status": "archive",
+      "abstract": "Bronkiolitis akut adalah infeksi saluran pernapasan yang sering ditemukan pada anak di bawah usia 2 tahun. Penyakit ini merupakan salah satu penyakit yang banyak menyebabkan anak harus dirawat di rumah sakit. Karena hampir seluruh kasus bronkiolitis akut disebabkan oleh virus (terutama respiratory syncytial virus atau RSV), maka terapi yang umum diberikan adalah terapi suportif yang meliputi terapi oksigen serta pemenuhan kebutuhan cairan dan nutrisi yang adekuat. Terapi lain yang dapat diberikan adalah terapi farmakologis seperti golongan bronkodilator, kortikosteroid dan antiviral meskipun tidak rutin pada semua kasus. Pemberian terapi nebulisasi cairan hipertonik NaCl 3% (hipertonik salin) telah ditunjukkan oleh beberapa penelitian memiliki efek menguntungkan pada penderita bronkiolitis akut. Diketahui bahwa cairan hipertonik mampu menarik cairan dari ruang adventisia dan submukosa, menurunkan edema saluran pernapasan, menekan mediator inflamasi dan viskositas mukus serta meningkatkan klirens mukosilier. Selain itu, cairan hipertonik juga memiliki efek imunomodulator. Seluruh mekanisme inilah yang pada akhirnya menyebabkan perbaikan pada gejala yang dialami oleh pasien. Pada artikel ini, kami akan membahas manfaat nebulisasi NaCl 3% yang lebih efektif digunakan daripada NaCl 0,9% (normal salin) pada bronkiolitis akut.",
+      "ispublished": "pub",
+      "divisions": [
+        "FK1"
+      ],
+      "datestamp": "2017-11-16 04:44:18",
+      "dir": "disk0\/00\/00\/53\/24"
+    },
+    {
+      "dir": "disk0\/00\/00\/57\/83",
+      "datestamp": "2017-11-17 04:18:11",
+      "divisions": [
+        "FK1"
+      ],
+      "corp_creators": [
+        "Susianti Susianti"
+      ],
+      "abstract": "Glomerulonefritis adalah penyakit ginjal yang menunjukan suatu inflamasi dan proliferasi sel glomerulus yang apabila\r\nmenyerang anak biasanya didahului oleh infeksi streptokokus beta hemolitikus grup A dan ditandai dengan gejala nefritik.\r\nAn. T, 10 tahun datang ke rumah sakit dengan keluhan bengkak pada wajah terutama disekitar mata dan saat bangun tidur,\r\nbuang air kecil berwarna kemerahan seperti cucian daging, jumlah air seni berkurang, disertai mual, muntah, pusing, dan\r\npandangan kabur. Riwayat demam, batuk, dan sakit tenggorokan dua minggu sebelumnya. Pemeriksaan fisik ditemukan\r\ntekanan darah 150\/110 mmHg, edema di wajah, visus okuler dekstra dan sinistra (ODS) menurun. Pemeriksaan urinalisis\r\ndidapatkan laboratorium warna merah, kejernihan keruh, protein 100 mg\/dl, darah samar 300 Ery\/μi, sedimen eritrosit 20-\r\n30\/LP 400 x\/LBP. Pemeriksaan kimia darah albumin 3,5 gr\/dL, ureum 40 mg\/dL, kreatinin 1,10 mg\/dL, pemeriksaan anti\r\nstreptolisin O (ASTO) (+), dan CRP (+). Berdasarkan klinik tersebut pasien didiagnosis dan ditatalaksana sesuai penanganan\r\nglomerulonefritis akut pasca streptokokus (GNAPS) dengan krisis hipertensi.\r\nKata kunci: edema, glomerulonefritis, krisis hipertensi",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "refereed": "TRUE",
+      "number": 2,
+      "lastmod": "2017-11-17 04:18:11",
+      "eprintid": 5783,
+      "contact_email": "susiantiglb@yahoo.com",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Indriasari Nurul",
+            "family": "Putri"
+          }
+        }
+      ],
+      "official_url": "http:\/\/juke.kedokteran.unila.ac.id\/index.php\/medula",
+      "rev_number": 6,
+      "publisher": "FK Unila",
+      "full_text_status": "public",
+      "status_changed": "2017-11-17 04:18:11",
+      "userid": 402,
+      "documents": [
+          {
+            "language": "en",
+            "main": "Medula Vol 7 No 2 2017.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18717",
+            "rev_number": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54171",
+                  "fileid": 54171,
+                  "filesize": 203605,
+                  "hash": "cf25be68e5f1f11a677586a9aed7ef9b",
+                  "mtime": "2017-11-16 16:03:07",
+                  "datasetid": "document",
+                  "objectid": 18717,
+                  "mime_type": "application\/pdf",
+                  "filename": "Medula Vol 7 No 2 2017.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "eprintid": 5783,
+            "pos": 1,
+            "mime_type": "application\/pdf",
+            "docid": 18717,
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "date": "2017-04",
+      "publication": "Medical profession journal of lampung university",
+      "title": "Glomerulonefritis Akut Pasca Streptokokus dengan Krisis Hipertensi pada\r\nAnak",
+      "metadata_visibility": "show",
+      "pagerange": "57-62",
+      "subjects": [
+        "RJ101"
+      ],
+      "volume": 7,
+      "issn": "2339-1227",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5783"
+    },
+    {
+      "official_url": "http:\/\/www.rajournals.in\/index.php\/rajar",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "refereed": "TRUE",
+      "eprintid": 42420,
+      "contact_email": "sutarto@fk.unila.ac.id",
+      "lastmod": "2022-10-04 13:31:45",
+      "date_type": "published",
+      "abstract": "Objective: This study aims to explain postnatal health status which is influenced by socio-cultural, \r\nsocio-economic conditions, and health services in the family.\r\nMethods: The research location is in Way Kanan, Lampung Province, using quantitative \r\ndescriptive methods. Housewives who live in Way Kanan in 2015 – 2020 as a population. The \r\nsample size assumes the number of question indicators in the questionnaire (31 indicators), each \r\nindicator assumes 5-10 respondents. Analysis of the influence between variables and indicators \r\nusing SEM (structural equation modeling) analysis.\r\nFindings: Economic status has a positive effect on the health of the home environment and \r\nmaternal health during pregnancy. Socio-culture has a positive effect on the health of the home \r\nenvironment, the health of pregnant women, and postpartum health status. The health of the home \r\nenvironment has a positive effect on postnatal health status. Postnatal health status is influenced by \r\nsocio-economic, socio-cultural, health services, and environmental health (84.1%), while the rest \r\n(15.9%) is influenced by other factors.\r\nConclusion: The better the economic status of the family, the better the health condition of the \r\nhome environment. The better the socio-cultural support will improve the health condition of the \r\nhome environment. The better the economic status of the family, the health during pregnancy will \r\nincrease. Support for good socio-cultural aspects will improve postnatal health status. The better \r\nthe health condition of the home environment, the better the postnatal health status.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "datestamp": "2022-06-14 01:16:07",
+      "issn": "2394-6709",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42420",
+      "volume": 8,
+      "pagerange": "156-165",
+      "subjects": [
+        "RJ101"
+      ],
+      "date": "2022-06-13",
+      "documents": [
+          {
+            "docid": 164131,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "main": "850-Article Text-2659-2-10-20220228.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164131",
+            "rev_number": 1,
+            "pos": 1,
+            "eprintid": 42420,
+            "files": [
+                {
+                  "objectid": 164131,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "850-Article Text-2659-2-10-20220228.pdf",
+                  "mime_type": "application\/pdf",
+                  "fileid": 466349,
+                  "filesize": 579272,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/466349",
+                  "mtime": "2022-06-13 16:02:07",
+                  "hash": "020dd9f3ec5c6cfca5582a5002b415b8"
+                }
+            ]
+          }
+      ],
+      "status_changed": "2022-06-14 01:16:07",
+      "userid": 1227,
+      "creators": [
+        {
+          "id": "ratna.sari@fk.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Dewi Puspita Sari",
+            "family": "Ratna"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "INDRIYANI",
+            "family": "RENI"
+          }
+        }
+      ],
+      "publisher": "RA JOURNAL OF APPLIED RESEARCH",
+      "number": 2,
+      "dir": "disk0\/00\/04\/24\/20",
+      "divisions": [
+        "FK1"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/www.rajournals.in\/index.php\/rajar\/article\/view\/850"
+        }
+      ],
+      "title": "Structural Equality Model the Influence of Socio-Cultural and \r\nSocio-Economic Status on Postpartum Status in Way Kanan District",
+      "metadata_visibility": "show",
+      "id_number": "10.47191\/rajar\/v8i2.15",
+      "publication": "RA JOURNAL OF APPLIED RESEARCH",
+      "referencetext": "1. Olonade O, Olawande TI, Alabi OJ, Imhonopi D. \r\nMaternal mortality and maternal health care in \r\nNigeria: Implications for socio-economic \r\ndevelopment. Open Access Macedonian Journal of \r\nMedical Sciences. 2019 Mar;7(5):849–55. \r\n2. Unicef forevery child. Maternal mortality [Internet]. \r\nUnicef. 2019. Available from: \r\nhttps:\/\/data.unicef.org\/topic\/maternal-health\/materna\r\nl-mortality\/\r\n3. Mawarni E, Hamzah A, Indra. Operasional \r\nKesehatan (BOK) Terhadap Pembangunan \r\nKesehatan Masyarakat Di Puskesmas Dalam \r\nKabupaten Aceh Besar. Juranal Ilmu Ekonomi. \r\n2014;2(1):60–9. \r\n4. Subiyatun S. Gambaran pemanfaatan buku kesehatan \r\nibu dan anak (kia) oleh ibu hamil. Jurnal Kebidanan \r\ndan Keperawatan. 2017;13(2):203–9. \r\n5. Kusumawardani A, Handayani S. Karakteristik Ibu \r\ndan Faktor Risiko Kejadian Kematian Bayi di \r\nKabupaten Banjarnegara. Jurnal Promosi Kesehatan \r\nIndonesia. 2018;13(2):168. \r\n6. Nurbaiti L, Adi AC, Devi SR, Harthana T. Kebiasaan \r\nmakan balita stunting pada masyarakat Suku Sasak: \r\nTinjauan 1000 hari pertama kehidupan (HPK). \r\nMasyarakat, Kebudayaan dan Politik. 2014;\r\n27(2):104–12. \r\n7. Mohamadou G. Children Development and \r\nSocioeconomic Status of Parents: An Analysis of \r\nFamilies in the Far North Region of Cameroon. \r\nEuropean Scientific Journal, ESJ. 2017;13(26):331. \r\n“Structural Equality Model the Influence of Socio-Cultural and Socio-Economic Status on Postpartum Status in Way \r\nKanan District”\r\n8. Sri H, Mubarokah K. Kondisi Demografi Ibu dan \r\nSuami pada Kasus Kematian Ibu. Higeia Journal of \r\nPublic Health Research and Development [Internet]. \r\n2018;3(5):99–108. Available from: \r\nhttp:\/\/journal.unnes.ac.id\/sju\/index.php\/higeia\r\n9. Rosyidah H, Koning K De, Ormel H. Quality of\r\nmaternal health care in Indonesia. Journal of Health \r\nTechnology Assessment in Midwifery. 2019;\r\n2(1):10–22. \r\n10. Michaelsen KF, Stewart CP, Dewey KG, Onyango \r\nAW, Iannotti L. Contextualising complementary \r\nfeeding in a broader framework for stunting \r\nprevention. Maternal & Child Nutrition. \r\n2015;9(Sp2):27–45. \r\n11. Withers M, Kharazmi N, Lim E. Traditional beliefs \r\nand practices in pregnancy, childbirth and \r\npostpartum: A review of the evidence from Asian \r\ncountries. Midwifery [Internet]. 2018;56(March \r\n2017):158–70. Available from: \r\nhttps:\/\/doi.org\/10.1016\/j.midw.2017.10.019\r\n12. Agus Y, Horiuchi S, Porter SE. Rural Indonesia \r\nwomen ’ s traditional beliefs about antenatal care. \r\nBMC Research Notes [Internet]. 2012;5(1):1. \r\nAvailable from: BMC Research Notes\r\n13. Titaley CR, Hunter CL, Dibley MJ, Heywood P. Why \r\ndo some women still prefer traditional birth \r\nattendants and home delivery?: A qualitative study \r\non delivery care services in West Java Province, \r\nIndonesia. BMC Pregnancy and Childbirth [Internet]. \r\n2010;10(43):2–14. Available from: \r\nhttps:\/\/www.ncbi.nlm.nih.gov\/pubmed\/20701762\r\n14. Prihesti US, Nurdiati DS, Ganap EP. Tren dan Faktor \r\nRisiko Kematian Maternal di RSUP Dr.Sardjito \r\nYogyakarta tahun 2012-2017. Jurnal Kesehatan \r\nReproduksi. 2019;6(2):44. \r\n15. Ghozali I. Model Persamaan Struktural Konsep dan \r\nAplikasi dengan ProgramAMos 2.4. VII. \r\nTejokesumo A, editor. Semarang: Badan Penerbit \r\nUniversitas Diponegoro; 2017. 1–392 p. \r\n16. Sudarsono FX. Pengukuran status sosial ekonomi \r\ndanpermasalahannya. Populasi. 1990;2(1):21–7. \r\n17. Aggarwal OP, Bhasin SK, Sharma AK, Chhabra P, \r\nAggarwal K, Rajoura OP. A New Instrument ( Scale ) \r\nfor Measuring the Socioeconomic Status of a \r\nFamily : Preliminary Study. Indian Journal of \r\nCommunity Medicine. 2005;30(4):111–4. \r\n18. Widyawati E, Pierewan AC. Determinan Pernikahan \r\nUsia Dini Di Indonesia. SOCI - Jurnal Ilmu-ulmu \r\nSosial. 2017;14(4):55–70. \r\n19. Umayah P, Sinaga RM, Ekwandari YS, Unila F, Prof \r\nJ, No SB, et al. Mitos Bagi Wanita Hamil pada \r\nMasyarakat Suku Jawa di Desa Muara Aman. Jurnal \r\nPendidikan dan Penelitian Sejarah. 2019;7(2):35–40. \r\n20. Kementerian Kesehatan RI. Buku kesehatan ibu dan \r\nanak. Jakarta: Kementerian Kesehatan RI; 1997. \r\n21. Vilcins D, Sly PD, Jagals P. Environmental Risk \r\nFactors Associated with Child Stunting : A \r\nSystematic Review of the Literature. Annals of \r\nGlobal Health. 2018;84(4):551–62. \r\n22. Larasati AD, Nindya ST, Arief SY. Hubungan antara \r\nKehamilan Remaja dan Riwayat Pemberian ASI \r\nDengan Kejadian Stunting pada Balita di Wilayah \r\nKerja Puskesmas Pujon Kabupaten Malang The \r\nCorrelation Between Adolescent Pregnancy , \r\nBreastfeeeding Practice and Stunted Children at \r\nPuskesmas Pujo. Research Study [Internet]. \r\n2018;2(4):392–401. Available from: \r\nhttps:\/\/e-journal.unair.ac.id\/AMNT\/article\/view\/100\r\n61\r\n23. Kemenkes RI. Permenkes RI. No. 97 Tahun 2014. \r\nKemenkes RI. Indonesia; 2014 p. 2–119. \r\n24. Prado EL, Jimenez EY, Vosti S, Stewart R, Stewart \r\nCP, Somé J, et al. Path analyses of risk factors for \r\nlinear growth faltering in four prospective cohorts of \r\nyoung children in Ghana , Malawi and Burkina Faso. \r\nBMJ Glob Health. 2019;4:1–11. \r\n25. Ferdinand. Structural Equation Modelling Dalam \r\nPenelitian Manajemen. Semarang: Badan Penerbit \r\nUniversitas Diponegoro; 2006. \r\n26. Haryono S. Metode SEM untuk Penelitian \r\nManajemen dengan AMOS 22.00, LISREL 8.80 dan \r\nSmart PLS 3.0. Mintardja H, editor. Jakarta: PT. \r\nIntermedia Personalia Utama; 2016. 1–446 p. \r\n27. Pangestu B, Indriani Y ML. Pola Konsumsi Ikan \r\nLaut dan Faktor-Faktor Yang Memengaruhi \r\nKonsumsi Ikan Laut Oleh Ibu Hamil di Kecamatan \r\nKota Agung Kabupaten Tanggamus. Journal of \r\nAgribusiness Science. 2020;8(3):490–5. \r\n28. 2Sumekar Rengganis Wardani DW. Social \r\nDeterminants and Risk Factors for Tuberculosis \r\nPatients: A Case Control Study at Health Services \r\nApplying Directly Observed Treatment Shortcourse \r\n(DOTS) in Bandar Lampung, Indonesia. KnE Life \r\nSciences. 2018;4(4):522. \r\n29. Ramulondi M, de Wet H, Ntuli NR. Traditional food \r\ntaboos and practices during pregnancy, postpartum \r\nrecovery, and infant care of Zulu women in northern \r\nKwaZulu-Natal. Journal of Ethnobiology and \r\nEthnomedicine. 2021;17(1):1–19. \r\n30. Sopiah O, Resita C, of MS-PJ, 2020 undefined. The \r\nRelationship of Postpartum Blues, Self Efficacy, \r\nFamily and Socio-Cultural Support for the \r\nImplementation of Postpartum Exercise during the \r\nCovid-19 Pandemic. ArchivesPalarchNl [Internet]. \r\n2020;17(9):4565–78. Available from:\r\n“Structural Equality Model the Influence of Socio-Cultural and Socio-Economic Status on Postpartum Status in Way \r\nKanan District” https:\/\/archives.palarch.nl\/index.php\/jae\/article\/view\r\n\/4652\r\n31. Shole RN. An Impact of Socio-Cultural Practices on \r\nMaternal Mortality in Masasi District , Tanzania. \r\nMalaysian Journal of Medical and Biological \r\nResearch. 2017;4(1):47–58. \r\n32. Agil HM, Agil HM, Watanabe K, Tanaka E, Afiyanti \r\nY, Anme T. Factors influencing Indonesian male \r\npartners ’ support in the postpartum period. Makara \r\nJournal of Health Research. 2019;23(2):82–9.",
+      "funders": [
+        "Unila"
+      ]
+    },
+    {
+      "status_changed": "2022-06-15 01:43:26",
+      "userid": 1227,
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 164169,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "jb22-13.pdf",
+                  "datasetid": "document",
+                  "objectid": 164169,
+                  "mtime": "2022-06-14 08:16:41",
+                  "hash": "439d3f7c6bb2f9ae8d29c4689ea2063d",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/466624",
+                  "filesize": 140186,
+                  "fileid": 466624
+                }
+            ],
+            "pos": 1,
+            "eprintid": 42456,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164169",
+            "rev_number": 1,
+            "main": "jb22-13.pdf",
+            "language": "en"
+          }
+      ],
+      "subjects": [
+        "RA",
+        "RA0421",
+        "RJ101"
+      ],
+      "pagerange": "88-91",
+      "volume": 2,
+      "issn": "2808-1412",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42456",
+      "type": "article",
+      "datestamp": "2022-06-15 01:43:26",
+      "abstract": "Minuman herbal merupakan minuman berbahan dasar bagian tumbuhan yang berkhasiat bagi tubuh. Salah satu \r\ntumbuhan berkhasiat yang dapat diolah menjadi minuman herbal yaitu jahe merah. Pengabdian kepada ini \r\nbertujuan untuk meningkatkan pengetahuan dan ketrampilan dengan mengembangkan produk minuman herbal \r\nberbahan jahe merah. Beberapa senyawa kimia aktif dalam rimpang jahe yang berefek farmakologis terhadap \r\nkesehatan, antara lain minyak atsiri dengan kandungan zat aktif zingiberin, kamfena, lemonin, borneol, shogaol, \r\nsineol, fellandren, zingiberol, gingerol, dan zingeron. Sebagai bahan obat tradisional, jahe memiliki khasiat untuk \r\nmencegah dan mengobati berbagai penyakit, seperti impoten, batuk, pegal-pegal, kepala pusing, rematik, sakit\r\npinggang, masuk angin, bronchitis, nyeri lambung, nyeri otot, vertigo, mual saat hamil, osteoarthritis, gangguan \r\nsistem pencernaan, rasa sakit saat menstruasi, kadar kolesterol jahat dan trigliserida darah tinggi, kanker, sakit jantung, fungsi otak terganggu, Alzheimer, penyakit infeksi, asma, produksi air susu ibu terganggu, gairah \r\nseksual rendah, dan stamina tubuh rendah. Proporsi pada minuman herbal jahe dan gula batu.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "refereed": "TRUE",
+      "eprintid": 42456,
+      "contact_email": "sutarto@fk.unila.ac.id",
+      "lastmod": "2022-06-15 01:43:26",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "official_url": "https:\/\/jurnalbuguh.unila.ac.id\/index.php\/buguh\/article\/view\/1026",
+      "funders": [
+        "Unila"
+      ],
+      "referencetext": "Embuscado, M.E., (2015). Spices and herbs: Natural sources of antioxidants - A mini review. J. Funct. \r\nFoods. doi:10.1016\/j.jff.2015.03.005\r\nFirdausni, F., Diza, Y.H., Failisnur, F., (2011). Potensi pigmen cassiavera pada minuman jahe instan \r\nsebagai minuman fungsional. J. Litbang Ind. 1,15–21.doi:http:\/\/dx.doi.org\/10.249\r\n60\/jli.v1i1.590.15-21\r\nHafida, N. 2019. Bukan Jahe Biasa, ini 10 Khasiat Jahe Merah yang lebih Nendang Manjurnya.\r\nHarahap, Desrayani. 2019. Pembutan Minuman Instan Jahe Merah (Zingiber Officinale Var Rubrum) \r\nDengan Metode Enkapsulasi. Skripsi : Universitas Muhammadiyah Sumatera Utara Medan.\r\nHaryati. (2013). Rempah-rempah dan Bahan Penyegar. Pendidikan Teknologi Industri : Bandung. Hal \r\n9- 10. \r\nSrinivasan, K.,. (2017). Ginger rhizomes (Zingiber officinale): A spice with multiple health \r\nbeneficial potentials.PharmaNutrition. doi:10.1016\/j.phanu.2017.01.001\r\nSudewo, B. 2006. Tanaman Obat Populer. Yogyakarta : Agromedia Pustaka.\r\nUsha R, dan Pothakamury UR. 1995.\r\nFundamental aspects of controlled release in foods. Journal. Trend in Food Sci and Technol 6 (12).\r\nWinarti, C. dan Hernani. 2008.\r\nKandungan Bahan Aktif Jahe Dan Pemanfaatannya Dalam Bidang Kesehatan. Statu Teknologi Hasil Penelitian Jahe",
+      "projects": [
+        "Embuscado, M.E., (2015). Spices and herbs: Natural sources of antioxidants - A mini review. J. Funct.  Foods. doi:10.1016\/j.jff.2015.03.005 Firdausni, F., Diza, Y.H., Failisnur, F., (2011). Potensi pigmen cassiavera pada minuman jahe instan  sebagai minum"
+      ],
+      "publication": "BUGUH : Jurnal Pengabdian Kepada Masyarakat",
+      "title": "PEMBUATAN PRODUK MINUMAN HERBAL KELUARGA DARI JAHE DI DESA DWI WARGA TUNGGAL JAYA KABUPAEN TULANG BAWANG",
+      "id_number": "10.23960\/buguh.v2n1.1026",
+      "metadata_visibility": "show",
+      "dir": "disk0\/00\/04\/24\/56",
+      "divisions": [
+        "FK1"
+      ],
+      "number": 2,
+      "creators": [
+        {
+          "name": {
+            "family": "Ratna",
+            "given": "Dewi Puspita Sari",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "ratna.sari@fk.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Andi",
+            "family": "Windah"
+          },
+          "id": "andiwindah@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "RENI",
+            "given": "INDRIYANI"
+          },
+          "id": null
+        }
+      ],
+      "publisher": "Badan Pelaksana Kuliah Kerja Nyata Universitas"
+    },
+    {
+      "event_type": "conference",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16837",
+      "metadata_visibility": "show",
+      "title": "A 1-month-old boy child with intracranial hemorhage post craniotomy and left lung atelactasis",
+      "pagerange": "107-108",
+      "subjects": [
+        "RJ101"
+      ],
+      "documents": [
+          {
+            "docid": 29926,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "main": "Proceding.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29926",
+            "rev_number": 1,
+            "eprintid": 16837,
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 29926,
+                  "mime_type": "application\/pdf",
+                  "filename": "Proceding.pdf",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/143050",
+                  "filesize": 158525,
+                  "fileid": 143050,
+                  "hash": "27adc73aad14ae2cf89f17404ae6ffe2",
+                  "mtime": "2019-11-18 01:35:42"
+                }
+            ]
+          }
+      ],
+      "date": "2019-03",
+      "userid": 60,
+      "event_title": "The 2nd Asian Pediatric Mechanical Ventilation Forum",
+      "status_changed": "2019-11-18 07:22:07",
+      "lastmod": "2019-11-18 07:22:07",
+      "eprintid": 16837,
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "rev_number": 12,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "roro.rukmi@fk.unila.ac.id",
+          "name": {
+            "given": "Rukmi W P",
+            "family": "Roro",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Bacground : to report a-1 month old boy child who suffered from intracranial hemorhage and then he underwent",
+      "divisions": [
+        "FK1"
+      ],
+      "datestamp": "2019-11-18 07:22:07",
+      "dir": "disk0\/00\/01\/68\/37"
+    },
+    {
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0_bak\/00\/05\/21\/59",
+      "datestamp": "2023-06-16 02:10:37",
+      "eprint_status": "archive",
+      "abstract": "All children have the right to a decent living, including their health status, growing and developing. The government has made various efforts to improve maternal and child health through immunization programs, maternal, child health services, and nutrition improvement programs. Several determinants interact with stunting. The health status of children is very important, and infectious diseases are straightforward to transmit. This infection is very contagious and infects the body of malnourished children, and sick children will reduce their appetite. This study case aims to explain the effect of modelling the health status of children under two years old on the incidence of stunting. The descriptive analytic method uses a case-control design, with the main population in this study being toddlers aged 2-3 years, uses multiple logistic regression tests. In the health status of children aged less than two years old, the most influential variables were the status of completeness of immunization (OR=104) and the following order of clean living behavior at the household level (OR=33), complementary feeding (OR= 23), the tradition of leaving children (OR=10), birth weight (OR=9), active in Integrated Healthcare Center (OR=8), knowledge of using MCH handbooks (OR=5), age to stop breastfeeding (OR=4), gestational age (OR=4 ), and length of birth (OR=3). In the model equation, the variable of immunization status is the variable that has the most significant influence on the incidence of stunting. Immunization protects not only individuals but also the broader community through the benefits of herd immunity. All factors related to the health status of children under two years of age and knowledge of mothers during pregnancy are associated with using maternal-child health books and a history of anemia during pregnancy, so children in Way Kanan have experience with 99.9% chance of reduction in stunting.",
+      "ispublished": "pub",
+      "date_type": "published",
+      "publisher": "Malaysian Journal of Public Health Medicine",
+      "official_url": "https:\/\/www.mjphm.org\/index.php\/mjphm\/article\/view\/1775",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sutarto",
+            "given": "Sutarto"
+          },
+          "id": "sutarto@fk.unila.ac id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Yuliana",
+            "family": "Neti"
+          },
+          "id": "neti.yuliana@fp.unila.ac.id"
+        },
+        {
+          "id": "dwwardani@yahoo.com",
+          "name": {
+            "family": "Dyah Wulan",
+            "given": "Sumekar RW",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Udaya",
+            "family": "Samsu",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "contact_email": "sutartoabbastayeb11@gmail.com",
+      "eprintid": 52159,
+      "lastmod": "2023-06-16 02:10:37",
+      "refereed": "TRUE",
+      "number": 1,
+      "userid": 1227,
+      "referencetext": "Nova M, Afriyanti O. Hubungan berat badan, \r\nASI eksklusif, MP-ASI dan asupan energi \r\ndengan stunting pada balita usia 24–59 \r\nbulan di puskesmas Lubuk Buaya. J Kesehat \r\nPerintis (Perintis’s. 2018;5(1):39–45.\r\n2. McFadden SAM, Sonney J, Bekemeier B. A \r\nmodel for systems-level influences on \r\ntoddler immunization completion. Public \r\nHealth Nurs. 2021;38(3):406–411. \r\ndoi:10.1111\/phn.12854\r\n3. Zara N, Lubis Z, Siagian A. Family \r\nCharacteristics, Eating Parenting and Types \r\nof Diseases with Toddler Nutritional Status \r\n(Health Study at Dewantara Health Center \r\nof North Aceh Regency). Indones J Med \r\nAnthropol. 2022;3(1):28–34. \r\ndoi:10.32734\/ijma.v3i1.8197\r\n4. Michaelsen KF, Stewart CP, Dewey KG, \r\nOnyango AW, Iannotti L. Contextualising \r\nMalaysian Journal of Public Health Medicine 2023, Vol. 23 (1):218-226\r\ncomplementary feeding in a broader \r\nframework for stunting prevention. Matern \r\nChild Nutr. 2015;9(Sp2):27–45. \r\ndoi:10.1111\/mcn.12088\r\n5. Prado EL, Yakes Jimenez E, Vosti S, dkk. \r\nPath analyses of risk factors for linear \r\ngrowth faltering in four prospective cohorts \r\nof young children in Ghana, Malawi and \r\nBurkina Faso. BMJ Glob Heal. 2019;4(1):1–\r\n11. doi:10.1136\/bmjgh-2018-001155\r\n6. Harper KM, Mutasa M, Prendergast AJ, \r\nHumphrey J, Manges AR. Environmental \r\nenteric dysfunction pathways and child \r\nstunting: A systematic review. PLoS Negl \r\nTrop Dis. 2018;12(1):1–23. \r\ndoi:10.1371\/journal.pntd.0006205\r\n7. Pambudi J, Christijani R. Praktek \r\nPenyapihan Dini Serta Hubungannya Dengan \r\nKeadaan Sosial Ekonomi Dan Wilayah \r\nTempat Tinggal. Penelit Gizi dan Makanan \r\n(The J Nutr Food Res. 2018;40(2):87–94. \r\ndoi:10.22435\/pgm.v40i2.7666.87-94\r\n8. Syeda B, Agho K, Wilson L, Maheshwari GK, \r\nRaza MQ. Relationship between \r\nbreastfeeding duration and undernutrition \r\nconditions among children aged 0–3 Years in \r\nPakistan. Int J Pediatr Adolesc Med. \r\n2020;1(06):1–8. \r\ndoi:10.1016\/j.ijpam.2020.01.006\r\n9. Jayanti ND, Mayasari SI. Gestation Period \r\nand Its Bio-Psychosocial and Economic \r\nFactors Analysis on Toddler Growth and \r\nDevelopment. J Ners Midwifery. \r\n2021;8(1):26–32. \r\ndoi:10.26699\/jnk.v8i1.ART.p\r\n10. Pham BN, Silas VD, Okely AD, Pomat W. \r\nMeasuring Wasting and Stunting Prevalence \r\nAmong Children Under 5 Years of Age and \r\nAssociated Risk Factors in Papua New \r\nGuinea: New Evidence From the \r\nComprehensive Health and Epidemiological \r\nSurveillance System. Front Nutr. \r\n2021;8(March):1–13. \r\ndoi:10.3389\/fnut.2021.622660\r\n11. Addisse M. Maternal and Child Health Care. \r\nUSAID Coop. Funded under USAID \r\nCooperative Agreement; 2003.\r\n12. Daracantika A, Ainin, Besral. Systematic \r\nLiterature Review : Pengaruh Negatif \r\nStunting terhadap Perkembangan Kognitif \r\nAnak. Bikfokes. 2021;1(2):124–135.\r\n13. Saputra AR. Peran Pemberian ASI Eksklusif \r\nterhadap Status Gizi dan Tumbuh Kembang \r\npada Anak Usia Dini. J Agromed Unila. \r\n2016;3(1):30–35.\r\n14. Wemakor A, Mensah KA. Association \r\nbetween maternal depression and child \r\nstunting in Northern Ghana: A cross�sectional study. BMC Public Health. \r\n2016;16(1):1–7. doi:10.1186\/s12889-016-\r\n3558-z\r\n15. Nasution SS, Girsang BM, Hariati H. \r\nEvaluation of the effect of sociocultural \r\nfactors on the childrestature in Langkat \r\nRegency, Indonesia. Open Access Maced J \r\nMed Sci. 2021;9:461–466. \r\ndoi:10.3889\/oamjms.2021.6132\r\n16. Chilinda ZB, Wahlqvist ML, Lee MS, Huang \r\nYC. Higher maternal autonomy is associated \r\nwith reduced child stunting in Malawi. Sci \r\nRep. 2021;11(3882):1–12. \r\ndoi:10.1038\/s41598-021-83346-2\r\n17. Onis M de, Branca F. Childhood stunting: A \r\nglobal perspective. Matern Child Nutr. \r\n2016;12(1):12–26. doi:10.1111\/mcn.12231\r\n18. Kureishy S, Khan GN, Arrif S, dkk. A mixed \r\nmethods study to assess the effectiveness \r\nof food-based interventions to prevent \r\nstunting among children under-five years in \r\nDistricts Thatta and Sujawal, Sindh \r\nProvince, Pakistan: Study protocol. BMC \r\nPublic Health. 2017;17(1):1–6. \r\ndoi:10.1186\/s12889-016-3976-y\r\n19. Lemeshow S, Jr. David W. Hosmer, Klar J, \r\nLwanga SK. Adequacy of Sample Size in \r\nHealth Studies. Pertama. (Kusnanto H, \r\ned.). Gadjah Mada University Press; 1997.\r\n20. Ningtias RAA, Wijayanti T. Hubungan Usia \r\nIbu dan Usia Kehamilan dengan Kejadian \r\nHipertensi pada Kehamilan. Borneo Student \r\nRes. 2021;2(3):1647–1653.\r\n21. Pancawardani R, Amelia R, Wahyuni S. Usia \r\nKehamilan Ibu Mempengaruhi Keluaran Bayi \r\nBerat Badan Lahir Rendah. Midwifery Care \r\nJ. 2022;3(2):40–47. \r\ndoi:10.31983\/micajo.v3i2.8312\r\n22. Bagus ID, Widya K, Danianto A, Cholidah R. \r\nHubungan Obesitas pada Kehamilan dengan \r\nBerat Bayi dan Usia Kehamilan Saat \r\nPersalinan di Puskesmas Cakranegara. J \r\nKedokt Unram. 2022;11(1):781–784.\r\nMalaysian Journal of Public Health Medicine 2023, Vol. 23 (1):218-226\r\n23. Aksari ST, Imanah NDN. Usia kehamilan \r\nsebagai faktor yang berhubungan dengan \r\nkejadian anemia pada ibu hamil selama \r\npandemi Covid 19. J Kebidanan Indones. \r\n2022;13(1):94–102.\r\n24. Mustaghfiroh L, Faradila IPV, Wijayanti IT. \r\nAnalisis berat badan lahir bayi dari ibu yang \r\nmengalami anemia: dilihat dari faktor usia \r\nibu dan usia kehamilan. J Ilm Permas J Ilm \r\nSTIKES Kendal Vol. 2021;11(1):149–156.\r\n25. Apriani E, Subandi A, Mubarok AK. \r\nHubungan Usia Ibu Hamil, Paritas dan Usia \r\nKehamilan dengan Kejadian BBLR di RSUD \r\nCilacap. Trends Nurs Sci. 2021;2(1):45–52. \r\ndoi:https:\/\/doi.org\/10.36760\/tens.v2i1.286\r\n26. Sutarto, Yuliana N, Nurdin SU, Wardani \r\nDWSR. The Influence of Local Culture on \r\nMothers During Pregnancy on Stunting \r\nIncidence. J Posit Psychol Wellbeing. \r\n2022;6(1):2172–2180.\r\n27. Murti FC, Suryati S, Oktavianto E. Hubungan \r\nBerat Badan Lahir Rendah (Bblr)Dengan \r\nKejadian Stunting Pada Balita Usia 2-5 \r\nTahun Di Desa Umbulrejo Kecamatan \r\nPonjong Kabupaten Gunung Kidul. J Ilm \r\nKesehat Keperawatan. 2020;16(2):52. \r\ndoi:10.26753\/jikk.v16i2.419\r\n28. Nasution D, Nurdiati DS, Huriyati E. Berat \r\nbadan lahir rendah (BBLR) dengan kejadian \r\nstunting pada anak usia 6-24 bulan. J Gizi \r\nKlin Indones. 2017;11(1):31. \r\ndoi:10.22146\/ijcn.18881\r\n29. Lubis FSM, Cilmiaty R, Magna A. Hubungan \r\nBeberapa Faktor Dengan Stunting Pada\r\nBalita Berat Badan Lahir Rendah. J Kesehat \r\nKusuma Husada. 2018;9(1):13–18. \r\ndoi:10.34035\/jk.v9i1.254\r\n30. Sukmawati, Hendrayati, Chaerunnimah, \r\nNurhumaira. Status Gizi Ibu Saat Hamil, \r\nBerat Badan Lahir Bayi Dengan Stunting \r\nPada Balita. Media Gizi Pangan. \r\n2018;25(1):18–24.\r\n31. Winowatan G, Malonda NSH, Punuh MI. \r\nHubungan Antara BB Lahir Anak dengan \r\nKejadian Stunting pada Anak Batita \r\ndiwilayah Kerja Puskesmas Sonder Kab \r\nMinahasa. J Kesmas. 2017;6(3):1–8. \r\nhttps:\/\/ejournal.unsrat.ac.id\/index.php\/ke\r\nsmas\/article\/view\/23063\r\n32. Rahmadi A. Hubungan Berat Badan Dan \r\nPanjang Badan Lahir Dengan Kejadian \r\nStunting Anak 12-59 Bulan Di Provinsi \r\nLampung. J Keperawatan. 2016;XII(2):209–\r\n218. doi:10.1186\/s12885-016-2290-5\r\n33. Sutriyawan A, Rahayu S, Kurniawati RD, \r\nHabibi J. Hubungan Status Imunisasi Dan \r\nRiwayat Penyakit Infeksi Dengan Kejadian \r\nStunting Pada Balita: Studi Retrospektif. J \r\nMidwifery. 2020;8(2):1–9. \r\nhttps:\/\/jurnal.unived.ac.id\/index.php\/JM\/\r\narticle\/view\/1197\r\n34. Fajariyah RN, Hidajah AC. Correlation \r\nBetween Immunization Status and Mother’S \r\nHeight, and Stunting in Children 2–5 Years \r\nin Indonesia. J Berk Epidemiol. \r\n2020;8(1):89. \r\ndoi:10.20473\/jbe.v8i12020.89-96\r\n35. Haryani RI, Dimyati, Fauziah PY. Peranan \r\nPengasuhan Kakek dan Nenek terhadap \r\nPerilaku Prososial Anak Usia Dini. J Obs J \r\nPendidik Anak Usia Dini. 2022;6(1):173–181. \r\ndoi:10.31004\/obsesi.v6i1.1196\r\n36. Dhiu KD, Fono YM. Dampak Pengasuhan \r\nKakek dan Nenek. J Pendidik Anak Usia Dini \r\nUndiksha. 2021;9(3):342. \r\ndoi:10.23887\/paud.v9i3.40910",
+      "status_changed": "2023-06-16 02:10:37",
+      "publication": "Malaysian Journal of Public Health Medicine",
+      "date": "2023-06-02",
+      "documents": [
+          {
+            "language": "en",
+            "main": "1 FULL REGRESSION MODELING OF AFTER-BIRTH CHILD HEALTH STATUS TO STUNTING EVENTS IN WAY KANAN DISTRICT, LAMPUNG PROVINCE, INDONESIA _ Malaysian Journal of Public Health Medicine.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252437",
+            "eprintid": 52159,
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "1 FULL REGRESSION MODELING OF AFTER-BIRTH CHILD HEALTH STATUS TO STUNTING EVENTS IN WAY KANAN DISTRICT, LAMPUNG PROVINCE, INDONESIA _ Malaysian Journal of Public Health Medicine.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 252437,
+                  "hash": "6acb8ceca37b93b6aa8b661be560428e",
+                  "mtime": "2023-06-15 07:41:11",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/618034",
+                  "fileid": 618034,
+                  "filesize": 2175736
+                }
+            ],
+            "docid": 252437,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "subjects": [
+        "RA0421",
+        "RJ101"
+      ],
+      "pagerange": "218-226",
+      "metadata_visibility": "show",
+      "title": "REGRESSION MODELING OF AFTER-BIRTH CHILD HEALTH STATUS TO STUNTING EVENTS IN WAY KANAN DISTRICT, LAMPUNG PROVINCE, INDONESIA",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52159",
+      "type": "article",
+      "issn": "1675-0306",
+      "volume": 23
+    },
+    {
+      "date": "2022-11-03",
+      "documents": [
+          {
+            "language": "en",
+            "main": "cover full q2 53 11.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252425",
+            "rev_number": 1,
+            "eprintid": 52157,
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 252425,
+                  "mime_type": "application\/pdf",
+                  "filename": "cover full q2 53 11.pdf",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/618008",
+                  "filesize": 2006911,
+                  "fileid": 618008,
+                  "hash": "f9b844cc98892ff7f6c6639d0b5ae858",
+                  "mtime": "2023-06-15 00:58:25"
+                }
+            ],
+            "docid": 252425,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "status_changed": "2023-06-16 02:10:35",
+      "userid": 1227,
+      "issn": "1000-1298",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52157",
+      "type": "article",
+      "volume": 53,
+      "pagerange": "1-7",
+      "subjects": [
+        "RA",
+        "RJ101"
+      ],
+      "ispublished": "pub",
+      "abstract": "Stunting is a condition of chronic malnutrition accompanied by complications of infectious diseases, which has a harmful impact in the short term risky and easy to get sick in children and long term impact in adulthood. They are at risk of having chronic diseases with low severity. Maternal and child health services affect the incidence of stunting, and the Indonesian government intervenes in maternal and child health service programs, as is the case with the local government of Central Lampung Regency. The mother’s response to the mother-child health service program can affect the child’s health status, including the child’s stunting status. This study analyzes the maternal-child health service program carried out by the service unit in the village for the mothers of children under five to prevent stunting in the work area of Central Lampung District. The method used is a quantitative analysis using multiple linear regression analysis. The data were collected through interviews and observations of mothers of children under five, totaling 198 respondents in the stunting locus village, Central Lampung Regency. The sample was determined using a simple random selection of both cases and controls. There was an effect of intervention efforts to prevent mother-child stunting at the village level for mothers of children under five, with a practical value of 14.5%. This situation means that the intervention efforts of the mother-child health service program on stunting prevention by the local government of Central Lampung Regency carried out by health workers and cadres in the village have succeeded in providing a positive response to mothers of children under five by 14.5%. Another factor that affected the reaction of mothers of children under five is 75.4%. Further research is still needed on these other factors.",
+      "eprint_status": "archive",
+      "datestamp": "2023-06-16 02:10:35",
+      "official_url": "http:\/\/www.nyjxxb.net\/index.php\/journal\/article\/view\/1502",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "refereed": "TRUE",
+      "contact_email": "sutartoabbastayeb11@gmail.com",
+      "eprintid": 52157,
+      "lastmod": "2023-06-16 02:10:35",
+      "date_type": "published",
+      "publication": "Nongye Jixie Xuebao Transactions of the Chinese Society of Agricultural Machinery",
+      "referencetext": "KHOEROH H, INDRIYANTI D. Evaluasi penatalaksanaan gizi balita stunting di wilayah kerja Puskesmas Sirampong. Unnes Journal of Public Health, 2015, 4(1), 54–60.\r\nBALITBANGKES. Laporan Nasional Riskesdas 2018. Jakarta: Badan Penelitian dan Pengembangan Kesehatan, 2018.\r\nDINAS KESEHATAN KAB. LAMPUNG TENGAH. Profil Kesehatan Kabupaten Lampung Tengah. Gunung Sugih: Dinas Kesehatan Kabupaten Lampung Tengah, 2020.\r\nNURBAITI L, ADI A C, DEVI S R, et al. Kebiasaan makan balita stunting pada masyarakat Suku Sasak: Tinjauan 1000 hari pertama kehidupan (HPK). Masyarakat, Kebudayaan dan Politik, 2014, 27(2), 104–112.\r\nSAFITRI C A, NINDYA T S. Hubungan ketahanan pangan dan penyakit diare dengan stunting pada balita 13-48 bulan di Kelurahan Manyar Sabrangan, Surabaya. Amerta Nutrition, 2017, 1(2), 52–61.\r\nPRENDERGAST A J, HUMPHREY J H. The stunting syndrome in developing countries. Paediatrics and International Child Health, 2014, 34(4), 250–265.\r\nWORLD HEALTH ORGANIZATION. Scaling up nutrition. 2013.\r\nDANGOUR A D, WATSON L, CUMMING O, et al. Interventions to improve water quality and supply, sanitation and hygiene practices, and their effects on the nutritional status of children (Review). Cochrane Public Health Group, 2013, 8, CD009382.\r\nVIR S C. Improving women’s nutrition imperative for rapid reduction of childhood stunting in South Asia: Coupling of nutrition specific interventions with nutrition sensitive measures essential. Maternal and Child Nutrition, 2016, 12(Suppl. 1), 72–90.\r\nSUTARTO, YULIANA N, NURDIN S U, et al. Kajian Pelayanan Kesehatan Ibu dan Anak terhadap Kejadian Stunting. In: Seminar Nasional Konservasi, Konservasi Sumberdaya Alam Untuk Pembangunan Berkelanjutan, 21 April 2020, 10–27.\r\nSARI E M, JUFFRIE M, NURANI N, et al. Asupan protein, kalsium dan fosfor pada anak stunting dan tidak stunting usia 24-59 bulan. Jurnal Gizi Klinik Indonesia, 2016, 12(4), 152–159.\r\nPURNAMASARI I, WIDIYATI F, SAHLI M. Analisis Faktor Risiko Yang Mempengaruhi Kejadian Stunting Pada Balita Info Artikel Abstrak. Jurnal Penelitian dan Pengabdian Kepada Masyarakat UNSIQ, 2022, 9(1), 48–56.\r\nSETIAWAN Y, SARI M I. Kajian Determinasi Angka Stunting. National Multidisciplinary Sciences: UM Jember Proceeding Series, 2022, 1(1), 1–5.\r\nKEMENTERIAN PERENCANAAN PEMBANGUNAN NASIONAL. Petunjuk teknis pedoman pelaksanaan intervensi penurunan stunting terintegrasi di kabupaten\/kota. Jakarta: Kedeputian Bidang Pembangunan Manusia, 2019.\r\nKURNIATI C H, AZIZAH A N, AMBARWATI D, et al. Dampak pelaksanaan program MBKM terhadap perubahan perilaku masyarakat dalam pelayanan kesehatan ibu dan anak. Jurnal Kebidanan Indonesia, 2022, 13(1), 61–67.\r\nTSAGRIS M, PANDAS N. Multicollinearity. American Journal of Orthodontics and Dentofacial Orthopaedics, 2021, 159(5), 695–696.\r\nYOLANDA N A, LIGITA T, SAPUTRI C K, et al. Reinforcement of the cadres’ role of toddler integrated healthcare center to prevent stunting during the Covid-19 pandemic. Abdimas Umtas, 2020, 5(1), 1–4.\r\nRAHAYU E S, STRAIT R, NUBURI, et al. Mother’s activity, less nutritional together weight during nutrition implementation. Fitness, Performance and Health Journal, 2022, 1(1), 30–35.\r\nHANDAYANI P, HARAHAP R N. The effect of health counseling on mother’s knowledge about stimulation of development of toddlers aged 3-5 years in Jati Mulya Perbaungan Village in 2021. Science Midwifery, 2022, 10(2), 1831–1834.\r\nISLAMI N W, KHOUROH U. Analisis faktor-faktor yang mempengaruhi balita stunting dan tantangan pencegahannya pada masa pandemi. Jurnal Karta Raharja, 2021, 3(2), 6–19.\r\nSETYOWATI E, MUSFIROH M, ARIEF I. Exclusive breastfeeding as an effort to prevent stunting in toddlers. NeuroQuantology, 2022, 20(5), 3668–3675.\r\nAZIZAH A M, LANTI Y, DEWI R, et al. Meta-analysis: breastfeeding and its correlation with stunting. Journal of Maternal and Child Health, 2022, 7(3), 334–345.\r\nNDAPA C E, WARDANI D S, SUTRISNO. The relationship between the characteristics of the village midwives and the geographical location of the Village Maternity Post (POLINDES) with the quality of antenatal care services in Southwest Sumba Regency. Pakistan Journal of Medical and Health Sciences, 2022, 16(5), 1371–1373.\r\nSUTARTO, YULIANA N, NURDIN S U, et al. The influence of local culture on mothers during pregnancy on stunting incidence. Journal of Positive Psychology & Wellbeing, 2022, 6(1), 2172–2180.",
+      "related_url": [
+        {
+          "url": "http:\/\/www.nyjxxb.net\/index.php\/journal\/issue\/view\/112"
+        }
+      ],
+      "title": "Multilevel Analysis of Health Services in the Stunting Prevention Program in Central Lampung District",
+      "metadata_visibility": "show",
+      "dir": "disk0_bak\/00\/05\/21\/57",
+      "divisions": [
+        "FK1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Sutarto",
+            "family": "Sutarto",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "sutartoabbastayeb11@gamil.com"
+        },
+        {
+          "id": "ratna.sari@fk.unila.ac.id",
+          "name": {
+            "given": "Dewi Puspita Sari",
+            "family": "Ratna",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Trijayanthi Utama",
+            "family": "Winda",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "wtrijayanthi@gmail.com"
+        }
+      ],
+      "publisher": "Nongye Jixie Xuebao\/Transactions of the Chinese Society of Agricultural Machinery",
+      "number": 11
+    },
+    {
+      "datestamp": "2022-06-14 01:16:01",
+      "dir": "disk0\/00\/04\/24\/18",
+      "divisions": [
+        "FK1"
+      ],
+      "ispublished": "pub",
+      "abstract": "Introduction: Dietary taboos and maternal beliefs and practices during pregnancy can hurt the culture \r\nof the mother and the fetus she contains so that the baby is malnourished and at risk of stunting.\r\nMethods: This study used an observational method with a case-control design. The sampling technique \r\nwas simple random sampling with mothers under-five aged 24-59 months as respondents at Candi Rejo \r\nHealth Center, Central Lampung Regency with a total of 114 respondents. The independent variables \r\nof the study were the behaviour of maternal dietary restrictions during pregnancy and the beliefs of the \r\nmother's cultural practices during pregnancy on the incidence of stunting.\r\nResults, Discussion: The largest age group for toddlers is 24-35 months, and the biological mother's \r\nage ranges from 20-38 years. Chi-square statistical test, the effect of maternal dietary restrictions during \r\npregnancy on the incidence of stunting at Candi Rejo Health Center, Lampung Regency, Odd Ratio \r\n72.25. The chi-square statistical test showed that the behaviour of carrying out maternal cultural beliefs \r\nand practices during pregnancy on the incidence of stunting at the Candi Rejo Health Center, Lampung \r\nRegency with an Odds Ratio of 88,400. Pregnant women who abstain from eating fish are believed by \r\nthe public that milk will smell fishy.\r\nConclusion: There is an effect of dietary restrictions on pregnant women on the incidence of stunting \r\nand the influence of maternal cultural beliefs during pregnancy on the incidence of child stunting.",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "refereed": "TRUE",
+      "number": 1,
+      "eprintid": 42418,
+      "lastmod": "2022-10-04 13:29:49",
+      "contact_email": "sutarto@fk.unila.ac.id",
+      "creators": [
+        {
+          "name": {
+            "given": "Yuliana",
+            "family": "neti",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "neti.yuliana@fp.unila.ac.id"
+        },
+        {
+          "id": "samsu.udayana@fp.unila.ac.id",
+          "name": {
+            "family": "Udayana",
+            "given": "Samsu",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Dyah Wulan",
+            "given": "Sumekar RW",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "dwwardani@yahoo.com"
+        }
+      ],
+      "rev_number": 7,
+      "official_url": "https:\/\/journalppw.com\/index.php\/jppw\/article\/view\/2907",
+      "publisher": "Journal of Positive Psychology and Wellbeing",
+      "full_text_status": "public",
+      "referencetext": "[1] Agbozo, F., Abubakari, A., Der, J., & Jahn, \r\nA. (2020). Maternal Dietary Intakes, Red \r\nBlood Cell Indices and Risk for Anemia \r\nin the First, Second and Third Trimesters \r\nof Pregnancy and at Predelivery. Nutrients, \r\n12(777), 1–16. \r\nhttps:\/\/doi.org\/doi:10.3390\/nu12030777\r\n[2] Angelina C, Perdana AA, H. (2018). \r\nFaktor Kejadian Stunting Balita Berusia \r\n6-23 Bulan Di Provinsi Lampung. Dunia \r\nKesmas, 7(2), 1–2.\r\n[3] Asthiningsih, N. W. W., & Muflihatin, S. \r\nK. (2018). Deteksi Dini Perkembangan \r\nBalita Dengan Metode Ddst Ii Di \r\nPosyandu Wilayah Kerja Puskesmas \r\nJuanda Samarinda. Jurnal Endurance, \r\n3(2), 367–374. \r\nhttps:\/\/doi.org\/10.22216\/jen.v3i2.3149\r\n[4] Bappenas. (2019). Pembangunan Gizi Di \r\nIndonesia.\r\n[5] Dinas Kesehatan Lampung Tengah. \r\n(2020). Lokasi Kampung Stunting \r\nBerdasarkan Hasil E-PPGBM Tahun \r\n2020 Di Lampung Tengah (pp. 1–5).\r\n[6] Dinkes Lampung. (2019). Profil \r\nKesehatan Provinsi Lampung Tahun 2019\r\n(Issue 44).\r\n[7] Erowati, D. (2019). Kenaikan Berat \r\nBadan Selama Kehamilan Sebagai Faktor \r\nResiko Kejadian Stunting Pada Anak Usia \r\n12-24 Bulan. Poltekkes Kemenkes Riau,1–8. https:\/\/doi.org\/10.31227\/osf.io\/t4b26\r\n[8] Huda N et al. (2019). Perilaku Berpantang \r\nMakan pada Ibu Hamil Suku Dayak di \r\nKabupaten. Manajemen Kesehatan \r\nIndonesia, 7(3), 191–197.\r\n[9] Illahi, R. K., & Muniroh, L. (2018). \r\nGambaran Sosio Budaya Gizi Etnik \r\nMadura Dan Kejadian Stunting Balita \r\nUsia 24–59 Bulan Di Bangkalan. Media \r\nGizi Indonesia, 11(2), 135. \r\nhttps:\/\/doi.org\/10.20473\/mgi.v11i2.135-\r\n143\r\n[10] Iradukunda, F. (2020). Health Care for \r\nWomen International. Health Care for \r\nWomen International, 41(2), 1–10. \r\nhttps:\/\/doi.org\/10.1080\/07399332.2019.1\r\n574799\r\n[11] Juariah. (2018). Kepercayaan Dan Praktik \r\nBudaya Pada Masa Kehamilan \r\nMasyarakat Desa Karangsari Kabupaten \r\nGarut. Jurnal Ilmu-Ilmu Sosial Dan \r\nHumaniora, 20(2), 162–167.\r\n[12] Peraturan Presiden Republik Indonesia \r\nNomor 72 Tahun 2021 tentang Percepatan \r\nPenurunan Stunting, 1 (2021).\r\n[13] Kementrian Kesehatan RI. (2018). Hasil \r\nUtama Riskesdas.\r\n[14] Lestari ID, Ernalia Y, R. T. (2016). \r\nGambaran Status Gizi Pada Siswa \r\nSekolah Dasar Kecamatan Bangko \r\nKabupaten Rokan Hilir. Jom FK, 3(2), 1–\r\n14.\r\n[15] Marpaung, D. R., . Z., & Alfonsus, Y. \r\n(2017). Pengaruh Pemberian Senam Otak \r\nTerhadap Memori Jangka Pendek Pada \r\nMahasiswa Ikor Fik Unimed. Sains \r\nOlahraga : Jurnal Ilmiah Ilmu \r\nKeolahragaan, 1(1), 21–29. \r\nhttps:\/\/doi.org\/10.24114\/so.v1i1.6167\r\n[16] Muthoharoh H. (2015). Persepsi Ibu \r\nHamil Tentsng Budaya Dan Mitos \r\nKehamilan di Wilayah Kerja Puskesmas \r\nPadangan Kabupaten Bojonegoro. Food \r\nand Nutrition Bulletin, 12(3), 210.\r\n[17] Putri LNA. (2021). Perubahan Perilaku \r\nBudaya Appasilli Pada Suku Makassar \r\nUntuk Mengurangi Permasalahan \r\nStunting. Institut Ilmu Kesehtan Strada \r\nIndonesia, 1–6.\r\n[18] Ramulondi, M., de Wet, H., & Ntuli, N. R. \r\n(2021). Traditional food taboos and \r\npractices during pregnancy, postpartum \r\nrecovery, and infant care of Zulu women \r\nin northern KwaZulu-Natal. Journal of \r\nEthnobiology and Ethnomedicine, 17(1), \r\n1–19. https:\/\/doi.org\/10.1186\/s13002-\r\n021-00451-2\r\n[19] Rezki, N., Yusfi, M., & Yendri, D. (2013). \r\nRancang Bangun Prototipe Pengurang \r\nBahaya Gas Polutan Dalam Ruangan \r\nDengan Metode Elektrolisis Berbasis \r\nMikrokontroler. Jurusan Sistem \r\nKomputer, 10(2), 12–20.\r\n[20] Ruaida, N., & Soumokil, O. (2018). \r\nHubungan Status Kek Ibu Hamil dan \r\nBBLR dengan Kejadian Stunting pada \r\nBalita di Puskesmas Tawiri Kota Ambon. \r\nJurnal Kesehatan Terpadu, 9(2), 45–51. \r\nhttps:\/\/doi.org\/10.32695\/jkt.v2i9.12\r\n[21] Rufaida FD, Raharjo AM, H. (2020). The \r\nCorrelation of Family and Household \r\nFactors on The Incidence of Stunting on \r\nToddlers in Three Villages Sumberbaru \r\nHealth Center Work Area of Jember. \r\nJournal of Agromedicine and Medical \r\nSciences, 6(1), 1. \r\nhttps:\/\/doi.org\/10.19184\/ams.v6i1.9541\r\n[22] Setyawati VAV. (2018). Kajian Stunting \r\nBerdasarkan Umur dan Jenis Kelamin Di \r\nKota Semarang. Stikes PKU \r\nMuhammaduyah Surakarta, 834–838.\r\n[23] Sugeng. (2019). Gambaran Tumbuh \r\nKembang Anak pada Periode Emas Usia \r\n0-24 Bulan di Posyandu Wilayah \r\nKecamatan Jatinangor. Jurnal Jsk, 4(3), \r\n96–101.\r\n[24] Suhada. (2021). Korelasi Aktivitas Fisik \r\ndan Persen Lemak Tubuh dengan \r\nIndikator Sarkopenia. Amerta Nutrition, \r\n5(1), 15. \r\nhttps:\/\/doi.org\/10.20473\/amnt.v5i1.2021.\r\n15-22\r\n[25] Susanti A, Rusnoto, A. N. (2013). Budaya \r\nPantang Makan, Status Ekonomi, Dan \r\nPengetahuan Zat Gizi Ibu Hamil Pada Ibu \r\nHamil Trimester III Dengan Status Gizi. \r\nJurnal Ilmu Keperawatan Dan Kebidanan, \r\n4(1), 1–9.\r\n[26] Sutarto, & Indriyani, R. (2018). Stunting \r\nand poverty. The 3rd SHIELD \r\nInternational Conference of 2018, 260–\r\n263. \r\nhttps:\/\/3rdshieldproceeding.uprci.org\r\n[27] Sutarto, Sumekar, D. W., Wijaya, S. M., \r\n& Indriyani, R. (2019). Permodelan \r\nProbabilitas Kejadian Stunting. JK Unila, \r\n3(1), 16–20.\r\n[28] Sutarto, Yadika, A. D. N., & Reni \r\nIndriyani. (2021). Analisa Riwayat \r\nPemberian ASI Eksklusif dengan Stunting \r\npada Balita Usia 24-59 Bulan di Wilayah \r\nKerja Puskesmas Way Urang Kabupaten \r\nLampung Selatan. The Indonesian \r\nJournal of Public Health, 16(3), 148–153. \r\nhttps:\/\/jurnal.unimus.ac.id\/index.php\/jkm\r\ni\/index\r\n[29] Untari, I., & Mayasari, S. (2015). Study of \r\nDeveloping the Myths of Pregnancy in \r\nBPS Zubaidah. The 1st University \r\nResearch Colloquium (URECOL) 2015, \r\n64–72.\r\n[30] Urielle, Y., Lokossou, A., Tambe, A. B., \r\nAzandjèmè, C., & Mbhenyane, X. (2021). \r\nSocio-cultural beliefs influence feeding \r\npractices of mothers and their children in \r\nGrand Popo , Benin. Journal of Health, \r\nPopulation and Nutrition, 40(33), 1–12. \r\nhttps:\/\/doi.org\/10.1186\/s41043-021-\r\n00258-7\r\n[31] Widnatusifah. (2020). Gambaran Asupan \r\nZat Gizi Dan Status Gizi Remaja \r\nPengungsian Petobo Kota Palu. The \r\nJournal of Indonesian Community \r\nNutrition, 9(1), 17–29. \r\nhttps:\/\/doi.org\/10.30597\/jgmi.v9i1.10155\r\n[32] Widodo, Y. (2014). Cakupan Pemberian \r\nAsi Eksklusif: Akurasi Dan Interpretasi \r\nData Survei Dan Laporan Program. Gizi \r\nIndonesia, 34(2), 101–108. \r\nhttps:\/\/doi.org\/10.36457\/gizindo.v34i2.10",
+      "status_changed": "2022-06-14 01:16:01",
+      "userid": 1227,
+      "documents": [
+          {
+            "main": "83 JPPW-2022-176.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "hash": "69dd6137a0b8d6ca0a35f7085f50d684",
+                  "mtime": "2022-06-13 15:35:52",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/466333",
+                  "filesize": 536545,
+                  "fileid": 466333,
+                  "mime_type": "application\/pdf",
+                  "filename": "83 JPPW-2022-176.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 164129
+                }
+            ],
+            "pos": 1,
+            "eprintid": 42418,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164129",
+            "mime_type": "application\/pdf",
+            "docid": 164129,
+            "security": "public",
+            "placement": 1,
+            "format": "text"
+          }
+      ],
+      "date": "2022-06-13",
+      "publication": "Journal of Positive Psychology & Wellbeing",
+      "title": "The Influence of Local Culture on Mothers During Pregnancy on \r\nStunting Incidence",
+      "metadata_visibility": "show",
+      "subjects": [
+        "RJ101"
+      ],
+      "pagerange": "2172-2180",
+      "volume": 6,
+      "issn": "2587-0130",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42418",
+      "type": "article"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30876",
+      "type": "article",
+      "subjects": [
+        "RJ101"
+      ],
+      "title": "PENCEGAHAN STUNTING MELALUI PEMBERDAYAAN MASYARAKAT DI DESA BINAAN FAKULTAS KEDOKTERAN UNIVERSITAS LAMPUNG",
+      "metadata_visibility": "show",
+      "publication": "Prosiding The 1st Seminar Nasional ADPI Mengabdi Untuk Negeri",
+      "documents": [
+          {
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/139359",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/366116",
+                  "filesize": 18781,
+                  "fileid": 366116,
+                  "mtime": "2021-05-26 17:39:36",
+                  "hash": "c889a33be1df6129a25d2e31c466959c",
+                  "datasetid": "document",
+                  "objectid": 139359,
+                  "mime_type": "text\/html",
+                  "hash_type": "MD5",
+                  "filename": 13
+                }
+            ],
+            "pos": 1,
+            "eprintid": 30876,
+            "language": "id",
+            "main": 13,
+            "license": "cc_by",
+            "date_embargo": "2030-12-19",
+            "format": "text",
+            "placement": 1,
+            "content": "published",
+            "security": "validuser",
+            "mime_type": "text\/html",
+            "docid": 139359
+          }
+      ],
+      "status_changed": "2021-05-27 02:37:13",
+      "userid": 1197,
+      "creators": [
+        {
+          "name": {
+            "given": "puspita sari",
+            "family": "ratna dewi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "ratnadps@gmail.com"
+        },
+        {
+          "id": "sutarto@fk.unila.ac id",
+          "name": {
+            "given": "STT",
+            "family": "Sutarto",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "rev_number": 7,
+      "full_text_status": "restricted",
+      "refereed": "TRUE",
+      "lastmod": "2021-05-27 02:37:13",
+      "eprintid": 30876,
+      "ispublished": "pub",
+      "abstract": "Balita pendek (stunting) di Indonesia pada umumnya dialami pada rumah tangga \/ keluarga yang miskin. Faktor resiko balita pendek (stunting) dipengaruhi oleh faktor keluarga (household) dan masyarakat (community). Pencegahan salah satunya dengan melakukan pemberdayaan masyarakat dalam rangka meningkatkan komponen asupan gizi dan pengetahuan untuk balita, ibu balita, dan ibu hamil. Tujuan pengabdian ini adalah untuk meningkatkan gizi keluarga balita dan ibu hamil melalui pemberdayaan beternak ayam kampung dan pengetahuan ibu balita dan ibu hamil untuk pencegahan stunting. Metode pengabdian dengan pemberdayaan stimulant ternak ayam kampung didahului dengan penyuluhan pada sasaran dan pemberian stimulant ayam kampung. Hasil dari pemberdayaan ini berupa pemberian stimulant bibit ayam kampung sebagai sumber\r\nprotein dari telurnya. Setiap keluarga balita usia 0-1 tahun dan ibu hami diberi 3-5 ekor ayam untuk dipelihara selanjutnya memanfaatkan telurnya untuk perbaikan gizi keluarga. Pelaksanaan pemberdayaan ini di awali dengan keberhasilan pelaksanaan penyuluhan yang diberikan untuk peningkatan pengetahuan ibu balita dan ibu hamil. Keberhasilan pemberdayaan ditunjang dengan adanya peningkatan pengetahuan sasaran untuk keberlanjutan dari pemberdayaan. Sehingga masyarakat mandiri dan tetangga dapat ikut serta dalam program pemberdayaan ini.",
+      "eprint_status": "archive",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "datestamp": "2021-05-27 02:37:13",
+      "dir": "disk0\/00\/03\/08\/76",
+      "divisions": [
+        "FK1"
+      ]
+    }
+]
+

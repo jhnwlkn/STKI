@@ -1,0 +1,480 @@
+[
+    {
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43646",
+      "volume": 14,
+      "subjects": [
+        "RC0254"
+      ],
+      "pagerange": "559-564",
+      "metadata_visibility": "show",
+      "title": "Antioxidant and Cytotoxic Activities of Melinjo (Gnetum gnemon\r\nL.) Seed Fractions on HeLa Cell Line an In Vitro",
+      "publication": "Pharmacognosy Journal, Vol 14,2022",
+      "date": "2022-06-10",
+      "documents": [
+          {
+            "docid": 165585,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "main": "Sutyarso_Antioxidant and Cytotoxic Activities of Melinjo 2022.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165585",
+            "pos": 1,
+            "eprintid": 43646,
+            "files": [
+                {
+                  "mtime": "2022-07-27 02:43:08",
+                  "hash": "062bb9a1662eace5dc784d75acdd2ef0",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/476043",
+                  "filesize": 535004,
+                  "fileid": 476043,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Sutyarso_Antioxidant and Cytotoxic Activities of Melinjo 2022.pdf",
+                  "datasetid": "document",
+                  "objectid": 165585
+                }
+            ]
+          }
+      ],
+      "userid": 618,
+      "status_changed": "2022-07-27 02:59:40",
+      "rev_number": 7,
+      "publisher": "Pharmacognosy Journal, Vol 14, Issue 3, May -June, 2022",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Asep",
+            "given": "Sukohar"
+          },
+          "id": "asepsukohar@gmail.com"
+        },
+        {
+          "id": "sutyarso@yahoo.co.id",
+          "name": {
+            "family": "Sutyarso",
+            "given": "Sutyarso",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Hendri",
+            "family": "Busman",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "hendri_busman@yahoo.com"
+        },
+        {
+          "id": "uya.jujun@gmail.com",
+          "name": {
+            "given": "Nurcahyani",
+            "family": "Nuning",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Evi",
+            "given": "Kurniawaty",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "eprintid": 43646,
+      "lastmod": "2022-07-27 02:59:40",
+      "refereed": "TRUE",
+      "number": 3,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Introduction: Medicinal plants have been investigated for possible anti-cancer effects. One of them is Gnetum gnemon L (melinjo). This study aims determined in vitro antioxidant activity and the cytotoxic effects of polar, semipolar and non polar melinjo seed fractions againts HeLa cell line. Methods: The melinjo seed were extracted with ethanol as a solvent. Then, the fractionation was done using liquidliquid\r\nextraction method with three different polarity solvent. Cytotoxic activity was carried out using 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide\r\n(MTT) colorimetric assay in HeLa cell lines at concentrations ranging from 25 to 400 μg\/mL. Antioxidant activity was determined by the diphenyl picryl hidrazil\r\n(DPPH) radical scavenging method. Results: Phytochemical screening indicated the presence of phyto-constituents\r\nlike flavonoids, terpenoid and tanin. The DPPH scavenging activity by the melinjo seed aqueous, ethyl acetate and N-hexane fraction was 733,12 ± 18,95 μg\/mL; 68,40 ± 1,9 μg\/mL and 2035,± 65,59 μg\/mL, respectively. The cytotoxic activity of the melinjo seed fractions showed that the ethyl\r\nacetate was the most active fraction against HeLa cell line with IC50 value 45,27 μg\/mL. Conclusion: In this study, we have observed that the melinjo seed fractions exhibited antioxidant and cytotoxic activity against HeLa cell lines. This is presumably due to the content of phytochemicals and stilbenoids such as resveratrol and gnetin C. Melinjo seeds are more potent as anticancer Compared with other plants that also contain RSV such as grape extract (Vitis vinifera\r\nL.) against lung cancer cells (A549). From the three fractions, the ethyl acetate fraction had the highest antioxidant and cytotoxic effect compared to the water and\r\nn-hexane fractions. Gnetum gnemon L. can be considered as a potential source of anticancer agents. However, more research is needed to determine the mechanism of action.",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0\/00\/04\/36\/46",
+      "datestamp": "2022-07-27 02:59:40"
+    },
+    {
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/02\/55\/01",
+      "datestamp": "2020-11-16 07:05:50",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Introduction: Breast cancer cases are increase and fast becoming the leading cause of oncologic mortality among women worldwide. Delay in management will worsen the prognosis of breast cancer patients. The poor prognosis is correlate with high grade of breast cancer malignancy. Histology can be used as an indicator to assess the grade of breast cancer malignancy. In addition, a high predictive value of lymphocyte-monocyte ratio (LMR) has been suggested to indicate favorable prognosis of various cancer, and used as parameters for assessing breast cancer prognosis.\r\n\r\n\r\nMethod: This study is a quantitative research, using an observational approach. Laboratory examination results are collected from 43 breast cancer patients who will conduct treatment at Urip Sumoharjo Hospital from June to September 2019. Data are processed by the Spearman rank test using SPSS 22.0.\r\n\r\n\r\nResults: Correlation test results between lymphocyte-monocyte ratio with histological grading of breast cancer obtained a P value of 0.376.\r\n\r\n\r\nConclusions: Lymphocytes to monocytes ratio (LMR) value cannot be utilize as a parameter for evaluating prognosis of breast cancer.",
+      "date_type": "published",
+      "lastmod": "2020-11-16 07:05:50",
+      "eprintid": 25501,
+      "number": 3,
+      "refereed": "TRUE",
+      "official_url": "https:\/\/www.bioscmed.com\/index.php\/bsm\/article\/view\/139",
+      "full_text_status": "none",
+      "publisher": "Fakultas Kedokteran Universitas Sriwijaya (Faculty of Medicine, Universitas Sriwijaya) Indonesia",
+      "rev_number": 13,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhartono",
+            "given": "Muhartono"
+          },
+          "id": "dmuhartono@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Rizki",
+            "family": "Hanriko",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "rizki.hanriko@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "suharyani",
+            "given": "suharyani"
+          },
+          "id": null
+        }
+      ],
+      "userid": 22,
+      "status_changed": "2020-11-16 07:05:50",
+      "publication": "Bioscientia Medicina : Journal of Biomedicine and Translational Research",
+      "date": 2020,
+      "metadata_visibility": "show",
+      "title": "Correlation of Lymphocyte-Monocyte Ratio with Grading of Breast Cancer Malignancy",
+      "subjects": [
+        "RC0254"
+      ],
+      "volume": 4,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25501"
+    },
+    {
+      "status_changed": "2021-10-20 01:40:59",
+      "userid": 4766,
+      "documents": [
+          {
+            "language": "id",
+            "main": 2935,
+            "rev_number": 4,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155100",
+            "pos": 1,
+            "eprintid": 34563,
+            "files": [
+                {
+                  "mtime": "2021-10-19 14:22:31",
+                  "hash": "68a3b26efcade84adba16d7abcf06dd7",
+                  "fileid": 406316,
+                  "filesize": 32290,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/406316",
+                  "hash_type": "MD5",
+                  "filename": 2935,
+                  "mime_type": "application\/xml",
+                  "objectid": 155100,
+                  "datasetid": "document"
+                }
+            ],
+            "docid": 155100,
+            "mime_type": "application\/xml",
+            "format": "text",
+            "placement": 1,
+            "content": "published",
+            "security": "public"
+          },
+          {
+            "docid": 155101,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 2,
+            "language": "en",
+            "main": "2935-3636-1-PB.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155101",
+            "rev_number": 1,
+            "eprintid": 34563,
+            "pos": 2,
+            "files": [
+                {
+                  "filename": "2935-3636-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 155101,
+                  "datasetid": "document",
+                  "hash": "0f4c2dde403993d8d452c0284f4adbbd",
+                  "mtime": "2021-10-19 14:24:51",
+                  "fileid": 406318,
+                  "filesize": 888643,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/406318"
+                }
+            ]
+          }
+      ],
+      "date": "2021-10",
+      "publication": "JK Unila",
+      "title": "Peran Onkogen dan Tumor Suppressor Gene pada Karsinogenesis",
+      "related_url": [
+        {
+          "url": "https:\/\/juke.kedokteran.unila.ac.id\/index.php\/JK\/article\/view\/2935\/2841",
+          "type": "pub"
+        }
+      ],
+      "metadata_visibility": "show",
+      "subjects": [
+        "RC0254"
+      ],
+      "pagerange": "61-68",
+      "volume": 5,
+      "issn": "2614-6991",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34563",
+      "datestamp": "2021-10-20 01:40:59",
+      "dir": "disk0\/00\/03\/45\/63",
+      "divisions": [
+        "FK1"
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Selvi",
+            "family": "Rahmawati"
+          },
+          "id": "selvi.rahmawati@fk.unila.ac.id"
+        }
+      ],
+      "ispublished": "pub",
+      "abstract": "Kanker merupakan penyakit keganasan yang sangat berkaitan dengan abnormabilitas genetik. Penyebab terjadinya abnormabilitas genetik adalah mutasi yang terjadi pada gen terkait jalur sinyaling proliferasi, apoptosis, dan diferensiasi sel. Onkogen dan tumor suppressor gen (TSG) merupakan dua kelompok gen yang paling banyak berkontribusi pada karsinogenesis. Onkogen merupakan bentuk mutasi dari proto-onkogen yang pada kondisi normal banyak berperan pada proses pembelahan atau proliferasi sel. Onkogen pada sel kanker berperan dalam menginduksi proliferasi sel sehingga pembelahan sel menjadi tidak terkontrol. Sedangkan TSG merupakan kelompok gen yang pada kondisi normal berperan pada proses induksi apoptosis atau inhibisi proliferasi. Mutasi kedua kelompok gen ini sering ditemukan bervariasi pada satu massa tumor, atau dikenal sebagai mutasi yang bersifat heterogenik. Meskipun demikian, mutasi yang bersifat homogen juga dapat ditemukan pada sel stem atau progenitor yang kemudian akan mengalami reprogamming atau pemrogaman ulang sehingga menghasilkan sel anakan hasil diferensiasi yang bersifat onkogenik. Karena besarnya keterkaitan onkogen dan TSG pada karsinogenesis, hingga kini penelitian mengenai kedua kelompok gen masih terus dikembangkan karena sangat berpotensi digunakan sebagai target terapi kanker.",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "refereed": "TRUE",
+      "number": 1,
+      "eprintid": 34563,
+      "lastmod": "2021-10-20 01:40:59",
+      "creators": [
+        {
+          "id": "selvi.rahmawati@fk.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rahmawati",
+            "given": "Selvi"
+          }
+        }
+      ],
+      "official_url": "https:\/\/juke.kedokteran.unila.ac.id\/index.php",
+      "publisher": "FK Unila",
+      "full_text_status": "public",
+      "rev_number": 10
+    },
+    {
+      "status_changed": "2017-11-10 14:10:29",
+      "userid": 154,
+      "documents": [
+          {
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18069",
+            "files": [
+                {
+                  "mtime": "2017-11-10 09:44:53",
+                  "hash": "8a140b1d86b453210b19b9b81fa335d4",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/49051",
+                  "filesize": 18411,
+                  "fileid": 49051,
+                  "mime_type": "application\/xml",
+                  "hash_type": "MD5",
+                  "filename": 1100,
+                  "datasetid": "document",
+                  "objectid": 18069
+                }
+            ],
+            "eprintid": 5153,
+            "pos": 1,
+            "language": "en",
+            "main": 1100,
+            "format": "text",
+            "content": "published",
+            "placement": 1,
+            "security": "validuser",
+            "mime_type": "application\/xml",
+            "docid": 18069
+          }
+      ],
+      "date": "2017-07",
+      "publication": "Majority",
+      "title": "Hubungan Derajat Diferensiasi Histopatologik dengan Rekurensi Kanker Payudara di Rumah Sakit Umum Abdul Moeloek Bandar Lampung",
+      "metadata_visibility": "show",
+      "pagerange": "1-5",
+      "subjects": [
+        "R1",
+        "RC0254"
+      ],
+      "volume": 6,
+      "issn": "2337-3776",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5153",
+      "dir": "disk0\/00\/00\/51\/53",
+      "datestamp": "2017-11-10 14:10:29",
+      "divisions": [
+        "FK1"
+      ],
+      "ispublished": "pub",
+      "abstract": "Kanker payudara merupakan salah satu pembunuh utama wanita di dunia dan di Indonesia. Terapi kanker payudara meliputi pembedahan, terapi hormonal, kemoterapi, dan radiasi. Banyak sekali kasus kanker payudara yang rekuren setelah dilakukan pengobatan walaupun sudah dikatakan sembuh. Salah satu faktor risiko yang menyebabkan rekurensi kanker payudara yaitu derajat diferensiasi histopatologik. Tujuan dari penelitian ini adalah untuk mengetahui hubungan antara derajat diferensiasi histopatologik dengan rekurensii kanker payudara. Metode penelitian ini adalah observasional analitik retrospektif dengan pendekatan Case Control Design. Data didapat dari rekam medis penderita kanker payudara yang mengalami rekurensi maupun tidak mengalami rekurensi di Rumah Sakit Umum Abdul Moeloek Bandar Lampung pada tahun 2010-2015. Variabel yang dinilai meliputi derajat diferensiasi histopatologik dan rekurensi kanker payudara, selanjutnya dilakukan analisis bivariat dengan Uji chi square. Dari hasil penelitian didapatkan 35 pasien yang mengalami rekurensi sebagai kasus dan 35 pasien tidak mengalami rekurensi sebagai kontrol. Dengan menggunakan analisis bivariat, derajat diferensiasi histopatologik antara kasus dan kontrol bermakna secara statistik (p=0,004) dan memiliki hubungan yang kuat sebagai faktor risiko rekurensi (OR=6,303). Kesimpulan dari penelitian ini adalah derajat diferensiasi histopatologik merupakan faktor risiko terjadinya rekurensi kanker payudara. \r\n\r\nKata kunci: derajat diferensiasi histopatologik, kanker payudara, rekurensi.",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "number": 3,
+      "refereed": "FALSE",
+      "lastmod": "2017-11-10 14:10:29",
+      "eprintid": 5153,
+      "creators": [
+        {
+          "id": "rickyramadhian@gmail.com",
+          "name": {
+            "given": "Muhammad Ricky",
+            "family": "Ramadhian",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Indri",
+            "family": "Windarti",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "sorayarahmanisa1204@gmail.com",
+          "name": {
+            "given": "Soraya",
+            "family": "Rahmanisa",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Evi",
+            "family": "Kurniawaty",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "full_text_status": "restricted",
+      "publisher": "Juke Unila",
+      "rev_number": 12
+    },
+    {
+      "userid": 618,
+      "event_title": "ICASMI 2018 (International Conference on Applied Sciences Mathematics and Informatics)",
+      "status_changed": "2019-11-14 10:55:19",
+      "date": "2019-01-20",
+      "documents": [
+          {
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 28725,
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28725",
+            "pos": 1,
+            "eprintid": 15606,
+            "files": [
+                {
+                  "hash": "5c9bea03dd4ae104f639a05183f7436c",
+                  "mtime": "2019-11-05 06:58:17",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/134399",
+                  "filesize": 392678,
+                  "fileid": 134399,
+                  "mime_type": "application\/pdf",
+                  "filename": "SUTYARSO_Genome Changes in Multi Drug Resistant Tuberculosis.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 28725
+                }
+            ],
+            "language": "en",
+            "main": "SUTYARSO_Genome Changes in Multi Drug Resistant Tuberculosis.pdf"
+          }
+      ],
+      "pagerange": "1-4",
+      "subjects": [
+        "RC0254"
+      ],
+      "metadata_visibility": "show",
+      "title": "Genome Changes in Multi Drug Resistant Tuberculosis",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15606",
+      "event_type": "conference",
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/01\/56\/06",
+      "datestamp": "2019-11-14 10:55:19",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Abstract. Directly Observed Treatment Shortcourses (DOTS) is a tuberculosis disease program\r\nthat has been implemented worldwide since 1995. Prevalenve of Tuberculosis has started to\r\ndecrease but since then there was a new phenomenon of  the resistant Tuberculosis or Multi Drug\r\nResistant Tuberculosis (MDR TB). Indonesia is now a country with a high burden of MDR TB in\r\nthe world. MDR TB is resistance to Anti Tuberculosis drug that is type Isoniasid and Rifampisin.\r\nUsually the cause of resistance is irregularity of taking medication. It is now known that\r\nTuberculosis drug resistance is not only caused by inadequate or failed treatment but also due to\r\nthe emergence of resistant strains transmitted by MDR TB sufferers. Resistant strains arising from\r\nchanges or mutations in certain genes in the Mycobacterium tuberculosis genome include  rpoB\r\ngene  and katG  gene which are the work targets of Anti Tuberculosis Drugs. This resistance\r\nmechanism is strongly associated with the occurrence of a number of changes in the structure of\r\nthe Mycobacterium tuberculosis genome. Mycobacterium tuberculosis develops resistance\r\nmechanisms that are different from other bacteria in general. Therefore this paper is expected to\r\nhelp understanding the genomic changes that occur in the mechanism of resistance Tuberculosis.",
+      "date_type": "published",
+      "event_dates": "9-11 Agustus 2018",
+      "event_location": "Hotel Emersia, Bandar Lampung",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "given": "Tri Umiana",
+            "family": "Soleha",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "dr.triumiana.unila@gmail.com"
+        },
+        {
+          "id": "sutyarso@yahoo.co.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sutyarso",
+            "given": "Sutyarso"
+          }
+        },
+        {
+          "id": "asepsukohar@gmail.com",
+          "name": {
+            "family": "Sukohar",
+            "given": "Asep",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "lastmod": "2019-11-14 10:55:19",
+      "eprintid": 15606,
+      "refereed": "TRUE",
+      "pres_type": "paper"
+    }
+]
+

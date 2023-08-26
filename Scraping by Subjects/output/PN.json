@@ -1,0 +1,3917 @@
+[
+    {
+      "volume": 6,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38022",
+      "issn": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">2503-3255<\/font><\/font>",
+      "metadata_visibility": "show",
+      "title": "INFOGRAFIS BAGI GURU MATA PELAJARAN BAHASA INDONESIA DI BANDAR LAMPUNG",
+      "related_url": [
+        {
+          "url": "https:\/\/juma.umko.ac.id\/index.php\/griya-cendikia\/article\/view\/202\/47"
+        }
+      ],
+      "subjects": [
+        "PN"
+      ],
+      "pagerange": "378-381",
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "docid": 158974,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158974",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "INFOGRAFIS BAGI GURU MATA PELAJARAN BAHASA INDONESIA DI BANDAR LAMPUNG.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 158974,
+                  "hash": "db29890ddc03c7a62a07c862268ce163",
+                  "mtime": "2022-01-19 04:42:07",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432186",
+                  "filesize": 197510,
+                  "fileid": 432186
+                }
+            ],
+            "eprintid": 38022,
+            "pos": 1,
+            "language": "en",
+            "main": "INFOGRAFIS BAGI GURU MATA PELAJARAN BAHASA INDONESIA DI BANDAR LAMPUNG.pdf"
+          }
+      ],
+      "publication": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">GRIYA CENDIKIA<\/font><\/font>",
+      "date": "2021-07-31",
+      "userid": 19911,
+      "status_changed": "2022-01-19 05:40:49",
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "eprintid": 38022,
+      "lastmod": "2022-01-19 05:40:49",
+      "number": 2,
+      "refereed": "FALSE",
+      "official_url": "https:\/\/juma.umko.ac.id\/index.php\/griya-cendikia\/article\/view\/202\/47",
+      "publisher": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">LPPM Universitas Muhammadiyah Kotabumi<\/font><\/font>",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali",
+            "given": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-ali"
+          },
+          "id": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">munaris_labib@yahoo.co.id<\/font><\/font>"
+        },
+        {
+          "id": "heruprasetyo59@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Prasetyo",
+            "family": "Heru"
+          }
+        },
+        {
+          "id": "ayu.setiyo@fkip.unila.ac.id",
+          "name": {
+            "family": "Putri",
+            "given": "Ayu Setiyo",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "eprint_status": "archive",
+      "abstract": "Tujuan pengabdian kepada masyarakat ini adalah meningkatkan kemampuan guru mata pelajaran Bahasaa Indonesia dalam membuat media pembelajaran khususnya media pembelajaran infografis sebagai alternatif pemilihan media pembelajaran. Metode yang digunakan pada pengabdian kepada masyarakat yaitu bentuk kegiatan pelatihan. Adapun teknik pelaksanaan pelatihan yakni sebelum pelatihan ini dilaksanakan, kami informasikan terlebih dahulu kepada guru yang akan menjadi sasaran peserta dalam kegiatan pengabdian bahwa LPPM Universitas Lampung akan mengadakan pelatihan tentang pembuatan media pembelajaran infografis. Untuk itu, anggota tim diharapkan dapat mendata guru-guru khususnya mata pelajaran Bahasa Indonesia yang akan mengikuti pelatihan ini. Adapun target peserta dalam pelatihan ini adalah 35 peserta. Kegiatan ini akan dilaksanakan di SMA Negeri 2 Gadingrejo dalam waktu tiga hari pada bulan Juni 2021. Selanjutnya, pelatihan pembuatan media pembelajaran infografis ini akan menerapkan pelathan aktif, yakni seluruh peserta turut belajar melalui pengalamannya sehingga tujuan yang telah dirancang dapat diperoleh secara optimal. Pelatihan ini akan menggunakan pendekatan praktik melalui pelatihan terbimbing yaitu dengan cara tanya jawab, diskusi, demontrasi, dan praktik pembuatan media pembelajaran infografis.",
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP14"
+      ],
+      "datestamp": "2022-01-19 05:40:49",
+      "dir": "disk0\/00\/03\/80\/22"
+    },
+    {
+      "date_type": "published",
+      "eprintid": 36705,
+      "lastmod": "2021-11-14 02:07:57",
+      "number": 2,
+      "refereed": "TRUE",
+      "official_url": "https:\/\/juma.umko.ac.id\/index.php\/griya-cendikia",
+      "publisher": "LPPM Universitas Muhammadiyah Kotabumi",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "creators": [
+        {
+          "id": "ameliahani@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "AMELIA HANI SAPUTRI",
+            "family": "AMELIA HANI SAPUTRI"
+          }
+        }
+      ],
+      "divisions": [
+        "FKIP25"
+      ],
+      "datestamp": "2021-11-14 02:07:57",
+      "dir": "disk0\/00\/03\/67\/05",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Penelitian Transformasi Sastra Lisan Syaer dalam Pertunjukan Tari dilatarbelakangi oleh kurangnya minat masyarakat terutama generasi muda terhadap sastra lisan syaer. Metode yang digunakan dalam penelitian ini adalah metode deskriptif kualitatif. Metode deskriptif kualitatif adalah metode penelitian yang berusaha menggambarkan dan menginterpretasi objek sesuai dengan apa adanya. Teknik analisis data yang digunakan pada penelitian adalah teknik observasi, wawancara, dan dokumentasi. Terdapat empat tahapan dalam transformasi sastra lisan Syaer dalam pertunjukan tari, yaitu tahap transformasi (perubahan bentuk yang menghasilkan unsur-unsur kebaruan dari aspek gaya), mengembangkan konsep pertunjukan tari (berpijak pada media teks pertunjukan untuk mengenali konteks sebuah sastra lisan yakni Ittar Terang), improvisasi dan eksplorasi Syaer dalam rangkaian gerak tari (terarah atau terpimpin), dan berakhir pada pertunjukan tari Ittar Terang (menggabungkan antara gerak dengan Syaer, properti, pola lantai, rias dan busana serta iringan musik).",
+      "metadata_visibility": "show",
+      "title": "TRANSFORMASI SASTRA LISAN SYAER                               \r\n DALAM PERTUNJUKAN TARI",
+      "pagerange": "1-8",
+      "subjects": [
+        "HM",
+        "ML",
+        "PN"
+      ],
+      "volume": 6,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/36705",
+      "issn": "2503-3255",
+      "userid": 2827,
+      "status_changed": "2021-11-14 02:07:57",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/422583",
+                  "filesize": 745239,
+                  "fileid": 422583,
+                  "hash": "e995a506408d6e2e89e32cd758a68d3f",
+                  "mtime": "2021-11-13 16:59:14",
+                  "datasetid": "document",
+                  "objectid": 157622,
+                  "mime_type": "application\/pdf",
+                  "filename": "TRANSFORMASI SASTRA LISAN SYAER.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 36705,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/157622",
+            "rev_number": 1,
+            "main": "TRANSFORMASI SASTRA LISAN SYAER.pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 157622
+          }
+      ],
+      "publication": "GRIYA CENDIKIA",
+      "date": "2021-09-01"
+    },
+    {
+      "userid": 500,
+      "status_changed": "2023-03-06 01:57:07",
+      "documents": [
+          {
+            "main": "3901-12085-1-PB.pdf",
+            "language": "en",
+            "eprintid": 48765,
+            "pos": 1,
+            "files": [
+                {
+                  "filesize": 870560,
+                  "fileid": 531199,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531199",
+                  "hash": "c3bcb0320602172b66d0038d61afbf57",
+                  "mtime": "2023-03-05 12:34:58",
+                  "objectid": 188147,
+                  "datasetid": "document",
+                  "filename": "3901-12085-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188147",
+            "docid": 188147,
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "placement": 1,
+            "security": "public",
+            "formatdesc": "Article",
+            "format": "text"
+          },
+          {
+            "eprintid": 48765,
+            "pos": 2,
+            "files": [
+                {
+                  "filesize": 1847689,
+                  "fileid": 531201,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531201",
+                  "hash": "e93924eb4e10069576c89a3e0da22425",
+                  "mtime": "2023-03-05 12:55:11",
+                  "objectid": 188148,
+                  "datasetid": "document",
+                  "filename": "The Theory of Roland Barthes Suatu Siang Di Teras Masjid Works of Gola Gong.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188148",
+            "rev_number": 2,
+            "main": "The Theory of Roland Barthes Suatu Siang Di Teras Masjid Works of Gola Gong.pdf",
+            "language": "en",
+            "placement": 2,
+            "security": "public",
+            "formatdesc": "Similarity Report",
+            "format": "text",
+            "docid": 188148,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publication": "International Journal of Multicultural and Multireligious Understanding (IJMMU)",
+      "date": "2022-08",
+      "id_number": "http:\/\/dx.doi.org\/10.18415\/ijmmu.v9i8.3901",
+      "metadata_visibility": "show",
+      "title": "The Theory of Roland Barthes Suatu Siang Di Teras Masjid Works of Gola Gong",
+      "subjects": [
+        "PN"
+      ],
+      "volume": 9,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48765",
+      "type": "article",
+      "issn": "2364-5369",
+      "divisions": [
+        "FKIP8"
+      ],
+      "datestamp": "2023-03-06 01:57:07",
+      "dir": "disk0_bak\/00\/04\/87\/65",
+      "eprint_status": "archive",
+      "abstract": "This study aims to determine the meaning of short stories Suatu Siang di Teras Masjid by Gola Gong through the semiotics approach. Roland Barthers's theory of semiotics was chosen to find out the meaning of the short story. The source used in this study is the meaning contained in the short story Suatu Siang di Teras Masjid by Gola Gong. The research method used in this research is descriptive qualitative. The technique used in this research is observation technique, which is to read critically and thoroughly all discourse and dialogue in literary texts. The results of the research that will be presented are data obtained from observation techniques. The data is in the form of meaning contained in the short story which is based on Roland Barthes's five semiotic codes, namely hermeneutic code, semic code, symbolic code, proaretic code, and gromic code.",
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 48765,
+      "lastmod": "2023-03-06 01:57:07",
+      "number": 8,
+      "refereed": "FALSE",
+      "rev_number": 8,
+      "official_url": "https:\/\/ijmmu.com\/index.php\/ijmmu\/article\/view\/3901\/3429",
+      "publisher": "IJMMU",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Ridha Adilla",
+            "family": "AR"
+          },
+          "id": null
+        },
+        {
+          "id": "samhati.siti@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Siti",
+            "family": "Samhati"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Widodo",
+            "given": "Mulyanto"
+          },
+          "id": "mulyanto.widodo@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ariyani",
+            "given": "Farida"
+          },
+          "id": "farida.ariyani@fkip.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "abstract": "Segala hal yang berkaitan dengan asal mula kehidupan sebuah wilayah tidak bisa lepas dari kehidupan para Leluhurnya yang terceritakan dari “mulut ke mulut” dan dari generasi ke generasi. Sayangnya, tidak semua wilayah di provinsi Lampung terkait dengan cerita lisan para leluhur sebuah wilayah terdokumentasikan secara tertulis sehingga bisa dijadikan dokumen dan sumber belajar dari generasi ke generasi. Terkait dengan hal itu, peneliti merasa penting untuk memfokuskan pada cerita rakyat Lampung di Kampung Tua Negara Batin Kecamatan Negara Batin Kabupaten Way Kanan. Penelitian ini menghasilkan cerita rakyat Lampung di Kampung Tua Negara Batin yang menampilkan tokoh Pangiran Menang Jagat dan Minak Kemala sebagai Nini Puyang yang mempengaruhi krakteristik kehidupan mata pencaharian, sosial, dan budaya,\r\nKata Kunci: cerita rakyat Lampung; folklor.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/02\/50\/36",
+      "datestamp": "2020-11-12 05:56:18",
+      "divisions": [
+        "FKIP14"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Agustina",
+            "given": "Eka Sofia"
+          },
+          "id": "."
+        },
+        {
+          "name": {
+            "family": "Ariyani",
+            "given": "Farida",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "dulifarida@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Zamzanah",
+            "family": "Sarjinah"
+          },
+          "id": null
+        },
+        {
+          "id": "rian.andri@fkip.unila.ac.id",
+          "name": {
+            "given": "Prasetya",
+            "family": "Rian Andri",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "full_text_status": "public",
+      "publisher": "Departemen Jurusan Pendidikan Bahasa Daerah dan Forum Komunikasi MGMP Bahasa Daerah Jawa Barat",
+      "rev_number": 8,
+      "number": 2,
+      "refereed": "TRUE",
+      "eprintid": 25036,
+      "lastmod": "2020-11-12 05:56:18",
+      "publication": "Lokabasa",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 38815,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 38815,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Artikel Cerita Rakyat Lampung.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/226733",
+                  "filesize": 327837,
+                  "fileid": 226733,
+                  "mtime": "2020-11-12 04:45:45",
+                  "hash": "cea1e0ea7c2b9a6d4683b25262768618"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 25036,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38815",
+            "main": "Artikel Cerita Rakyat Lampung.pdf",
+            "language": "en"
+          }
+      ],
+      "status_changed": "2020-11-12 05:56:18",
+      "userid": 3012,
+      "issn": "2338-6193",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25036",
+      "type": "article",
+      "volume": 11,
+      "subjects": [
+        "PN"
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/ejournal.upi.edu\/index.php\/lokabasa\/article\/view\/28911\/pdf"
+        }
+      ],
+      "title": "Cerita Rakyat Lampung Di Kampung Tua Negara Batin\r\nKecamatan Negara Batin Kabupaten Way Kanan\r\nProvinsi Lampung",
+      "metadata_visibility": "show"
+    },
+    {
+      "eprint_status": "archive",
+      "abstract": "Penelitian ini bertujuan mendeskripsikan prosesi perkawinan adat Lampung dalam perkawinan campuran Lampung-Jawa. Desain penelitian yang digunakan ialah deskriptif kualitatif. Teknik pengumpulan data yang digunakan ialah teknik dokumentasi sebagai penggalian korpus data. Hasil penelitian menunjukkan bahwa prosesi perkawinan Lampung-Jawa dimulai dari prosesi muwarei. Prosesi muwarei ialah prosesi pengantin wanita Jawa menjadi masyarakat adat Lampung. Orang Lampung menikah dimulai dari menikah secara agama dan negara kemudian perkawinan secara adat. Perkawinan secara adat merupakan prosesi wajib yang harus dilakukan agar mempelai diakui sebagai masyarakat adat Lampung. Penelitian ini menemukan sebuah pasal yang mengatur muwarei, yakni Pasal 140 dalam Kitab Kuntara Raja Niti. Pasal 140, prosesi muwarei diacu untuk menghindari cepala, hukuman yang diberikan tokoh adat kepada pengantin. Setelah pengantin diakui sebagai masyarakat adat Lampung, kegiatan selanjutnya ialah mesol kibau; canggot muda-mudi; dan nuik kasih.\r\nTahapan setelah muwarei ialah Begawi meliputi pergantian nama (Farida Ariyani menjadi Pujian (Ini Pujian), Ngakuk Muli. Tahapan Ngakuk Muli menunjukkan bahwa wanita resmi\r\nmenjadi Muli Lampung Tiyuh Telu, Gawi Adat Pepadun. Kegiatan terakhir ialah pengambilan gelar (Pengiran Susunan Ratu) yang mengesahkan pernikahan secara agama dan adat.",
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP7"
+      ],
+      "datestamp": "2023-03-06 08:36:38",
+      "dir": "disk0_bak\/00\/04\/87\/78",
+      "official_url": "https:\/\/journal.uny.ac.id\/index.php\/kejawen\/article\/view\/46281\/pdf_1",
+      "publisher": "Fakultas Bahasa dan Seni, Universitas Negeri Yogyakarta",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "creators": [
+        {
+          "name": {
+            "given": "Farida",
+            "family": "Ariyani",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "farida.ariyani@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Costa",
+            "given": "Ronaldo Fisda",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Mohammad",
+            "family": "Ridwan",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "lastmod": "2023-03-06 08:36:38",
+      "eprintid": 48778,
+      "number": 2,
+      "refereed": "FALSE",
+      "date_type": "published",
+      "publication": "Kejawen",
+      "date": 2021,
+      "documents": [
+          {
+            "main": "46281-132854-1-PB.pdf",
+            "language": "en",
+            "eprintid": 48778,
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "46281-132854-1-PB.pdf",
+                  "datasetid": "document",
+                  "objectid": 188171,
+                  "mtime": "2023-03-06 02:04:58",
+                  "hash": "edbdee4169320cf914cf67048d449ac4",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531369",
+                  "fileid": 531369,
+                  "filesize": 765779
+                }
+            ],
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188171",
+            "docid": 188171,
+            "mime_type": "application\/pdf",
+            "content": "published",
+            "placement": 1,
+            "security": "public",
+            "formatdesc": "Article",
+            "format": "text"
+          },
+          {
+            "docid": 188172,
+            "mime_type": "application\/pdf",
+            "placement": 2,
+            "security": "public",
+            "format": "text",
+            "formatdesc": "Similarity Report",
+            "main": "NGEJUK-NGAKUK DALAM BINGKAI ADAT PERKAWINAN (LAMPUNG-JAWA).pdf",
+            "language": "en",
+            "eprintid": 48778,
+            "pos": 2,
+            "files": [
+                {
+                  "hash": "e90d7dc06ca53120aa8d65ecc6185e6b",
+                  "mtime": "2023-03-06 02:05:10",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531371",
+                  "fileid": 531371,
+                  "filesize": 3587173,
+                  "mime_type": "application\/pdf",
+                  "filename": "NGEJUK-NGAKUK DALAM BINGKAI ADAT PERKAWINAN (LAMPUNG-JAWA).pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 188172
+                }
+            ],
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188172"
+          }
+      ],
+      "userid": 500,
+      "status_changed": "2023-03-06 08:36:38",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48778",
+      "type": "article",
+      "issn": "1858-294X",
+      "volume": 1,
+      "subjects": [
+        "HN",
+        "PN"
+      ],
+      "pagerange": "116-125",
+      "metadata_visibility": "show",
+      "id_number": "https:\/\/doi.org\/10.21831\/kejawen.v1i2",
+      "title": "NGEJUK-NGAKUK DALAM BINGKAI ADAT PERKAWINAN (LAMPUNG-JAWA)"
+    },
+    {
+      "type": "book_section",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48793",
+      "volume": 2,
+      "subjects": [
+        "HT",
+        "LB",
+        "PN"
+      ],
+      "pagerange": "175-181",
+      "title": "TRADISI GAWI ADAT DAN IMPLIKASINYA DALAM MKU PENDIDIKAN ETIKA DAN KEARIFAN LOKAL",
+      "metadata_visibility": "show",
+      "date": "2020-10-05",
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "docid": 188200,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188200",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "109-Article Text-193-1-10-20201006 (1).pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 188200,
+                  "hash": "79613122fee02150fba43d99946f2692",
+                  "mtime": "2023-03-06 05:06:14",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531439",
+                  "fileid": 531439,
+                  "filesize": 700152
+                }
+            ],
+            "eprintid": 48793,
+            "pos": 1,
+            "language": "en",
+            "main": "109-Article Text-193-1-10-20201006 (1).pdf"
+          },
+          {
+            "mime_type": "application\/pdf",
+            "docid": 188203,
+            "formatdesc": "Similarity Report",
+            "format": "text",
+            "security": "public",
+            "placement": 2,
+            "language": "en",
+            "main": "TRADISI GAWI ADAT DAN IMPLIKASINYA DALAM MKU PENDIDIKAN ETIKA DAN KEARIFAN LOKAL.pdf",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188203",
+            "files": [
+                {
+                  "objectid": 188203,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "TRADISI GAWI ADAT DAN IMPLIKASINYA DALAM MKU PENDIDIKAN ETIKA DAN KEARIFAN LOKAL.pdf",
+                  "mime_type": "application\/pdf",
+                  "fileid": 531459,
+                  "filesize": 2634799,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531459",
+                  "mtime": "2023-03-06 08:22:06",
+                  "hash": "241a8b6da18edf6221d11599fdb07ea4"
+                }
+            ],
+            "pos": 2,
+            "eprintid": 48793
+          }
+      ],
+      "status_changed": "2023-03-06 08:36:44",
+      "userid": 500,
+      "book_title": "PROSIDING SEMINAR NASIONAL LEMBAGA PENGEMBANGAN PEMBELAJARAN DAN PENJAMINAN MUTU 2020",
+      "series": "PENGUATAN PENDIDIKAN KARAKTER PADA ERA MERDEKA BELAJAR",
+      "creators": [
+        {
+          "name": {
+            "family": "Ariyani",
+            "given": "Farida",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "farida.ariyani@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Edi",
+            "family": "Siswanto"
+          },
+          "id": "edi.siswanto@fkip.unila.ac.id"
+        },
+        {
+          "id": "siskamega.diana@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Diana",
+            "given": "Siska Mega"
+          }
+        }
+      ],
+      "official_url": "http:\/\/proceeding.semnaslp3m.unesa.ac.id\/index.php\/Artikel\/article\/view\/109\/96",
+      "full_text_status": "public",
+      "publisher": "Universitas Negeri Surabaya",
+      "rev_number": 11,
+      "refereed": "FALSE",
+      "lastmod": "2023-03-06 08:36:44",
+      "eprintid": 48793,
+      "date_type": "published",
+      "abstract": "Tradisi upacara adat merupakan salah satu wujud peninggalan kebudayaan dari kehidupan suatu kelompok masyarakat yang masih dianggap memiliki nilai-nilai budaya luhur. Kampung Tua Negara Batin Kabupaten Way Kanan sampai saat ini meski di tengah Pandemi Covid-19 masih mempertahankan keaslian potensi kearifan lokal, salah satunya adalah upacara tradisi Gawi Adat. Fokus kajian penelitian ini adalah tradisi Gawi Adat dengan tujuan penelitian mendeskripsikan tradisi Gawi Adat di Kampung Tua Negara Batin Kabupaten Way Kanan dan implikasinya dalam Mata Kuliah Umum Pendidikan Etika dan Kearifan Lokal. Manfaat penelitian ini adalah sebagai bentuk pendokumentasian kajian interaksi simbolik tradisi Gawi Adat sebagai penambah referensi materi perkuliahan. Penelitian kualitatif digunakan sebagai desain dari proses pengambilan data sampai analisis data. Hasil penelitian ini menunjukkan bahwa tradisi Gawi Adat diawali dengan bentuk upacara tradisi Gawi Adat, fungsi upacara Gawi Adat, dan makna tradisi Gawi Adat. Implementasi tradisi Gawi Adat di Kampung Tua Negara Batin Kabupaten Way Kanan sebagai refernsi\/materi pembelajaran tambahan pada CPMK3 (Budaya Lampung dan Sejarah Perkembangannya) dengan salah satu indikator mahasiswa mampu memamhami tentang sistem perkawinan adat Lampung dan merupakan inovasi baru dalam MKU Pendidikan Etika dan Kearifan Lokal, khususnya di Kampus Hijau Universitas Lampung. Sebagai produk inovasi pembelajaran, pada tahap implementasi dapat dijadikan sebagai modal dasar untuk dosen dan mahasiswa dalam pembentukan karakter serta mendongkrak keberadaan tradisi lokal Lampung untuk lebih membumi dan membantu mahasiswa untuk dapat mengerti sekaligus menerapkan dalam kehidupan mendatang sebagai pewaris kebudayaan Lampung.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0_bak\/00\/04\/87\/93",
+      "datestamp": "2023-03-06 08:36:44",
+      "divisions": [
+        "FKIP7"
+      ],
+      "isbn": "978-623-92112-1-9"
+    },
+    {
+      "rev_number": 8,
+      "official_url": "http:\/\/www.mediaakademi.com",
+      "publisher": "Media Akademi",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "ekasupono@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Sofia Agustina",
+            "family": "Eka"
+          }
+        },
+        {
+          "id": "dulifarida@gmail.com",
+          "name": {
+            "given": "Farida",
+            "family": "Ariyani",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Fitri Yanti",
+            "family": "Yunita"
+          },
+          "id": null
+        }
+      ],
+      "lastmod": "2018-02-13 07:36:49",
+      "eprintid": 1467,
+      "refereed": "TRUE",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Proses pembelajaran secara formal bergerak dinamis mengikuti perkembangan dan perubahan sistem pendidikan yang senantiasa mengalami penyempurnaan.  Reaktualisasi dari penyempurnaan sebuah sistem pendidikan adalahdiberlakukannya kurikulumbaru.  Tercatat  Indonesia telah mengalami penyempurnaan kurikulum sebanyak 12 kali. Kurikulum yang sekarang digunakan adalah Kurikulum 2013 dengan unjuk karakter pendekatan pembelajaran melalui pendekatan ilmiah (saintific approach). Penjelasan tentang teoretis pendekatan ilmiah (saintific approach) dalam pembelajaran pada buku teks terjelaskan dengan bahasa yang operasional dengan dibantu oleh penjelasan perumusan indikator pada tiap bahasannya.\r\n\r\nBuku ini memberikan informasi secara teoretis dan praktis tentang bagaimana sebuah pendekatan ilmiah berada pada ruang buku teks pelajaran Bahasa Indonesia. Sejatinya, buku ini tersusun berdasarkan hasil penelitian terhadap salah satu buku tekspelajaran Bahasa Indonesia untuk jenjang SMP\/MTs. Penulis mencoba menyajikan tiap informasi dengan merumuskan kata kunci yang diharapkan dapat mudah dipahami pembaca. Teknik penyajian dalam buku ini diawali dengan pemberian konsep dasar tentang keberadaan sebuah buku teks dalam konteks pembelajaran, yang selanjutnya diberikan contoh praktis bagaimana menelaah sebuah buku teks dalam sajian pendekatan ilmiah.\r\n\r\nPembahasan materi dalam buku ini memadukan konsep hakikat buku teks, buku teks dengan komponen pembelajaran, buku teks dengan perkembangan sistem pendidikan yang di dalamnya penyesuaian dengan kurikulum yang berlaku, buku teks dengan salah satu pendekatan yang digunakan dalam penerapan Kurikulum 2013. Penyajian bab dalam buku ini terdiri atas empat bab. Bab 1 sampai dengan bab 3 menyampaikan materi secara teoretis tetapi juga ditunjang oleh penjelasan yang operasional melalui tabel indikator pada setiap sajiannya.  Penulis batasi sampai dengan Bab 4 yang merupakan materi telaah langsung kedalam buku teks pelajaran Bahasa  Indonesia disertai dengan contoh dan ilustrasi data hasil telaahan.\r\n\r\nUcapan terimakasih penulis tujukan kepada semua pihak yang telah mendukung tersusunnya buku “Pola Penyajian Kegiatan Pembelajaran Berbasis Pendekatan Ilmiah (saintific approach) dalam Buku Teks (sebuah Kajian Telaah Buku Teks Bahasa Indonesia), ruang ini ditujukan kepada pihak fakultas (FKIP Universitas Lampung) dan tim penerbit.  Selanjutnya, tiadalah gading  yang tiada retak, penulis membuka ruang seluas-luasnya bagi pembaca untuk memberikan saran dan kritik yang bersifat konstruktif demi penyempurnaan ilmu yang terdapat dalam buku ini.  Salam.",
+      "divisions": [
+        "FKIP14"
+      ],
+      "datestamp": "2017-03-20 13:50:33",
+      "dir": "disk0\/00\/00\/14\/67",
+      "isbn": "978-602-6435-17-0",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1467",
+      "type": "book",
+      "volume": 1,
+      "subjects": [
+        "PN"
+      ],
+      "metadata_visibility": "show",
+      "title": "POLA PENYAJIAN KEGIATAN PEMBELAJARAN BERBASIS PENDEKATAN ILMIAH",
+      "related_url": [
+        {
+          "url": "http:\/\/www.mediaakademi.com"
+        }
+      ],
+      "place_of_pub": "Yogyakarta",
+      "pages": 226,
+      "date": 2016,
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 1340,
+            "files": [
+                {
+                  "objectid": 1340,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "POLA PENYAJIAN KEGIATAN PEMBELAJARAN BERBASIS PENDEKATAN ILMIAH.pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 13223825,
+                  "fileid": 9966,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9966",
+                  "mtime": "2017-03-20 09:40:26",
+                  "hash": "380e60d437d6e90d57480946d7997105"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 1467,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1340",
+            "main": "POLA PENYAJIAN KEGIATAN PEMBELAJARAN BERBASIS PENDEKATAN ILMIAH.pdf",
+            "language": "en"
+          }
+      ],
+      "userid": 2,
+      "status_changed": "2017-03-20 13:50:33"
+    },
+    {
+      "datestamp": "2021-03-16 01:39:56",
+      "dir": "disk0\/00\/02\/83\/91",
+      "abstract": "The cultural diversity that exists in various regions in Indonesia produces a lot of potential for local wisdom and tradition. Various Indonesian local wisdom has been used as teaching material in the classroom. However, pepaccur local wisdom is still rarely known and used as teaching material. Therefore it is a novelty to turn pepaccur local wisdom into Indonesian literary teaching materials. This study aims to investigate the properness of pepaccur local wisdom for Indonesian literary teaching materials. The qualitative approach used in this study is characterized by collecting data through interviews, observation, recording and book review, and other sources related to pepaccur local wisdom. Content analyses were also used in analyzing the collected data. The results of this study are in the form of pepaccur presentations that are appropriate to be used as teaching materials for Indonesia language and literature based on the characteristics of the functions and values of local wisdom contained in them. Values contained in pepaccur such as religion, simplicity, cooperation, and politeness can be a reference in behaving in the community and this integration can be an effort to preserve local wisdom that has begun to be abandoned by the Lampung community. Implications from this study, through pepaccur-based teaching materials, students can learn to live a simple life, have a community with mutual help and respect, and learn poetic arts to provide entertainment and advice.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "refereed": "TRUE",
+      "number": 2,
+      "lastmod": "2021-03-16 01:39:56",
+      "eprintid": 28391,
+      "creators": [
+        {
+          "name": {
+            "family": "Fuad",
+            "given": "Muhammad",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "muhammad.fuadum@fkip.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Efendi",
+            "given": "Anwar"
+          }
+        },
+        {
+          "name": {
+            "family": "Muhammad",
+            "given": "Ulul Azm",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "publisher": "ejournal.undiksha.ac.id",
+      "official_url": "https:\/\/ejournal.undiksha.ac.id\/index.php\/JPI\/index",
+      "full_text_status": "public",
+      "rev_number": 14,
+      "status_changed": "2021-03-16 01:39:56",
+      "userid": 941,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42424",
+            "rev_number": 3,
+            "files": [
+                {
+                  "fileid": 252290,
+                  "filesize": 113965,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/252290",
+                  "hash": "8503e8deeafd2a822e5a2497f0a2301c",
+                  "mtime": "2021-03-15 08:08:08",
+                  "objectid": 42424,
+                  "datasetid": "document",
+                  "filename": "scholar_hl=id&as_sdt=0,5&q=The+Use+of+Pepaccur+Local+Wisdom+for+Indonesian+Literary+Teaching+Materials&btnG=",
+                  "hash_type": "MD5",
+                  "mime_type": "text\/html"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 28391,
+            "language": "en",
+            "main": "scholar_hl=id&as_sdt=0,5&q=The+Use+of+Pepaccur+Local+Wisdom+for+Indonesian+Literary+Teaching+Materials&btnG=",
+            "format": "text",
+            "security": "public",
+            "content": "published",
+            "placement": 1,
+            "mime_type": "text\/html",
+            "docid": 42424
+          }
+      ],
+      "date": "2020-06",
+      "publication": "Jurnal Pendidikan Indonesia (JPI)",
+      "title": "The Use of Pepaccur Local Wisdom for Indonesian Literary Teaching Materials",
+      "metadata_visibility": "show",
+      "subjects": [
+        "PN"
+      ],
+      "pagerange": "213-223",
+      "volume": 9,
+      "issn": "2541-7207",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28391"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48587",
+      "type": "video",
+      "keywords": "Kias Lampung Selatan, Sastra Lisan Lampung",
+      "subjects": [
+        "ML",
+        "PN",
+        "PN0441"
+      ],
+      "title": "Wawancara Kias Lampung bersama Hasan Mata Raja",
+      "metadata_visibility": "show",
+      "date": "2021-06-17",
+      "documents": [
+          {
+            "main": "video_20210617_082945.mp4",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/529773",
+                  "fileid": 529773,
+                  "filesize": 388715445,
+                  "hash": "3b9a2e8cdb86a7d5c671ec5b239a2143",
+                  "mtime": "2023-02-26 19:42:29",
+                  "datasetid": "document",
+                  "objectid": 187906,
+                  "mime_type": "video\/mp4",
+                  "filename": "video_20210617_082945.mp4",
+                  "hash_type": "MD5"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 48587,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187906",
+            "rev_number": 1,
+            "mime_type": "video\/mp4",
+            "docid": 187906,
+            "placement": 1,
+            "security": "public",
+            "format": "video"
+          },
+          {
+            "files": [
+                {
+                  "filename": "video_20210617_094009.mp4",
+                  "hash_type": "MD5",
+                  "mime_type": "video\/mp4",
+                  "objectid": 187907,
+                  "datasetid": "document",
+                  "hash": "5521d3a34f6da5521eb4fa19e7b975c9",
+                  "mtime": "2023-02-26 19:46:16",
+                  "filesize": 246536858,
+                  "fileid": 529775,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/529775"
+                }
+            ],
+            "eprintid": 48587,
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187907",
+            "rev_number": 1,
+            "main": "video_20210617_094009.mp4",
+            "language": "en",
+            "security": "public",
+            "placement": 2,
+            "format": "video",
+            "mime_type": "video\/mp4",
+            "docid": 187907
+          },
+          {
+            "docid": 187908,
+            "mime_type": "video\/mp4",
+            "format": "video",
+            "security": "public",
+            "placement": 3,
+            "language": "en",
+            "main": "video_20210617_095037.mp4",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187908",
+            "pos": 3,
+            "eprintid": 48587,
+            "files": [
+                {
+                  "fileid": 529777,
+                  "filesize": 395127515,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/529777",
+                  "mtime": "2023-02-26 20:04:18",
+                  "hash": "658b9093556f81983bb7244ca1d0a402",
+                  "objectid": 187908,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "video_20210617_095037.mp4",
+                  "mime_type": "video\/mp4"
+                }
+            ]
+          },
+          {
+            "files": [
+                {
+                  "hash": "5831532c079072a638a6342c30c43cc2",
+                  "mtime": "2023-02-26 20:07:48",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/529779",
+                  "fileid": 529779,
+                  "filesize": 2830413,
+                  "mime_type": "image\/jpeg",
+                  "filename": "IMG_20210617_082740.jpg",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 187909
+                }
+            ],
+            "pos": 4,
+            "eprintid": 48587,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187909",
+            "rev_number": 1,
+            "main": "IMG_20210617_082740.jpg",
+            "language": "en",
+            "placement": 4,
+            "security": "public",
+            "format": "image",
+            "mime_type": "image\/jpeg",
+            "docid": 187909
+          },
+          {
+            "pos": 5,
+            "eprintid": 48587,
+            "files": [
+                {
+                  "objectid": 187910,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "IMG_20210617_083845.jpg",
+                  "mime_type": "image\/jpeg",
+                  "filesize": 3224904,
+                  "fileid": 529781,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/529781",
+                  "mtime": "2023-02-26 20:07:57",
+                  "hash": "777f2fedfc19f4e0832697141213c379"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187910",
+            "rev_number": 1,
+            "main": "IMG_20210617_083845.jpg",
+            "language": "en",
+            "placement": 5,
+            "security": "public",
+            "format": "image",
+            "docid": 187910,
+            "mime_type": "image\/jpeg"
+          }
+      ],
+      "status_changed": "2023-02-27 01:02:27",
+      "userid": 1136,
+      "creators": [
+        {
+          "id": "riyanhidayat28@gmail.com",
+          "name": {
+            "family": "Hidayatullah",
+            "given": "Riyan",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "rev_number": 17,
+      "full_text_status": "public",
+      "lastmod": "2023-02-27 01:02:27",
+      "eprintid": 48587,
+      "contact_email": "riyan.1002@fkip.unila.ac.id",
+      "abstract": "Wawancara ini dilakukan dengan perekaman dan dokumentasi audiovisual",
+      "ispublished": "unpub",
+      "eprint_status": "archive",
+      "datestamp": "2023-02-27 01:02:27",
+      "dir": "disk0_bak\/00\/04\/85\/87",
+      "divisions": [
+        "FKIP25"
+      ]
+    },
+    {
+      "abstract": "ABSTRACT\r\nOral tradition is part of the life of the people of Lampung. The existence of oral tradition is now experiencing a decline. Only some people still maintain this tradition, especially in the villages. Oral traders are less and less because many young people do not want to learn it. This condition certainly can not be left. An attempt is needed to attract the young generations to use their oral traditions. One of the efforts that can be done is to transform oral traditions into the form of performing arts. This has been done by several art communities in Lampung and local governments. However, the quality and strengthening still need to be improved so that the oral tradition still exists and is not extinct.\r\nIn terms of education, the transformation of oral tradition into the performing arts contains cultural cultural education, education to understand local wisdom, and creativity education. In terms of cultural inheritance, this transformation has a positive influence on cultural inheritance on future generations. The younger generation is expected to be interested and growing, as well as maintaining the oral tradition as the cultural heritage of the ancestors.\r\n\r\nKeywords: Transformation, Oral Tradition, Performing Arts.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/01\/09\/52",
+      "datestamp": "2019-04-09 03:41:13",
+      "divisions": [
+        "FKIP25"
+      ],
+      "creators": [
+        {
+          "id": "riyanhidayat28@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hidayatullah",
+            "given": "Riyan"
+          }
+        },
+        {
+          "id": "bambangriadi.br@gmail.com",
+          "name": {
+            "given": "Bambang",
+            "family": "Riadi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "gputrawan08@gmail.com",
+          "name": {
+            "family": "PUTRAWAN",
+            "given": "GEDE EKA",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "publisher": "LPPM Unila",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 1,
+      "eprintid": 10952,
+      "lastmod": "2019-04-09 03:41:13",
+      "date_type": "published",
+      "date": 2017,
+      "publication": "Prosiding kegiatan ilmiah tinglkat nasional",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "docid": 23950,
+            "mime_type": "application\/pdf",
+            "pos": 1,
+            "eprintid": 10952,
+            "files": [
+                {
+                  "fileid": 100497,
+                  "filesize": 986162,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/100497",
+                  "hash": "64a741110e8a8335bcb0689f1a754077",
+                  "mtime": "2019-03-15 13:52:36",
+                  "objectid": 23950,
+                  "datasetid": "document",
+                  "filename": "prosiding Transformasi Budaya Lisan 2017.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23950",
+            "main": "prosiding Transformasi Budaya Lisan 2017.pdf",
+            "language": "en"
+          }
+      ],
+      "status_changed": "2019-04-09 03:41:13",
+      "userid": 1136,
+      "issn": "978-602-70050-6-8",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10952",
+      "volume": 1,
+      "subjects": [
+        "PN"
+      ],
+      "pagerange": 46,
+      "title": "TRANSFORMASI TRADISI LISAN LAMPUNG DALAM SENI PERTUNJUKAN: PERSPEKTIF PENDIDIKAN DAN PEWARISAN BUDAYA",
+      "metadata_visibility": "show"
+    },
+    {
+      "divisions": [
+        "FKIP14"
+      ],
+      "dir": "disk0\/00\/00\/29\/90",
+      "datestamp": "2017-06-05 02:29:56",
+      "corp_creators": [
+        "MULYANTO WIDODO"
+      ],
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Sampar merupakan judul novel karya Albert Camus yang di dalamnya menunjukkan berbagai potret manusia yang bereaksi terhadap kemalangan karena mewabahnya penyakit sampar di kota Oran, Aljazair, koloni Perancis. Kota itu dilukiskan: kering, tiada pepohonan, tidak berkeistimewaan apa-apa. Dengan pelukisan itu, Camus merefleksikan kehidupan yang monoton, tanpa jiwa.. Wabah sampar telah mengakibatkan kesadaran manusia akan lingkungan dan kondisinya sendiri yang malang. Hal ini terpancar dari tiga tokoh novel tersebut, yaitu tokoh Rieux, Paneloux, dan Cottard. Semua tokoh yang dikaji menunjukkan keberadaan yang absurd. Mereka menghadapi keabsurditasan yang berbentuk penderitaan, keterasingan, kegagalan, dan kematian dengan cara yang berbeda sesuai dengan visinya. Orang-orang mulai menyadari arti kecemasan, kebingungan, dan kematian yang diakibatkan oleh penyakit, keterpisahan dengan sanak saudara, dan rasa keterkungkungan dalam kota yang tertutup. Kematian adalah lambang yang paling pasti. Kematian adalah misteri, sesuatu yang paling absurd.\r\n\r\nKata Kunci: tokoh, absurd, sampar",
+      "date_type": "published",
+      "eprintid": 2990,
+      "lastmod": "2017-06-05 02:29:56",
+      "number": 1,
+      "refereed": "TRUE",
+      "publisher": "Jurusan Pendidikan Bahasa dan seni, Keguruan dan Ilmu pendidikan, Universitas Lampung",
+      "official_url": "http:\/\/www.unila.ac.id",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "mulyanto.widodo@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "IQBAL HILAL",
+            "given": "IQBAL H"
+          }
+        }
+      ],
+      "userid": 727,
+      "status_changed": "2017-06-05 02:29:56",
+      "documents": [
+          {
+            "language": "en",
+            "main": "jurnal sampar.doc",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3018",
+            "rev_number": 1,
+            "files": [
+                {
+                  "objectid": 3018,
+                  "datasetid": "document",
+                  "filename": "jurnal sampar.doc",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/msword",
+                  "filesize": 77312,
+                  "fileid": 21780,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21780",
+                  "hash": "3333ab3f01db8dd11072423508bdb035",
+                  "mtime": "2017-06-02 08:51:30"
+                }
+            ],
+            "eprintid": 2990,
+            "pos": 1,
+            "mime_type": "application\/msword",
+            "docid": 3018,
+            "format": "text",
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publication": "AKSARA",
+      "date": "2015-04-01",
+      "metadata_visibility": "show",
+      "title": "EKSISTENSI TIGA TOKOH \"SAMPAR\" DALAM MENGHADAPI ABSURDITAS",
+      "pagerange": "20-31",
+      "subjects": [
+        "PN"
+      ],
+      "volume": 16,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2990",
+      "type": "article",
+      "issn": "1411-2051"
+    },
+    {
+      "refereed": "TRUE",
+      "number": 1,
+      "eprintid": 3084,
+      "lastmod": "2017-07-20 08:58:34",
+      "creators": [
+        {
+          "id": "mulyanto. widodo@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "MULYANTI W",
+            "family": "MULYANTO WIDODO"
+          }
+        }
+      ],
+      "official_url": "http:\/\/www.mediaakademi.com",
+      "publisher": "TEXTIUM",
+      "rev_number": 6,
+      "full_text_status": "none",
+      "date_type": "published",
+      "corp_creators": [
+        "I Wayan Ardi Sumarta"
+      ],
+      "abstract": "Buku kesantunan berbahasa ini menjadi penjaga utama dalam komunikasi agar komunikasi dapat terjaga dengan baik. Bahasawan memerlukan strategi tuturan agar mitra tutur dalam hal ini pendegar merasa tetap nyaman saat pertuturan berlangsung dan tidak kehilangan muka. Penutur perlu mandasari setiap konsep tuturan dengan kesantunan karena penutur tidak hanya memperhatikan tujuan pribadi penutur, melainkan tujuan sosial dalam bertutur juga harus tetap dicermati.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "isbn": "978-602-60635-0-2",
+      "datestamp": "2017-07-20 08:58:34",
+      "dir": "disk0\/00\/00\/30\/84",
+      "divisions": [
+        "FKIP14"
+      ],
+      "volume": 1,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3084",
+      "type": "book",
+      "title": "PRINSIP PERCAKAPAN \r\n(Pengantar Pemahaman Santun Berbahasa)",
+      "metadata_visibility": "show",
+      "subjects": [
+        "PN"
+      ],
+      "pages": 66,
+      "date": "2016-06-01",
+      "place_of_pub": "Yogyakarta",
+      "status_changed": "2017-07-20 08:58:34",
+      "userid": 727
+    },
+    {
+      "isbn": "978-602-14739-2-4",
+      "datestamp": "2017-07-20 09:00:49",
+      "dir": "disk0\/00\/00\/33\/79",
+      "divisions": [
+        "FKIP14"
+      ],
+      "corp_creators": [
+        "SITI SAMHATI",
+        "NURLAKSANA EKO RUSMINTO",
+        "SUMARTI"
+      ],
+      "ispublished": "pub",
+      "abstract": "Buku ini terdiri atas 5 bab, yaitu bab (1) Politik Bahasa Indonesia, (2) Penggunaan EYD dalam karya tulis, (3) Tata Paragraf Bahasa Indonesia, dan (5) Bahasa dalam Karya Tulis Ilmiah. Setiap bab terdiri atas (1) Pendahuluan), (2) Penyajian, (3) Rangkuman, (4) Tugas dan Perlatihan, (5) Rujukan. Setiap bab akan dimunculkan nilai-nilai karakter yang diharapkan dapat mewarnai pembelajaran. Para pengampu mata kuliah diharapkan memunculkan dan menambah nila-nilai karakter tersebut ke dalam setiap proses perkuliahan atau pun dalam tugas dan perlatihan yang diberikan.",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "refereed": "TRUE",
+      "lastmod": "2017-07-20 09:00:49",
+      "eprintid": 3379,
+      "creators": [
+        {
+          "id": "mulyanto.widodo@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "MULYANTO W",
+            "family": "MULYANTO WIDODO"
+          }
+        }
+      ],
+      "publisher": "CV. Yonpress",
+      "rev_number": 7,
+      "full_text_status": "none",
+      "status_changed": "2017-07-20 09:00:49",
+      "book_title": "BAHASA INDONESIA DALAM KARYA TULIS ILMIAH",
+      "userid": 727,
+      "date": "2013-12-29",
+      "pages": 205,
+      "place_of_pub": "Bandar Lampung",
+      "title": "BAHASA INDONESIA DALAM KARYA TULIS ILMIAH",
+      "editors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Karomani",
+            "family": "KAROMANI"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "pagerange": "1-205",
+      "subjects": [
+        "PN"
+      ],
+      "volume": 1,
+      "type": "book_section",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3379"
+    },
+    {
+      "date_type": "published",
+      "publisher": "Media Akademi",
+      "official_url": "http:\/\/www.mediaakademi.com",
+      "full_text_status": "none",
+      "rev_number": 6,
+      "creators": [
+        {
+          "id": "mulyanto.widodo@gmail.com",
+          "name": {
+            "given": "MULYANTO W",
+            "family": "MULYANTO WIDODO",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "eprintid": 3064,
+      "lastmod": "2017-07-20 08:58:00",
+      "refereed": "TRUE",
+      "divisions": [
+        "FKIP14"
+      ],
+      "datestamp": "2017-07-20 08:58:00",
+      "dir": "disk0\/00\/00\/30\/64",
+      "isbn": "978-602-6435-23-1",
+      "eprint_status": "archive",
+      "abstract": "Buku ini memuat prinsip yang perlu dipegang dosen\/pengampu dalam pembelajaran menulis mellaui model investigasi kelompok antara lain (1) mahasiswa akan belajar lebih bermakna jika ia diberi kesempatan untuk bekerja, mencari, menemukan, dan menkonstruksi, pengetahuan, dan pengalamannya; (2) keragaman pengalaman belajar mahasiswa dibangun melaui pembentukan kelompok belajar yang saling bergantung; (3) materi disesuaikan dengan faktor mahasiswa termasuk mental mahasiswa.",
+      "ispublished": "pub",
+      "subjects": [
+        "PN"
+      ],
+      "pagerange": "1-114",
+      "metadata_visibility": "show",
+      "title": "INVESTIGASI KELOMPOK\r\nPrototipe Pembelajaran Menulis Akademik",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3064",
+      "type": "book_section",
+      "volume": 1,
+      "userid": 727,
+      "book_title": "INVESTIGASI KELOMPOK PROTOTIPE PEMBELAJARAN MENULIS AKADEMIK",
+      "status_changed": "2017-07-20 08:58:00",
+      "place_of_pub": "Yogyakarta",
+      "pages": 114,
+      "date": "2016-09-01"
+    },
+    {
+      "place_of_pub": "Yogyakarta",
+      "date": "2016-09-25",
+      "pages": 114,
+      "documents": [
+          {
+            "language": "en",
+            "main": "ISI INVESTIGASI KELOMPOK.doc",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3034",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mime_type": "application\/msword",
+                  "filename": "ISI INVESTIGASI KELOMPOK.doc",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 3034,
+                  "hash": "fb1504147ee9de5fe40e0e68cdecb104",
+                  "mtime": "2017-06-02 09:25:00",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21862",
+                  "filesize": 704512,
+                  "fileid": 21862
+                }
+            ],
+            "eprintid": 3028,
+            "pos": 1,
+            "mime_type": "application\/msword",
+            "docid": 3034,
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          },
+          {
+            "language": "en",
+            "main": "cover.docx",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3035",
+            "pos": 2,
+            "eprintid": 3028,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "filename": "cover.docx",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "objectid": 3035,
+                  "datasetid": "document",
+                  "mtime": "2017-06-02 09:25:05",
+                  "hash": "91c405f28b0be5e03ff6cd383dd3f461",
+                  "filesize": 2341809,
+                  "fileid": 21864,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21864"
+                }
+            ],
+            "docid": 3035,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "format": "text",
+            "security": "public",
+            "placement": 2
+          },
+          {
+            "language": "en",
+            "main": "daftar isi buku.docx",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3036",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 3036,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash_type": "MD5",
+                  "filename": "daftar isi buku.docx",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21866",
+                  "fileid": 21866,
+                  "filesize": 24864,
+                  "mtime": "2017-06-02 09:25:11",
+                  "hash": "74613d92658a656a61688e0e2859c10a"
+                }
+            ],
+            "pos": 3,
+            "eprintid": 3028,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "docid": 3036,
+            "format": "text",
+            "security": "public",
+            "placement": 3
+          },
+          {
+            "security": "public",
+            "placement": 4,
+            "format": "text",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "docid": 3037,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21868",
+                  "filesize": 67585,
+                  "fileid": 21868,
+                  "hash": "a332b0353a8bceea415ff98fb9da139b",
+                  "mtime": "2017-06-02 09:25:17",
+                  "datasetid": "document",
+                  "objectid": 3037,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "filename": "Identitas Penulis Buku 2016.docx",
+                  "hash_type": "MD5"
+                }
+            ],
+            "pos": 4,
+            "eprintid": 3028,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3037",
+            "main": "Identitas Penulis Buku 2016.docx",
+            "language": "en"
+          },
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3038",
+            "rev_number": 1,
+            "files": [
+                {
+                  "hash": "8888c660274da457ac64919992311f85",
+                  "mtime": "2017-06-02 09:25:22",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21870",
+                  "fileid": 21870,
+                  "filesize": 11492,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "filename": "Sinopsis.docx",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 3038
+                }
+            ],
+            "pos": 5,
+            "eprintid": 3028,
+            "language": "en",
+            "main": "Sinopsis.docx",
+            "format": "text",
+            "placement": 5,
+            "security": "public",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "docid": 3038
+          }
+      ],
+      "book_title": "INVESTIGASI KELOMPOK (PROTOTIPE PEMBELAJARAN MENULIS AKADEMIK)",
+      "userid": 727,
+      "status_changed": "2017-06-05 02:26:20",
+      "type": "book_section",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3028",
+      "pagerange": "1-114",
+      "subjects": [
+        "PN"
+      ],
+      "metadata_visibility": "show",
+      "title": "INVESTIGASI KELOMPOK (PROTOTIPE PEMBELAJARAN MENULIS AKADEMIK)",
+      "editors": [
+        {
+          "id": "editor@grahailmu.co.id"
+        }
+      ],
+      "eprint_status": "archive",
+      "abstract": "Buku ini berisi sekelumit tentang strategi pembelajaran MKU Bahasa Indonesia di perguruan tinggi. Tentu, masih banyak strategi lain yang bisa diterapkan oleh dosen MKU Bahasa Indonesia. Walaupun hanya terbatas pada  satu strategi\/model pembelajaran, diharapkan tulisan ini dapat mengatasi problem pembelajaran menulis melalui MKU Bahasa Indonesia di perguruan tinggi.  \r\nDengan selesainya buku ini, penulis sampaikan terima kasih kepada dosen-dosem pembimbing disertasi, teman-teman sejawat program S-3, dan semua pihak yang telah membantu penulisan buku ini. Semoga Allah Tuhan Yang Mahakuasa selalu melindungi dan  memberikan imbalan yang lebih kepadanya.",
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP14"
+      ],
+      "datestamp": "2017-06-05 02:26:20",
+      "dir": "disk0\/00\/00\/30\/28",
+      "isbn": "978-602-6435-23-1",
+      "official_url": "http:\/\/www.mediaakademi.com",
+      "publisher": "Media Akademi",
+      "full_text_status": "public",
+      "rev_number": 12,
+      "creators": [
+        {
+          "id": "mulyanto.widodo@gmail.com",
+          "name": {
+            "given": "MULYANTO W",
+            "family": "MULYANTO WIDODO",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "lastmod": "2017-06-05 02:26:20",
+      "eprintid": 3028,
+      "refereed": "TRUE",
+      "date_type": "published"
+    },
+    {
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "mulyanto.widodo.@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "MULYANTO W",
+            "family": "MULYANTO WIDODO"
+          }
+        }
+      ],
+      "official_url": "http:\/\/www.unila.ac.id",
+      "event_location": "Bandar Lampung",
+      "event_dates": "24-26 September 2016",
+      "rev_number": 10,
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "lastmod": "2017-06-05 02:30:38",
+      "eprintid": 2987,
+      "dir": "disk0\/00\/00\/29\/87",
+      "datestamp": "2017-06-05 02:30:38",
+      "divisions": [
+        "FKIP14"
+      ],
+      "ispublished": "pub",
+      "abstract": "Mantra merupakan salah satu jenis puisi lama, eksistensinya sekarang ini tidak dikenal banyak orang termasuk siswa. Padahal, dalam pembelajaran sastra, materi puisi tetap diberikan kepada para siswa. Salah satu upaya agar siswa mengenal mantra ialah dengan mengajak siswa mengapresiasi mantra dari segi bahasanya. Dari segi bahasa, mantra memiliki nilai pendidikan yang luhur dan patut diteladani oleh para siswa. Salah satu hal yang patut diteladani dari mantra adalah nilai religiositasnya bahwa segala sesuatu yang ada dan terjadi di bumi ini adalah atas kehendak-Nya. Manusia harus selalu bersyukur atas berkah yang diberikan oleh-Nya. Dengan cara ini, diharapkan penanaman nilai-nilai luhur bangsa tetap tumbuh dan berkembang.\r\nKata Kunci: Bahasa, Mantra, Pengajaran",
+      "eprint_status": "archive",
+      "corp_creators": [
+        "Siti Samhati",
+        "Wini Tarmini"
+      ],
+      "pagerange": "357-365",
+      "subjects": [
+        "PN"
+      ],
+      "title": "NILAI PENDIDIKAN DALAM BAHASA NUSANTARA DAN PEMBELAJARANNYA",
+      "metadata_visibility": "show",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2987",
+      "event_type": "conference",
+      "event_title": "Konferensi Internasional VI Bahasa, Sastra, dan Budaya Daerah Indonesia",
+      "status_changed": "2017-06-05 02:30:38",
+      "userid": 727,
+      "date": "2016-09-25",
+      "documents": [
+          {
+            "docid": 3015,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "main": "NILAI PENDIDIKAN DALAM BAHASA MANTRA NUSANTARA DAN PEMBELAJARANNYA.docx",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3015",
+            "eprintid": 2987,
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash_type": "MD5",
+                  "filename": "NILAI PENDIDIKAN DALAM BAHASA MANTRA NUSANTARA DAN PEMBELAJARANNYA.docx",
+                  "datasetid": "document",
+                  "objectid": 3015,
+                  "mtime": "2017-06-02 08:29:32",
+                  "hash": "4336860c75bb30a2d3f5aea51031a04b",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21760",
+                  "filesize": 26680,
+                  "fileid": 21760
+                }
+            ]
+          }
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "title": "PRINSIP PERCAKAPAN  (PENGANTAR PEMAHAMAN SANTUN BERBAHASA)",
+      "book_title": "PRINSIP PERCAKAPAN  (PENGANTAR PEMAHAMAN SANTUN BERBAHASA)",
+      "publisher": "TEXTIUM",
+      "creators": [
+        {
+          "name": {
+            "family": "MULYANTO WIDODO",
+            "given": "MULYANTO W",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "mulyanto.widodo@gmail.com"
+        }
+      ],
+      "succeeds": 3027,
+      "divisions": [
+        "FKIP14"
+      ],
+      "dir": "disk0\/00\/00\/33\/99",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3399",
+      "type": "book",
+      "volume": 1,
+      "subjects": [
+        "PN"
+      ],
+      "pagerange": "1-66",
+      "place_of_pub": "Yogyakarta",
+      "date": "2016-06-01",
+      "pages": 66,
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/msword",
+            "docid": 3260,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3260",
+            "rev_number": 2,
+            "files": [
+                {
+                  "hash": "dc14c9fa99b99a7ab0a948cebe3b507d",
+                  "mtime": "2017-06-02 09:07:06",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/23517",
+                  "fileid": 23517,
+                  "filesize": 268800,
+                  "mime_type": "application\/msword",
+                  "filename": "ISI.doc",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 3260
+                }
+            ],
+            "eprintid": 3399,
+            "pos": 1,
+            "language": "en",
+            "main": "ISI.doc"
+          },
+          {
+            "language": "en",
+            "main": "COVER.docx",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3261",
+            "files": [
+                {
+                  "filename": "COVER.docx",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "objectid": 3261,
+                  "datasetid": "document",
+                  "hash": "6ae41ded5b77cd9e6989ca9300c1c05f",
+                  "mtime": "2017-06-02 09:07:14",
+                  "filesize": 38349,
+                  "fileid": 23518,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/23518"
+                }
+            ],
+            "pos": 2,
+            "eprintid": 3399,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "docid": 3261,
+            "format": "text",
+            "placement": 2,
+            "security": "public"
+          }
+      ],
+      "userid": 727,
+      "status_changed": "2017-06-12 02:25:09",
+      "full_text_status": "public",
+      "rev_number": 4,
+      "official_url": "http:\/\/www.mediaakademi.com",
+      "eprintid": 3399,
+      "lastmod": "2017-06-12 02:25:09",
+      "refereed": "TRUE",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "abstract": "Buku ini tersaji untuk pemakai bahasa secara umum dan khususnya praktisi pendidikan, guru, mahasiswa, dan pebelajar bahasa. Penutur perlu mendasari setiap konsep tuturan dengan kesantunan karena penutur perlu memperhatikan tidak hanya tujuan pribadi penutur melainkan tujuan sosial dalam bertutur juga tetap harus dicermati. Penaatan terhadap nilai kesantunan dan teori kesantunan dalam bertutur membawa keharmonisan antarindividu dan kedekatan emosional mampu terbagun antara penutur satu dan mitra tuturnya.",
+      "ispublished": "pub",
+      "corp_creators": [
+        "I Wayan Ardi Sumarta"
+      ],
+      "datestamp": "2017-06-12 02:25:09",
+      "isbn": "978-602-60635-0-2"
+    },
+    {
+      "subjects": [
+        "P1",
+        "PN"
+      ],
+      "pagerange": "84-93",
+      "volume": 7,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39794",
+      "issn": "2541-5840",
+      "userid": 20888,
+      "status_changed": "2022-02-24 08:16:10",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 161075,
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "main": "100-192-1-SM.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161075",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "100-192-1-SM.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 161075,
+                  "hash": "9219c60a1311c43fec0c90340eac2eb0",
+                  "mtime": "2022-02-24 07:20:43",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/446152",
+                  "filesize": 399802,
+                  "fileid": 446152
+                }
+            ],
+            "pos": 1,
+            "eprintid": 39794
+          }
+      ],
+      "date": "2021-02-02",
+      "date_type": "published",
+      "lastmod": "2022-02-24 08:16:10",
+      "eprintid": 39794,
+      "contact_email": "megaria19002@mail.unpad.ac.id",
+      "refereed": "TRUE",
+      "official_url": "http:\/\/tutur.apbl.org\/index.php\/tutur\/index",
+      "full_text_status": "public",
+      "rev_number": 11,
+      "datestamp": "2022-02-24 08:16:10",
+      "eprint_status": "archive",
+      "abstract": "Pandemi Covid-19 memicu munculnya bentuk-bentuk kalimat imperatif, khususnya di dalam ﻿ bahasa Lampung. Bagaimanakah dampak Covid-19 terhadap penggunaan bentuk imperatif ﻿ tersebut baik dalam penggunaan kata hingga kalimat dalam bahasa Lampung. Oleh sebab itu, ﻿ penelitian ini bertujuan untuk memerikan deskripsi bentuk imperatif bahasa Lampung di era ﻿ pandemi covid-19. Penelitian ini tergolong ke dalam jenis penelitian deskriptif kualitatif. ﻿ Sumber data diperoleh dari poster imbauan Covid-19 dalam bahasa Lampung dan pattun ﻿ nyambai berjudul Peghang Ngelawan Corona. Metode pengumpulan data menggunakan ﻿ teknik simak dan catat. Hasil penelitian menunjukkan bahwa, bentuk imperatif dalam bahasa ﻿ Lampung banyak melibatkan leksem yang berkaitan dengan anggota tubuh. Misalnya, basuh ﻿ culuk, dang culik ighung, tutup banguk. Bentuk kalimat imperatif yang ditemukan terdiri atas, ﻿ kalimat imperatif biasa\/perintah, kalimat imperatif larangan, dan kalimat imperatif ﻿ permohonan. Partikel penegas ko pai ‘kan’, dan kata larangan dang ‘jangan’, dang pai ‘jangan ﻿ dulu’ merupakan penghalus yang menjadi penciri kalimat imperatif dalam bahasa Lampung.",
+      "ispublished": "pub",
+      "metadata_visibility": "show",
+      "related_url": [
+        {
+          "url": "http:\/\/tutur.apbl.org\/index.php\/tutur\/article\/view\/100"
+        }
+      ],
+      "title": "BENTUK IMPERATIF BAHASA LAMPUNG DALAM KAMPANYE PROTOKOL KESEHATAN DI ERA PANDEMI COVID-19",
+      "keywords": "Imperatif, pandemi covid-19, kosakata, bahasa Lampung.",
+      "funders": [
+        "Self funded"
+      ],
+      "referencetext": "Emy Yusliana dkk. 2020. Bentuk Tindak Tutur Imperatif Bahasa Bugis dalam Khutbah \r\nJumat. https:\/\/doi.org\/10.22146\/jh.829\r\nDjajasudarma, T. Fatimah. 2010. Metode Linguitik (Ancangan Metode Penelitian dan Kajian). \r\nBandung: Refika Aditama.\r\nMoeliono, Anton M.1992. Tata Bahasa Baku Bahasa Indonesia. Jakarta: Perum Balai \r\nPustaka.\r\nRahardi, R. K. 2005. Pragmatik: Kesantunan Imperatif Bahasa Indonesia. Erlangga.\r\nMegaria.2008. Tindak Tutur Memerintah pada Anak Usia Prasekolah dan Implikasinya \r\ndalam Pembelajaran Bahasa di TK. Skripsi. Universitas Lampung.",
+      "publication": "Tutur: Cakrawala Kajian Bahasa-Bahasa Nusantara",
+      "number": 1,
+      "publisher": "ASOSIASI PENELITI BAHASA-BAHASA LOKAL (APBL)",
+      "creators": [
+        {
+          "name": {
+            "family": "Megaria",
+            "given": "Megaria",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "megaria1987@fkip.unila.ac.id"
+        }
+      ],
+      "dir": "disk0\/00\/03\/97\/94"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3157",
+      "type": "conference_item",
+      "event_type": "conference",
+      "subjects": [
+        "PN"
+      ],
+      "pagerange": "357-365",
+      "title": "NILAI PENDIDIKAN DALAM BAHASA MANTRA NUSANTARA DAN PEMBELAJARANNYA",
+      "metadata_visibility": "show",
+      "date": "2016-09-25",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3238",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/23231",
+                  "filesize": 29174,
+                  "fileid": 23231,
+                  "hash": "0d5a4f1687469a71c1cc95ebfa576544",
+                  "mtime": "2017-06-05 01:17:27",
+                  "datasetid": "document",
+                  "objectid": 3238,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "filename": "NILAI PENDIDIKAN DALAM BAHASA MANTRA NUSANTARA DAN PEMBELAJARANNYA.docx",
+                  "hash_type": "MD5"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 3157,
+            "language": "en",
+            "main": "NILAI PENDIDIKAN DALAM BAHASA MANTRA NUSANTARA DAN PEMBELAJARANNYA.docx",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "docid": 3238
+          }
+      ],
+      "status_changed": "2017-06-12 02:37:56",
+      "event_title": "Konferensi Internasional VI",
+      "userid": 1014,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Mulyanto Widodo",
+            "given": "Mulyanto Widodo"
+          },
+          "id": "mulyanto.widodo@gmail.com"
+        }
+      ],
+      "event_location": "Bandarlampung",
+      "official_url": "http:\/\/www.unila.ac.id",
+      "event_dates": "24--26 September 2016",
+      "rev_number": 9,
+      "full_text_status": "public",
+      "pres_type": "paper",
+      "refereed": "TRUE",
+      "lastmod": "2017-06-12 02:37:56",
+      "eprintid": 3157,
+      "contact_email": "mulyanto.widodo@gmail.com",
+      "date_type": "published",
+      "ispublished": "pub",
+      "abstract": "ABSTRAK\r\nMantra merupakan salah satu jenis puisi lama, eksistensinya sekarang ini tidak dikenal banyak orang termasuk siswa. Padahal, dalam pembelajaran sastra, materi puisi tetap diberikan kepada para siswa. Salah satu upaya agar siswa mengenal mantra ialah dengan mengajak siswa mengapresiasi mantra dari segi bahasanya. Dari segi bahasa, mantra memiliki nilai pendidikan yang luhur dan patut diteladani oleh para siswa. Salah satu hal yang patut diteladani dari mantra adalah nilai religiositasnya bahwa segala sesuatu yang ada dan terjadi di bumi ini adalah atas kehendak-Nya. Manusia harus selalu bersyukur atas berkah yang diberikan oleh-Nya. Dengan cara ini, diharapkan penanaman nilai-nilai luhur bangsa tetap tumbuh dan berkembang.\r\nKata Kunci: Bahasa, Mantra, Pengajaran",
+      "eprint_status": "archive",
+      "corp_creators": [
+        "Siti Samhati",
+        "Wini Tarmini"
+      ],
+      "dir": "disk0\/00\/00\/31\/57",
+      "datestamp": "2017-06-12 02:37:56",
+      "divisions": [
+        "FKIP8"
+      ]
+    },
+    {
+      "datestamp": "2017-07-20 08:59:04",
+      "dir": "disk0\/00\/00\/31\/46",
+      "divisions": [
+        "FKIP14"
+      ],
+      "ispublished": "pub",
+      "abstract": "Masalah dalam penelitian ini adalah kehidupan sosial dalam novel izinkan aku jadi pelacur karya Muhidin M. Dahlan. Tujuan penelitian adalah mendeskripsikan kehidupan sosial dalam novel tersebut. Metode yang digunakan deskriptif kualitatif. Kehidupan sosial yang ditemukan dalam novel adalah kehidupan keagamaan, pertemanan, dan organisasi.",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "refereed": "TRUE",
+      "number": 1,
+      "eprintid": 3146,
+      "lastmod": "2017-07-20 08:59:04",
+      "creators": [
+        {
+          "id": "munaris_labib@yahoo.co.id",
+          "name": {
+            "given": "Munaris",
+            "family": "Munaris",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "full_text_status": "none",
+      "official_url": "http:\/\/www.unila.ac.id",
+      "publisher": "Jurusan Pendidikan Bahasa dan Seni FKIP Universitas Lampung",
+      "rev_number": 8,
+      "referencetext": "Sudjiman, Panuti.1984. Kamus Istilah ssatra. Jakarta: Gramedia\r\nDamono, Sapardi Djoko. 2013. Sosiologi Sastra.Jakarta: Badan Bahasa\r\nSoelaiman, N. Munandar.2011. Ilmu Sosial Dasar. Bandung:Refika Aditama",
+      "status_changed": "2017-07-20 08:59:04",
+      "userid": 77,
+      "date": "2015-04",
+      "publication": "AKSARA",
+      "title": "KEHIDUPAN SOSIAL DALAM NOVEL IZINKAN AKU JADI PELACUR",
+      "metadata_visibility": "show",
+      "pagerange": "74-80",
+      "subjects": [
+        "PN"
+      ],
+      "volume": 16,
+      "issn": "1411-20151",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3146",
+      "type": "article"
+    },
+    {
+      "abstract": "This study aims to describe and explain the value of Sellingman's optimism contained in the novel Disorder by Akmal Nasery Basral so that it can be used as Indonesian language teaching material in high school. The method used in this study is a qualitative descriptive method. The data in this study are in the form of words, phrases, clauses, sentences, and paragraphs that contain information about the value of Sellingman's optimism in the novel. The structural approach is used as a scalpel because it is used to describe the findings in the novel structure. The validity of the data used is investigator triangulation. Data analysis resulted in finding the presence of Sellingman's optimism value in Novel Disorder in the novel, namely permanence, pervasiveness, and personalization.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/03\/80\/14",
+      "datestamp": "2022-01-19 05:40:38",
+      "divisions": [
+        "FKIP14"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Munaris",
+            "given": "Munaris"
+          },
+          "id": "munaris_labib@yahoo.co.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Heru",
+            "family": "Prasetyo"
+          },
+          "id": "heruprasetyo59@gmail.com"
+        },
+        {
+          "name": {
+            "family": "Putri",
+            "given": "Ayu Setiyo",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "ayu.setiyo@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Rahmat",
+            "family": "Prayogi"
+          },
+          "id": "rahmat.prayogi@fkip.unila.ac.id"
+        },
+        {
+          "id": "ryzalperdana2009@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Perdana",
+            "given": "Ryzal"
+          }
+        }
+      ],
+      "official_url": "https:\/\/www.atlantis-press.com\/proceedings\/ulicoss-21\/125968253",
+      "publisher": "Atlantis Press",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2022-01-19 05:40:38",
+      "eprintid": 38014,
+      "date_type": "completed",
+      "date": "2022-01-06",
+      "publication": "Advances in Social Science, Education and Humanities Research (ASSEHR)",
+      "documents": [
+          {
+            "placement": 1,
+            "content": "published",
+            "security": "public",
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 158963,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 158963,
+                  "mime_type": "application\/pdf",
+                  "filename": "125968253.pdf",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432140",
+                  "fileid": 432140,
+                  "filesize": 265470,
+                  "hash": "8da91874d8b1b00eef1c78ccff357bcd",
+                  "mtime": "2022-01-19 04:21:52"
+                }
+            ],
+            "eprintid": 38014,
+            "pos": 1,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158963",
+            "main": "125968253.pdf",
+            "language": "en"
+          }
+      ],
+      "status_changed": "2022-01-19 05:40:38",
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "userid": 19911,
+      "issn": "2352-5398",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38014",
+      "type": "article",
+      "volume": 628,
+      "pagerange": "691-696",
+      "subjects": [
+        "PN"
+      ],
+      "title": "The Value of Seligman's Optimism in Disorder Novel as Teaching Materials of Indonesian Language in SMA",
+      "metadata_visibility": "show"
+    },
+    {
+      "documents": [
+          {
+            "main": 23627,
+            "language": "en",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 159481,
+                  "mime_type": "application\/xml",
+                  "filename": 23627,
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/435114",
+                  "fileid": 435114,
+                  "filesize": 29601,
+                  "hash": "940d46058e6b15b556bee3a9fa86d48a",
+                  "mtime": "2022-01-20 16:54:49"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 38385,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159481",
+            "rev_number": 5,
+            "mime_type": "application\/xml",
+            "docid": 159481,
+            "content": "published",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "formatdesc": "Artikel"
+          },
+          {
+            "pos": 2,
+            "eprintid": 38385,
+            "files": [
+                {
+                  "filesize": 1994685,
+                  "fileid": 435130,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/435130",
+                  "hash": "56d6eea05fa523cbcc626b9f26c5f129",
+                  "mtime": "2022-01-26 05:42:14",
+                  "objectid": 159484,
+                  "datasetid": "document",
+                  "filename": "Review Eko dan Iing (Heru).pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159484",
+            "rev_number": 2,
+            "main": "Review Eko dan Iing (Heru).pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 2,
+            "formatdesc": "Reviewer",
+            "format": "text",
+            "docid": 159484,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publication": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Jurnal Kata (Bahasa, Sastra, dan Pembelajarannya)<\/font><\/font>",
+      "status_changed": "2022-01-26 10:04:34",
+      "userid": 19911,
+      "volume": 9,
+      "issn": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">2338-8153<\/font><\/font>",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38385",
+      "type": "article",
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/BINDO1\/article\/view\/23627"
+        }
+      ],
+      "title": "ANALISIS GAYA BAHASA PUISI SUMPAH ABADI KARYA DEE LESTARI: KAJIAN STILISTIKA",
+      "metadata_visibility": "show",
+      "pagerange": "52-58",
+      "subjects": [
+        "PN"
+      ],
+      "ispublished": "pub",
+      "abstract": "Language style in a poem is not only useful as a function of beauty, but also a means to communicate an event. Diction or word choice is raised to present a hidden beauty. This study aims to describe the form of language style that is present in the poem \"Sumpah Abadi\" by Dee Lestari. The method used in this research is descriptive qualitative. The technique used in data collection is observation, reading notes and literature study. The results showed that the poem \"Sumpah Abadi\" displays a number of language styles including language style based on word choice, language style based on tone, language style based on sentence structure, language style based on direct or indirect meaning.",
+      "eprint_status": "archive",
+      "datestamp": "2022-01-26 10:04:34",
+      "dir": "disk0\/00\/03\/83\/85",
+      "divisions": [
+        "FKIP14"
+      ],
+      "refereed": "FALSE",
+      "succeeds": 38172,
+      "number": 2,
+      "lastmod": "2022-01-26 10:04:34",
+      "eprintid": 38385,
+      "creators": [
+        {
+          "id": "heruprasetyo59@gmail.com",
+          "name": {
+            "family": "Prasetyo",
+            "given": "Heru",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Putri",
+            "given": "Ayu Setiyo",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "ayu.setiyo@fkip.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Siti Asmaul",
+            "family": "Husna",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "publisher": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Pendidikan Bahasa dan Sastra Indonesia<\/font><\/font>",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/BINDO1\/article\/view\/23627",
+      "rev_number": 6,
+      "full_text_status": "public"
+    },
+    {
+      "type": "book_section",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48769",
+      "title": "Character Value of Syair Song Lampung Pesisir Single Guitar",
+      "metadata_visibility": "show",
+      "pagerange": "62-71",
+      "subjects": [
+        "PN"
+      ],
+      "documents": [
+          {
+            "docid": 188154,
+            "mime_type": "application\/pdf",
+            "formatdesc": "Article",
+            "format": "text",
+            "security": "public",
+            "content": "published",
+            "placement": 1,
+            "language": "en",
+            "main": "Novri-Rahman-Farida-Ariyani-and-I-Wayan-Mustika-1.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188154",
+            "rev_number": 2,
+            "eprintid": 48769,
+            "pos": 1,
+            "files": [
+                {
+                  "hash": "a615a5e093881e1862b1361e0bc9a332",
+                  "mtime": "2023-03-05 13:56:00",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531237",
+                  "filesize": 1877911,
+                  "fileid": 531237,
+                  "mime_type": "application\/pdf",
+                  "filename": "Novri-Rahman-Farida-Ariyani-and-I-Wayan-Mustika-1.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 188154
+                }
+            ]
+          },
+          {
+            "mime_type": "application\/pdf",
+            "docid": 188156,
+            "placement": 2,
+            "security": "public",
+            "formatdesc": "Similarity Report",
+            "format": "text",
+            "main": "Character Value of Syair Song Lampung Pesisir Single Guitar (1).pdf",
+            "language": "en",
+            "files": [
+                {
+                  "filesize": 1960650,
+                  "fileid": 531244,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531244",
+                  "hash": "c7946883827e2fe875db4b044f425b35",
+                  "mtime": "2023-03-05 14:13:42",
+                  "objectid": 188156,
+                  "datasetid": "document",
+                  "filename": "Character Value of Syair Song Lampung Pesisir Single Guitar (1).pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "eprintid": 48769,
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188156",
+            "rev_number": 2
+          }
+      ],
+      "date": 2021,
+      "status_changed": "2023-03-06 01:57:16",
+      "userid": 500,
+      "book_title": "Proceeding of International Conferences of 5th SHIELD 2021",
+      "refereed": "TRUE",
+      "eprintid": 48769,
+      "lastmod": "2023-03-06 01:57:16",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": "Rahman",
+            "given": "Novri",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Farida",
+            "family": "Ariyani"
+          },
+          "id": "farida.ariyani@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "I Wayan",
+            "family": "Mustika"
+          },
+          "id": null
+        }
+      ],
+      "official_url": "https:\/\/shield.unila.ac.id\/2021\/wp-content\/uploads\/2022\/04\/Novri-Rahman-Farida-Ariyani-and-I-Wayan-Mustika-1.pdf#page=66",
+      "rev_number": 12,
+      "publisher": "Program Postgraduate, University of Lampung",
+      "full_text_status": "public",
+      "date_type": "published",
+      "abstract": "This study aims to find out what character values are contained in the Lampung Pesisir single guitar song. The method used in this research is descriptive method with a qualitative approach. This study uses data collection techniques Observation, Documentation, Literature, and\r\nInterviews. The data analysis technique used is the Qualitative Data Analysis Technique. Based on observations and research on the Characters of Lampung Pesisir Single Guitar Song Poetry, the writer can conclude that the Lampung Pesisir single guitar song poems mostly have character values in them, the character values that really dominate those poems are honest character values, tolerance, and love peace. That means the poems of a single Lampung Pesisir guitar have educational values that are very important to instill the values of character in today's young generation.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "isbn": "978 - 623 - 6970 - 01 - 0",
+      "datestamp": "2023-03-06 01:57:16",
+      "dir": "disk0_bak\/00\/04\/87\/69",
+      "divisions": [
+        "FKIP7"
+      ]
+    },
+    {
+      "creators": [
+        {
+          "id": "Traveler14@gmail.com",
+          "name": {
+            "family": "Rahmansyah",
+            "given": "Sutiadi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Dicky Rezady",
+            "family": "Munaf",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Sansan",
+            "family": "Ziaulhaq",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Siregar",
+            "given": "Chairil Nur"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rohayati",
+            "given": "Ayi"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Tesa",
+            "family": "Ardiansyah"
+          },
+          "id": null
+        },
+        {
+          "id": "farida.ariyani@fkip.unila.ac.id",
+          "name": {
+            "family": "Ariyani",
+            "given": "Farida",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Astriawan",
+            "given": "Deris"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Andriansyah",
+            "family": "Andriansyah"
+          }
+        }
+      ],
+      "official_url": "https:\/\/www.atlantis-press.com\/proceedings\/codh-22\/125984199",
+      "publisher": "Atlantis Press",
+      "full_text_status": "public",
+      "rev_number": 13,
+      "refereed": "FALSE",
+      "lastmod": "2023-03-06 01:57:12",
+      "eprintid": 48767,
+      "date_type": "published",
+      "abstract": "Tanggamus are prone to natural disasters such as earthquakes. This happens due to the geographical location of the island of Sumatra, which is at the confluence of two earth plates, namely the Indo-Australian plate which continues to actively subduct under the Eurasian plate. This paper aims to research Piil Pesenggiri as a real form application of ethnolinguistics through citizen commentaries in social media (Instagram) during the earthquake in 2021. Themethod used in this research was a descriptive qualitative method. The data were taken from Instagram citizen comments @Bmkglampung and @lampuung. The result found that there are three Piil Pesenggiri sayings that have been applied and appeared in social media especially in citizen commentaries. Those are Pessinggiri, Nengah Nyappur and Sakai Sambayan. In conclusion, Piil Pesenggiri is not only seen as local thoughts or concepts, but when disaster happened in Tanggamus it became a valuable system used and internalized by the community to manage the disaster.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0_bak\/00\/04\/87\/67",
+      "datestamp": "2023-03-06 01:57:12",
+      "divisions": [
+        "FKIP7"
+      ],
+      "isbn": "978-2-494069-69-5",
+      "type": "book_section",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48767",
+      "volume": 712,
+      "pagerange": "238-244",
+      "subjects": [
+        "P1",
+        "PN"
+      ],
+      "title": "Citizen’s Disaster Communications in Social Media: A Study of Ethnolinguistics Application of “Piil Pesenggiri” in Tanggamus",
+      "metadata_visibility": "show",
+      "id_number": "https:\/\/doi.org\/10.2991\/978-2-494069-69-5_20",
+      "date": "2023-02-01",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 188150,
+            "content": "published",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "formatdesc": "Article",
+            "main": "125984199 (1).pdf",
+            "language": "en",
+            "files": [
+                {
+                  "hash": "f26d0a7d6ec1bfc4b685ea6c954abc42",
+                  "mtime": "2023-03-05 13:14:10",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531213",
+                  "fileid": 531213,
+                  "filesize": 371294,
+                  "mime_type": "application\/pdf",
+                  "filename": "125984199 (1).pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 188150
+                }
+            ],
+            "eprintid": 48767,
+            "pos": 1,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188150"
+          },
+          {
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188151",
+            "pos": 2,
+            "eprintid": 48767,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "Citizen’s Disaster Communications in Social Media_ A Study of Ethnolinguistics Application of “Piil Pesenggiri” in Tanggamus.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 188151,
+                  "hash": "622413479b34068d36172b63a9cf0062",
+                  "mtime": "2023-03-05 13:16:42",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531215",
+                  "filesize": 1296731,
+                  "fileid": 531215
+                }
+            ],
+            "language": "en",
+            "main": "Citizen’s Disaster Communications in Social Media_ A Study of Ethnolinguistics Application of “Piil Pesenggiri” in Tanggamus.pdf",
+            "formatdesc": "Similarity Report",
+            "format": "text",
+            "security": "public",
+            "placement": 2,
+            "docid": 188151,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "status_changed": "2023-03-06 01:57:12",
+      "book_title": "Proceedings of the Conference on Digital Humanities 2022 (CODH 2022)",
+      "userid": 500,
+      "series": "Advances in Social Science, Education and Humanities Research"
+    },
+    {
+      "eprintid": 26398,
+      "lastmod": "2020-11-20 02:17:15",
+      "refereed": "TRUE",
+      "official_url": "https:\/\/isbn.perpusnas.go.id\/Account\/SearchBuku?searchCat=ISBN&searchTxt=978-623-7718-43-7",
+      "rev_number": 9,
+      "publisher": "CV. IRDH (International Research and Development for Human Beings)",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "given": "Fajar",
+            "family": "Riyantika",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "fajar.riyantika@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Dito",
+            "family": "Aditia"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Maulana",
+            "given": "Nana"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Lia",
+            "family": "Lestari"
+          }
+        }
+      ],
+      "eprint_status": "archive",
+      "abstract": "Antologi Cerpen Lampung 1999 – 2010 ini berisikan 11 cerita dan quotes yang ditulis oleh 4 orang yaitu Fajar, Dito, Lia, dan Nana, atau disingkat sebagai BE Fadilan: saling berbagi kisah dan memberi kasih untuk sesama. Selain itu, arti kata Fadil menurut bahasa Arab berarti suka memberi, murah hati atau dermawan.Buku ini merupakan karya kami yang berisi kumpulan cerita yang mengambil latar belakang dari kisah pada kurun waktu 1999 hingga 2010 yang terangkum dari kisah-kisah inspiratif, kebudayaan dan pariwisata daerah serta bernostalgia dengan masa lalu di Provinsi Lampung.",
+      "ispublished": "pub",
+      "isbn": "978-623-7718-43-7",
+      "divisions": [
+        "UNILA6"
+      ],
+      "dir": "disk0\/00\/02\/63\/98",
+      "datestamp": "2020-11-20 02:17:15",
+      "type": "book",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26398",
+      "metadata_visibility": "show",
+      "title": "BE FADILAN\r\nANTOLOGI CERPEN LAMPUNG 1999-2010",
+      "editors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Raksa",
+            "given": "Vega"
+          }
+        }
+      ],
+      "subjects": [
+        "PI",
+        "PN"
+      ],
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "image",
+            "docid": 40296,
+            "mime_type": "image\/jpeg",
+            "eprintid": 26398,
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "image\/jpeg",
+                  "filename": "Antologi_Cover.jpeg",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 40296,
+                  "hash": "cbc026cc6f5aa243bd86329bc49d260a",
+                  "mtime": "2020-11-20 02:09:18",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/237756",
+                  "filesize": 353596,
+                  "fileid": 237756
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40296",
+            "rev_number": 1,
+            "main": "Antologi_Cover.jpeg",
+            "language": "en"
+          }
+      ],
+      "place_of_pub": "Indonesia",
+      "pages": 86,
+      "date": "2020-11",
+      "userid": 3309,
+      "status_changed": "2020-11-20 02:17:15"
+    },
+    {
+      "status_changed": "2017-06-05 02:24:13",
+      "event_title": "Konferensi Internasional VI Bahasa, Sastra, Budaya Daerah Indonesia",
+      "userid": 727,
+      "documents": [
+          {
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 3045,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3045",
+            "rev_number": 1,
+            "pos": 1,
+            "eprintid": 3151,
+            "files": [
+                {
+                  "objectid": 3045,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "PENGEMBANGAN MODEL MEMBACA CEPAT YANG EFEKTIF BERBASIS PEMBENTUKAN KARAKTER.docx",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "filesize": 248101,
+                  "fileid": 21915,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21915",
+                  "mtime": "2017-06-02 09:40:14",
+                  "hash": "ba526b84a87548d1d0f99a036f8c5ba2"
+                }
+            ],
+            "language": "en",
+            "main": "PENGEMBANGAN MODEL MEMBACA CEPAT YANG EFEKTIF BERBASIS PEMBENTUKAN KARAKTER.docx"
+          }
+      ],
+      "date": "2016-09-25",
+      "title": "PENGEMBANGAN MODEL MEMBACA CEPAT YANG EFEKTIF BERBASIS PEMBENTUKAN KARAKTER",
+      "metadata_visibility": "show",
+      "pagerange": "534-546",
+      "subjects": [
+        "PN"
+      ],
+      "event_type": "conference",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3151",
+      "type": "conference_item",
+      "datestamp": "2017-06-05 02:24:13",
+      "dir": "disk0\/00\/00\/31\/51",
+      "divisions": [
+        "FKIP14"
+      ],
+      "corp_creators": [
+        "MULYANTO WIDODO",
+        "WINI TARMINI"
+      ],
+      "ispublished": "pub",
+      "abstract": "The objectives of this research are: (1) describe the potential subject in Education Indonesian Language and Literature FKIP Unila in the learning process, (2) develop learning models Speed Reading and Understanding the Character Based (MCP BK), (3) analyzing the resulting increase learning reading students through MCP models using BK.\r\nThe method used in this research is research and development. The study population is students FKIP University of Lampung. The sampling technique in the research phase I and phase II is random sampling. Data were collected using questionnaires, tests and analyzed quantitatively andqualitatively.\r\nResults of the study are: (1) the condition and potential subject in Education Indonesian Language and Literature FKIP Unila very possible now learning  model MCP BK as a supplement in the process of learning to read, (2) the product generates learning model MCP BK with (syntax) learning in the form of operational measures faculty, student activities, and a source of learning, (3) the application of MCP BK learning model can improve student Speed reading. The average result of learning to read by learning model of MCP BK at 75.54, whereas with classical learning model at73.38.\r\nKeywords: Learning Model, Speed Reading, Character Based Learning",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "pres_type": "paper",
+      "refereed": "TRUE",
+      "eprintid": 3151,
+      "lastmod": "2017-06-05 02:24:13",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "SITI SAMHATI",
+            "family": "SITI SAMHATI"
+          },
+          "id": "siti_samhati@yahoo.com"
+        }
+      ],
+      "full_text_status": "public",
+      "official_url": "http:\/\/www.unila.ac.id",
+      "event_dates": "24-25 September 2016",
+      "event_location": "Bandar Lampung",
+      "rev_number": 7
+    },
+    {
+      "pagerange": "1-205",
+      "subjects": [
+        "PN"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3361",
+      "type": "book_section",
+      "volume": 1,
+      "status_changed": "2017-06-12 02:27:43",
+      "userid": 1014,
+      "date": "2013-08-29",
+      "pages": 205,
+      "place_of_pub": "Bandar lampung",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 3252,
+                  "datasetid": "document",
+                  "filename": "Isi Buku Bahasa Indonesia Siti Samhati.doc",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/msword",
+                  "filesize": 1733120,
+                  "fileid": 23449,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/23449",
+                  "hash": "5762d15b7078aeb13108fb1f5cbdead0",
+                  "mtime": "2017-06-05 05:28:04"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 3361,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3252",
+            "main": "Isi Buku Bahasa Indonesia Siti Samhati.doc",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/msword",
+            "docid": 3252
+          }
+      ],
+      "date_type": "published",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "official_url": "http:\/\/www.unila.ac.id",
+      "refereed": "TRUE",
+      "eprintid": 3361,
+      "lastmod": "2017-06-12 02:27:43",
+      "contact_email": "siti_samhati@yahoo.com",
+      "datestamp": "2017-06-12 02:27:43",
+      "isbn": "978-602-14739-2-4",
+      "abstract": "PRAKATA\r\n\r\n\r\nKami mengucapkan puji syukur ke hadirat Allah swt yang telah melimpahkan rahmat dan karunia-Nya kepada kami sehingga kami dapat menyelesaikan penulisan buku ajar Mata Kuliah Pengembangan Kepribadian (MPK) yang berjudul “Bahasa Indonesia dalam Karya Tulis Ilmiah”. \r\nBuku ini terdiri atas 5 bab, yaitu (1) politik bahasa Indonesia, (2) penggunaan EYD dalam karya tulis ilmiah, (3) penggunaan kalimat efektif dalam karya tulis ilmiah, (4) tata paragraf bahasa Indonesia, dan (5) bahasa dalam karya tulis ilmiah. Setiap bab terdiri dari (1) pendahuluan, (2) penyajian materi, (3) rangkuman, (4) tugas dan perlatihan, dan (4) rujukan.  Setiap bab akan  dimunculkan nilai-nilai karakter yang diharapkan dapat mewarnai pembelajaran. Para pengampu mata kuliah diharapkan memunculkan dan menambah nilai-nilai karakter tersebut dalam setiap proses perkuliahan  atau pun dalam tugas dan perlatihan yang diberikan. \r\nKami telah berusaha menyelesaikan penulisan buku ini semaksimal mungkin. Namun, hasilnya belum maksimal, masih jauh panggang dari api, masih jauh dari kesempurnaan. Oleh karena itu, kritik konstruktif untuk penyempurnaannya kami terima dengan senang hati dan ucapan terima kasih.\r\nSemoga buku ini bermanfaat. Amin.\r\n\r\nBandarlampung, 29 Agustus 2013 \r\n\r\nKetua Tim Penulis,   \r\n\r\n\r\n\r\nSiti Samhati \r\nNIP 196208291988032001",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "corp_creators": [
+        "Nurlaksana Eko Rusminto",
+        "Mulyanto Widodo",
+        "Wini Tarmini",
+        "Sumarti"
+      ],
+      "editors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Karomani",
+            "given": "Karomani"
+          },
+          "id": "aom_karomani@yahoo.com"
+        }
+      ],
+      "title": "Bahasa Indonesia dalam Karya Tulis Ilmiah",
+      "metadata_visibility": "show",
+      "book_title": "Bahasa Indonesia dalam karya Tulis Ilmiah",
+      "creators": [
+        {
+          "id": "siti_samhati@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Siti Samhati",
+            "family": "Siti Samhati"
+          }
+        }
+      ],
+      "publisher": "CV. YONPRESS, Bandar Lampung",
+      "number": 1,
+      "dir": "disk0\/00\/00\/33\/61"
+    },
+    {
+      "date_type": "published",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "lastmod": "2017-06-05 02:22:28",
+      "eprintid": 3145,
+      "creators": [
+        {
+          "id": "siti_samhati@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Siti Samhati",
+            "family": "Siti Samhati"
+          }
+        }
+      ],
+      "event_location": "Bandar Lampung",
+      "official_url": "http:\/\/www.unila.ac.id",
+      "event_dates": "24--26 September 2016",
+      "full_text_status": "public",
+      "rev_number": 10,
+      "datestamp": "2017-06-05 02:22:28",
+      "dir": "disk0\/00\/00\/31\/45",
+      "divisions": [
+        "FKIP14"
+      ],
+      "corp_creators": [
+        "Mulyanto Widodo",
+        "Wini Tarmini"
+      ],
+      "ispublished": "pub",
+      "abstract": "ABSTRAK\r\nThe objectives of this research are: (1) describe the potential subject in Education Indonesian Language and Literature FKIP Unila in the learning process, (2) develop learning models Speed Reading and Understanding the Character Based (MCP BK), (3) analyzing the resulting increase learning reading students through MCP models using BK.\r\nThe method used in this research is research and development. The study population is students FKIP University of Lampung. The sampling technique in the research phase I and phase II is random sampling. Data were collected using questionnaires, tests and analyzed quantitatively andqualitatively.\r\nResults of the study are: (1) the condition and potential subject in Education Indonesian Language and Literature FKIP Unila very possible now learning  model MCP BK as a supplement in the process of learning to read, (2) the product generates learning model MCP BK with (syntax) learning in the form of operational measures faculty, student activities, and a source of learning, (3) the application of MCP BK learning model can improve student Speed reading. The average result of learning to read by learning model of MCP BK at 75.54, whereas with classical learning model at73.38.\r\nKeywords: Learning Model, Speed Reading, Character Based Learning",
+      "eprint_status": "archive",
+      "title": "PENGEMBANGAN MODEL MEMBACA CEPAT YANG EFEKTIF BERBASIS PEMBENTUKAN KARAKTER",
+      "metadata_visibility": "show",
+      "pagerange": "534-546",
+      "subjects": [
+        "PN"
+      ],
+      "event_type": "conference",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3145",
+      "status_changed": "2017-06-05 02:22:28",
+      "event_title": "Konferensi Internasionla VI Bahasa, Sastra, Budaya dan Daerah Indonesia",
+      "userid": 1014,
+      "documents": [
+          {
+            "main": "PENGEMBANGAN MODEL MEMBACA CEPAT YANG EFEKTIF BERBASIS PEMBENTUKAN KARAKTER.docx",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 3145,
+            "files": [
+                {
+                  "objectid": 3042,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "PENGEMBANGAN MODEL MEMBACA CEPAT YANG EFEKTIF BERBASIS PEMBENTUKAN KARAKTER.docx",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "fileid": 21899,
+                  "filesize": 252609,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21899",
+                  "mtime": "2017-06-02 09:34:31",
+                  "hash": "5810d438f387ea807b19566a34f3a880"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3042",
+            "rev_number": 1,
+            "docid": 3042,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "security": "public",
+            "placement": 1,
+            "format": "text"
+          }
+      ],
+      "date": "2016-09-25"
+    },
+    {
+      "official_url": "http:\/\/www.unila.ac.id",
+      "event_location": "Bandarlampung",
+      "event_dates": "19 s.d. 22 Februari 2014",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "siti_samhati@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Siti Samhati",
+            "given": "Siti Samhati"
+          }
+        }
+      ],
+      "eprintid": 3380,
+      "lastmod": "2017-06-12 02:26:52",
+      "contact_email": "siti_samhati@yahoo.com",
+      "refereed": "TRUE",
+      "pres_type": "poster",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "ABSTRAK\r\n\r\nPenelitian ini bertujuan untuk mendeskripsikan kemampuan memahami proses morfofonemik bahasa Lampung pada mahasiswa Program Studi Pendidikan Bahasa dan Sastra Indonesia FKIP Universitas Lampung \r\n\r\nMetode yang digunakan adalah metode Deskriptif. Pengumpulan data dilakukan dengan tes objektif dengan isian singkat.  Populasi penelitian adalah seluruh Program Studi Pendidikan Bahasa dan Sastra Indonesia FKIP Universitas Lampung  Tahun Akademik 2012 s.d. 2014. Sampel penelitian berjumlah 100 mahasiswa. \r\n\r\nHasil penelitian menunjukkan bahwa penguasaan afiksasi bahasa Lampung mahasiswa Program Studi Pendidikan Bahasa dan Sastra Indonesia Universitas Lampung Tahun Akademik 2012 s.d. 2014 rata-rata  64.81 termasuk kategori cukup. Penguasaan prefiks mahasiswa  rata-rata 75,55 termasuk kategori baik.  Kategori kurang terdapat pada penguasaan infiks mahasiswa rata-rata 53,00. Kategori cukup, yaitu rata-rata 68 pada penguasaan sufiks. Selanjutnya, penguasaan konfiks dan Simulfiks  mahasiswa rata-rata 67.40 dan ini termasuk juga dalam kategori cukup.\r\n\r\nBerdasarkan data yang diperoleh, Afiks  yang  mengalami proses morfofonemik pada afiks \r\n\/peN-\/, \/per-\/ atau \/pegh-\/, \/be-\/, dan Afiks \/N-\/.  \r\n\r\nKata Kunci: Afiksasi, proses morfofonemik, bahasa Lampung",
+      "divisions": [
+        "FKIP8"
+      ],
+      "dir": "disk0\/00\/00\/33\/80",
+      "datestamp": "2017-06-12 02:26:52",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3380",
+      "type": "conference_item",
+      "event_type": "conference",
+      "subjects": [
+        "PN"
+      ],
+      "pagerange": "619-624",
+      "metadata_visibility": "show",
+      "title": "PENGUASAAN AFIKSASI BAHASA LAMPUNG MAHASISWA UNIVERSITAS LAMPUNG \r\n(TINJAUAN PROSES MORFOFONEMIK)",
+      "date": "2014-02-19",
+      "documents": [
+          {
+            "docid": 3253,
+            "mime_type": "application\/msword",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "language": "id",
+            "main": "Proseding Kimli Siti Samhati.doc",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3253",
+            "rev_number": 2,
+            "pos": 1,
+            "eprintid": 3380,
+            "files": [
+                {
+                  "filename": "Proseding Kimli Siti Samhati.doc",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/msword",
+                  "objectid": 3253,
+                  "datasetid": "document",
+                  "hash": "0948222ca5ac61767aa936c756a81586",
+                  "mtime": "2017-06-05 05:31:46",
+                  "fileid": 23456,
+                  "filesize": 380416,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/23456"
+                }
+            ]
+          }
+      ],
+      "userid": 1014,
+      "status_changed": "2017-06-12 02:26:52",
+      "event_title": "Konferensi Internasional Masyarakat Linguistik Indonesia"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3383",
+      "type": "conference_item",
+      "event_type": "workshop",
+      "pagerange": "284-293",
+      "subjects": [
+        "PN"
+      ],
+      "metadata_visibility": "show",
+      "title": "Pelatihan Penyusunan Proposal Penelitian Tindakan Kelas (PTK) bagi para \r\nGuru SMA Tanggamus",
+      "date": "2013-12-04",
+      "documents": [
+          {
+            "mime_type": "application\/msword",
+            "docid": 3255,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "language": "id",
+            "main": "Prosiding  Seminar Nasional PKM Unila.doc",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3255",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 3255,
+                  "mime_type": "application\/msword",
+                  "hash_type": "MD5",
+                  "filename": "Prosiding  Seminar Nasional PKM Unila.doc",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/23476",
+                  "filesize": 348672,
+                  "fileid": 23476,
+                  "mtime": "2017-06-05 05:53:13",
+                  "hash": "d5961b38b84c70aa2af6815ac9f5b5ee"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 3383
+          }
+      ],
+      "userid": 1014,
+      "event_title": "Seminar Nasional Pengabdian kepada Masyarakat Universitas Lampung",
+      "status_changed": "2017-06-12 02:26:11",
+      "event_dates": "3 s.d. 4 Desember 2013",
+      "official_url": "http:\/\/www.unila.ac.id",
+      "event_location": "Bandar Lampung",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Siti Samhati",
+            "family": "Siti Samhati"
+          },
+          "id": "siti_samhati@yahoo.com"
+        }
+      ],
+      "lastmod": "2017-06-12 02:26:11",
+      "eprintid": 3383,
+      "contact_email": "siti_samhati@yahoo.com",
+      "pres_type": "paper",
+      "refereed": "TRUE",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "abstract": "Abstrak\r\n\r\nKegiatan pengabdian bertema Pelatihan Penyusunan Proposal Penelitian Tindakan Kelas (PTK) bagi para Guru SMA Tanggamus. Pelatihan ini bertujuan untuk memberikan pengetahuan dan pemahaman mengenai penyusunan  proposal Penelitian Tindakan Kelas (PTK). Tujuan tersebut dicapai melalui kegiatan pelatihan. \r\nPeserta  pelatihan adalah guru SMA Tanggamus yang berjumlah 83 orang. Kegiatan pelatihan dilaksanakan di SMA Negeri 1 Tanggamus. Hasil pelatihan menunjukkan bahwa peserta pelatihan mampu merencanakan penyusunan proposal PTK. Hal ini terbukti dengan melihat perbandingan hasil yang diperoleh pada tes awal dan tes akhir. Pada tes awal ada 40 orang atau 46,87% memperoleh nilai 55 ke atas dan pada tes akhir para peserta yang memperoleh nilai 55 ke atas ada 70 orang atau 85,42%. Peningkatan tampak pada penyusunan (1) Judul Penelitian, (2)  Identifikasi Permasalahan, (3) Perumusan Masalah, (4) Tujuan Penelitian, (5) Manfaat Penelitian, (6) Ketepatan Tindakan, (7) Rancangan Tindakan, (8) Skenario Pembelajaran, (9) Indikator Keberhasilan, dan (10) Indikator Penilaian. \r\nSimpulan menunjukkan bahwa pelatihan dapat meningkatkan pengetahuan dan pemahaman guru dalam menyusun proposal PTK sebesar 38,55%.\r\n\r\n\r\nKata kunci: Pelatihan, Penelitian Tindakan Kelas (PTK)",
+      "ispublished": "pub",
+      "corp_creators": [
+        "Edy Purnomo",
+        "Karomani"
+      ],
+      "divisions": [
+        "FKIP14"
+      ],
+      "datestamp": "2017-06-12 02:26:11",
+      "dir": "disk0\/00\/00\/33\/83"
+    },
+    {
+      "eprint_status": "archive",
+      "abstract": "Penelitian ini bertujuan menggali dan mendeskripsikan unsur budaya dan nilai moral yang terkandung dalam cerita rakyat Komering Seharuk. Penelitian ini menggunakan metode deskriptif kualitatif dengan pendekatan sosiologi sastra. Sumber data penelitian berupa cerita rakyat Komering Seharuk yang ditulis oleh Usman Nurdin. Melalui sumber data tersebut diperoleh data penelitian berwujud kutipan kalimat yang dikumpulkan melalui teknik baca-catat. Adapun analisis terhadap data penelitian dilakukan menggunakan teknik analisis isi. Hasil penelitian menunjukkan bahwa cerita rakyat Komering Seharuk mengandung unsur budaya Komering dan nilai moral yang cukup beragam. Unsur budaya Komering yang dimaksud meliputi; (1) penggunaan bahasa Komering, (2) pengangkatan lagu daerah Komering Umbai Akas, (3) latar Sungai Komering sebagai salah satu sumber kebudayaan masyarakat Komering, dan (4) Tala Balak yang digunakan sebagai sarana penghancur kelaliman penguasa. Adapun nilai nilai moral yang dimaksud meliputi; (1) kepatuhan, (2) kebijaksanaan, (3) kesediaan bertanggung jawab, (4) bekerja keras, (5) religiusitas, (6) optimisme, (7) peduli sosial, dan (8) cinta damai. Unsur budaya dan nilai moral yang terkandung di dalam cerita rakyat Komering Seharuk dapat dijadikan salah satu pedoman dan motivasi dalam kehidupan bermasyarakat.",
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP8"
+      ],
+      "datestamp": "2023-03-07 03:05:27",
+      "dir": "disk0_bak\/00\/04\/88\/28",
+      "lastmod": "2023-03-07 03:05:27",
+      "eprintid": 48828,
+      "number": 2,
+      "refereed": "FALSE",
+      "publisher": "Balai Bahasa Yogyakarta, Kemdikbud",
+      "official_url": "https:\/\/widyaparwa.kemdikbud.go.id\/index.php\/widyaparwa\/article\/view\/898\/pdf_1",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "creators": [
+        {
+          "name": {
+            "family": "Sunarti",
+            "given": "Iing",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "iingsunarti58@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Dedi",
+            "family": "Febriyanto"
+          },
+          "id": "dedifebri97@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Mulyanto",
+            "family": "Widodo"
+          },
+          "id": "mulyanto.widodo@gmail.com"
+        }
+      ],
+      "date_type": "published",
+      "documents": [
+          {
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188259",
+            "files": [
+                {
+                  "hash": "4dea94e24909b2e58b8f1580d5b1f3df",
+                  "mtime": "2023-03-07 02:20:46",
+                  "fileid": 531720,
+                  "filesize": 235392,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531720",
+                  "filename": "898-3213-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 188259,
+                  "datasetid": "document"
+                }
+            ],
+            "eprintid": 48828,
+            "pos": 1,
+            "language": "id",
+            "main": "898-3213-1-PB.pdf",
+            "format": "text",
+            "formatdesc": "Article",
+            "security": "public",
+            "content": "published",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "docid": 188259
+          },
+          {
+            "language": "en",
+            "main": "CULTURAL ELEMENTS AND MORAL VALUES IN THE KOMERING FOLKLORE SEHARUK_ A STUDY OF LITERARY SOCIOLOGY.pdf",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188260",
+            "pos": 2,
+            "eprintid": 48828,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531722",
+                  "fileid": 531722,
+                  "filesize": 4139487,
+                  "hash": "d52965593f4e5b323bdf13aee351dd17",
+                  "mtime": "2023-03-07 02:21:22",
+                  "datasetid": "document",
+                  "objectid": 188260,
+                  "mime_type": "application\/pdf",
+                  "filename": "CULTURAL ELEMENTS AND MORAL VALUES IN THE KOMERING FOLKLORE SEHARUK_ A STUDY OF LITERARY SOCIOLOGY.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 188260,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "formatdesc": "Similarity Report",
+            "security": "public",
+            "placement": 2
+          }
+      ],
+      "publication": "Widyaparwa (Jurnal Ilmiah Kebahasaan dan Kesastraan)",
+      "date": 2021,
+      "userid": 727,
+      "status_changed": "2023-03-07 03:05:27",
+      "volume": 49,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48828",
+      "issn": "2528-1089",
+      "id_number": "https:\/\/doi.org\/10.26499\/wdprw.v49i2.898",
+      "metadata_visibility": "show",
+      "title": "UNSUR BUDAYA DAN NILAI MORAL DALAM CERITA RAKYAT KOMERING SEHARUK: SEBUAH TINJAUAN SOSIOLOGI SASTRA",
+      "subjects": [
+        "HT",
+        "PN"
+      ],
+      "pagerange": "387-401"
+    },
+    {
+      "ispublished": "pub",
+      "abstract": "The purpose of this study is to describe the social conflicts and moral values contained in the Novel Si Anak Badai by Tere Liye. This research is a qualitative research using a sociology of literature approach. This research is to describe the social conflict and moral values in the Novel Si Anak Badai by Tere Liye. The results of the discussion in this study are obtained facts related to social conflicts, namely coercion, data lies, and slander. While the moral values contained in the Novel Si Anak Badai by Tere Liye include: filial piety to parents, responsibility, forgiveness, mutual cooperation, the importance of education, friendship, honesty, self- confidence, facing strength with gentleness and others.",
+      "eprint_status": "archive",
+      "datestamp": "2023-03-06 01:56:54",
+      "dir": "disk0_bak\/00\/04\/87\/57",
+      "divisions": [
+        "FKIP8"
+      ],
+      "refereed": "FALSE",
+      "number": 7,
+      "eprintid": 48757,
+      "lastmod": "2023-03-06 01:56:54",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Suri",
+            "given": "Lela"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suyanto",
+            "given": "Edi"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Farida",
+            "family": "Ariyani"
+          },
+          "id": "farida.ariyani@fkip.unila.ac.id"
+        }
+      ],
+      "official_url": "https:\/\/ijmmu.com\/index.php\/ijmmu\/article\/view\/3841\/3381",
+      "full_text_status": "public",
+      "publisher": "IJMMU",
+      "rev_number": 10,
+      "date_type": "published",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 188137,
+            "content": "published",
+            "security": "public",
+            "placement": 1,
+            "formatdesc": "Article",
+            "format": "text",
+            "main": "3841-11866-1-PB.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 188137,
+                  "datasetid": "document",
+                  "filename": "3841-11866-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 531145,
+                  "filesize": 632568,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531145",
+                  "hash": "0386609153ee7ee09f8faeabbfb99adc",
+                  "mtime": "2023-03-05 10:12:28"
+                }
+            ],
+            "eprintid": 48757,
+            "pos": 1,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188137"
+          },
+          {
+            "language": "en",
+            "main": "Social Conflict and Moral Values of Novel Si Anak Badai by Tere Liye The Study of Literature Sociology.pdf",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188139",
+            "pos": 2,
+            "eprintid": 48757,
+            "files": [
+                {
+                  "objectid": 188139,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "Social Conflict and Moral Values of Novel Si Anak Badai by Tere Liye The Study of Literature Sociology.pdf",
+                  "mime_type": "application\/pdf",
+                  "fileid": 531150,
+                  "filesize": 1295653,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531150",
+                  "mtime": "2023-03-05 10:12:57",
+                  "hash": "3294236305937df750fb4493f0ff9893"
+                }
+            ],
+            "docid": 188139,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "formatdesc": "Similarity Report",
+            "placement": 2,
+            "security": "public"
+          }
+      ],
+      "date": "2022-07",
+      "publication": "International Journal of Multicultural and Multireligious Understanding (IJMMU)",
+      "status_changed": "2023-03-06 01:56:54",
+      "userid": 500,
+      "volume": 9,
+      "issn": "2364-5369",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48757",
+      "type": "article",
+      "title": "Social Conflict and Moral Values of Novel Si Anak Badai by Tere Liye the Study of Literature Sociology",
+      "metadata_visibility": "show",
+      "id_number": "http:\/\/dx.doi.org\/10.18415\/ijmmu.v9i7.3841",
+      "pagerange": "33-38",
+      "subjects": [
+        "PN"
+      ]
+    },
+    {
+      "isbn": "978-602-203-787-3",
+      "divisions": [
+        "FKIP14"
+      ],
+      "dir": "disk0\/00\/00\/30\/95",
+      "datestamp": "2017-07-20 08:58:40",
+      "corp_creators": [
+        "MULYANTO WIDODO"
+      ],
+      "eprint_status": "archive",
+      "abstract": "Buku ini memuat Keberadaan sastra yang melekat dalam kehidupan manusia. Setiap langkah dan kegiatan yang dilakukan, selalu mengandung unsur-unsur sastra, baik disadari maupun tidak. Ketika seorang ibu akan menidurkan anaknya, pak tani membajak sawah atau hendak memanen hasil sawahny, dukun mengobati orang sakit, pembuat tuak mengetuk nira, mereka mengucapkan untaian kata-kata yang indah dan merdu, rima beraturan, gema berulang-ulang yang terdengar indah dan sei=olah-olah bersatu dengan alam.",
+      "ispublished": "pub",
+      "date_type": "published",
+      "lastmod": "2017-07-20 08:58:40",
+      "eprintid": 3095,
+      "refereed": "TRUE",
+      "rev_number": 6,
+      "official_url": "http:\/\/www.ubpress.ub.ac.id",
+      "publisher": "UB Pres",
+      "full_text_status": "none",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "WARSIMAN",
+            "family": "WARSIMAN"
+          }
+        }
+      ],
+      "book_title": "Menyibak Tirai Sastra",
+      "userid": 727,
+      "status_changed": "2017-07-20 08:58:40",
+      "place_of_pub": "Malang",
+      "pages": 136,
+      "date": "2015-06-20",
+      "metadata_visibility": "show",
+      "title": "MENYIBAK TIRAI SASTRA",
+      "editors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Warsiman",
+            "given": "Warsiman"
+          }
+        }
+      ],
+      "pagerange": "1-136",
+      "subjects": [
+        "PN"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3095",
+      "type": "book_section"
+    },
+    {
+      "divisions": [
+        "FKIP14"
+      ],
+      "datestamp": "2023-03-06 09:59:21",
+      "dir": "disk0_bak\/00\/04\/88\/05",
+      "eprint_status": "archive",
+      "abstract": "Sebagai salah satu bagian sastra lama, Legenda Serunting Sakti banyak menyajikan konflik tokoh di dalamnya. Konflik menjadi salah satu bagian penting di dalam menciptakan keutuhan dan kepaduan makna cerita. Kajian ini bertujuan menggambarkan wujud konflik tokoh utama, faktor penyebab konflik tokoh utama, dan upaya penyelesaian konflik tokoh utama dalam Legenda Serunting Sakti. Kajian dilakukan dengan menggunakan metode deskriptif kualitatif. Data dikumpulkan menggunakan teknik baca-catat dan dianalisis menggunakan metode interaktif. Hasil penelitian menunjukkan bahwa tokoh utama dalam Legenda Serunting Sakti mengalami berbagai konflik yang sangat beragam. Wujud konflik yang dimaksud meliputi konflik internal dan konflik eksternal. Konflik tersebut dilatarbelakangi oleh perbedaan kepentingan, perbedaan kebudayaan, dan perbedaan pola pikir antara individu-individu. Untuk menghilangkan atau setidaknya meredam konflik, Serunting Sakti selaku tokoh utama melakukan beberapa upaya, yaitu dengan cara mendekati orang lain, melawan orang lain, dan menjauhi orang lain.",
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 48805,
+      "lastmod": "2023-03-06 09:59:21",
+      "refereed": "FALSE",
+      "number": 2,
+      "publisher": "Program Studi Pendidikan Bahasa dan Sastra Indonesia Universitas Kuningan",
+      "official_url": "https:\/\/journal.uniku.ac.id\/index.php\/FON\/article\/view\/5715",
+      "rev_number": 9,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "given": "Arini",
+            "family": "Wastiti",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "ariniwastitikici@gmail.com"
+        },
+        {
+          "id": "munaris.1970@fkip.unila.ac.id",
+          "name": {
+            "given": "Munaris",
+            "family": "Munaris",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "mulyantowidodo@gmail.com",
+          "name": {
+            "family": "Widodo",
+            "given": "Mulyanto",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "userid": 727,
+      "status_changed": "2023-03-06 09:59:21",
+      "documents": [
+          {
+            "main": "5715-16955-1-PB (1).pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531511",
+                  "filesize": 326762,
+                  "fileid": 531511,
+                  "hash": "594b63594510ef3b9dc42fbdd78571b1",
+                  "mtime": "2023-03-06 09:37:30",
+                  "datasetid": "document",
+                  "objectid": 188220,
+                  "mime_type": "application\/pdf",
+                  "filename": "5715-16955-1-PB (1).pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 48805,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188220",
+            "rev_number": 2,
+            "mime_type": "application\/pdf",
+            "docid": 188220,
+            "content": "published",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "formatdesc": "Article"
+          },
+          {
+            "placement": 2,
+            "security": "public",
+            "formatdesc": "Similarity Report",
+            "format": "text",
+            "docid": 188221,
+            "mime_type": "application\/pdf",
+            "pos": 2,
+            "eprintid": 48805,
+            "files": [
+                {
+                  "fileid": 531514,
+                  "filesize": 3338850,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531514",
+                  "hash": "3cc1edc19e8fd12f4deaa0c99d6a5180",
+                  "mtime": "2023-03-06 09:37:41",
+                  "objectid": 188221,
+                  "datasetid": "document",
+                  "filename": "KONFLIK TOKOH UTAMA DALAM LEGENDA SERUNTING SAKTI.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188221",
+            "rev_number": 2,
+            "main": "KONFLIK TOKOH UTAMA DALAM LEGENDA SERUNTING SAKTI.pdf",
+            "language": "en"
+          }
+      ],
+      "publication": "Fon: Jurnal Pendidikan Bahasa dan Sastra Indonesia",
+      "date": 2022,
+      "id_number": "https:\/\/doi.org\/10.25134\/fon.v18i2.5715",
+      "metadata_visibility": "show",
+      "title": "KONFLIK TOKOH UTAMA DALAM LEGENDA SERUNTING SAKTI",
+      "pagerange": "272-283",
+      "subjects": [
+        "P1",
+        "PN"
+      ],
+      "volume": 18,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48805",
+      "type": "article",
+      "issn": "2086-0609"
+    },
+    {
+      "documents": [
+          {
+            "formatdesc": "Article",
+            "format": "text",
+            "content": "published",
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "docid": 188235,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188235",
+            "files": [
+                {
+                  "hash": "5bbf88ee41c2e7d9fb07b47c523d01dc",
+                  "mtime": "2023-03-06 11:28:41",
+                  "filesize": 495037,
+                  "fileid": 531605,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531605",
+                  "filename": "698-1871-3-PB (1).pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 188235,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 48816,
+            "language": "en",
+            "main": "698-1871-3-PB (1).pdf"
+          },
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188236",
+            "rev_number": 2,
+            "files": [
+                {
+                  "objectid": 188236,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "REPRESENTASI DUNIA PESANTREN DALAM KUMPULAN CERPEN PESANTREN LUDAH SURGA.pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 3248771,
+                  "fileid": 531607,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531607",
+                  "mtime": "2023-03-06 11:28:50",
+                  "hash": "82820eac12d700c1f1e51a08bd1e06de"
+                }
+            ],
+            "eprintid": 48816,
+            "pos": 2,
+            "language": "en",
+            "main": "REPRESENTASI DUNIA PESANTREN DALAM KUMPULAN CERPEN PESANTREN LUDAH SURGA.pdf",
+            "formatdesc": "Similarity Report",
+            "format": "text",
+            "security": "public",
+            "placement": 2,
+            "mime_type": "application\/pdf",
+            "docid": 188236
+          }
+      ],
+      "publication": "SALINGKA",
+      "date": "2022-12",
+      "userid": 727,
+      "status_changed": "2023-03-07 02:25:52",
+      "volume": 19,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48816",
+      "issn": "2615-3963",
+      "id_number": "https:\/\/doi.org\/10.26499\/salingka.v19i2.698",
+      "metadata_visibility": "show",
+      "title": "REPRESENTASI DUNIA PESANTREN DALAM KUMPULAN CERPEN PESANTREN LUDAH SURGA",
+      "subjects": [
+        "P1",
+        "PN"
+      ],
+      "pagerange": "175-187",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Pesantren sebagai lembaga pendidikan Islam tertua di Indonesia memiliki berbagai peran dan ciri khas yang mengakar hingga saat ini. Sebagian besar peran dan kekhasan pesantren tersebut terpotret dalam kumpulan cerpen pesantren Ludah Surga. Penelitian ini bertujuan mengungkapkan dunia\r\npesantren dalam kumpulan cerpen pesantren Ludah Surga suntingan Daroini. Penelitian dilakukan menggunakan metode deskriptif kualitatif. Data penelitian berwujud kutipan kalimat dan dikumpulkan melalui teknik baca-catat. Adapun teknik analisis data dilakukan menggunakan teknik interaktif. Hasil penelitian menunjukkan bahwa dunia pesantren yang terpotret dalam kumpulan cerpen pesantren Ludah Surga sangat beragam dan kompleks. Pesantren sebagai sebuah sistem pendidikan tradisional dibangun oleh lima unsur utama, yaitu kiai, santri, pondok\/asrama, masjid\/musala, dan kitab kuning. Relasi antar-unsur tersebut melahirkan beragam tradisi khas pesantren yang luhur, seperti rihlah ilmiah, pendalaman ilmu agama Islam, menghafal kitab, pembacaan maulid nabi, tabaruk, hingga laku tirakat. Pengamalan terhadap tradisi-tradisi tersebut pada akhirnya membentuk sikap hidup para santri yang berkarakter, sabar, saleh, mandiri, dan disiplin.",
+      "divisions": [
+        "FKIP14"
+      ],
+      "dir": "disk0_bak\/00\/04\/88\/16",
+      "datestamp": "2023-03-07 02:25:52",
+      "eprintid": 48816,
+      "lastmod": "2023-03-07 02:25:52",
+      "refereed": "FALSE",
+      "number": 2,
+      "official_url": "http:\/\/salingka.kemdikbud.go.id\/index.php\/SALINGKA\/article\/view\/698",
+      "publisher": "Kementerian Pendidikan dan Kebudayaan",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "creators": [
+        {
+          "id": "mulyanto.widodo@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Mulyanto",
+            "family": "Widodo"
+          }
+        },
+        {
+          "id": "dedifebri97@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Dedi",
+            "family": "Febriyanto"
+          }
+        },
+        {
+          "id": "lailatul@stkipnurulhuda.ac.id",
+          "name": {
+            "given": "Lailatul",
+            "family": "Fitriyah",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "date_type": "published"
+    },
+    {
+      "status_changed": "2022-04-26 08:08:42",
+      "userid": 727,
+      "book_title": "PRINSIP PERCAKAPAN  (PENGANTAR PEMAHAMAN SANTUN BERBAHASA)",
+      "date": "2016-06-01",
+      "pages": 66,
+      "place_of_pub": "Yogyakarta",
+      "documents": [
+          {
+            "placement": 2,
+            "security": "public",
+            "format": "text",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "docid": 3272,
+            "files": [
+                {
+                  "mtime": "2017-06-02 09:07:14",
+                  "hash": "6ae41ded5b77cd9e6989ca9300c1c05f",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/23587",
+                  "filesize": 38349,
+                  "fileid": 23587,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash_type": "MD5",
+                  "filename": "COVER.docx",
+                  "datasetid": "document",
+                  "objectid": 3272
+                }
+            ],
+            "eprintid": 3411,
+            "pos": 2,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3272",
+            "main": "COVER.docx",
+            "language": "en"
+          }
+      ],
+      "pagerange": "1-66",
+      "subjects": [
+        "PN"
+      ],
+      "title": "PRINSIP PERCAKAPAN  (PENGANTAR PEMAHAMAN SANTUN BERBAHASA)",
+      "metadata_visibility": "show",
+      "type": "book",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3411",
+      "volume": 1,
+      "dir": "disk0\/00\/00\/34\/11",
+      "datestamp": "2022-04-26 08:08:42",
+      "divisions": [
+        "FKIP14"
+      ],
+      "isbn": "978-602-60635-0-2",
+      "ispublished": "pub",
+      "abstract": "Buku ini tersaji untuk pemakai bahasa secara umum dan khususnya praktisi pendidikan, guru, mahasiswa, dan pebelajar bahasa. Penutur perlu mendasari setiap konsep tuturan dengan kesantunan karena penutur perlu memperhatikan tidak hanya tujuan pribadi penutur melainkan tujuan sosial dalam bertutur juga tetap harus dicermati. Penaatan terhadap nilai kesantunan dan teori kesantunan dalam bertutur membawa keharmonisan antarindividu dan kedekatan emosional mampu terbagun antara penutur satu dan mitra tuturnya.",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "family": "Widodo",
+            "given": "Mulyanto",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "mulyanto.widodo@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "I Wayan",
+            "family": "Sumarta"
+          },
+          "id": null
+        }
+      ],
+      "official_url": "http:\/\/www.mediaakademi.com",
+      "publisher": "TEXTIUM",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "refereed": "TRUE",
+      "succeeds": 3027,
+      "eprintid": 3411,
+      "lastmod": "2022-04-26 08:08:42"
+    },
+    {
+      "date": "2016-09-25",
+      "documents": [
+          {
+            "main": "REPRESENTASI KEKUASAAN PADA TINDAK TUTUR DOSEN DI LINGKUNGAN FKIP UNIVERSITAS LAMPUNG.docx",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 3011,
+            "files": [
+                {
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash_type": "MD5",
+                  "filename": "REPRESENTASI KEKUASAAN PADA TINDAK TUTUR DOSEN DI LINGKUNGAN FKIP UNIVERSITAS LAMPUNG.docx",
+                  "datasetid": "document",
+                  "objectid": 2899,
+                  "mtime": "2017-06-02 04:14:24",
+                  "hash": "ea13d2869d2b0301929a2fa23cd27e26",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/20884",
+                  "filesize": 81145,
+                  "fileid": 20884
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2899",
+            "rev_number": 1,
+            "docid": 2899,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "security": "public",
+            "placement": 1,
+            "format": "text"
+          }
+      ],
+      "userid": 727,
+      "event_title": "Konferensi Internasional VI Bahasa, Sastra, Budaya, Daerah Indonesia",
+      "status_changed": "2017-06-05 02:30:20",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3011",
+      "event_type": "conference",
+      "subjects": [
+        "PN"
+      ],
+      "pagerange": "782-790",
+      "metadata_visibility": "show",
+      "title": "REPRESENTASI KEKUASAAN PADA TINDAK TUTUR DOSEN \r\nDI LINGKUNGAN FKIP UNIVERSITAS LAMPUNG:SEBUAH KAJIAN PRAGMATIK",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Penelitian ini mendeskripsikan bentuk-bentuk representasi kekuasaan pada tindak tutur dosen di lingkungan FKIP Universitas Lampung. Metode penelitian ini, yakni deskriptif kualitatif. Data penelitian berupa tindak tutur dosen yang di dalamnya terdapat representasi kekuasaan. Tindak tuturnya berupa tindak tutur asertif, direktif, ekspresif. Hasil penelitian menunjukkan wujud representasi kekuasaan pada tindak tutur dosen meliputi representasi kekuasaan pada tindak tutur direktif dosen yang meliputi representasi kekuasaan dalam perintah, permintaan, pemesanan, persilaan, nasihat, dan larangan; representasi kekuasaan pada tindak tutur asertif dosen hanya ditemukan pada representasi kekuasaan dalam menegaskan; representati kekuasaan pada tindak tutur epresif dosen hanya ditemukan pada representasi kekuasaan dalam rasa senang. \r\n\r\nKata kunci: representasi kekuasaan, tindak tutur dosen",
+      "corp_creators": [
+        "Mulyanto Widodo",
+        "Siti Samhati"
+      ],
+      "divisions": [
+        "FKIP14"
+      ],
+      "datestamp": "2017-06-05 02:30:20",
+      "dir": "disk0\/00\/00\/30\/11",
+      "event_dates": "24--26 September 2016",
+      "official_url": "http:\/\/www.unila.ac.id",
+      "rev_number": 8,
+      "event_location": "Universitas Lampung Bandar Lampung",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "wtarmini@yahoo.com",
+          "name": {
+            "family": "Wini TARMINI",
+            "given": "WINI T",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "lastmod": "2017-06-05 02:30:20",
+      "eprintid": 3011,
+      "pres_type": "paper",
+      "refereed": "TRUE"
+    },
+    {
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "ABSTRAK\r\n\r\nPenelitian ini mendeskripsikan bentuk-bentuk representasi kekuasaan pada tindak tutur dosen di lingkungan FKIP Universitas Lampung. Metode penelitian ini adalah deskriptif kualitatif. Data penelitian berupa tindak tutur dosen yang di dalamnya terdapat representasi kekuasaan. Tindak tuturnya berupa tindak tutur asertif, direktif, ekspresif. Hasil penelitian menunjukkan wujud representasi kekuasaan pada tindak tutur dosen meliputi representasi kekuasaan pada tindak tutur direktif dosen yang meliputi representasi kekuasaan dalam perintah, permintaan, pemesanan, persilaan, nasihat, dan larangan; representasi kekuasaan pada tindak tutur asertif dosen hanya ditemukan pada representasi kekuasaan dalam menegaskan; dan representasi kekuasaan pada tindak tutur ekspresif dosen hanya ditemukan pada represntasi kekuasaan dalam rasa senang.\r\n\r\n\r\nKata Kunci: representasi kekuasaan, tindak tutur dosen",
+      "corp_creators": [
+        "Siti Samhati",
+        "Mulyanto Widodo"
+      ],
+      "divisions": [
+        "FKIP8"
+      ],
+      "dir": "disk0\/00\/00\/31\/62",
+      "datestamp": "2017-06-12 02:37:42",
+      "official_url": "http:\/\/www.unila.ac.id",
+      "publisher": "Program Studi Magister Pendidikan Bahasa, Sastra, dan Daerah (MPBSD) FKIP Universitas Lampung",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "wtarmini@yahoo.com",
+          "name": {
+            "given": "Wini Tarmini",
+            "family": "Wini Tarmini",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "eprintid": 3162,
+      "lastmod": "2017-06-12 02:37:42",
+      "contact_email": "wtarmini@yahoo.com",
+      "number": 1,
+      "refereed": "TRUE",
+      "date_type": "published",
+      "publication": "Konferensi Internasional VI",
+      "date": "2016-09-25",
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "docid": 3239,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3239",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "filename": "REPRESENTASI KEKUASAAN PADA TINDAK TUTUR DOSEN DI LINGKUNGAN FKIP UNIVERSITAS LAMPUNG.docx",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 3239,
+                  "hash": "ea13d2869d2b0301929a2fa23cd27e26",
+                  "mtime": "2017-06-05 01:53:37",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/23260",
+                  "fileid": 23260,
+                  "filesize": 81145
+                }
+            ],
+            "eprintid": 3162,
+            "pos": 1,
+            "language": "en",
+            "main": "REPRESENTASI KEKUASAAN PADA TINDAK TUTUR DOSEN DI LINGKUNGAN FKIP UNIVERSITAS LAMPUNG.docx"
+          }
+      ],
+      "userid": 1014,
+      "status_changed": "2017-06-12 02:37:42",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3162",
+      "issn": "978-602-60167-0-6",
+      "volume": 1,
+      "subjects": [
+        "PN"
+      ],
+      "pagerange": "782-790",
+      "metadata_visibility": "show",
+      "title": "REPRESENTASI KEKUASAAN PADA TINDAK TUTUR DOSEN DI LINGKUNGAN FKIP UNIVERSITAS LAMPUNG:\r\nSEBUAH KAJIAN PRAGMATIK"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "sofia agustina",
+            "family": "eka"
+          },
+          "id": "ekasupono@gmail.com"
+        }
+      ],
+      "official_url": "http:\/\/cantrikpustaka.co.id",
+      "publisher": "Cantrik Pustaka",
+      "full_text_status": "public",
+      "rev_number": 10,
+      "refereed": "TRUE",
+      "eprintid": 1465,
+      "lastmod": "2017-03-20 13:50:28",
+      "date_type": "published",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/00\/14\/65",
+      "datestamp": "2017-03-20 13:50:28",
+      "divisions": [
+        "FKIP14"
+      ],
+      "isbn": "978-602-60226-3-9",
+      "type": "book_section",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1465",
+      "volume": 1,
+      "subjects": [
+        "PN"
+      ],
+      "pagerange": "41-47",
+      "related_url": [
+        {
+          "url": "http:\/\/cantrikpustaka.co.id"
+        }
+      ],
+      "title": "ANTOLOGI SASTRA HIJAU (NYANYIAN DARI HUTAN, PANTAI, DAN TAMAN KOTA: SEHIMPUN PUISI)",
+      "editors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Pranoto",
+            "family": "Naning"
+          }
+        },
+        {
+          "name": {
+            "given": "Wiyatmi",
+            "family": "Wiyatmi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Else",
+            "given": "Liliyani"
+          }
+        },
+        {
+          "name": {
+            "given": "Budiyanto",
+            "family": "Dwi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "date": "2016-10",
+      "pages": 222,
+      "place_of_pub": "Yogyakarta",
+      "documents": [
+          {
+            "eprintid": 1465,
+            "pos": 1,
+            "files": [
+                {
+                  "mtime": "2017-03-20 09:22:58",
+                  "hash": "163fc29a1acfa7ff5233579a5cb16463",
+                  "filesize": 3408611,
+                  "fileid": 9950,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9950",
+                  "hash_type": "MD5",
+                  "filename": "Antologi Sastra Hijau.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 1339,
+                  "datasetid": "document"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1339",
+            "rev_number": 1,
+            "main": "Antologi Sastra Hijau.pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "docid": 1339,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "status_changed": "2017-03-20 13:50:28",
+      "book_title": "ANTOLOGI SASTRA HIJAU (NYANYIAN DARI HUTAN, PANTAI, DAN TAMAN KOTA: SEHIMPUN PUISI)",
+      "userid": 2
+    },
+    {
+      "userid": 2,
+      "status_changed": "2017-03-20 13:50:31",
+      "place_of_pub": "Bandarlampung",
+      "date": "2015-01",
+      "pages": 199,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 1341,
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "KONSEPSI PIIL PESENGGIRI MENURUT MASYARAKAT ADAT LAMPUNG WAYKANAN.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "filesize": 45550901,
+                  "fileid": 9968,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9968",
+                  "mtime": "2017-03-20 09:41:46",
+                  "hash": "4efaaeeb7885cadb87c4a623847177cd",
+                  "objectid": 1341,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "KONSEPSI PIIL PESENGGIRI MENURUT MASYARAKAT ADAT LAMPUNG WAYKANAN.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 1466,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1341",
+            "rev_number": 1
+          }
+      ],
+      "subjects": [
+        "PN"
+      ],
+      "metadata_visibility": "show",
+      "title": "KONSEPSI PIIL PESENGGIRI MENURUT MASYARAKAT ADAT LAMPUNG WAYKANAN DI KABUPATEN WAYKANAN",
+      "related_url": [
+        {
+          "url": "http:\/\/aura-publishing.com"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1466",
+      "type": "book",
+      "volume": 1,
+      "divisions": [
+        "FKIP14"
+      ],
+      "datestamp": "2017-03-20 13:50:31",
+      "dir": "disk0\/00\/00\/14\/66",
+      "isbn": "978-602-1297-66-7",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Tabik  Puun,\r\n\r\nMasyarakat adat Lampung terdiri atas dua kelompok besar yaitu masyarakat adat Pepadun dan masyarakat adat Sai Batin.  Dalam tatanan kehidupan secara individu maupun sosial, masyarakat adat Lampung tersebut  terikat pada satu tatanan normatif yang diturunkan secara turun-temurun dari para pewaris sebelumnya yaitu tatanan hidup yang disebut dengan Piil Pesenggiri.  Konsepsi terhadap Piil Pesenggiri secara general bisa diikat dengan satu kesamaan konsep, tetapi tidak halnya dengan konsepsi Piil Pesenggiri berdasarkan konsteks wilayah dan peradatannya.  Oleh karena itu, dalam buku ini melalui penelitian yang telah dilakukan, peneliti memfokuskan terlebih dahulu pada masyarakat adat Waykanan terhadap konsepsinya tentang Piil Pesenggiri.  \r\n\r\nSecara filosofis, Piil Pesenggiri diartikan sebagai sebagai penempatan diri seorang Lampung Way Kanan  dalam tatanan kehidupan adat istiadat. Piil pesenggiri dimaknakan sebagai nilai dasar atau pola hidup orang Lampung Way Kanan.. Piil Pesenggiri merupakan tuntunan hidup orang Lampung Way Kanan dalam kaitan kehidupan pribadi (hak dan kewajiban seseorang), dalam kehidupan berkeluarga dan dalam adat masyarakat seperadatan, dengan masyarakat adat Lampung yang lain, dan dengan masyarakat bukan orang Lampung. Realiasi pola kehidupan itu ada dalam falsafah Bejuluk Beadek, Nemui Nyimah, Nengah Nyappur, dan Sakai Sambayan.  Konsepsi yang dibangun dan dijelaskan dalam buku ini terdiri tas tiga hal yaitu filosofi tentang Piil Pesenggiri dan empat pilarnya dalam berperilaku, aktualisasi tentang Piil Pesenggiri dan empat pilarnya dalam berperilaku, serta realisasi Piil pesenggiri dan empat pilarnya dalam berperilaku.\r\n\r\nSistematika materi yang disampaikan dalam buku ini terdiri atas enam bab, yaitu Bab 1 Pendahuluan; Bab 2 Tinjauan Pustaka; Bab 3 Metode Penelitian; Bab 4 Deskripsi Lokasi Penelitian; Bab 5 Hasil dan Pembahasan Penelitian; Bab 6 Simpulan, Saran, dan Rekomendasi.\r\n\r\nDalam bagian Bab 1, pembaca akan mendapatkan informasi seputar latar belakang permasalahan mengapa penelitian tentang “Konsepsi Piil Pesenggiri dalam Masyarakat Adat Waykanan” penting untuk diteliti, sekaligus rumusan permasalahan yang akan menjadi kunci pembahasan buku ini pada bagian selanjutnya.  Bab 2, buku ini menyampaikan teori-teori yang dijadikan rujukan sebagai konsep pembahasan dalam menganalisis data.  Hal yang tersampaikan pada bagian ini adalah tentang konsep Piil Pesenggiri, kajian teori tentang konteks, dan teori tentang kajian budaya-bahasa Lampung.  Bab 3, tersampaikannya metode penelitian yang digunakan sampai dengan konsep operasional untuk menggiring pemaknaan Piil Pesenggiri secara holistic-realistis-teoretis. Bab 4, seputar sejarah Waykanan dan kehidupan dengan demografisnya disampaikan dalam bagian ini. Selanjutnya, Bab 5 informasi tentang analisis data dari para nara sumber yang telah diklasifikasi berdasarkan korpus data masing-masing akan didapat oleh pembaca. Dan yang terakhir, Bab 6 merupakan kristalisasi hal-hal yang telah dijelaskan dalam Bab 1 sampai dengan Bab 5 dengan sebutan simpulan, saran, dan rekomendasi.",
+      "corp_creators": [
+        "Farida Ariyani",
+        "Hery Yufrizal",
+        "Ali Mustofa"
+      ],
+      "date_type": "published",
+      "official_url": "http:\/\/aura-publishing.com",
+      "publisher": "Aura Printing and Publishing",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "creators": [
+        {
+          "id": "ekasupono@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "eka",
+            "given": "sofia agustina"
+          }
+        }
+      ],
+      "lastmod": "2017-03-20 13:50:31",
+      "eprintid": 1466,
+      "refereed": "TRUE"
+    }
+]
+

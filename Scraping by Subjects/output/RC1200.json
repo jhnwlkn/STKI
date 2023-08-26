@@ -1,0 +1,137 @@
+[
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Eduard",
+            "family": "Eduard",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Ahmad",
+            "family": "Fahrizal"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Tiwuk",
+            "family": "Susantiningsih"
+          },
+          "id": "tiwuksusantiningsih@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Kurniawaty",
+            "given": "Evi"
+          }
+        }
+      ],
+      "publisher": "Ikatan Senat Mahasiswa Kedokteran Seluruh Indonesia",
+      "number": 2,
+      "dir": "disk0\/00\/00\/21\/21",
+      "divisions": [
+        "FK1"
+      ],
+      "title": "Pengaruh Pemberian Tempe Terhadap Fraksi Lemak Darah Pada Mencit Obesitas",
+      "related_url": [
+        {
+          "url": "http:\/\/bimkes.org",
+          "type": "pub"
+        }
+      ],
+      "id_number": 87884011953,
+      "metadata_visibility": "show",
+      "funders": [
+        "Eduard",
+        "Tiwuk Susantiningsih",
+        "Evi Kurniawaty"
+      ],
+      "publication": "JIMKI Jurnal Ilmiah Mahasiswa Kedokteran Indonesia. Volume 4 Nomer 2, Juli-Desember 2016.",
+      "projects": [
+        "DIPA FK"
+      ],
+      "date_type": "published",
+      "full_text_status": "public",
+      "rev_number": 12,
+      "official_url": "http:\/\/bimkes.org",
+      "refereed": "TRUE",
+      "eprintid": 2121,
+      "lastmod": "2017-05-31 02:14:45",
+      "datestamp": "2017-05-31 02:14:45",
+      "ispublished": "pub",
+      "abstract": "Pendahuluan: Obesitas merupakan penyakit multifaktorial antara interaksi faktor lingkungan dan genetik. Obesitas ditandai dengan kelebihan berat badan akibat penimbunan lemak abnormal dan akan diprediksikan akan meningkat serta menjadi masalah dimasa depan. \r\nMetode: penelitian jenis analitik True expreimental post-test control group design. Menggunakan sampel mencit obesitas (mus muscullus L) Galur DDY. Jika data parametric diolah menggunakan oneway Annova, sedangkan uji korelasi Kruskal Wallis digunakan pada data nonparametrik. Data signifikan jika p < 0,05.\r\nHasil: sampel yang dianalisis 20 mencit. Pemberian tempe dengan dosis 2 gr\/hari dan 4 gr\/hari dengan nilai rata-rata 190,60 ±8,204 mg\/dl dan 184,20 ±12,337 mg\/dl pada kolesterol total. Menurunkan kadar Low density lipoprotein (LDL) mencit obesitas. Pemberian tempe dengan dosis 2 gr\/hari dan 4 gr\/hari dengan nilai rata-rata 123,00±12,309 mg\/dl dan 144,60±13,483 mg\/dl. Menurunkan kadar trigliserida mencit obesitas. Pada pemberian tempe dengan dosis 2 gr\/hari dan 4 gr\/hari dengan nilai rata-rata 131,60±11,971 gg\/dl dan 112,20±13,424 mg\/dl. Meningkatkan kadar kolestrerol high density lipoprotein (HDL) mencit obesitas. Pada pemberian tempe dosis 2 gr\/hari dan 4 gr\/hari dengan nilai rata-rata 72,40±10,550 mg\/dl dan 77,20±10,849 mg\/dl. Semua data bermakna secara signifikan (p=0,009)\r\nKesimpulan: terdapat pengaruh pemberian tempe terhadap fraksi lemak darah dengan menurunkan LDL dan trigliserida serta meningkatkan HDL\r\nKeyword: obesitas, tempe, fraksi lemak darah",
+      "eprint_status": "archive",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "corp_creators": [
+        "FK UNILA",
+        "FK UNILA",
+        "FK UNILA"
+      ],
+      "subjects": [
+        "RC1200"
+      ],
+      "pagerange": "72-79",
+      "issn": "ISSN 2302-6391.",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2121",
+      "volume": 4,
+      "status_changed": "2017-05-31 02:14:45",
+      "userid": 547,
+      "date": "2016-12",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 2001,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "main": "JIMKI 2016 dr Tiwuk S.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/14697",
+                  "fileid": 14697,
+                  "filesize": 28283770,
+                  "mtime": "2017-05-30 07:20:10",
+                  "hash": "ac5ad792dbf896a268a2bcef54478e09",
+                  "datasetid": "document",
+                  "objectid": 2001,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "JIMKI 2016 dr Tiwuk S.pdf"
+                }
+            ],
+            "eprintid": 2121,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2001",
+            "rev_number": 1
+          }
+      ]
+    }
+]
+

@@ -1,0 +1,1905 @@
+[
+    {
+      "eprint_status": "archive",
+      "ispublished": "submitted",
+      "abstract": "Covid-19 bukan hanya sekedar masalah kesehatan. Namun lebih jauh lagi, Covid-19 meluas menjadi masalah sistemik, yang menjalar dalam lingkup sosial budaya, ekonomi, politik, pertahanan dan keamanan negara. \r\n\r\nMeluasnya dampak covid-19 menggelitik banyak pihak untuk turut berkisah. Tidak hanya melalui labirin jendela di rumah-rumah, sekolah, pasar, atau kantor, yang tiba-tiba menjadi ruang sunyi. Banyak yang kemudian ingin mengabadikan kisah panjang itu dalam karya tulisan, agar terkenang dalam sejarah. Begitu pun pada anak-anak muda yang mewakili generasi Z dalam buku ini. \r\n\r\nTerhimpun beberapa pandangan, baik berupa deskripsi faktual, maupun kritik, khususnya tantangan dalam pengelolaan SDM dan UMKM di masa pandemi Covid-19, serta gagasan inovatif dalam perspektif bisnis.\r\n\r\nSemoga buku sederhana ini dapat mewakili komunitas Gen Z dalam menyelami ‘makna’ dan hikmah dari kejadian Covid-19.\r\nTidak hanya sekedar catatan, tetapi juga harapan, agar pandemi ini segera berlalu.",
+      "divisions": [
+        "FISIP1"
+      ],
+      "datestamp": "2021-11-06 02:19:22",
+      "dir": "disk0\/00\/03\/51\/39",
+      "publisher": "FISIP Unila",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "eprintid": 35139,
+      "lastmod": "2021-11-06 02:19:22",
+      "contact_email": "unitpublikasi@fisip.unila.ac.id",
+      "refereed": "FALSE",
+      "date_type": "submitted",
+      "place_of_pub": "Bandar Lampung",
+      "pages": 116,
+      "date": "2021-10-29",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 155918,
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "BOOK CHAPTER.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "mtime": "2021-11-05 15:53:11",
+                  "hash": "d9f6375f955c8eb00fb0e7def3166a67",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/410809",
+                  "filesize": 4407282,
+                  "fileid": 410809,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "BOOK CHAPTER.pdf",
+                  "datasetid": "document",
+                  "objectid": 155918
+                }
+            ],
+            "eprintid": 35139,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155918",
+            "rev_number": 1
+          }
+      ],
+      "userid": 145,
+      "status_changed": "2021-11-06 02:19:22",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35139",
+      "type": "book",
+      "subjects": [
+        "HD",
+        "HD28"
+      ],
+      "metadata_visibility": "show",
+      "title": "Covid-19: Peluang dan Tantangan dalam Perspektif Bisnis\r\n(Sebuah Catatan dari Generasi Z)",
+      "editors": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Jeni",
+            "family": "Wulandari"
+          },
+          "id": "jeni.wulandari@fisip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ali",
+            "given": "Suprihatin"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Kussuyatmono Bagus",
+            "family": "Wardianto",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "kussuyatmono.bagus@fisip.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "date_type": "submitted",
+      "event_location": "Moscow, Russia",
+      "rev_number": 9,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "given": "Arif",
+            "family": "Darmawan",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "arif.darmawan@feb.unila.ac.id"
+        }
+      ],
+      "lastmod": "2021-05-27 02:32:15",
+      "eprintid": 30768,
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "divisions": [
+        "FEB5"
+      ],
+      "datestamp": "2021-05-27 02:32:15",
+      "dir": "disk0\/00\/03\/07\/68",
+      "eprint_status": "archive",
+      "abstract": "The study aims to analyze the village funds' effectiveness in Indonesia through the same case study followed by deeply researched ground. The actual implementation realized a mutual effect if the village can develop and increase the institutional capacity to adopt a new perspective of allocating village funds. The lack of education and the gap in market access make the ambitious plan for rebuilding the structure merely an idea. Indeed, there is some need for an assessment on a strategic plan basis for cracking this issue. The mutual collaboration between government, industry and university can strengthen the capacity of the village by assisting the village to increase its institutional capacity. This study needs to address and give policy recommendations supporting sustainable development in rural areas through village funds.",
+      "ispublished": "submitted",
+      "subjects": [
+        "H1",
+        "HB",
+        "HD"
+      ],
+      "metadata_visibility": "show",
+      "title": "THE IMPORTANCE OF ENHANCING CAPACITY OF VILLAGE FUND FOR SUPPORTING SUSTAINABLE DEVELOPMENT IN RURAL AREAS",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30768",
+      "type": "conference_item",
+      "event_type": "conference",
+      "userid": 2788,
+      "status_changed": "2021-05-27 02:32:15",
+      "event_title": "INTERNATIONAL CONFERENCE PROBLEMS OF THE WORLD ECONOMY:  GLOBAL CHALLENGES AND DEVELOPMENT PROSPECTS",
+      "date": "2021-03",
+      "documents": [
+          {
+            "docid": 138784,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "main": "ПОЛНАЯ БУМАГА Ариф Дармаван_Лампунгский университет.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/138784",
+            "rev_number": 1,
+            "eprintid": 30768,
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "ПОЛНАЯ БУМАГА Ариф Дармаван_Лампунгский университет.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 138784,
+                  "hash": "30fc477fd63877b4375463d9904a3940",
+                  "mtime": "2021-05-25 08:00:07",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/364906",
+                  "filesize": 463842,
+                  "fileid": 364906
+                }
+            ]
+          }
+      ]
+    },
+    {
+      "ispublished": "pub",
+      "abstract": "The primary purpose of the village fund is to lessen the gap between urban and rural and increase social welfare in the Village. However, the existence of this village fund has not been fully optimized to improve the welfare of rural communities that have received village funds from the government. The multiplier effect of the village funds allocation only focuses on the physical infrastructure development sector, such as roads, buildings, and bridges, up to 37%. In comparison, the allocation to the community development sector is only 8%, or the smallest allocation from other sectors (social health, education, and investigation). In this case, Village Owned Enterprises (BUMDes) have a vital role in developing a community that combines the for-profit and social organization sectors. BUMDes aims to develop the village economy and public services, manage village potential, create markets and employment opportunities, and increase business and income for villagers. This study analyses BUMDes effectiveness, which uses a descriptive and quantitative method using an approach of difference in difference (DID) approach. This was chosen based on the argument that this research would be helpful for policymakers, especially the government, who have a role in the village fund program, and village officials, who also play a role in the use of village funds for the community's welfare through maximizing BUMDes.",
+      "eprint_status": "archive",
+      "corp_creators": [
+        "Rizal Alamsyah",
+        "Risandi Koswara",
+        "Dwi Ahmadi"
+      ],
+      "datestamp": "2022-10-06 05:22:57",
+      "dir": "disk0\/00\/04\/55\/55",
+      "divisions": [
+        "FEB5"
+      ],
+      "creators": [
+        {
+          "name": {
+            "family": "Darmawan",
+            "given": "Arif",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "arif.darmawan@feb.unila.ac.id"
+        }
+      ],
+      "official_url": "https:\/\/eudl.eu\/proceedings\/ICBAE\/2022",
+      "event_dates": "10-11 Agustus 2022",
+      "full_text_status": "public",
+      "event_location": "Purwokerto",
+      "rev_number": 8,
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "eprintid": 45555,
+      "lastmod": "2022-10-06 05:22:57",
+      "date_type": "published",
+      "date": "2022-08",
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "docid": 184334,
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184334",
+            "eprintid": 45555,
+            "pos": 1,
+            "files": [
+                {
+                  "fileid": 505757,
+                  "filesize": 425698,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/505757",
+                  "hash": "cda638a7ef0f9194e6d3a87cd398cbb3",
+                  "mtime": "2022-10-06 05:15:02",
+                  "objectid": 184334,
+                  "datasetid": "document",
+                  "filename": "ICBAE eai.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "language": "en",
+            "main": "ICBAE eai.pdf"
+          }
+      ],
+      "status_changed": "2022-10-06 05:22:57",
+      "event_title": "The 3rd International Conference on Business, Accounting, and Economics",
+      "userid": 2788,
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45555",
+      "event_type": "conference",
+      "subjects": [
+        "HC",
+        "HD"
+      ],
+      "title": "Strengthen the Role of Village Owned Enterprises (BUMDes) to Improve Social Welfare and Reduce Inequality in Rural Areas: Lesson from Indonesia",
+      "metadata_visibility": "show"
+    },
+    {
+      "dir": "disk0_bak\/00\/04\/95\/69",
+      "datestamp": "2023-04-03 00:57:47",
+      "divisions": [
+        "FEB5"
+      ],
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Arif",
+            "family": "Darmawan"
+          },
+          "id": "arif.darmawan@feb.unila.ac.id"
+        }
+      ],
+      "full_text_status": "public",
+      "publisher": "Universitas Ahmad Dahlan",
+      "rev_number": 7,
+      "lastmod": "2023-04-03 00:57:47",
+      "eprintid": 49569,
+      "status_changed": "2023-04-03 00:57:47",
+      "userid": 2788,
+      "date": 2022,
+      "documents": [
+          {
+            "main": "Iltizam Sinta 4.pdf",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 49569,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/537515",
+                  "fileid": 537515,
+                  "filesize": 3603465,
+                  "hash": "e0191aab22a8ce722656402cf5e05709",
+                  "mtime": "2023-04-02 07:03:55",
+                  "datasetid": "document",
+                  "objectid": 189200,
+                  "mime_type": "application\/pdf",
+                  "filename": "Iltizam Sinta 4.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189200",
+            "rev_number": 1,
+            "docid": 189200,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "format": "text"
+          }
+      ],
+      "subjects": [
+        "HD"
+      ],
+      "title": "Turnitin Test for Article \"Development of an Environmental Insurance Program based on Islamic Values in the Palm Oil Industry in Indonesia for Community Welfare\"",
+      "metadata_visibility": "show",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49569",
+      "type": "other"
+    },
+    {
+      "documents": [
+          {
+            "pos": 1,
+            "eprintid": 41912,
+            "files": [
+                {
+                  "objectid": 163584,
+                  "datasetid": "document",
+                  "filename": "eai.7-10-2021.2316833.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 462527,
+                  "filesize": 281137,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/462527",
+                  "hash": "e2d6ee584c4d1da4fa0a9238c6bba29a",
+                  "mtime": "2022-05-27 04:25:11"
+                }
+            ],
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163584",
+            "main": "eai.7-10-2021.2316833.pdf",
+            "language": "en",
+            "content": "published",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "formatdesc": "Proceeding",
+            "docid": 163584,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "date": "2021-10-07",
+      "event_title": "4th International Conference of Economics, Business, and Entrepreneurship, ICEBE 2021",
+      "status_changed": "2022-05-27 09:26:38",
+      "userid": 2788,
+      "event_type": "conference",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41912",
+      "type": "conference_item",
+      "title": "Finding the Gap between Economic Globalization Index and Economic Growth Challenges in Indonesia, Malaysia, and Thailand",
+      "metadata_visibility": "show",
+      "subjects": [
+        "HB",
+        "HD",
+        "HE"
+      ],
+      "ispublished": "pub",
+      "abstract": "The relationship of globalization to economic growth is a topic of debate in the literature on economic growth and development. Several studies have found positive effects of globalization on growth through effective allocation of domestic resources, diffusion of technology, increased factor productivity, and capital gains. On the other hand, others argue that globalization harms growth in countries with weak institutions, and political instability, and countries that specialize in activities that are not effective in the globalization process. This study investigates the gap between economic globalization represented by KOF Index and economic growth in selected ASEAN countries such as Indonesia, Malaysia, and Thailand. It supported a competitive business climate in free trade, reducing barriers and taxes in international trade, attracting foreign investment in line with improving infrastructure, financing exports, and building facilities in the form of infrastructure as a place for business transit and business licensing processes. So that in the absence of easy access to economic globalization, rapid progress in innovation, market opening, and an increase in productive investment can lead to continued economic growth. However, economic openness is accompanied by restrictive policies that protect domestic industries and defense investment policies.",
+      "eprint_status": "archive",
+      "datestamp": "2022-05-27 09:26:38",
+      "dir": "disk0\/00\/04\/19\/12",
+      "divisions": [
+        "FEB5"
+      ],
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "lastmod": "2022-05-27 09:26:38",
+      "eprintid": 41912,
+      "creators": [
+        {
+          "id": "arif.darmawan@feb.unila.ac.id",
+          "name": {
+            "family": "Darmawan",
+            "given": "Arif",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "usman",
+            "given": "moneyzar",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "moneyzar usman@gmail.com"
+        },
+        {
+          "name": {
+            "given": "NELI",
+            "family": "AIDA",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "neli.aida@feb.unila.ac.id"
+        }
+      ],
+      "official_url": "https:\/\/eudl.eu\/doi\/10.4108\/eai.7-10-2021.2316833",
+      "full_text_status": "public",
+      "event_dates": "October 7th, 2021",
+      "event_location": "Bandar Lampung",
+      "rev_number": 11,
+      "date_type": "published"
+    },
+    {
+      "userid": 178,
+      "status_changed": "2017-11-16 03:40:58",
+      "publication": "Jurnal Ekonomi Pembangunan",
+      "date": "2017-04-01",
+      "documents": [
+          {
+            "language": "en",
+            "main": "1. EMI MAIMUNAH.doc",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17978",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mtime": "2017-11-10 04:00:43",
+                  "hash": "9eae51bcd819e5762b4dc9193d8c6579",
+                  "fileid": 48457,
+                  "filesize": 344064,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/48457",
+                  "hash_type": "MD5",
+                  "filename": "1. EMI MAIMUNAH.doc",
+                  "mime_type": "application\/msword",
+                  "objectid": 17978,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 5058,
+            "mime_type": "application\/msword",
+            "docid": 17978,
+            "format": "text",
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "subjects": [
+        "HD"
+      ],
+      "pagerange": "1-18",
+      "metadata_visibility": "show",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/feb.unila.ac.id\/wp-content\/uploads\/2015\/04\/JEP-VOLUME-6-NO-1-APRIL-2017.pdf"
+        }
+      ],
+      "title": "Analisis  Produktivitas Individual Tenaga Kerja \r\nPada Usaha Sewa Mobil KPN “Serba Usaha”",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5058",
+      "type": "article",
+      "issn": "2302-9595",
+      "volume": 6,
+      "divisions": [
+        "FEB5"
+      ],
+      "datestamp": "2017-11-16 03:40:58",
+      "dir": "disk0\/00\/00\/50\/58",
+      "eprint_status": "archive",
+      "abstract": "The research aims to analyze the effect of wages, working experience, working condition, and working motivation on individual labor productivity in rent car KPN”SERBA USAHA”. The data used is the cross section data using  survey method with multiple linear regression analysis by using Ordinary Least Square method(OLS). The results show that simulataneously the wages, working experience, working condition, and working motivation have significant influence on individual labor productivity at rent car business KPN “SERBA USAHA”. In parcial the wages, working experience, working condition, and  working motivation have a positive and significant effect on individual labor productivity at rent car business KPN”SERBA USAHA”\r\n\r\n\r\nKeywords :\tIndividual labor productivity, the wages, working experience, working condition, and  working motivation",
+      "ispublished": "pub",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "date_type": "published",
+      "official_url": "http:\/\/ep.feb.unila.ac.id",
+      "rev_number": 7,
+      "publisher": "Jurusan Ekonomi Pembangunan Fakultas Ekonomi dan Bisnis Universitas Lampung",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "emi_syam@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Emi",
+            "family": "Emi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Supriyanto",
+            "family": "Dede"
+          }
+        }
+      ],
+      "eprintid": 5058,
+      "lastmod": "2017-11-16 03:40:58",
+      "refereed": "TRUE",
+      "number": 1
+    },
+    {
+      "divisions": [
+        "FEB6"
+      ],
+      "dir": "disk0\/00\/00\/47\/20",
+      "datestamp": "2017-11-16 03:22:44",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Meningkatkan kesadaran masyarakat untuk berinvestasi dan memproteksi diri dengan membeli produk asuransi menyebabkan industri asuransi di Indonesia menjadi sangat\r\npotensial dan terus tumbuh, ditandai dengan semakin menjamurnya perusahaan asuransi dan produk asuransi dewasa ini. Tingginya minat masyarakat terhadap produk asuransi diikuti dengan semakin selektifnya masyarakat dalam memilih perusahaan asuransi. Hanya perusahaan asuransi yang memiliki komitmen tinggi, terpercaya, dan memiliki kualitas layanan memuaskan yang akan dipilih masyarakat.\r\nPenelitian ini untuk mengetahui pengaruh kepercayaan dan kualitas layanan terhadap loyalitas nasabah asuransi di Bandar Lampung, dengan metode non probability sampling dan teknik purposive sampling terhadap 150 responden para nasabah pada industri asuransi di Bandar Lampung,menunjukkan hasil bahwa variabel kepercayaan dan kualitas layanan memiliki pengaruh terhadap loyalitas nasabah asuransi di Bandar Lampung, dan kedua variabel tersebut secara simultan mempengaruhi variabel loyalitas. Hal ini menunjukkan bahwa kualitas layanan sangat berperan dalam membentuk loyalitas nasabah asuransi, dan kepercayaan nasabah merupakan faktor yang membangun loyalitas nasabah asuransi untuk tetap bertahan pada suatu perusahaan asuransi.",
+      "date_type": "published",
+      "lastmod": "2017-11-16 03:22:44",
+      "eprintid": 4720,
+      "refereed": "TRUE",
+      "publisher": "Forum Riset Ekonomi dan Bisnis, Universitas Lampung",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Yuniarti",
+            "family": "Fihartini"
+          },
+          "id": "yuniarti.fihartini@feb.unila.ac.id"
+        }
+      ],
+      "userid": 174,
+      "status_changed": "2017-11-16 03:22:44",
+      "documents": [
+          {
+            "language": "en",
+            "main": "PUBLIKASI-PROCEEDING-FORUM RISET-2012-OK.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17629",
+            "files": [
+                {
+                  "mtime": "2017-11-06 05:30:12",
+                  "hash": "68fc6635eaefac9bfad71285e20a919e",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46061",
+                  "fileid": 46061,
+                  "filesize": 8622378,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "PUBLIKASI-PROCEEDING-FORUM RISET-2012-OK.pdf",
+                  "datasetid": "document",
+                  "objectid": 17629
+                }
+            ],
+            "pos": 1,
+            "eprintid": 4720,
+            "mime_type": "application\/pdf",
+            "docid": 17629,
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publication": "proceeding OJK Harapan Baru Sistem Keuangan Indonesia",
+      "date": "2012-12-18",
+      "metadata_visibility": "show",
+      "title": "PENGARUH KEPERCAYAAN DAN KUALITAS LAYANAN TERHADAP LOYALITAS NASABAH ASURANSI DI BANDAR LAMPUNG",
+      "subjects": [
+        "H1",
+        "HD",
+        "HD28"
+      ],
+      "pagerange": "244-250",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4720",
+      "type": "article"
+    },
+    {
+      "eprintid": 49081,
+      "lastmod": "2023-03-21 09:03:56",
+      "creators": [
+        {
+          "id": "umi_asra@yahoo.co.id",
+          "name": {
+            "given": "Keumala",
+            "family": "Hayati",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "rev_number": 8,
+      "official_url": "https:\/\/journalajeba.com\/index.php\/AJEBA\/article\/view\/793",
+      "publisher": "Asian Journal of Economics, Business and Accounting",
+      "full_text_status": "restricted",
+      "datestamp": "2023-03-21 09:03:56",
+      "dir": "disk0_bak\/00\/04\/90\/81",
+      "divisions": [
+        "FEB6"
+      ],
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "title": "Turnitin Artikel \"Transformational Leadership How its effect Work-Life Balance and Employee Engagement\"",
+      "id_number": "10.9734\/ajeba\/2022\/v22i2230711",
+      "metadata_visibility": "show",
+      "subjects": [
+        "HD"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49081",
+      "status_changed": "2023-03-21 09:03:56",
+      "userid": 108,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188529",
+            "rev_number": 2,
+            "eprintid": 49081,
+            "pos": 1,
+            "files": [
+                {
+                  "filesize": 1898043,
+                  "fileid": 533640,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/533640",
+                  "mtime": "2023-03-21 06:41:50",
+                  "hash": "c6b12749227874e64a08ad5caddb13b9",
+                  "objectid": 188529,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "2022_Transformational Leadership How its Effect Work-Life Balance and Employee engage TURNITIN.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "language": "en",
+            "main": "2022_Transformational Leadership How its Effect Work-Life Balance and Employee engage TURNITIN.pdf",
+            "formatdesc": "Turnitin",
+            "format": "text",
+            "placement": 1,
+            "security": "validuser",
+            "docid": 188529,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "date": 2022,
+      "place_of_pub": "AJEBA"
+    },
+    {
+      "issn": "2050-7399",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23057",
+      "volume": 9,
+      "subjects": [
+        "H1",
+        "HD",
+        "HD28"
+      ],
+      "pagerange": "742-749",
+      "title": "Competition among Banks and Its Psychological \r\nEffect on Employee Retention and Supply Chain \r\nManagement in Indonesia",
+      "metadata_visibility": "show",
+      "date": "2020-06",
+      "publication": "International Journal of Supply Chain Management",
+      "status_changed": "2020-07-09 01:03:14",
+      "userid": 588,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Jimad",
+            "given": "Habibullah"
+          },
+          "id": "habibullah.jimad@gmail.com,"
+        }
+      ],
+      "publisher": "ExcelingTech Pub, UK",
+      "official_url": "http:\/\/excelingtech.co.uk",
+      "rev_number": 7,
+      "full_text_status": "none",
+      "refereed": "TRUE",
+      "number": 3,
+      "lastmod": "2020-07-09 01:03:14",
+      "eprintid": 23057,
+      "date_type": "published",
+      "abstract": "The prime objective of this study is to examine the \r\npsychological effect of competition among banks on \r\nemployee retention with the moderating effect of supply \r\nchain management. The population of the study was based \r\non Indonesian banks. All the employee; managerial and non-\r\nmanagerial were selected as the respondents of the current \r\nstudy. Two hundred eight questionnaires were used to \r\nconduct a survey among Indonesian banks. Data were \r\nanalyzed through structural Equation Modeling (SEM) by \r\nusing Partial Least Square (PLS) as a statistical tool. It is \r\nfound that bank competition has a significant psychological \r\neffect on employee retention through employee satisfaction \r\nand employee stress. Increase in bank competition increases \r\nthe level of employee's stress and decreases employee \r\nperformance. Moreover, a decrease in employee stress and \r\nbank competition has the potential to increase employee \r\nsatisfaction which causes to increase employee retention. \r\nTherefore, the current study has significant implications for \r\nliterature and banking industry.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/02\/30\/57",
+      "datestamp": "2020-07-09 01:03:14",
+      "divisions": [
+        "FEB6"
+      ]
+    },
+    {
+      "userid": 174,
+      "status_changed": "2018-05-28 03:44:53",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 19911,
+            "mime_type": "application\/pdf",
+            "eprintid": 6941,
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 19911,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "publikasi penelitian mirwan 2017.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/63579",
+                  "fileid": 63579,
+                  "filesize": 2802049,
+                  "mtime": "2018-05-26 01:55:12",
+                  "hash": "4bc96956d654106872da6c5be7cc6ec0"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19911",
+            "rev_number": 1,
+            "main": "publikasi penelitian mirwan 2017.pdf",
+            "language": "en"
+          }
+      ],
+      "publication": "Prosiding Penelitian: Seminar Nasional Fakultas Ekonomi dan Bisnis Universitas Lampung",
+      "date": "2018-12-11",
+      "metadata_visibility": "show",
+      "title": "FAKTOR-FAKTOR RELASIONAL, TUGAS, DAN ORGANISASI\r\nPADA KINERJA TENAGA PENJUAL DI BANDAR LAMPUNG",
+      "subjects": [
+        "H1",
+        "HD",
+        "HD28"
+      ],
+      "pagerange": "291-302",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6941",
+      "type": "article",
+      "issn": "978-602-5548-14-7",
+      "divisions": [
+        "FEB6"
+      ],
+      "datestamp": "2018-05-28 03:44:53",
+      "dir": "disk0\/00\/00\/69\/41",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Tenaga penjual menjadi bagian penting dari perusahaan dalam meningkatkan volurne penjualan karena tenaga penjual merupakan ujung tombak perusahaan dalam proses memperkenalkan dan meyakinkan konsumen agar mengkonsumsi produk atau jasa yang ditawarkan oleh perusahaan melalui kegiatan pemasarannya. Terdapat perubahan peran tenaga penjual pada empat era, dimulai dari era produksi (production), penjualan (sales), pemasaran (marketing)\r\ndan hubungan (partnership\/relational), dimana dalam setiap era tersebut peranan tenaga penjual didasarkan atas\r\npengetahuan, keahlian dan kemampuan yang berbeda dalam menciptakan keefektifan kerja dan kinerjanya. Pada era \r\npartnership\/relational peranan tenaga penjual memfokuskan pada kegiatannya membangun dan memelihara hubungan \r\njangka panjang kepada konsumen, rekan kerja, serta semua pihak disamping penjualan itu sendiri.\r\nPenelitian ini menguji mengenai pengaruh faktor-faktor relasional, tugas, dan organisasi terhadap kinerja tenaga \r\npenjual dimana faktor relational diwakili oleh komitmen tehadap organisasi, kepercayaan terhadap rekan kerja,\r\ndan kerjasama antar rekan kerja. Faktor tugas diwakili oleh ketergantungan dalam tugas. Faktor organisasi diwakili\r\noleh jumlah rekan kerja, sistem penghargaan dan norma-norma yang berlaku.\r\nHasil penelitian membuktikan bahwa komitmen tehadap organisasi, kepercayaan terhadap rekan kerja, kerjasama\r\nantar rekan kerja (faktor relasional), ketergantungan dalam tugas (faktor tugas), sistem penghargaan, norma-norma\r\nyang berlaku (faktor organisasi) dapat memberikan pengaruh signifikan terhadap kinerja tenaga penjual. Sementara\r\njumlah rekan kerja  tidak berpengaruh terhadap kinerja tenaga penjual.",
+      "date_type": "published",
+      "eprintid": 6941,
+      "lastmod": "2018-05-28 03:44:53",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "publisher": "Fakultas Ekonomi dan Bisnis, Universitas Lampung",
+      "rev_number": 8,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Karim",
+            "given": "Mirwan"
+          },
+          "id": null
+        },
+        {
+          "id": "yuniarti.fihartini@feb.unila.ac.id",
+          "name": {
+            "given": "Yuniarti",
+            "family": "Fihartini",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ]
+    },
+    {
+      "status_changed": "2018-04-25 02:22:37",
+      "userid": 71,
+      "thesis_type": "doctoral",
+      "date": "2009-11-06",
+      "pages": 300,
+      "documents": [
+          {
+            "main": "BAB I Disertasi NOVA MARDIANA.docx",
+            "language": "en",
+            "eprintid": 5882,
+            "pos": 1,
+            "files": [
+                {
+                  "mtime": "2017-11-17 06:36:36",
+                  "hash": "5df5a1256e0b6cc50d6aa856fac6a8c6",
+                  "filesize": 34465,
+                  "fileid": 54781,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54781",
+                  "hash_type": "MD5",
+                  "filename": "BAB I Disertasi NOVA MARDIANA.docx",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "objectid": 18803,
+                  "datasetid": "document"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18803",
+            "docid": 18803,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "placement": 1,
+            "security": "public",
+            "format": "text"
+          },
+          {
+            "docid": 18804,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "format": "text",
+            "placement": 2,
+            "security": "public",
+            "language": "en",
+            "main": "BAB II Disertasi NOVA MARDIANA.docx",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18804",
+            "rev_number": 1,
+            "eprintid": 5882,
+            "pos": 2,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "filename": "BAB II Disertasi NOVA MARDIANA.docx",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "objectid": 18804,
+                  "datasetid": "document",
+                  "mtime": "2017-11-17 06:36:48",
+                  "hash": "0649cda4dfed8eea3c226a0fdb456643",
+                  "fileid": 54783,
+                  "filesize": 166249,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54783"
+                }
+            ]
+          },
+          {
+            "security": "public",
+            "placement": 3,
+            "format": "text",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "docid": 18805,
+            "files": [
+                {
+                  "objectid": 18805,
+                  "datasetid": "document",
+                  "filename": "BAB III Disertasi NOVA MARDIANA.docx",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "filesize": 120374,
+                  "fileid": 54785,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54785",
+                  "hash": "7d13364f2489159420c384d2beeea4af",
+                  "mtime": "2017-11-17 06:37:12"
+                }
+            ],
+            "pos": 3,
+            "eprintid": 5882,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18805",
+            "rev_number": 1,
+            "main": "BAB III Disertasi NOVA MARDIANA.docx",
+            "language": "en"
+          },
+          {
+            "files": [
+                {
+                  "filename": "BAB IV Disertasi NOVA MARDIANA.docx",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "objectid": 18806,
+                  "datasetid": "document",
+                  "hash": "9924b29d026e0b7b29c46f34c68b7662",
+                  "mtime": "2017-11-17 06:37:21",
+                  "filesize": 245054,
+                  "fileid": 54787,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54787"
+                }
+            ],
+            "pos": 4,
+            "eprintid": 5882,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18806",
+            "rev_number": 1,
+            "main": "BAB IV Disertasi NOVA MARDIANA.docx",
+            "language": "en",
+            "security": "public",
+            "placement": 4,
+            "format": "text",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "docid": 18806
+          },
+          {
+            "docid": 18807,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "format": "text",
+            "placement": 5,
+            "security": "public",
+            "language": "en",
+            "main": "BAB V Disertasi NOVA MARDIANA.docx",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18807",
+            "rev_number": 1,
+            "eprintid": 5882,
+            "pos": 5,
+            "files": [
+                {
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash_type": "MD5",
+                  "filename": "BAB V Disertasi NOVA MARDIANA.docx",
+                  "datasetid": "document",
+                  "objectid": 18807,
+                  "mtime": "2017-11-17 06:37:33",
+                  "hash": "03405513affdcf21c026da19a7dc3da6",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54789",
+                  "filesize": 32445,
+                  "fileid": 54789
+                }
+            ]
+          }
+      ],
+      "thesis_name": "phd",
+      "subjects": [
+        "HD",
+        "HD28"
+      ],
+      "title": "PENGARUH PENEMPATAN, KOMPENSASI \r\nDAN PENGEMBANGAN SUMBER DAYA MANUSIA TERHADAP KEPUASAN KERJA SERTA DAMPAKNYA PADA KINERJA KARYAWAN",
+      "metadata_visibility": "show",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5882",
+      "type": "thesis",
+      "datestamp": "2018-04-25 02:22:37",
+      "dir": "disk0\/00\/00\/58\/82",
+      "divisions": [
+        "FEB6"
+      ],
+      "ispublished": "unpub",
+      "abstract": "ABSTRACT\r\n\r\n\r\nIndonesia’s geographical is an archipelago that makes sea transport becomes very important. Quality of port services which includes unsatisfactory performance was caused by low quality of employees. the Phenomenon of low of job satisfaction and employees'  performance was predicted as a reflection of the unexpected placement, inappropriate employees compensation and inadequate staff development.\r\nThis research aim to: (1) to describe the implementation of the placement, compensation and human resource development employee at por Merak Bakauheni; (2) to examine the relation between the placement, compensation and human resource development; (3) to examine the influence of  placement, compensation and human resource development either partially or simultaneously on job satisfaction of employees; (4) to investigate the effect of job satisfaction on employees' performance;\r\n The organization theory has been applied as grand theory, the theory behavior of organization as middle range theory, and the placement theory,  compensation, human resource development, job satisfaction and employees' performance as applied theory. Method applied is descriptive survey and explanatory survey. Technique of sample applied by technique stratified random sampling with proportional allocation. Data collecting covers document listing, interview, and questionnaire. Data is analyzed to apply descriptive analysis and path analysis.\r\nThe result of descriptive analysis indicates that in average ; placement, compensation received, job satisfaction and employees' performance include in low category. Meanwhile human resource development at planning aspect and development of development career include in enough categories, but at education aspect and training include in  low category.\r\nThe result of testing of hypothesis indicates that there is positive and significant influence on placement variable to job satisfaction of employees; compensation to job satisfaction of employees;  human resource development to job satisfaction of employees placement, compensation, and human resource development to job satisfaction of employees; and job satisfaction to employees' performance.\r\n \r\nKeywords:  Placement, Compensation, Human Resource Development, Job Satisfaction, and Employees' Performance.\r\n�",
+      "department": "Pasca Sarjana",
+      "eprint_status": "archive",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "date_type": "completed",
+      "institution": "Universitas Padjadjaran",
+      "creators": [
+        {
+          "id": "nova.mardiana@feb.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Mardiana",
+            "given": "Nova"
+          }
+        }
+      ],
+      "full_text_status": "public",
+      "rev_number": 12,
+      "lastmod": "2018-04-25 02:22:37",
+      "eprintid": 5882,
+      "contact_email": "nova.mardiana@feb.unila.ac.id"
+    },
+    {
+      "eprintid": 49112,
+      "lastmod": "2023-03-24 01:28:36",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Rokhimatun",
+            "family": "Nikmah"
+          },
+          "id": "rokhimatun17@gmail.com"
+        },
+        {
+          "id": "umi_asra@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hayati",
+            "given": "Keumala"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Karim",
+            "given": "Mirwan"
+          },
+          "id": null
+        }
+      ],
+      "rev_number": 8,
+      "publisher": "Jurnal Kelitbangan",
+      "full_text_status": "restricted",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0_bak\/00\/04\/91\/12",
+      "datestamp": "2023-03-24 01:28:36",
+      "divisions": [
+        "FEB6"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49112",
+      "title": "Turnitin artikel \"pengaruh motivasi kerja dan komitmen organisasi\"",
+      "metadata_visibility": "show",
+      "subjects": [
+        "HD"
+      ],
+      "documents": [
+          {
+            "formatdesc": "Turnitin",
+            "format": "text",
+            "security": "validuser",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "docid": 188555,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188555",
+            "files": [
+                {
+                  "hash": "39ab5debc532d170feec5bf3528d343e",
+                  "mtime": "2023-03-21 15:34:24",
+                  "filesize": 2897079,
+                  "fileid": 533858,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/533858",
+                  "filename": "Pengaruh Motivasi kerja dan Komitmen organisasi.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 188555,
+                  "datasetid": "document"
+                }
+            ],
+            "eprintid": 49112,
+            "pos": 1,
+            "language": "en",
+            "main": "Pengaruh Motivasi kerja dan Komitmen organisasi.pdf"
+          }
+      ],
+      "date": 2022,
+      "place_of_pub": "Balitbang Lampung Barat",
+      "status_changed": "2023-03-24 01:28:36",
+      "userid": 108
+    },
+    {
+      "date_type": "submitted",
+      "creators": [
+        {
+          "id": "nur.efendi@fisip.unila.ac.id",
+          "name": {
+            "given": "Nur",
+            "family": "Nur Efendi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Gusri",
+            "family": "Gusri Ahyar Ibrahim",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "gusri.akhyar@eng.unila.ac.id"
+        },
+        {
+          "id": "sri.waluyo@fp.unila.ac.id",
+          "name": {
+            "given": "Sri",
+            "family": "Sri Waluyo",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "official_url": "http:\/\/journal2.um.ac.id\/index.php\/jgp\/author\/submission\/24610",
+      "rev_number": 11,
+      "publisher": "Universitas Negeri Malang",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "eprintid": 36088,
+      "lastmod": "2021-11-11 07:36:32",
+      "dir": "disk0\/00\/03\/60\/88",
+      "datestamp": "2021-11-11 07:36:32",
+      "divisions": [
+        "FISIP1"
+      ],
+      "ispublished": "submitted",
+      "abstract": "Sekolah Menengah Kejuruan merupakan lembaga pendidikan yang sangat dibutuhkan untuk membekali calon tenaga kerja profesional dengan keterampilan praktis sehingga mereka siap untuk bersaing di pasar tenaga kerja.  Untuk bisa menjadi lembaga pendidikan yang unggul diperlukan manajemen sekolah, guru, dan kurikulum yang baik.  Namun sayangnya tidak banyak SMK yang mampu memenuhi kriteria ini yang disebabkan oleh kurangnya sumber pendanaan lembaga.  Untuk mengatasi hal ini sekolah perlu mengimplementasikan edupreneurship.  Permasalahan yang dihadapi oleh mitra yang dalam hal ini adalah sekolah SMK Plus Bani Salim Bandar Lampung yaitu kurangnya pengetahuan dan keterampilan guru dan manajemen sekolah untuk mengimplementasikan edupreneurship dan kewirausahaan.  Berdasarkan analisis situasi ini maka tujuan kegiatan pengabdian pada masyarakat ini adalah untuk meningkatkan pengetahuan dan keterampilan guru dalam mengimplementasikan edupreneurship. \r\n\tMetode yang digunakan adalah dengan melakukan pemberdayaan terhadap guru dan manajemen sekolah. Kegiatan pemberdayaan ini dilakukan dalam bentuk workshop, pelatihan, dan pendampingan. Untuk mengatasi permasalahan ini maka solusi yang diberikan adalah dengan mengimplementasikan edupreneurship melalui pemberdayaan guru.  Target kegiatan ini adalah terimolementasinya edupreneurship di SMK Plus Bani Salim.  Luaran dari kegiatan ini adalah terjadinya peningkatan pengetahuan guru dan manajemen sekolah dalam mengimplementasikan edupreneurship.  Luaran lainnya adalah sebuah artikel jurnal nasional bereputasi.\r\n\tKegiatan workshop dan pelatihan dilaksanakan pada hari Sabtu dan Minggu tanggal 31 Juli dan 1 Agustus 2021 bertempat di SMK Plus Bani Salim.  Kegiatan ini berjalan dengan baik dan berhasil meningkatkan pengetahuan peserta dengan rata-rata peningkatan 40,44%.  Capaian indikator keberhasilan workshop telah melampaui target dimana semua peserta memiliki nilai post test 75 atau lebih.  Sedangkan indikator keberhasilan kegiatan pelatihan belum dapat dicapai secara maksimal karena unit bisnis yang akan sedang direncanakan membutuhkan anggaran yang cukup besar.  Meskipun demikian peserta pelatihan telah dapat melakukan analisis kelayakan bisnis dengan cukup baik. \r\n\r\nKata Kunci : Edupreneurship, kewirausahaan, Sekolah Kejuruan",
+      "eprint_status": "archive",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "subjects": [
+        "HD"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/journal2.um.ac.id\/index.php\/jgp\/author\/",
+          "type": "pub"
+        }
+      ],
+      "title": "Implementasi Edupreneuship Melalui Pemberdayaan Guru Smk Di Kelurahan Way Laga Kecamatan Sukabumi Bandar Lampung",
+      "metadata_visibility": "show",
+      "id_number": 24610,
+      "issn": "E-ISSN 2715-5714",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/36088",
+      "type": "article",
+      "funders": [
+        "LPPM Unila"
+      ],
+      "status_changed": "2021-11-11 07:36:32",
+      "userid": 468,
+      "date": "2021-10-24",
+      "publication": "JUrnal Graha Pengabdian",
+      "projects": [
+        "Pengabdian Unggulan 2021"
+      ],
+      "documents": [
+          {
+            "pos": 1,
+            "eprintid": 36088,
+            "files": [
+                {
+                  "mime_type": "text\/html",
+                  "filename": "login_source=%2Findex.php%2Fjgp%2Fauthor",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 157058,
+                  "hash": "2715f687e1a538473fdfba5c940813b3",
+                  "mtime": "2021-11-11 07:32:49",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/418346",
+                  "fileid": 418346,
+                  "filesize": 16784
+                }
+            ],
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/157058",
+            "main": "login_source=%2Findex.php%2Fjgp%2Fauthor",
+            "language": "id",
+            "placement": 1,
+            "content": "submitted",
+            "security": "public",
+            "format": "text",
+            "docid": 157058,
+            "mime_type": "text\/html"
+          }
+      ]
+    },
+    {
+      "abstract": "Salah satu upaya dalam penciptaan lapangan kerja adalah dengan melaksanakan pembangunan di sektor industri. Sektor industri secara teori telah diyakini sebagai leading sector dalam perekonomian. Pertumbuhan dan perkembangan sektor industri berarti semakin luas kesempatan dalam menyerap tenaga kerja. Penyerapan pekerja lebih banyak terjadi untuk wilayah kota dibandingkan dengan wilayah desa. Sulitnya mencari lapangan pekerjaan, kurangnya keahlian, dan tingkat pendidikan yang rendah menjadi alasan bagi sebagian masyarakat desa untuk bekerja di industri batu bata. Jenis industri ini lebih banyak ditemukan di wilayah desa mengingat salah satu bahan baku industri, tanah liat, lebih mudah diperoleh di wilayah pedesaan. Penelitian ini dilakukan untuk mengetahui pengaruh dari variabel upah, harga modal dan tingkat output terhadap penyerapan tenaga kerja pada industri batu bata di Kecamatan Seputih Mataram. Data yang digunakan bersumber pada data primer. Data primer diperoleh dengan cara menyebarkan kuesioner kepada pengusaha batu bata di Kecamatan Seputih Mataram Kabupaten Lampung Tengah. Hasil estimasi menunjukkan variabel-variabel tersebut secara parsial maupun bersama-sama berpengaruh terhadap penyerapan tenaga kerja sebesar 88,75 persen. Pengaruh pertumbuhan modal kerja terhadap pertumbuhan penyerapan pekerja menunjukkan nilai koefisien tertinggi. Dengan demikian dibutuhkan adanya sebuah jaminan pemerintah terhadap peningkatan modal kerja pada usaha pengelolaan batu bata, jika pemerintah menginginkan peningkatan perluasan lapangan pekerjaan dalam industri ini",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "datestamp": "2020-03-06 03:46:43",
+      "dir": "disk0\/00\/01\/83\/83",
+      "divisions": [
+        "FEB5"
+      ],
+      "refereed": "TRUE",
+      "number": 2,
+      "lastmod": "2020-03-06 03:46:43",
+      "eprintid": 18383,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "PRAYUDI",
+            "given": "BENNY"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Budiarty",
+            "given": "Ida",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "Budiarty_ida@yahoo.com"
+        },
+        {
+          "id": "irmaf_mk@yahoo.co.id",
+          "name": {
+            "given": "Irma",
+            "family": "Febriana",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "rev_number": 9,
+      "full_text_status": "public",
+      "date_type": "published",
+      "documents": [
+          {
+            "language": "en",
+            "main": "4.-Analisis-Penyerapan-Tenaga-Kerja-Pada-Industri-Batu-Bata.pdf",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31533",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 31533,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "4.-Analisis-Penyerapan-Tenaga-Kerja-Pada-Industri-Batu-Bata.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/154620",
+                  "filesize": 521973,
+                  "fileid": 154620,
+                  "mtime": "2020-03-05 07:17:46",
+                  "hash": "723e24475787fc0d7a0fe52f765dcfba"
+                }
+            ],
+            "eprintid": 18383,
+            "pos": 1,
+            "mime_type": "application\/pdf",
+            "docid": 31533,
+            "format": "text",
+            "content": "published",
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "date": "2019-07",
+      "publication": "Jurnal Ekonomi Pembangunan",
+      "status_changed": "2020-03-06 03:46:43",
+      "userid": 38,
+      "volume": 8,
+      "issn": "2302-9595",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18383",
+      "type": "article",
+      "related_url": [
+        {
+          "url": "http:\/\/ep.feb.unila.ac.id\/wp-content\/uploads\/2019\/10\/4.-Analisis-Penyerapan-Tenaga-Kerja-Pada-Industri-Batu-Bata.pdf"
+        }
+      ],
+      "title": "ANALISIS PENYERAPAN TENAGA KERJA PADA INDUSTRI BATU BATA DI KECAMATAN SEPUTIH MATARAM KABUPATEN LAMPUNG TENGAH",
+      "metadata_visibility": "show",
+      "subjects": [
+        "HD"
+      ],
+      "pagerange": "195-214"
+    },
+    {
+      "datestamp": "2017-11-16 07:48:33",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "eprint_status": "archive",
+      "abstract": "Kinerja pegawai adalah kemampuan seseorang atau kelompok orang untuk melihat kualitas dan kuantitas yang dicapai dalam menjalankan tugas dan tanggung jawab yang ditugaskan. Dalam penelitian ini, peneliti menggunakan 3 variabel dari stress kerja yaitu variabel faktor lingkungan, faktor organisasi dan faktor individual. metode penelitian yang digunakan dalam penelitian ini adalah kuantitatif. Teknik pengumpulan data melalui kuesioner yang tersebar hingga 54 pegawai. Hasil penelitian menunjukan, faktor lingkungan berpengaruh secara signifikan terhadap kinerja karyawan, yaitu pengaruh sebesar 11,27%. Faktor organisasi berpengaruh signifikan terhadap kinerja karyawan, yaitu pengaruh sebesar 4,3%. Faktor individu berpengaruh signifikan terhadap kinerja seorang karyawan, yaitu pengaruh sebesar 9,4%. Faktor lingkungan, Faktor Organisasi dan Faktor Individu berpengaruh terhadap kinerja Pegawai simultan dan aset pengelolaan keuangan Badan Kota Daerah Bandar Lampung 47,7% sedangkan sisanya 52,3% dipengaruhi oleh faktor lainnya.",
+      "ispublished": "pub",
+      "date_type": "published",
+      "contact_email": "yulianto@fisip.unila.ac.id",
+      "eprintid": 5516,
+      "lastmod": "2017-11-16 07:48:33",
+      "refereed": "TRUE",
+      "official_url": "http:\/\/jurnal.fisip.unila.ac.id\/index.php\/sefila\/index",
+      "full_text_status": "public",
+      "rev_number": 11,
+      "userid": 1043,
+      "status_changed": "2017-11-16 07:48:33",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18455",
+            "rev_number": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 18455,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "396-861-1-PB.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/51758",
+                  "filesize": 1351889,
+                  "fileid": 51758,
+                  "mtime": "2017-11-14 14:10:45",
+                  "hash": "5d81ea2a772655d706fe11c816c93c4e"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 5516,
+            "language": "en",
+            "main": "396-861-1-PB.pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "docid": 18455
+          }
+      ],
+      "date": "2017-10-18",
+      "subjects": [
+        "HD"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5516",
+      "type": "conference_item",
+      "divisions": [
+        "FISIP2"
+      ],
+      "dir": "disk0\/00\/00\/55\/16",
+      "pres_type": "paper",
+      "event_location": "Swiss Bell Hotel, Bandarlampung, Indonesia",
+      "event_dates": "18 Oktober 2017",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Asti",
+            "family": "Rahweni"
+          },
+          "id": null
+        },
+        {
+          "id": "yulianto@fisip.unila.ac.id",
+          "name": {
+            "family": "Yulianto",
+            "given": "Yulianto",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "dewie.brimaatika@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Atika",
+            "given": "Dewie"
+          }
+        }
+      ],
+      "event_title": "PROSIDING SEMINAR NASIONAL FISIP UNIVERSITAS LAMPUNG (SEFILA) II. ''MEMBANGUN ETIKA SOSIAL POLITIK MENUJU MASYARAKAT YANG BERKEADILAN''",
+      "referencetext": "Mangkunegara, Anwar Prabu. 2002. Manajemen Sumber Daya Manusia Perusahaan. Bandung: PT. Remaja Rosda Karya.\r\nSinambela, Lijan Poltak. 2012. Kinerja Pegawai Teori Pengukuran dan Implikasi. Yogyakarta: Graha Ilmu.\r\nGaffar, Hulaifah. 2012. Pengaruh Stres Kerja Terhadap Kinerja Karyawan Pada PT. Bank Mandiri (PERSERO) tbk Kantor Wilayah Makassar. Makassar: Universitas Hasanuddin\r\nAlfafa, Taza. 2012. Analisis Faktor-Faktor yang Mempengaruhi Stres Kerja Karyawan Chandra Super Store Cabang Metro. Universitas Lampung.\r\nApriani, Rizky. 2013. Pengaruh Stresor Kerja Individu Terhadap Kinerja Pegawai di Dinas Pekerjaan Umum Kota Pontianak. Universitas Tanjungpura.",
+      "metadata_visibility": "show",
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fisip.unila.ac.id\/index.php\/sefila\/article\/view\/396",
+          "type": "pub"
+        }
+      ],
+      "title": "ANALISIS FAKTOR-FAKTOR PENENTU JOB STRESS TERHADAP KINERJA PEGAWAI (Studi Kasus Pegawai Badan Pengelolaan Keuangan dan Aset Daerah Kota Bandar Lampung)",
+      "keywords": "Faktor Lingkungan, Faktor Organisasi, Faktor Individu, Kinerja Pegawai",
+      "event_type": "conference"
+    },
+    {
+      "creators": [
+        {
+          "id": "sai_mul@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Saimul",
+            "given": "Saimul"
+          }
+        },
+        {
+          "id": "arif.darmawan@feb.unila.ac.id",
+          "name": {
+            "family": "Darmawan",
+            "given": "Arif",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "official_url": "http:\/\/journal.unnes.ac.id\/sju\/index.php\/edaj",
+      "publisher": "Universitas Negeri Semarang",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "number": 4,
+      "refereed": "TRUE",
+      "lastmod": "2020-11-09 09:02:20",
+      "contact_email": "sai_mul@yahoo.com",
+      "eprintid": 24601,
+      "date_type": "published",
+      "abstract": "This study aims to analyze the causality relationship between Foreign Direct Investment (FDI), Foreign Trade, and Economic Growth in Indonesia using quarterly time-series data from Q1-2004 to Q2-2019. This study uses co-analytical techniques, VECM integration, and Engle-Granger causality. The results of a two-way causality test happen between export and GDP variables, as well as import and GDP variables. In other words, foreign trade has an essential role in increasing economic growth in Indonesia. However, the two-way causality relationship takes place only in the short term. In the long run, it does not occur; what happens in the long term is an only one-way relationship, namely from foreign trade (X and M) to economic growth. While export and import relations have an only one-way relationship, namely from import growth to export growth, and this relationship only happens in the short term. In contrast, in the long term, it has no significant relationship. Likewise, the one-way relationship also takes place from imports to FDI in the short term. At the same time, export variables and GDP variables do not have a significant relationship with FDI variables. In the long-term economic growth, it turns out to be very instrumental in increasing both FDI, exports, and imports.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/02\/46\/01",
+      "datestamp": "2020-11-09 09:02:20",
+      "divisions": [
+        "FEB5"
+      ],
+      "issn": "2252-6560",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24601",
+      "volume": 9,
+      "pagerange": "414-426",
+      "subjects": [
+        "H1",
+        "HA",
+        "HD"
+      ],
+      "title": "Understanding Causality Relation among FDI, Foreign Trade and Economic Growth",
+      "metadata_visibility": "show",
+      "id_number": "https:\/\/doi.org\/10.15294\/edaj.v9i4.39044",
+      "date": "2020-11",
+      "publication": "Economics Development Analysis Journal",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38339",
+            "rev_number": 1,
+            "eprintid": 24601,
+            "pos": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "filename": "39044-Article Text-110180-1-10-20201106.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 38339,
+                  "datasetid": "document",
+                  "mtime": "2020-11-06 08:40:59",
+                  "hash": "ef061e4fc938da7f86e46fe434a6a991",
+                  "filesize": 688745,
+                  "fileid": 223439,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/223439"
+                }
+            ],
+            "language": "en",
+            "main": "39044-Article Text-110180-1-10-20201106.pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "docid": 38339,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "status_changed": "2020-11-09 09:02:20",
+      "userid": 2788
+    },
+    {
+      "dir": "disk0\/00\/01\/32\/12",
+      "datestamp": "2019-05-24 07:16:36",
+      "divisions": [
+        "FEB5"
+      ],
+      "abstract": "The purpose of this study was to analyze the energy intensity decomposition in the textile industry subsector of Indonesia at level 2 and 3 KBLI. This\r\nis because of its usefulness in measuring energy efficiency. However, energy decomposition has not been able to accurately reflect the efficiency that\r\noccurs in the industrial sector. Since the results gotten from the calculation of energy intensity contains components of structural factors, there is need\r\nfor the analysis of the changes in the composition of output caused by activities or a combination of output and energy intensity components. Energy\r\nintensity approach and the Time Series technique through the use of log mean divisia index I method was used in this study to determine the effect of\r\nstructural and intensity factors on changes in aggregate energy intensity in the textile industry sector in Indonesia. The results showed that the energy\r\nintensity of the textile industry between 2006 and 2014 experienced a downward trend, but the structural factors were more dominant than the intensity\r\nfactor. Therefore, there is need for structural factors in energy intensity decomposition of the textile industry sector so as to be able to save energy",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "refereed": "TRUE",
+      "number": 3,
+      "eprintid": 13212,
+      "lastmod": "2019-05-24 07:16:36",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Salamah",
+            "given": "Sally"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Wan Abbas",
+            "family": "Zakaria"
+          },
+          "id": "Wan_abbas@yahoo.com"
+        },
+        {
+          "id": "toto.gunarto@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Toto Gunarto",
+            "family": "gunarto"
+          }
+        },
+        {
+          "id": "liesmh55@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "lies maria",
+            "family": "hamzah"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Said",
+            "given": "Muhammad"
+          },
+          "id": null
+        }
+      ],
+      "rev_number": 16,
+      "official_url": "https:\/\/www.econjournals.com\/index.php\/ijeep\/article\/view\/7457\/4308",
+      "publisher": "EconJournals",
+      "full_text_status": "public",
+      "status_changed": "2019-05-24 07:16:36",
+      "userid": 963,
+      "documents": [
+          {
+            "placement": 1,
+            "content": "published",
+            "security": "public",
+            "formatdesc": "Analysis of Energy Intensity Decomposition in the Textile Industrial Sub Sector of Indonesia",
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 26216,
+            "files": [
+                {
+                  "objectid": 26216,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "7457-19212-1-PB (3).pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 984840,
+                  "fileid": 115982,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/115982",
+                  "mtime": "2019-05-23 08:39:17",
+                  "hash": "5bfb2819dd73b18eedcf5d0b9e7496e6"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 13212,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26216",
+            "rev_number": 5,
+            "main": "7457-19212-1-PB (3).pdf",
+            "language": "en"
+          }
+      ],
+      "date": "2019-02-10",
+      "publication": "International Journal of Energy Economics and Policy",
+      "title": "Analysis of Energy Intensity Decomposition in the Textile\r\nIndustrial Sub Sector of Indonesia",
+      "id_number": "https:\/\/doi.org\/10.32479\/ijeep.7457",
+      "metadata_visibility": "show",
+      "pagerange": "1-10",
+      "subjects": [
+        "HC",
+        "HD"
+      ],
+      "volume": 9,
+      "issn": "2146-4553",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13212",
+      "type": "article"
+    },
+    {
+      "subjects": [
+        "HD"
+      ],
+      "pagerange": "243-266",
+      "title": "Kebijaksanaan (Conduct) Dan Pengaruhnya Terhadap Kinerja (Performance) Perusahaan Pada Industri Fotografi Di Kota Bandar Lampung",
+      "id_number": "2302-9595",
+      "metadata_visibility": "show",
+      "issn": "2302-9595",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16635",
+      "type": "article",
+      "volume": 8,
+      "status_changed": "2019-11-18 05:12:27",
+      "userid": 1150,
+      "date": "2019-11",
+      "publication": "Jurnal Ekonomi Pembangunan",
+      "documents": [
+          {
+            "mime_type": "application\/msword",
+            "docid": 29710,
+            "format": "text",
+            "security": "public",
+            "content": "published",
+            "placement": 1,
+            "language": "id",
+            "main": "1.-Kebijaksanaan-Conduct-Dan-Pengaruhnya-Terhadap-Kinerja-Performance-Perusahaan-Pada-Industri-Fotografi-Di-Kota-Bandar-Lampung.doc",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29710",
+            "files": [
+                {
+                  "mtime": "2019-11-15 11:39:32",
+                  "hash": "d9d4d2d624d96cbc4f63312be309aec0",
+                  "filesize": 397824,
+                  "fileid": 141724,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/141724",
+                  "hash_type": "MD5",
+                  "filename": "1.-Kebijaksanaan-Conduct-Dan-Pengaruhnya-Terhadap-Kinerja-Performance-Perusahaan-Pada-Industri-Fotografi-Di-Kota-Bandar-Lampung.doc",
+                  "mime_type": "application\/msword",
+                  "objectid": 29710,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 16635
+          }
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "muhiddinsirat@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Muhiddin",
+            "family": "Sirat"
+          }
+        },
+        {
+          "id": "imamawaluddin@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Awaluddin",
+            "given": "Imam"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Farizki",
+            "given": "Shandi"
+          }
+        }
+      ],
+      "rev_number": 9,
+      "official_url": "http:\/\/ep.feb.unila.ac.id\/lainnya\/jep\/#1573624610218-309e1723-678a",
+      "publisher": "Fakultas Ekonomi dan Bisnis Unila",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 3,
+      "lastmod": "2019-11-18 05:12:27",
+      "eprintid": 16635,
+      "datestamp": "2019-11-18 05:12:27",
+      "dir": "disk0\/00\/01\/66\/35",
+      "divisions": [
+        "FEB5"
+      ],
+      "ispublished": "pub",
+      "abstract": "This study aims to analyze the market structure and application of company policies in the photography industry in Bandar Lampung City and their effects on business performance. The analysis tool uses Herfindal index and market share to measure market structure, correlation analysis to measure the relationship between market structure with the achievement of the target of implementing company policy (conduct), and multiple linear regression analysis to measure the effect of the target achievement of the implementation of company policy on performance business. The results showed that: (1). The structure of the photography industry market in Bandar Lampung City is included in the monopolistic competition market with the magnitude of Herfindhal Index = 0.06103 approaching 0; (2). The market structure has a low correlation with the achievement of the target of applying price policy Rxy<0.5), and (3). Achievement targets for the implementation of company policies ((pricing policies, product policies, marketing and promotion policies, service policies for consumers) have a significant positive effect on business performance.",
+      "eprint_status": "archive"
+    },
+    {
+      "official_url": "https:\/\/jpb.fisip.unila.ac.id",
+      "rev_number": 7,
+      "publisher": "Administrasi Bisnis FISIP Universitas Lampung",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "jeni.wulandari@fisip.unila.ac.id",
+          "name": {
+            "given": "Jeni",
+            "family": "Wulandari",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "eprintid": 38249,
+      "lastmod": "2022-01-24 01:16:43",
+      "number": 2,
+      "refereed": "TRUE",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "abstract": "This research aims to determine the implementation of knowledge management (KM) in\r\nenergy companies such as PT. Pertamina (Persero) and PT. Medco\r\nEnergiInternasionalTbk., to know the critical success factors of KM implementation,\r\nand impact of KM implementation for the organization, and to formulate models of KM\r\nimplementation in the organization. This research is a descriptive study with a\r\nqualitative approach. The data collected was used the literature study technique. This\r\nresearch is an extension of previous research on the proposed model of Organizational\r\nKnowledge Management System (OKMS).\r\nThe results of this research indicate the implementation of KM in both energy\r\ncompanies includes: developing a corporate culture based on knowledge, innovation or\r\nproducts \/ services \/ solutions based on knowledge, maximize the company's intellectual\r\ncapital, knowledge sharing or create an environment to share the knowledge with\r\ncollaborative way, leadership-leadership factor which fully supports the KM activities,\r\nand learning- the methods of application which lead the company as a learning\r\norganization. The critical factors in the success implementation of KM is human\r\n(people), including leadership, infrastructure, process (learning), culture, and\r\ntechnology. Leadership and cultural factors are the main factors of success of KM\r\nimplementation in the organization. The KM products as a result of the KM\r\nimplementation is the process of learning (organizational learning) and the ability of\r\ninnovation which is the value for the company to be able to kept the competitiveness. It\r\nis recommended that further research through questionnaires and in-depth interviews to\r\ntest the model of KM implementation formulation.",
+      "ispublished": "pub",
+      "corp_creators": [
+        "Jurusan Ilmu Administrasi Bisnis, FISIP"
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "dir": "disk0\/00\/03\/82\/49",
+      "datestamp": "2022-01-24 01:16:43",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38249",
+      "issn": "2338-1115",
+      "volume": 1,
+      "subjects": [
+        "HD",
+        "HD28"
+      ],
+      "pagerange": "6-35",
+      "metadata_visibility": "show",
+      "title": "MODEL IMPLEMENTASI KNOWLEDGE MANAGEMENT\r\nPADA PERUSAHAAN ENERGI\r\n(Studi Pada PT. Pertamina (Persero) dan PT. Medco Energi Internasional Tbk.)",
+      "publication": "Jurnal Perspektif Bisnis",
+      "date": 2013,
+      "documents": [
+          {
+            "language": "en",
+            "main": "adoc.pub_jurnal-perspektif-bisnis-vol-1-no2-bulan-desember-.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159264",
+            "files": [
+                {
+                  "hash": "2820c167706d7f2847865ccfe5c07c80",
+                  "mtime": "2022-01-23 17:06:02",
+                  "filesize": 683589,
+                  "fileid": 433954,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/433954",
+                  "filename": "adoc.pub_jurnal-perspektif-bisnis-vol-1-no2-bulan-desember-.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 159264,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 38249,
+            "mime_type": "application\/pdf",
+            "docid": 159264,
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "userid": 145,
+      "status_changed": "2022-01-24 01:16:43"
+    },
+    {
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Penelitian ini bertujuan untuk mengetahui adanya konflik peran ganda dan\r\ndukungan sosial suami terhadap stres kerja yang dialami dosen perempuan Fakultas Ilmu\r\nSosial dan Politik (FISIP) di Universitas Lampung (Unila). Penelitian ini merupakan\r\npenelitian deskriptif dengan pendekatan kuantitatif. Hasil penelitian menunjukkan bahwa\r\ndosen perempuan FISIP Unila merasa cukup mengalami adanya konflik peran ganda\r\nantara karir dan urusan domestik rumah tangga yang harus dijalaninya, dosen perempuan\r\nFISIP Unila juga cukup merasakan adanya dukungan sosial suami dalam menjalani peran\r\nganda yang dihadapinya tersebut, dan terakhir hasil penelitian menunjukkan bahwa dosen\r\nFISIP Unila merasa cukup mengalami stres kerja dalam menjalani peran gandanya\r\nsebagai wanita karier dan sekaligus sebagai ibu rumah tangga. Oleh karena itu,\r\npendekatan dari sudut pandang organisasi dapat dilakukan dalam mengatasi stres kerja\r\nyang dialami dosen perempuan FISIP Unila, diantaranya memberi pelatihan,\r\nmeningkatkan komunikasi organisasi formal, atau dapat juga dengan mendesain ulang\r\npekerjaan, dengan lebih memperhatikan beban kerja dosen perempuan, agar dosen yang\r\nbersangkutan lebih bisa berkonsentrasi terhadap pekerjaannya dan dapat membagi waktu\r\nsecara proporsional antara keluarga dan pekerjaan. Dalam penelitian ini memerlukan\r\npenelitian lanjutan dengan mempertimbangkan jumlah sampel yang proporsional, untuk\r\nmengkaji pengaruh di antara keduanya dengan menggunakan regresi, atau kajian\r\nmendalam melalui wawancara dan observasi.",
+      "corp_creators": [
+        "Jurusan Ilmu Administrasi Bisnis, FISIP"
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "dir": "disk0\/00\/03\/82\/48",
+      "datestamp": "2022-01-24 01:16:41",
+      "full_text_status": "public",
+      "official_url": "https:\/\/ejournal.bsi.ac.id\/ejurnal\/index.php\/ecodemica\/article\/view\/79",
+      "publisher": "Universitas BSI",
+      "rev_number": 8,
+      "creators": [
+        {
+          "name": {
+            "family": "Wulandari",
+            "given": "Jeni",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "jeni.wulandari@fisip.unila.ac.id"
+        }
+      ],
+      "lastmod": "2022-01-24 01:16:41",
+      "eprintid": 38248,
+      "refereed": "TRUE",
+      "number": 1,
+      "date_type": "published",
+      "publication": "Ecodemica",
+      "date": "2015-04",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 159263,
+            "files": [
+                {
+                  "fileid": 433946,
+                  "filesize": 649617,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/433946",
+                  "mtime": "2022-01-23 16:49:36",
+                  "hash": "1581974bdddd96b4cbd39bae99fae713",
+                  "objectid": 159263,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "Konflik Peran Ganda-Ecodemica.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 38248,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159263",
+            "main": "Konflik Peran Ganda-Ecodemica.pdf",
+            "language": "en"
+          }
+      ],
+      "userid": 145,
+      "status_changed": "2022-01-24 01:16:41",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38248",
+      "issn": "2355-0295",
+      "volume": 3,
+      "pagerange": "417-437",
+      "subjects": [
+        "H1",
+        "HD",
+        "HQ"
+      ],
+      "metadata_visibility": "show",
+      "title": "TINJAUAN TENTANG KONFLIK PERAN\r\nGANDA DAN DUKUNGAN SOSIAL SUAMI\r\nTERHADAP STRES KERJA\r\n(STUDI PADA DOSEN PEREMPUAN\r\nFAKULTAS ILMU SOSIAL DAN ILMU\r\nPOLITIK DI UNIVERSITAS LAMPUNG)"
+    },
+    {
+      "eprint_status": "archive",
+      "abstract": "ABSTRACT\r\n\r\nThe increase of the population growth that wants a good quality of drinking water and also easy to be carried out anywhere has made the trend of bottled drinking water sales continue to increase. However, the industry of bottled water (AMDK) in Indonesia is characterized by a variety of innovations and business competition. This business competition is carried out not only by large-scale manufacturing companies, but also by small and medium scale companies (SMEs). The favorable long-term prospect and large market share have prompted the Regional Government of Tulang Bawang to be interested in forming a Regional Owned Enterprise that is engaged in the bottled water industry. The activity of establishing a Regional Owned Enterprise engaged in the AMDK industry requires a business feasibility analysis which aims to determine whether or not the AMDK business is feasible in terms of various aspects so that it requires assistance in making a feasibility study for producing bottled drinking water. The method used in this community service is to use a feasibili ty study covering market and financial aspects. The result obtained from this assistance is the existence of a wide market share in Tulang Bawang Community who becomes the consumers of bottled drinking water. Meanwhile, when it is seen from the financial aspect, the development project of the regional-owned bottled water enterprises can be accepted, and the work shall be continued.\r\n\r\nKeywords: bottled water, Regional Owned Enterprises, IRR, NPV",
+      "ispublished": "submitted",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "divisions": [
+        "FEB6"
+      ],
+      "dir": "disk0\/00\/02\/65\/93",
+      "datestamp": "2020-11-22 11:43:57",
+      "event_dates": "28 Oktober 2020",
+      "event_location": "Hotel Raddison",
+      "rev_number": 10,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "family": "faisol",
+            "given": "ahmad",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "sahabatzaman@gmail.com"
+        },
+        {
+          "id": "ernie.hendrawaty@feb.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Ernie",
+            "family": "Hendrawaty"
+          }
+        },
+        {
+          "name": {
+            "given": "Edwin",
+            "family": "Russel",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "lidya ayuni",
+            "family": "Putri",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "wiryawan",
+            "given": "driya",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "driyawiryawan@gmail.com"
+        }
+      ],
+      "lastmod": "2020-11-22 11:43:57",
+      "eprintid": 26593,
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "docid": 40491,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "main": "pengabdian stabek 2020.docx",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40491",
+            "rev_number": 1,
+            "eprintid": 26593,
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 40491,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "filename": "pengabdian stabek 2020.docx",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/239049",
+                  "filesize": 189800,
+                  "fileid": 239049,
+                  "hash": "e2587614484e20e5b822cd41205959a2",
+                  "mtime": "2020-11-22 06:45:34"
+                }
+            ]
+          }
+      ],
+      "userid": 298,
+      "status_changed": "2020-11-22 11:43:57",
+      "event_title": "STABEK 4 (Seminar Teknologi, Akuntansi, Bisnis dan Ekonomi dan Komunitas 4",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26593",
+      "type": "conference_item",
+      "event_type": "conference",
+      "subjects": [
+        "HD",
+        "HG"
+      ],
+      "metadata_visibility": "show",
+      "title": "THE ASSISTANCE OF THE ESTABLISHMENT OF FEASIBILITY STUDY FOR BOTTLED DRINKING WATER PRODUCTION IN TULANG BAWANG LOCAL WATER COMPANY (PDAM)"
+    }
+]
+

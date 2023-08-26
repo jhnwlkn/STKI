@@ -1,0 +1,71 @@
+[
+    {
+      "divisions": [
+        "FKIP24"
+      ],
+      "dir": "disk0\/00\/03\/01\/23",
+      "datestamp": "2021-05-10 06:25:30",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Buku ajar ini merupakan sebuah tambahan bagi pemenuhan ilmu pengetahuan para mahasiswa universitas lampung fakultas keguruan dan ilmu pendidikan, jurusan IPS Khususnya Program Studi Pendidikan Sejarah tentunya. Dengan adanya buku ini diharapakan dapat menunjang aktifitas kuliah para mahasiswa calon guru sejarah",
+      "date_type": "published",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhammad Basri",
+            "given": "Muhammad Basri"
+          },
+          "id": "muhammad.basri@fkip.unila.ac.id"
+        }
+      ],
+      "lastmod": "2021-05-10 06:25:30",
+      "eprintid": 30123,
+      "userid": 573,
+      "status_changed": "2021-05-10 06:25:30",
+      "patent_applicant": "Menteri Hukum dan Hak Asasi Manusia Direktur Jendral Kekayaan Intelektual",
+      "date": "2019-10-02",
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "docid": 135268,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/135268",
+            "files": [
+                {
+                  "hash": "96fcae93cc05f902240688e8ba43893a",
+                  "mtime": "2021-05-10 05:53:41",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/357066",
+                  "filesize": 768383,
+                  "fileid": 357066,
+                  "mime_type": "application\/pdf",
+                  "filename": "sertifikat_EC00201973797.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 135268
+                }
+            ],
+            "pos": 1,
+            "eprintid": 30123,
+            "language": "en",
+            "main": "sertifikat_EC00201973797.pdf"
+          }
+      ],
+      "subjects": [
+        "D1",
+        "D901"
+      ],
+      "id_number": "EC00201973797",
+      "metadata_visibility": "show",
+      "title": "Buku Sejarah Eropa",
+      "type": "patent",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30123"
+    }
+]
+

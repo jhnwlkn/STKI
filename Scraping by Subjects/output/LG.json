@@ -1,0 +1,197 @@
+[
+    {
+      "userid": 76,
+      "status_changed": "2017-07-12 04:14:39",
+      "publication": "English Language Teaching",
+      "date": "2016-08-01",
+      "documents": [
+          {
+            "language": "en",
+            "main": "artikel jurnal_Feni.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3507",
+            "rev_number": 1,
+            "pos": 1,
+            "eprintid": 3645,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 3507,
+                  "mime_type": "application\/pdf",
+                  "filename": "artikel jurnal_Feni.pdf",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/25477",
+                  "fileid": 25477,
+                  "filesize": 178921,
+                  "hash": "13253ddb7c6b623318a597d04a34635f",
+                  "mtime": "2017-07-12 03:45:47"
+                }
+            ],
+            "docid": 3507,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "subjects": [
+        "LB2361",
+        "LC5201",
+        "LG",
+        "P1",
+        "PE"
+      ],
+      "metadata_visibility": "show",
+      "id_number": "http:\/\/dx.doi.org\/10.5539\/elt.v9n8p62",
+      "title": "Indonesian EFL Teachers Professional Knowledge Development during Their Participation in TSG: A Case Study",
+      "related_url": [
+        {
+          "url": "http:\/\/www.ccsenet.org\/journal\/index.php\/elt\/issue\/view\/1614",
+          "type": "pub"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3645",
+      "type": "article",
+      "issn": "ISSN 1916-4742   E-ISSN 1916-4750",
+      "volume": "Vol. 9",
+      "divisions": [
+        "FKIP1"
+      ],
+      "dir": "disk0\/00\/00\/36\/45",
+      "datestamp": "2017-07-12 04:14:39",
+      "eprint_status": "archive",
+      "abstract": "The study examines three new EFL teachers professional knowledge development through discussion in a Teacher Study Group (TSG) in Indonesian (Asian) context. These three participants have less than five year-teaching experience and teach junior high schools in Bandarlampung in the time of the study. The data were collected through audio-visual recorded observation of TSG sessions teaching practice. They were converted into written trasncription. The analysis signifies that group discussion recalls participants’ case knowledge from distant experience while group reflection explores participants’ practical knowledge from their own immediate practice. Some of the knowledge is still fragmented and some has been integrated into pedagogical content knowledge (PCK). Both TSG group theme-based discussion and collaborative reflection manage to explore participants’ professional knowledge. \r\n\r\nKeywords: EFL teachers’ professional knowledge, case knowledge, theme-based discussion, collaborative reflection",
+      "ispublished": "pub",
+      "date_type": "published",
+      "publisher": "Canadian Center of Science and Education",
+      "official_url": "http:\/\/ccse.org",
+      "full_text_status": "public",
+      "rev_number": 13,
+      "creators": [
+        {
+          "name": {
+            "given": "Feni",
+            "family": "Munifatullah",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Bachrudin",
+            "family": "Musthafa",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Wachyu",
+            "given": "Sundayana",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "lastmod": "2017-07-12 04:14:39",
+      "contact_email": "feni.munifatullah@fkip.unila.ac.id",
+      "eprintid": 3645,
+      "refereed": "TRUE",
+      "number": "No. 8"
+    },
+    {
+      "divisions": [
+        "FKIP1"
+      ],
+      "dir": "disk0\/00\/00\/33\/12",
+      "datestamp": "2017-06-12 02:43:53",
+      "eprint_status": "archive",
+      "abstract": "This research was aimed to find out whether there is an effect of Metacognitive Reading Strategy Training (MRST) on the students’ reading comprehension. This research was carried out using a quantitative study with one group pre-test post-test design. The subjects numbering of 25 high school students were taken purposively. The instrument used was the reading comprehension test. This study used paired-sample t-test to analyze the effects of students’ reading comprehension. The result of the analyses indicated that there was a significant effect of students’ reading comprehension before and after metacognitive reading strategy training, within t-ratio 13.498 which means that it was higher than t-table 2.056. This finding indicates that the MRST was effective in impoving the students’ reading comprehension ability.",
+      "ispublished": "pub",
+      "date_type": "published",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/123\/article\/view\/11604",
+      "rev_number": 9,
+      "publisher": "FKIP Universitas Lampung",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "emisari36@gmail.com",
+          "name": {
+            "family": "Sari",
+            "given": "Emi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "raja_pid@yahoo.com",
+          "name": {
+            "given": "Patuan",
+            "family": "Raja",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Ari",
+            "family": "Nurweni"
+          },
+          "id": "nurweniari@gmail.com"
+        }
+      ],
+      "lastmod": "2017-06-12 02:43:53",
+      "eprintid": 3312,
+      "refereed": "TRUE",
+      "number": 2,
+      "userid": 717,
+      "status_changed": "2017-06-12 02:43:53",
+      "publication": "U-JETOnline  Unila Journal of English Teaching",
+      "date": 2016,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 3206,
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "main": "11604-24434-1-PB.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3206",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "11604-24434-1-PB.pdf",
+                  "datasetid": "document",
+                  "objectid": 3206,
+                  "mtime": "2017-06-04 06:49:00",
+                  "hash": "3f6f4ffb1693cabd6e1ddb89bff09e50",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/23017",
+                  "filesize": 166442,
+                  "fileid": 23017
+                }
+            ],
+            "eprintid": 3312,
+            "pos": 1
+          }
+      ],
+      "subjects": [
+        "LG",
+        "PE"
+      ],
+      "metadata_visibility": "show",
+      "title": "METACOGNITIVE READING STRATEGY TRAINING FOR HIGH SCHOOL STUDENTS",
+      "related_url": [
+        {
+          "url": "https:\/\/scholar.google.co.id\/scholar?hl=en&q=ari+nurweni+emisari&btnG="
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3312",
+      "type": "article",
+      "volume": 5
+    }
+]
+

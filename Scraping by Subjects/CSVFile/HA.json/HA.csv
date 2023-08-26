@@ -1,0 +1,468 @@
+division,title,abstract,subjects,publication,date,keywords
+FMIPA9,"Convergence Rates of Maxima of Non-identical
+Sums",,HA,Pakistan Journal of Statistics and Operation Research (PJSOR),2022-03-06,
+FMIPA9,Inference for Noisy Samples,"Abstract In the current work, some well-known inference procedures including testing and estimation are adjusted to accommodate noisy data that lead to nonidentically distributed sample.  The main two cases addressed are the Poisson and the normal distributions. Both one and two sample cases are addressed.  Other cases including the exponential and the Pareto distributions are briefly mentioned.  In the Poisson case, the situation when the sample size is random is mentioned.
+
+Keywords: Noisy samples, Hypothesis testing and estimation, Poisson, Normal, Exponential, and Pareto.",HA,Pakistan Journal of Statistics and Operation Research,2012-06-04,"Noisy samples, Hypothesis testing and estimation, Poisson, Normal, Exponential, and Pareto."
+FEB4,Pelatihan dan Pendampingan Perhitungan Biaya dan Pemanfaatan Potensi Limbah Industri Rumahan Penyulingan Minyak Atsiri,"Tujuan kegiatan pengabdian kepada masyarakat ini adalah untuk meningkatkan pengetahuankelompok home industri penyulingan minyak atsiri dalam pengolahan limbah hasil perebusan
+minyak atsiri. Meningkatkan keterlibatan kelompok home industri pengolahan minyak atsirdalam berbagai kegiatan pelatihan terkait pengolahan limbah. Meningkatkan wawasan danpengetahuan dalam perhitungan biaya dan potensi penghasilandari home industri minyakatsiri. Meningkatkan pengetahuan tentang pengoptimalan manfaat dari limbah hasilpenyulingan minyak atsiri. Metode yang digunakan adalah Pelatihan dan Pendampingan. Mitra bersedia bekerjasama dengan mengikuti pelatihan yang akan diberikan oleh tim pengabdiandan melaksanakan hasil rekomendasi dari tim pengabdian untuk dapat mengatasi masalahlimbah hasil olahan minyak atsiri menjadi produk yang berpotensi ekonomi. Luaran dari hasipengabdian ini adalah meningkatya potensi ekonomi dan kesejahteraan masyarakat denganmengetahui tekhnologi pengolahan limbah dan dapat dipublikasikan pada jurnal atauprosiding pengabdian pada masyarakat serta diberitakan dalam media cetak. Hasil pengabdianmenunjukkan terjadi peningkatan pengetahuan dan pemahaman sebesar rata-rata 24,10
+persen untuk .Pengetahuan kelompok home industri penyulingan minyak atsiri dalam pengolahan limbah hasil perebusan minyak atsiri meningkat 34,51%, Keterlibatan kelompok home industri pengolahan minyak atsiri dalam berbagai kegiatan pelatihan terkait pengolahan
+limbah meningkat 15,55%. Wawasan dan pengetahuan dalam perhitungan biaya dan potensi penghasilan dari home industri minyak atsiri juga terdapat peningkatan pemahaman walaupun masih kecil meningkat 12,1%. Pengetahuan tentang pengoptimalan manfaat dari
+limbah hasil penyulingan minyak atsiri meningkat 13,45%. Masukan dan saran yang dapat disampaikan untuk kegiatan pengabdian di masa mendatang adalah perlunya pendampingan
+untuk mengolah langsung limbahnya agar produksi bersih dapat diterapkan oleh pemilik dan pekerja penyulingan minyak atsiri juga diberikan pelatihan untuk pemasarannya secara digital. 
+
+Kata kunci: Biaya, Limbah Industri, Penyulingan Minyak Atsiri","H1, HA",Prosiding Seminar Nasional Fakultas Ekonomi dan Bisnis Unila,2019,
+FEB4,Future Conditions of the Mining Sector Seen from The Viewpoint of Stock Price,"The daily share price of the mining sector is part of the financial data that is included in the determining
+criteria that describe the condition of the company. More broadly, the daily share price of the mining sector,
+especially in Indonesia, impacts the national economy. In these conditions, low-risk decision-making is needed.
+Methods in economics explaining forecasting of future economic conditions can reduce risk by preparing a
+treatment plan. Time series financial data, including daily stock prices, can be predicted using the ARIMA model.
+This study aims to design a time series financial data forecasting model with a low error rate so that the quality of
+the prepared decisions is of high quality.","HA, HJ",European Union Digital Library,2022-04-20,
+,"APPLICATION OF SHORT-TERM FORECASTING MODELS FOR ENERGY ENTITY STOCK PRICE (STUDY ON INDIKA ENERGI TBK, JII)","Share price as one kind of financial data is the time series data that indicates the level of fluctuations and heterogeneous variances called heteroscedasticity. The method that can be used to overcome the effect of autoregressive conditional heteroscedasticity effect is the generalised form of ARCH (GARCH) model. This study aims to design the best model that can estimate the parameters, predict share price based on the best model and show its volatility. In addition, this paper discusses the prediction-based investment decision model. The findings indicate that the best model corresponding to the data is AR(4)-GARCH(1,1). The model is implemented to forecast the stock prices of Indika Energy Tbk, Indonesia, for 40 days and significantly presented good findings with an error percentage below the mean absolute.",HA,International Journal of Energy Economics and Policy,2020,
+FEB4,MODEL-MODEL PERAMALAN JANGKA PENDEK PADA DATA KEUANGAN SEKTOR PERTAMBANGAN,"Harga saham harian sektor pertambangan merupakan bagian dari data-data keuangan yang masuk kedalam kriteria penentu yang menggambarkan kondisi perusahaan. Lebih luas, harga saham harian sektor pertambangan khususnya di Indonesia memiliki dampak pada perekonomian nasional. Pada kondisi tersebut pengambilan keputusan dengan risiko rendah sangat dibutuhkan. Metode dalam ilmu ekonomi menjelaskan peramalan atas kondisi ekonomi di masa depan dapat mengurangi risiko dengan mempersiapkan rencana penanganan. Data-data keuangan deret waktu termasuk didalamnya harga saham harian memiliki sifat heteroskesdasitas. ARIMA dan GARCH merupakan model peramalan data keuangan yang dapat mengeliminasi asumsi-asumsi data dengan heteroskesdasitas. Tujuan dari penelitian ini adalah merancang dan memilih model peramalan data keuangan deret waktu (timeseries) dengan tingkat kesalahan rendah, sehingga kualitas keputusan menjadi berkualitas. Target khusus dari penelitian ini adalah menemukan model terbaik dengan cara membandingkan sehingga diketahui model yang paling akurat dalam melakukan peramalan data keuangan sektor pertambangan.","HA, HF5601, HG",,,
+FEB4,IMPLEMENTATION OF SHORT-TERM FORECASTING MODELS IN THE NATURAL GAS INDUSTRY FINANCIAL DATA,"Abstract. Describe Financial data especially the natural gas industry that will be projected must have high accuracy.  Background Problems: These data are time-series data and contain heteroscedasticity so that they require forecasting models with low error rates. Novelty: The data used in the study are daily financial data from natural gas from 2014 to 2019 Research Methods: Short-term forecasting model (GARCH) which has the advantage of modeling data with heteroscedasticity. Findings / Results: AR1, GARCH 1.1 short-term forecasting model is stated as a model that has the advantage of modeling data with a high degree of accuracy.  Conclusion: The forecasting model can be used by various parties in finding the accuracy of information to come so that planning decisions have been prepared and prepared.","H1, HA, HJ",,,
+FEB5,UNDERSTANDING THE DETERMINANTS OF FDI IN INDONESIA THROUGH EXTENSIVE DUNNING AND GRAVITY APPROACH,"The potential impulse (s) and response (s) of Foreign Direct Investment (FDI) in the economic system have been always bringing great interest to researchers and practitioners. This paper considers movements of Foreign Direct Investment (FDI) in Indonesia, and therefore, to investigate and understand the determinants of FDI as the primary capital flows among other capitals sources. FDI flow is very important to help encourage the growth of sustainable investment, creates new job opportunities, deteriorate the balance payments and lower the ability of national competitiveness, and may crowd out domestic capital. This paper has several specific objectives, such as 1) to study about the determinants of capital inflows of FDI in Indonesia, and 2) to examine the impacts to investments of ASEAN countries towards FDI in Indonesia. This paper eventually follows maximum likelihood methodology of Dunning and Gravity Model with the panel estimation and OLS (Ordinary Least Square). The analysis also carried out through an extensive review of the relevant literature, microeconomic, and macroeconomic topics related to FDI. In conclusion, this paper assumes that economic growth, labour costs, infrastructures, exchange rates, and political stability have significant structural changes in level, respectively, within the time interval from 1992 to 2012.","HA, HB",DINAMIKA: Jurnal Ekonomi Pembangunan,2016,
+FEB5,Unleashing the Potential of Globalization to Bring Sustainable Prosperity in the Selected Asian and African Countries: Panel Least-Squares Analysis,"Given the globalization wave started in the early 1990s, many countries around the world, including countries in Asia and Africa, became more open to Foreign Direct Investment (FDI) flows. This main objective of this research is to empirically investigate the theoretical relationship of FDI and trade (export and import) on economic growth which can deliver direct impact to reducing the poverty rate and narrowing unemployment gap as well as generate income per capita across the countries, primarily in Asian and African countries. The availability of data for all explanatory variables determines a unified sample period that goes from 2003 to 2018 (15 years). Additionally, our sample covers seven countries such as Egypt, Jordan, Indonesia, Malaysia, Nigeria, Pakistan, and Turkey, which chosen based on data availability and good representative sampling of the countries by its population and size of the economy. Thus, the study estimated FDI and trade model using panel least-squares analysis.The study provides evidence of the large and significant impact of FDI on trade, economic growth, and poverty in the major of Asian and African countries when it has taken as one pooled group. Furthermore, as expected, trade affected income per capita and poverty reduction in this group's countries favourably. FDI and trade as variables of globalization can bring positive impact to prosperity and wealth for the countries. A further explain that the selected countries urgently need to strengthen the investment policy and create a business-friendly environment to support trade openness, massive investment, and non-barrier trade agreement.","H1, HA","TEST, ENGINEERING & MANAGEMEN",2020-02-29,
+FEB4,"IT in the Public Sector: A Road for Development
+Services, A Bibliographical Study","Aims: This research was conducted to find out the development of IT research articles in the public sector published in international journals from 2011 to 2020, to find out the collaboration map between researchers, to be input and direction for further researchers in determining the research study topic.
+Study Design: This research is a literature study using the bibliometrics analysis method.
+Place and Duration of Study: The Google Schoolar Database, period 2011 to 2020.
+Methodology: In the initial search, 976 journals were found. The following selection searched for
+journal articles that specifically discuss IT in the public sector; as many as 140 journals were found. Results: In the initial search, 976 journals were found. The following selection searched for journal articles that specifically discuss IT in the public sector; as many as 140 journals were found. Based on research on the growth of IT research articles in the public sector in 2011-2020, an average of
+14% or a total of 14 articles per year. The trend of research tends to decrease, and the authors of these articles come from developed countries, while from developing countries such as Indonesia, there are still few.
+Conclusion: Based on research on the growth of IT research articles in the public sector in 2011-
+2020, an average of 14% or a total of 14 articles per year. The trend of research tends to decrease, and the authors of these articles come from developed countries, while from developing countries such as Indonesia, there are still few. The topic of further research development can be focused on improving public services for developing countries, such as agriculture, e-health, e-democracy, government initiatives and etcetra.","H1, HA",,2021,
+FISIP8,"Efforts of Performance Optimization: The Experiment
+on Ten Accounting Datasets","In the big data and digitalizationera, fast-accurate decision-making has become a basic need,so data  mining  has  a  crucial  role. The  decision  tree  algorithm  is  quite  commonly  applied  for classification functions,but performance level must always be evaluated for optimizingaccuracy rate. Several optimization methods to accommodate these objectives include GA-bagging, PSO-bagging, forward selection, backward elimination, SMOTE, under-sampling, GA-Adaboost, and ABSMOTE-WIGFS.  The  results  of  the  decision  tree  experiment on tentypes  of accounting-finance datasets  used  in  this  study  obtained  results  with  anaverage  accuracy of 83.46%, anaverage  precision of 65.64%,  and anaverage  AUCof 71.9%,  while  the  majorityof  various optimizationsare  proven  in  improving  the  performance  of  decisiontree  algorithm  where  the application  of  ABSMOTE-WIGFS  method  is  proven  in  providing  the  best  rate  with  an  average accuracy  87.71%,  an  average  precision  87.09%,  and  an  average  AUC  84.87%,  so  it  can  be concluded that various optimization efforts are worth to be applied incase of accounting-finance themes for  increasing  the  performance  rate.Furthermore, the next research  can prove  these methods in other fields outsideof accounting cases",HA,Efforts of Performance Optimization: The Experiment on Ten Accounting Datasets,2022,
+FMIPA9,"Analisis Klaster untuk Data Kategorik Menggunakan Metode K-Modes
+(Studi Kasus: Data Pasien COVID-19 di RSUD Dr. H. Abdul Moeloek
+Provinsi Lampung)",,HA,Jurnal Siger Matematika,2022-09-30,
+FMIPA9,"METODE ESTIMASI DIAGONAL WEIGHTED LEAST SQUARE (DWL
+UNTUK BERBAGAI UKURAN SAMPEL 
+(Studi Kasus Kualitas Pelayanan Perpustakaan Unila)","Uji kecocokan dalam model persamaan struktural merupakan tahap untuk melihat
+sejauhmana model yang digunakan sesuai dengan data. Penelitian ini bertujuan untuk
+menentukan ukuran sampel minimum dengan menggunakan metode estimasi Diagonal
+Weighted Least Square (DWLS) dan menentukan pengaruh antar variabel laten eksogen dan
+variabel laten endogen. Data yang digunakan berupa data primer dari hasil survei kuisioner
+tentang kualitas pelayanan diperpustakaan. Berdasarkan hasil penelitian diperoleh bahwa
+ukuran sampel dengan model terbaik dengan metode DWLS adalah 171, dengan ukuran
+sampel diperbesar maka menghasilkan nilai kecocokan model yang semakin baik. Kompetensi
+pegawai mempengaruhi kualitas pelayanan secara tidak langsung melalui variabel perantara
+fasilitas di perpustakaan dengan pengaruh total sebesar 0,822.",HA,Prosiding Seminar Nasional METODE KUANTITATIF 2018,2018-11-19,
+FEB3,FORECASTING MODEL OF AGRICULTURE COMMODITY OF VALUE EXPORT OF COFFEE: APPLICATION OF ARIMA MODEL,"Indonesia is currently one of the largest coffee producers in the world, and involved in exporting coffee countries. The financial series data such as export value of coffee is highly volatile in both mean and variance. Thereby, the model of ARIMA with order p,d,q is one way to deal with error. The aim of this study is to determine the best-fitted ARIMA(p,d,q) model to forecast the monthly series of export of coffee from January 2005 to April 2020. The findings suggest that ARIMA(1,3,1) is the best-selected model due to its very significant p-value (less than 0.0001), which showed that the model is applicable for forecasting.  The model is then used to establish the prediction of ExCof monthly data for the next 12 months.  Further results on forecasting of the export value of coffee show an increasing trend.","HA, HG, HN, HX",Jurnal Teknik Pertanian Lampung,,
+FT13,"Aplikasi Teknologi TLS 3D (Terrestrial Laser Scanner) untuk Penentuan Volume
+Tambang Batubara 
+(Studi Kasus : Kutai Barat, Kalimantan Timur)","Semakin pesatnya kegiatan penambangan batubara, disebabkan ditemukannya lokasilokasi
+
+yang masih mengandung banyak batubara dan tersedianya sumber daya manusia
+serta perkembangan teknologi yang kian menunjang kegiatan pertambangan. Terrestrial 3D
+laser scanner (TLS) atau lebih dikenal dengan sebutan Laser Scanner, merupakan
+instrument analisis obyek real word yang dapat mengumpulkan data permukaan dan
+topografi obyek kemudian ditampilkan dalam bentuk 3 dimensi. Terrestrial 3D Laser Scanner
+merupakan bukti kemajuan dari teknologi alat ukur di bidang Geodesi. Terrestrial 3D Laser
+Scanner adalah alat yang prinsip kerjanya hampir mirip dengan Total Station, yang bekerja
+memanfaatkan sinar laser. Terrestrial 3D Laser Scanner meminimalis waktu dalam
+pengukuran, dan berbagai keuntungan lainnya. Kegiatan monitoring pertambangan
+menggunakan alat 3D Laser Scanner diantaranya bertujuan untuk mengetahui perubahan
+volume pada area tambang. Perubahan volume dapat diketahui dengan membandingkan
+surface antara bulan pertama dengan surface bulan kedua. Hasil akhir dari pengolahan data
+pengukuran 3D Laser Scanner adalah kontur permukaan area pertambangan dan volume
+perubahan tambang batubara. Area yang dimonitoring adalah pit 3000 blok 11, pit 3000 blok
+7, dan pit 6200 blok 5. Total material Remove Coal di periode End Of Month (EOM) Februari
+2013 pada pit 3000 blok 11 adalah sebesar 325.741,599 BCM (Bank Cubic Meter). Total
+material Remove Coal di periode End Of Month Februari 2013 pada pit 3000 blok 7 adalah
+sebesar 59.459,174 BCM. Total material Remove Coal di periode End Of Month Februari
+2013 pada pit 6200 blok 5 adalah sebesar 572.526,191 BCM.","GA, HA, QE, TA","SEMINAR NASIONAL TEKNOLOGI TERAPAN 2013 (Sekolah Vokasi UGM), Pengembangan Teknologi Terapan yang Unggul, Bermartabat, dan Profesional",2013-10-26,
+FMIPA9,Analisis Propensity Score Matching Pada Kejadian Diabetes Melitus Yang Memuat Faktor Confounding,"The confounding factor can be defined as a bias in estimating the effect of a risk factor on the incidence of
+the disease being studied.  One method that can handle confounding factors is propensity score matching
+which is used to balance the data for the treatment and control groups by looking at the value in the
+estimation results of the propensity score using logistic regression, then matching analysis and postmatching.
+The
+purpose
+of
+this
+study
+was
+to
+obtain
+the
+results
+of
+a
+propensity
+score
+matching
+analysis
+that
+
+contained
+
+confounding factors and knowing the risk factors that cause diabetes mellitus in Hospital 
+Mayjend HM Ryacudu Kotabumi with R software. The data used are diabetes mellitus (Y), gender(",HA,Jurnal Siger Matematika,2021-09-02,
+FMIPA9,"Analysing Data with Missing Values from Strip Plot
+Design: an Estimation and Mean Squares Expectation","Missingvalues in strip plot design causes unbalanced design. As a result, several problems occur
+in analyzing the data. This paper present the estimation of two and three missing values from strip-plot
+design with fixed model using Yates approach. However, the estimation toward the missing values in
+strip-plot design causes bias on the treatment mean square which is shown by its expected value. In order
+to omit the bias caused by the estimated values, a procedure of Satterthwaite-Cochran approximation is
+applied. The procedure corrects the bias and give an adjusted analysis of variance for the hypothesis test.",HA,,2018-08,
+,"Parameter Estimation of Bernoulli Distribution using
+Maximum Likelihood and Bayesian Methods","The term parameter estimation refers to the process of using sample data to estimate the parameters of the
+selected distribution.There are several methodsthat can be used to estimate distributionparameter(s).In this
+paper,the maximum likelihood andBayesian methodsare usedfor estimating parameter ofBernoulli distribution,
+i.e. , which isdefined asthe probability of success event for two possible outcomes.The maximum likelihood and
+Bayesian estimators of Bernoulli parameter are derived, for the Bayesian estimator the Beta prior is used. The
+analytical calculation shows that maximum likelihood estimator is unbiased while Bayesian estimator is
+asymptotically unbiased. However, empirical analysis by Monte Carlo simulation shows that the mean square
+errors (MSE) of the Bayesian estimatorare smaller than maximum likelihood estimator for large sample sizes.",HA,Prosiding Seminar Nasional METODE KUANTITATIF 2017,2017,
+,CEK PLAGIARISME: The Role of Information Communication Technology,,"H1, HA, HJ",,2020-10-01,
+FMIPA9,The Effectiveness of Quantile Regression in Dealing with Potential Outliers,,HA,Barekeng jurnal Ilmu Matematika dan Terapan,2020-09-05,
+FMIPA9,Spline Regression Modelling for Health Problem: Study of Knot and Confidence Interval,"Abstract
+
+This article aimed to study about knot and confidence interval for health science using spline nonparameteric regression.The study used simulation and real data. The result showed that numbers of knot should be placed according to the quantil variable in order to get a good estimation of the data function. Inadditon,confidence interval using bayesian and bootstrap method gave no different result for a small sample size whereas for a big sample size bootstrap gave narrower interval.",HA,Jurnal Ilmu Dasar,2011-07,
+FMIPA9,Smooth Versions of the Mann–Whitney–Wilcoxon Statistics,,HA,AXIOMS,2022-06-21,
+FMIPA9,BENTUK KUADRATIK JUMLAH KUADRAT DAN KOMPONEN RAGAM RANCANGAN · TERSARANG DUA TAHAP MODEL ACAK,,HA,Prosiding Seminar Hasil-Hasil Penelitian Universitas Lampung 2009,2009,
+FMIPA9,"Regresi Rasio Prevalensi dengan Model Log-Binomial: Isu Ketakkonvergenan 
+
+PROSIDING SEMINAR NASIONAL  MATEMATIKA DAN PENDIDIKAN MATEMATIKA, uny","Regresi logistik memainkan peran sentral dalam pengamatan epidemiologi.  Regresi logistik memiliki odds ratio yang memberikan informasi tentang risiko seseorang didapati sebagai penderita suatu penyakit.   Pada kasus tertetu ratio prevalensi dapat didekati dari odds ratio, dan tidak memberikan perbedaan yang menyesatkan.   Namun odds ratio tidak selalu diinginkan.  Antara lain, karena pada pengamatan common event (pengamatan dengan nilai 1 yang banyak), rasio prevalensi tidak lagi dapat didekati secara langsung dari odds ratio, artimya odds ratio tidak lagi mencerminkan informasi yang diinginkan oleh epidemiologi.  Untuk itu diperlukan pendekatan lain dalam memperoleh ratio prevalensi dari data binomial, antara lain dengan model log-binomial/regresi relative risk/rasio prevalensi.  Regresi logbinomial, dalam terminologi Model Linier Umum adalah model dengan distribusi Y binomial yanag menggunakan link-function log, sedangkan regresi logistik, menggunakan fungsi link, logit.  Pada regresi log-binomial selain masalah ketakkonvergenan, dimungkinkan terjadi pendugaan peluang diluar interval 0-1, karena model ini tidak melakukan restriksi 0<=P(Y=1)<=1, seperti pada model logistik.  Akibatnya, pada saat memodelkan pengamatan dengan P(Y=1) ≅ 1 atau rasio prevalensi mendekati 1, mungkin terjadi masalah.   Penelitian ini ingin mengatasi masalah ketakkonvergenan pada log-binomial melalui metode copy (Copy Method) melalui suatu studi kasus penderita Demam Berdarah Dengue (DBD) di RSUD Dr. Soebandi Jember. Tulisan ini membicarakan tenang isu masalah ketakkonvergenan pada log-binomial, dengan alternatif penyelesaian menggunakan metode copy (Copy Method). Studi kasus diberikan sebagai ilustrasi data penderita Demam Berdarah Dengue (DBD) di RSUD Dr. Soebandi Jember. 
+Kata Kunci: Regresi Rasio Prevalensi, Risiko Relatif, log-binomial,  ketakkonvergenan",HA,PROSIDING SEMINAR NASIONAL  MATEMATIKA DAN PENDIDIKAN MATEMATIKA,,
+,"ANALISISI REGRESI ROBUST MENGGUNAKAN METODE
+PENDUGA-MM","Ordinary least square (OLS) is a best linear unbiased estimator (BLUE) for regression analysis which can minimizes the mean square error. But it is very sensitive to outliers, even one extreme outlier can distort the prediction of OLS.
+MM-estimator is one of robust regression methods which is known as a high breakdown point and a high asymptotically efficiency estimator. In this paper we aim to look at the robustness of the regression coefficient of MM-Estimator. A
+simulation study was carried out using four sample sizes: n = 20, 60,100 and 200. We contaminated the data with 5%, 10%, 15%, 20%, 25% and 30% outliers. The effect of outliers on regression coefficient is studied by comparing the Mean
+Square Error (MSE) resulted by MM-estimator and by OLS in presence of outliers. The result shows that regression analysis using MM-Estimator is very robust.",HA,PROSIDING Seminar Nasional Sains dan Teknologi III,2010,
+FMIPA9,"Abstract
+
+This article aimed to study about knot and confidence interval for health science using spline nonparameteric regression.The study used simulation and real data. The result showed that numbers of knot should be placed according to the quantil variable in order to get a good estimation of the data function. Inadditon,confidence interval using bayesian and bootstrap method gave no different result for a small sample size whereas for a big sample size bootstrap gave narrower interval.","Abstract
+
+This article aimed to study about knot and confidence interval for health science using spline nonparameteric regression.The study used simulation and real data. The result showed that numbers of knot should be placed according to the quantil variable in order to get a good estimation of the data function. Inadditon,confidence interval using bayesian and bootstrap method gave no different result for a small sample size whereas for a big sample size bootstrap gave narrower interval.",HA,Jurnal Ilmu Dasar,2009-01,
+FMIPA9,Analisis regresi robust menggunakan metode penduga -MM,,HA,Prosiding Seminar Nasional Sains dan Teknologi-III Published by LPPM Unila 18-19 Oktober 2010,2010-10-18,
+FMIPA9,A ROBUST PROCEDURE FOR GEE MODEL,"Abstract 
+In longitudinal studies, multiple measurements are taken on the same subject at different points in time. Thus, observations for the same subject are correlated. This paper proposes a robust procedure for estimating parameters of regression model when generalized estimating equation (GEE) applied to longitudinal data that contains outliers. The procedure is a combination of the iteratively reweighted least square (IRLS) and least trimmed square (LTS) methods and is called iteratively reweighted least trimmed square (IRLTS). We conducted a simulation study for gamma model and Poisson model using the proposed method, the result shows that our approach can provide a better result than the classical GEE.",HA,Far East Journal of Mathematical Sciences (FJMS),2017-08,
+FMIPA9,A Robust Procedure for GEE Model,"Abstract
+In longitudinal studies, multiple measurements are taken on the same subject at different points in time. Thus, observations for the same subject are correlated. This paper proposes a robust procedure for estimating parameters of regression model when generalized estimating equation (GEE) applied to longitudinal data that contains outliers. The procedure is a combination of the iteratively reweighted least square (IRLS) and least trimmed square (LTS) methods and is called iteratively reweighted least trimmed square (IRLTS). We conducted a simulation study for gamma model and Poisson model using the proposed method, the result shows that our approach can provide a better result than the classical GEE.  
+2010 Mathematics Subject Classification: 62J12.
+Keywords: longitudinal data, outlier, regression model.",HA,Far East Journal of Mathematical Sciences (FJMS),,"longitudinal data, outlier, regression model."
+FMIPA9,"Testing Normality and Bandwith Estimation Using Kernel Method
+For Small Sample Size","This article aimed to study kernel method for testing normality and to determine the density function based on
+curve fitting technique (density plot) for small sample sizes. To obtain optimal bandwith we used Kullback-
+Leibler cross validation method. We compared the result using goodness of fit test by Kolmogorof Smirnov test
+statistics. The result showed that kernel method gave the same performance as Kolmogorof Smirnov for testing
+normality but easier and more convinient than Kolmogorof Smirnov does.","H1, HA",ILMU DASAR,2009,
+FMIPA9,RIDGE REGRESSION FOR HANDLING DIFFERENT LEVELS OF MULTICOLLINEARITY,,HA,Science International Lahore,2018-07,
+FMIPA9,RIDGE REGRESSION FOR HANDLING DIFFERENT LEVELS OF MULTICOLLINEARITY,,HA,"Sci.Int.(Lahore),",2018-07,
+FMIPA9,Selecting the Method to Overcome Partial and Full Multicollinearity in Binary Logistic Model,,HA,International Journal of Statistics and Applications,2020-06-17,
+FMIPA9,Laporan Penelitina terapan,,HA,,2021-12,
+FMIPA9,Laporan PKM Unggulan 2021,,HA,,,
+,"THE OPTIMAL BANDWIDTH FOR KERNEL DENSITY ESTIMATION OF
+SKEWED DISTRIBUTION: A CASE STUDY ON SURVIVAL TIME DATA OF CANCER PATIENTS","In this paper, optimal bandwidth selection for skewed distribution is studied through data simulation. The data are generated
+from Exponential (1), Exponential (5), Gamma (1,6), Gamma (1,9), Weibull (1,5), and Weibull (1,10) distributions having
+parameter(s) that produces a skewed density function with n = 100. The Gaussian kernel density functions of the generated
+distributions are estimated using Scott (Nrd), Silverman’s rule of thumb (Nrd0), Silverman’s Long-Tailed distribution
+(Silverman-LT), Biased Cross validation (BCV) and Sheater-Jones (SJ) bandwidth methods. The kernel density estimates are
+compared to the corresponding probability density functions. The selected optimal bandwidth then is applied to kernel
+density estimation of survival time data of cancer patients. Result indicates that, overall, Silverman’s Rule of Thumb (Nrd0)
+method outperformed the other methods.",HA,Prosiding Seminar Nasional METODE KUANTITATIF 2017,2017,
+FMIPA9,The Optimal Bandwidth for Kernel Density Estimation of Skewed Distribution: A Case Study on Survival Data of Cancer Patients,,HA,PROSIDING SEMINAR NASIONAL METODE KUANTITATIF,,
+FMIPA9,Regularized Multiple Regression Methods to Deal with Severe Multicollinearity,"Abstract  This study aims to compare the performance of Ordinary Least Square (OLS),  Least Absolute Shrinkage and Selection Operator (LASSO), Ridge Regression (RR) and  Principal Component Regression (PCR)  methods in han-dling severe multicollinearity among explanatory variables in multiple regression analysis using data simulation. In order to select the best method, a Monte Carlo experiment was caried out, it was set that the simulated data contain severe multicollinearity among all explanatory variables (ρ = 0.99) with different sample sizes (n = 25,50,75,100,200) and different levels of explanatory variables (p = 4, 6,8,10,20).   The performances of the four methods are compared using Average Mean Square Errors (AMSE) and Akaike Information Criterion (AIC).  The result shows that PCR has the lowest AMSE among other methods.  It indicates that PCR is  the most accurate regression coefficients estimator in each sample size and various levels of explanatory variables studied.  PCR also performs as the best estimation model since it gives the lowest AIC values compare to OLS, RR, and LASSO.",HA,International Journal of Statistics and Applications,2018-07-14,
+FMIPA9,Regularized Multiple Regression Methods to Deal with Severe Multicollinearity,"This study aims to compare the performance of Ordinary Least Square (OLS), Least Absolute Shrinkage and Selection Operator (LASSO), Ridge Regression (RR) and Principal Component Regression (PCR) methods in handling severe multicollinearity among explanatory variables in multiple regression analysis using data simulation. In order to select the best method, a Monte Carlo experiment was carried out, it was set that the simulated data contain severe multicollinearity among all explanatory variables (ρ = 0.99) with different sample sizes (n = 25, 50, 75, 100, 200) and different levels of explanatory variables (p = 4, 6, 8, 10, 20). The performances of the four methods are compared using Average Mean Square Errors (AMSE) and Akaike Information Criterion (AIC). The result shows that PCR has the lowest AMSE among other methods. It indicates that PCR is the most accurate regression coefficients estimator in each sample size and various levels of explanatory variables studied. PCR also performs as the best estimation model since it gives the lowest AIC values compare to OLS, RR, and LASSO.",HA,International Journal of Statistics and Applications,2018-07-14,
+FMIPA9,Regularized Multiple Regression Methods to Deal with Severe Multicollinearity,"Abstract  This study aims to compare the performance of Ordinary Least Square (OLS),  Least Absolute Shrinkage and Selection Operator (LASSO), Ridge Regression (RR) and  Principal Component Regression (PCR)  methods in han-dling severe multicollinearity among explanatory variables in multiple regression analysis using data simulation. In order to select the best method, a Monte Carlo experiment was caried out, it was set that the simulated data contain severe multicollinearity among all explanatory variables (ρ = 0.99) with different sample sizes (n = 25,50,75,100,200) and different levels of explanatory variables (p = 4, 6,8,10,20).   The performances of the four methods are compared using Average Mean Square Errors (AMSE) and Akaike Information Criterion (AIC).  The result shows that PCR has the lowest AMSE among other methods.  It indicates that PCR is  the most accurate regression coefficients estimator in each sample size and various levels of explanatory variables studied.  PCR also performs as the best estimation model since it gives the lowest AIC values compare to OLS, RR, and LASSO.",HA,International Journal of Statistics and Applications,2018-07-14,
+FMIPA9,Regularized Multiple Regression Methods to Deal with Severe Multicollinearity,"Abstract  This study aims to compare the performance of Ordinary Least Square (OLS),  Least Absolute Shrinkage and Selection Operator (LASSO), Ridge Regression (RR) and  Principal Component Regression (PCR)  methods in han-dling severe multicollinearity among explanatory variables in multiple regression analysis using data simulation. In order to select the best method, a Monte Carlo experiment was caried out, it was set that the simulated data contain severe multicollinearity among all explanatory variables (ρ = 0.99) with different sample sizes (n = 25,50,75,100,200) and different levels of explanatory variables (p = 4, 6,8,10,20).   The performances of the four methods are compared using Average Mean Square Errors (AMSE) and Akaike Information Criterion (AIC).  The result shows that PCR has the lowest AMSE among other methods.  It indicates that PCR is  the most accurate regression coefficients estimator in each sample size and various levels of explanatory variables studied.  PCR also performs as the best estimation model since it gives the lowest AIC values compare to OLS, RR, and LASSO.",HA,International Journal of Statistics and Applications,2018-07-14,
+,Laporan PKN Pemula,,HA,,2021-12,
+FMIPA9,"Performance of High-Order Chen Fuzzy Time Series Forecasting Method and Feedforward
+Backpropagation Neural Network Method in 
+Forecasting Composite Stock Price Index",,HA,American Journal of Computational and Applied Mathematics,2022-03-15,
+FMIPA9,Perbandingan model-model Asimetris,"This paper aims to compare several asymmetric conditional volatility models ussually use in time series forecasting models.  The focus is on Indonesia Telecomunication Inc. daily stock return volatility data to the 2016-2017 time interval. The presence of leverage effects in empirical series is investigated.    The GARCH, TGARCH, EGARCH, and APARCH models are used and examined to estimate the best forecasting model bBased on the value of Akaike Information (AIC) and Schwarz Criterions (SC).
+
+
+Key Words : Volatility, GARCH, TGARCH, EGARCH, APARCH, AIC dan SC.",HA,statistics,,
+FMIPA9,RANCANGAN PERCOBAAN: TEORI DAN APLIKASI,,HA,,2018-02,
+FMIPA9,PENGAYAAN DAN PENDAMPINGAN MATERI PELAJARAN MATEMATIKA DAN STATISTIKA PADA BIDANG KESEHATAN BAGI GURU SMKN 2 TANJUNG RAYA KABUPATEN MESUJI PROPINSI LAMPUNG,,HA,Jurnal ABDIDAS,2020-09-28,
+FMIPA9,"Smoking has physical and psychoactive effects, and 
+heavy smoking is associated with depression",,"HA, R1",Jpn J Health & Human Ecology,2020-12-17,
+FEB5,FINDING THE STRATEGY AFTER CORONA CRISIS: THE NEW NORMAL AND RESILIENT ECONOMY GROWTH IN INDONESIA,"The research method used to analyze the situation and conditions in making this paper is a qualitative method. As an analysis procedure, qualitative methods can produce descriptive data in the form of written or spoken words from people or observable behaviour. This pandemic comes with all its negative effects. Inequality, poverty, and education are the most affected lines in this pandemic because they reduce the income of vulnerable and poor groups. Many parties assess the world economy is far worse than before the corona. Weakening global economic growth caused many impacts on the pace of economy in Indonesia, both in terms of trade, investment and tourism. Thus, changing the projected economic growth becomes even slower due to the spread of Covid-19 throughout the country. Although we know that the Indonesian government has issued a policy of hundreds of trillions of rupiah to save our economy, social impact, poverty, and Equality. The Indonesian government has currently budgeted funds of Rp405.1 Trillion for handling Covid-19. The budget allocation will be divided for several sectors, such as the health sector in the amount of Rp75 Trillion, Social Safety Net of Rp110 trillion, tax incentives and stimulus for People's Business Credit (KUR) of Rp70.1 trillion, and funding for the national economic recovery program of Rp150 Trillion, including credit restructuring and guarantees as well as MSME and business financing to maintain economic resilience and recovery.","H1, HA","International Journal of Economics, Business and Entrepreneurship",,
+FEB6,"Penilaian Reviewer: Educational Performance Management Model for Higher Education: 
+Soft System Methodology Based Action Research Approach","Educational staff is one of the main elements that determine the success of higher education. One 
+of the factors that affect the performance of educational staff is a performance reward in the form 
+of remuneration. The purpose of this study is to build a performance management model for 
+educational staff at the State University Public Service Agency (SUPSA). The approach used Soft 
+System Methodology and the Analytic Hierarchy Process. The samples in this study were 
+educational staff at the State University Public Service Agency in Lampung Province. Based on the 
+results of the SSM, it shows that many parties have an interest in the performance of education 
+personnel, namely lecturers, students, unit leaders, the Chancellor, as well as the Ministry of 
+Education and Culture and the Ministry of Finance. The AHP results indicate that the priority of 
+the education staff performance strategy is based on competence and performance measurement. 
+The limitation of this research is that the SSM stage is carried out only in the sixth stage of the 
+seven stages. It is also necessary to conduct a study on activity mapping and business process 
+preparation as part of the development of a performance management application system for 
+education personnel.","H1, HA",,2021-07,
+FMIPA9,"Analisis Biplot dalam pengelompokan  
+Persepsi antaretnik di Bakauheni Lampung Selatan","Analisis Biplot adalah suatu teknik statistika deskriptif yang dapat disajikan secara visual guna
+menyajikan secara simultan n obyek pengamatan dan p peubah dalam ruang bidang datar, sehingga
+ciri-ciri peubah dan obyek pengamatan serta posisi relatif antar obyek pengamatan dengan peubah
+dapat dianalisis. Penelitian ini bertujuan mengelompokkan  persepsi antaretnik Sunda, Jawa, Batak,
+Lampung dan Bugis  di Bakauheni Kalianda.  Berdasarkan hasil analisis terdapat  2 kelompok besar 
+yaitu kelompok etnik pemberani dan kelompok etnik yang rendah hati, halus, dan sederhana.
+Kelompok etnik pemberani yaitu etnik Batak, Lampung, dan Bugis. Kelompok etnik yang rendah hati,
+halus, dan sederhana yaitu etnik Jawa dan Sunda. Perilaku toleran, jujur, bijaksana, pandai, agamis,
+terbuka, pemaaf, dan pemurah dimiliki oleh semua etnik.",HA,Prosiding Seminar Nasional METODE KUANTITATIF 2018,2018-11-19,
+FMIPA9,A Complete Characterization of Multivariate Normal Stable Tweedie Models through a Monge–Amp`ere Property,"Abstract Extending normal gamma and normal inverse Gaussian models, multivariate normal stable
+Tweedie (NST) models are composed by a ﬁxed univariate stable Tweedie variable having a positive
+value domain, and the remaining random variables given the ﬁxed one are real independent Gaussian
+variables with the same variance equal to the ﬁxed component. Within the framework of multivariate
+exponential families, the NST models are recently classiﬁed by their covariance matrices V(m) depending
+on the mean vector m. In this paper, we prove the characterization of all the NST models through
+their determinants of V(m), also called generalized variance functions, which are power of only one
+component of m. This result is established under the NST assumptions of Monge–Amp`ere property
+and steepness. It completes the two special cases of NST, namely normal Poisson and normal gamma
+models. As a matter of fact, it provides explicit solutions of particular Monge–Amp`ere equations in
+diﬀerential geometry.",HA,"Acta Mathematica Sinica, English Series",2020-12-15,
+FMIPA9,"Generalized Variance Estimations
+of Normal-Poisson Models","This chapter presents three estimations of generalized variance (i.e., determinant of covariance matrix) of normal-Poisson models: maximum likelihood (ML) estimator, uniformly minimum variance unbiased (UMVU) estimator, and Bayesian estimator. First, the definition and some properties of normal-Poisson models are established. Then ML, UMVU, and Bayesian estimators for generalized variance are derived. Finally, a simulation study is carried out to assess the
+performance of the estimators based on their mean square error (MSE).","HA, QA",,2016,
+FMIPA9,Aplikasi Statistik Deskriptif pada Data Hasil Pengabdian Kepada Masyarakat: Studi Kasus Data Hasil Pelatihan Disain Media Pembelajaran dan Pengolahan Nilai dengan Ms Word bagi Guru SLTP di Kota Bandar Lampung,"Statistika deskriptif sebagai alat bantu dalam analisis data dan penelitian telah banyak digunakan secara intensif. Analisis statistika deskriptif dalam analisis pelatihan desain media pembelejaran dan pengolahan nilai dengan MS Word merupakan bentuk pengabdian kepada masyarakat oleh institusi Universitas Lampung pada umumnya dan Jurusan Matematika pada khususnya yang bertujuan untuk meningkatkan pengetahuan dan keterampilan guru dalam menggunakan komputer sebagai alat penunjang aktivitas/pekerjaan mereka di sekolah, khususnya dalam mengolah nilai siswa dan menjadikan transparansi sebagai media pembelajaran dalam menghadapi era globalisasi.
+Berdasarkan pretest dan posttest kegiatan pelatihan ini memberikan hasil yang 'Sangat Baik'. Artinya terjadi peningkatan hasil yang memuaskan dilihat dari hasil ujian akhir (Posttest) peserta pelatihan yang mengalami peningkatan secara signifikan sebesar 95% dari kondisi awal (pretest).   
+Kata kunci: Statistika Deskriptif, Analisis Data Pelatihan, Desain Media Pembelajaran, Pengolahan Nilai",HA,Jurnal Dedikasi Negeri,2022-05-01,
+FMIPA9,Robust Principal Component Trimmed Clustering of Indonesian Provinces Based on Human Development Index Indicators,,HA,Journal of Physics: Conference Series,2020-09-03,
+FMIPA9,ANALISIS REGRESI KOMPONEN UTAMA ROBUST DENGAN METODE MINIMUM COVARIANCE DETERMINANT – LEAST TRIMMED SQUARE (MCD-LTS),"Principal Component Regression (PCR) is a method used to overcome multicollinearity problems by reducing the dimensions of independent variables to obtain new simpler variables without losing most of the information contained in the variables. If the data analyzed contain outliers, a robust method on PCR is required. In this paper we use a robust method which is a combination of Robust Principal Component Analysis using the Minimum Covariance Determinant (MCD) method and Robust Regression Analysis using Least Trimmed Square (LTS) method. The purpose of this study is to examine the robust PCR analysis using the MCD-LTS method and to know the robustness of the method by looking at its sensitivity to outliers. For this purpose we compared the MCD-LTS PCR to the classic PCR based on the bias and Mean Square Error (MSE) values on several different sample sizes and percentages of outliers. The results of this study indicate that robust PCR using MCD-LTS is effective and efficient in overcoming the problem of multicollinearity and outliers in regression analysis.",HA,Jurnal Siger Matematika,2020-03-24,
+FISIP1,Buku Statistika Bisnis,"B
+uku ajar statistik bisnis ini dibuat agar mahasiswa mampu memahami statistik dalam rangka membantu memecahkan permasalahan bisnis dan juga dapat digunakan untuk pembuatan keputusan bisnis. Buku ini diawali pembahasan urgensi mempelajari statistik, peran ilmu statistik dalam bisnis dan industri, cara berpikir statistik. Selanjutnya dilengkapi dengan aplikasi dan contoh penggunaan statistik dalam kehidupan sehari-hari maupun pada dunia bisnis, serta riset-riset bisnis yang menggunakan statistik. 
+
+Pembahasan dilanjutkan dengan memberikan pengertian Pendalaman Tipe-Tipe Statistik, Statistik Deskriptif, Statistik Inferensial, Metode Pengumpulan Data,  Pengolahan Data, Penyajian Data, Distribusi Frekuensi, Ukuran Nilai Sentral,  Annova, analisis Varians Satu jalan ( One Way Annova), analisis Varians Satu jalan ( One Way Annova).
+
+Bab berikutnya akan menjelaskan tentang Alat Analisis Data, Analisis Regresi dan Korelasi, Analisis Regresi Berganda, Asumsi Klasik, selanjutnya pembahasan statistic dalam buku ini aka ditutup dengan pembahasan tentang Statistika non-parametrik I, Prinsip-prinsip statistika non-parametrik, uji Kolmogorov-Smirnov, Statistika non-parametrik 2 berupa  Uji Wilcoxon dan Uji Mann-Whitney.",HA,,2017-10-01,
+FMIPA9,"INOVASI PEMBUATAN KREASI OLAHAN MAKANAN SAMBAL
+KERANG HIJAU DI KELURAHAN KOTA KARANG RAYA",,HA,Jurnal Buguh,2022-06-10,
+FMIPA9,GRAFIK PENGENDALI NONPARAMETRIK DENGAN ESTIMASI FUNGSI DENSITAS KERNEL,,HA,Prosiding seminar Nasional FMIPA 2019,,
+FISIP2,Application of SEM: an analysis of Depok City's website,,"H1, HA",IOP Conf. Series: Materials Science and Engineering,,
+,Bayesian Inference of Poisson Distribution using Conjugate and Non-Informative Priors,"Poisson distribution is one of the most important and widely used statistical distributions. It is commonly used to describe the frequency probability of specific events when the average probability of a single occurrence within a given time interval is known. In this paper, Bayesian inference of Poisson distribution parameter (μ) is presented. Two Bayesian estimators of μ using two different priors are derived, one by using conjugate prior by applying gamma distribution, and the other using non-informative prior by applying Jeffery prior. The two priors yield the same posterior distributions namely gamma distribution. Comparison of the two Bayesian estimators is conducted through their bias and mean square error evaluation.",HA,Prosiding Seminar Nasional METODE KUANTITATIF 2017,2017,
+FMIPA9,Laporan Kemajuan Penelitian terapan 2021,,HA,,2021,
+FMIPA9,"PELATIHAN PENGGUNAAN MICROSOFT OFFICE EXCEL DALAM
+PENATAAN ADMINISTRASI DESA BAGI OPERATOR/SEKRETARIS 
+DESA SE KECAMATAN KEDONDONG KABUPATEN PESAWARAN",,HA,Jurnal Pengabdian Kepada Masyarakat BUGUH,2021-12-31,
+,Analisis Diskriminan Linier Robust Menggunakan Metode Volume Ellipsoid Minimum,Similarity,HA,,2019-09-17,
+FMIPA9,Analisis Diskriminan Robust menggunakan Metode Volume Ellipsoid Minimum,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: prosiding nasional,HA,,2018-03-28,
+FMIPA9,"""Analisis Ketegaran Regresi Robust Terhadap Letak Pencilan: Studi Perbandingan""",Similarity,HA,,2019-09-17,
+FMIPA9,Analisis Ketegaran Regresi Robust terhadap letak pencilan : Studi Perbandingan,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: jurnal ilmiah nasional,HA,,2018-03-28,
+,Analisis Regresi Komponen Utama Robust untuk Data Mengandung Pencilan,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: jurnal ilmiah nasional,HA,,2018-03-28,
+,Analisis Regresi Komponen Utama Robust untuk Data Mengandung Pencilan,Similarity,HA,,2019-09-17,
+,Analisis Regresi Robust Menggunakan Metode Penduga MM,Similarity,HA,,2019-09-17,
+FMIPA9,Analisis Regresi Robust Menggunakan Metode Penduga-MM,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: prosiding seminar nasional,HA,,2018-03-28,
+,Bayesian Inference of Poisson Distribution using Conjugate and Non-Informative Priors,Similarity,HA,,2019-09-17,
+,Bayesian inference of Poisson Distribution using Conjugate and Non-informative Priors,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: prosiding seminar nasional,HA,,2018-03-28,
+FMIPA9,Characterization of Multivariate Normal Poisson Model,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: jurnal ilmiah internasional,HA,,2018-03-28,
+FMIPA9,Characterization of Multivariate Normal Poisson Model,Similarity,HA,,2019-09-17,
+,Empirical Comparison of ML and UMVU Estimators of the Generalized Variance for Some Normal Stable Tweedie Models : a Simulation Study,Similarity,HA,,2019-09-17,
+FMIPA9,Empirical Comparison of ML and UMVU Estimators of the Generalized Variance of Some Normal Stable Tweedie Models: A Simulation Study,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: jurnal ilmiah internasional,HA,,2018-03-28,
+FMIPA9,Generalized Variance Estimation of Normal POisson Models,Similarity,HA,,2019-09-17,
+FMIPA9,Generalized Variance Estimations of Normal Poisson Model,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: Book chapter internasional,HA,,2018-03-28,
+,HASIL PEER RIVIEW ARTIKEL UNTUK ANGKA KREDIT NISA,,HA,,2019,
+FMIPA9,On Generalized Variance of Normal Poisson Model and Poisson Variance Estimation under Gaussianity,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: jurnal ilmiah internasional,HA,,2018-03-28,
+FMIPA9,On Generalized Variance of Normal Poisson Models abd Poisson Variance Estimation under Gaussianity,Similarity,HA,,2019-09-17,
+,The Optimal Bandwidth for Kernel Density Estimation of Skewed Distribution: A Case Study on Survival Data of Cancer Patients,Similarity,HA,,2019-09-17,
+FMIPA9,The Optimal Bandwidth for Kernel Density Estimation of Skewed Distribution: A Case Study on Survival Data of Cancer Petients,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: Prosiding Seminar Nasional,HA,,2018-03-28,
+FMIPA9,"PEMBANDINGAN BEBERAPA PENDUGA TINGKAT KESALAHAN KLASIFIKASI
+PADA ANALISIS DISKRIMINAN KUADRATIK","The major objective of discriminant analysis is to classify multivariate data into different population on the basis of a training sampel for which the source populations are known. Since the primary goal of discriminant analysis is classifying data, it is important to know the probability of misclassification (which is also called: classification error rate) of the classification rule we use. In this paper we compared four methods for estimating the classification error rate through Monte Carlo simulation, the methods are the Resubstituion method, the Jackknife method, U estimator and U estimator. We set the simulation using 1000 random samples with size: n = 20, 40 and 60. The comparison of the predictions of error rate was done using the MSE (mean square error) resulted from all methods. Te result showed that the Jackknife method always performs better than the other three methods.",HA,PROSIDING Seminar Sehari Hasil – Hasil Penelitian & Pengabdian Kepada Masyarakat Universitas Lampung,2009,
+,"PEMBANDINGAN EMPIRIS TIGA METODE REGRESI ROBUST
+(AN EMPIRICAL COMPARISON OF THREE ROBUST REGRESSION METHODS)","Regression analysis is a statistical technique that serves as a basis for drawing inferences about relationship among
+variables (Myers, 1990). When data contains outlier, a robust technique on regression is urgently needed. In this paper we
+aim to compare three robust regressions methods: Least Trimmed Square (LTS), Least Median Square (LMS) and Least
+Absolute Value (LAV). We set a Monte Carlo simulation using 1000 random samples on every sample size we considered: n
+= 30, 60,100, and 200. We contaminated the data with 10%, 20%, 30% and 40% outliers. The effect of outliers on regression coefficient is studied by comparing the bias, the mean square error (MSE), and the standard error (SE) resulted by LTS, LMS and LAV in presence of outliers. The result shows that the LMS and LTS yield almost the same bias, MSE and SE. And each of the two methods performs better than LAV.",HA,PROSIDING Seminar Hasil Penelitian & Pengabdian Kepada Masyarakat UNIVERSITAS LAMPUNG BANDARLAMPUNG SEPTEMBER Universitas Lampung,2007,
+,"PEMBANDINGAN REGRESI KOMPONEN UTAMA DAN ALGORITMA
+PROYEKSI DALAM MENGATASI MULTIKOLINEARITAS","Principal component regression (PCR) is often used in regression with multicollinearity, but it is
+not a method which directly maximizes coefficient of determination (R2) since the first k principal
+components (PCs) with the largest variances do not always the variables that are most highly
+correlated with the response variable. To maximize the R2 we have to select the PCs by a
+procedure such as the stepwise procedure. Projection algorithm is a method which can be used to overcome multicollinearity and can also
+maximize the R2. In this study we aimed to compare the R2 resulted by the PCR, Stepwise-PCR and
+the projection algorithm by Monte Carlo simulation. We generated data from normal distribution
+with 1900 replications. The result shows that projection algorithm and Stepwise-PCR yield almost
+the same R2 and each of the two methods performs better than the PCR.",HA,,2006,
+,PENGKLASIFIKASIAN DATA MENGGUNAKAN ANALISIS DISKRIMINAN DAN ANALISIS GEROMBOL K-RATAAN,"Discriminant analysis and K-means cluster analysis are widely used statistical techniques for data classification. Here we compare the two methods by data simulation experiment. We generated data of the type most commonly assumed when using K-means clustering. The misclassifications rates and the R- squares (R2) of the two methods are discussed. The result shows that the discriminant analysis performs better than K-means clustering in misclassification rate, but worse in R2.",HA,Jurnal Matematika Murni dan Terapan BKS-PTN  Wilayah Barat,2005-08,
+,Parameter Estimation of Bernoulli Distribution using Maximum Likelihood and Bayesian Methods,Similarity,HA,,2019-09-17,
+FMIPA9,Parameter Estimation of Bernoulli Distribution using Maximum Likelihood and Bayesian Methods.,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: prosiding seminar nasional,HA,,2018-03-28,
+FMIPA9,Pembandingan Beberapa Penduga Tingkat Kesalahan Klasifikasi pada Analisis Diskriminan Kuadratik,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: prosiding seminar nasional,HA,,2018-03-28,
+,Pembandingan Beberapa Penduga Tingkat Kesalahan Klasifikasi pada Analisis Diskriminan Kuadratik,Similarity,HA,,2019-09-17,
+FMIPA9,Pembandingan Empiris Tiga Metode Regresi Robust,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: prosiding seminar nasional,HA,,2018-03-28,
+,Pembandingan Empiris Tiga Metode Regresi Robust,Similarity,HA,,2019-09-17,
+FMIPA9,Pembandingan Regresi Komponen Utama dan Algoritma Proyeksi dalam Mengatasi Multikolinieritas,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: prosiding seminar nasional,HA,,2018-03-28,
+,Pembandingan Regresi Komponen Utama dan Algoritma Proyeksi dalam Mengatasi Multikolinieritas,Similarity,HA,,2019-09-17,
+,Pengklasifikasian Data Menggunakan Analisis Diskriminan dan Analisis Gerombol K Rataan,Similarity,HA,,2019-09-17,
+FMIPA9,Pengklasifikasian Data Menggunakan Analisis Diskriminan dan Analisis Gerombol k-Rataan,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: jurnal ilmiah nasional,HA,,2018-03-28,
+FMIPA9,Robust Estimation of Generalized Estimating Equation when Data Contain Outlier,Similarity,HA,,2019-09-17,
+FMIPA9,Robust Estimation of Generalized Estimating Equation when Data Contain Outliers,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: jurnal ilmiah internasional,HA,,2018-03-28,
+FMIPA9,Robust Principal Component Analysis using Minimum Covariance Determinant Estimator,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: prosiding internasional,HA,,2018-03-28,
+,Robust Principal Component Analysis using Minimum Covariance Determinant Estimator,Similarity,HA,,2019-09-17,
+FMIPA9,A Robust Procedure for GEE Model,Similarity,HA,,2019-09-17,
+FMIPA9,A Robust Procedure for GEE model,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: jurnal ilmiah internasional,HA,,2018-03-28,
+FMIPA9,SIMILARITY CHECK RESULT ARTIKEL JURNAL INTERNASIONAL UNTUK ANGKA KREDIT NISA,,HA,,2019,
+FMIPA9,Testing Normality and Bandwidth Estimation using Kernel Method for Small Sample Size,Hasil penilaian sejawat sebidang atau peer review karya ilmiah: jurnal ilmiah nasional,HA,,2018-03-28,
+,Testing Normality and Bandwidth estimation using Kernel Method for small sample size,Similarity,HA,,2019-09-17,
+FMIPA9,Analysis of variance for strip plot design with missing values: bias correction of the mean squares,"Missing values in strip plot design cause an unbalanced design. As a result, several problems occur in analyzing the data. This paper presents the estimation of two and three missing values from strip-plot design with the fixed model using the Yates approach. However, the estimation toward the missing values in strip-plot design causes bias on the treatment mean squares which is shown by its expected value. To omit the bias caused by the estimated values, a procedure of Satterthwaite-Cochran approximation is applied. The procedure corrects the bias and gives an adjusted analysis of variance for the hypothesis test.",HA,,2020-06-22,
+FMIPA9,Analisis diskriminan linier robust menggunakan metode volume ellipsoid minimum,,HA,Prosiding Seminar nasional sains mipa dan aplikasinya 2016,2010-12-08,
+FMIPA9,Robust Estimation of Generalized Estimating Equation when Data Contain Outliers,"Abstract—In this paper, a robust procedure for estimating parameters of regression model when generalized estimating equation (GEE) applied to longitudinal data that contains outliers is proposed. The method is called ‘iteratively reweighted least trimmed square’ (IRLTS) which is a combination of the iteratively reweighted least square (IRLS) and least trimmed square (LTS) methods. To assess the proposed method a simulation study was conducted and the result shows that the method is robust against outliers. 
+Keywords—GEE, IRLS, LTS, longitudinal data, regression model.",HA,INSIST,2017,
+FMIPA9,Robust Estimation of Generalized Estimating Equation when Data Contain Outliers,"In this paper, a robust procedure for estimating
+parameters of regression model when generalized estimating
+equation (GEE) applied to longitudinal data that contains outliers is
+proposed. The method is called ‘iteratively reweighted least trimmed
+square’ (IRLTS) which is a combination of the iteratively
+reweighted least square (IRLS) and least trimmed square (LTS)
+methods. To assess the proposed method a simulation study was
+conducted and the result shows that the method is robust against
+outliers.",HA,INSIST,2017-04-01,
+FMIPA9,"ANALISIS REGRESI NONNPARAMETRIK DENGAN 
+TEKNIK SMOOTHING","Smoothing has become a common technique in non-parametric methods which is used to estimate a function. This paper discuss three smoothing techniques for nonparametric regression that are often studied in literatures, i.e. kernel smoothing, smoothing splines, and the locally estimated scatterplot smoothing methods. The three methods will be examined empirically by using four generated data. Using the generated data, the result shows that the smoothing spline gives better performance than the other two methods.",HA,PROSIDING SEMIRATA & ICST 2018,2018,
+FMIPA9,On Tweedie Family Distributions and Their Extensions,"We study the Tweedie family distributions as special cases of exponential dispersion models (EDMs) which are two-parameter distributions from the exponen- tial family that have a scale parameter λ. According to such parameterization, the mean and variance for the Tweedie random variable X are given by E(X) =Γµ and Var(Y)= λµ , respectively, where p is an extra parameter that controls the variance of the distribution which is called “variance power” parameter. From this perspective, p some properties of Tweedie distribution are discussed. The multivariate extensions of Tweedie family are also presented.",HA,MAKALAH SEMINAR NASIONAL METODE KUANTITATIF 2018,2017,
+,"Robust Principal Component Analysis Using Minimum Covariance
+Determinant Estimator","Principal component analysis (PCA) is one of the most widely used statistical techniques for data
+dimension reduction. And a robust technique on PCA when data contains outlier is an important problem.
+In this paper, we consider the problem of robust PCA based on Minimum Covariance Determinant (MCD)
+mean and covariance matrix estimator. We aimed to look at the behavior of the principal component scores
+of robust PCA using MCD through their graphical plot of the first and the second PCS. The effect of
+outliers on PCA is studied by comparing the mean square error (MSE) resulted by MCD and by classical
+method in presence of outliers.",HA,Proceeding of International Conference on Mathematics and Natural Sciences,2006,
+,Characterizations of Multivariate Normal-Poisson Model,"Multivariate normal-Poisson model has been recently introduced as a special case of normal stable Tweedie models. The model is composed of a univariate Poisson
+variable, and the remaining variables given the Poisson one are independent Gaussian variables with variance the value of the Poisson component. Two characterizations of this model are shown, ﬁrst by variance function and then by generalized variance function which is the determinant of the variance function. The latter provides an explicit solution of a particular Monge-Ampère equation.","HA, QA",Journal of Iranian Statistical Society,2015-12-15,
+FMIPA9,"Empirical Comparison of ML and UMVU Estimators
+of the Generalized Variance for some Normal
+Stable Tweedie Models: a Simulation Study","This paper discuss a comparison of the maximum likelihood (ML)
+estimator and the uniformly minimum variance unbiased (UMVU) es-
+timator of generalized variance for some normal stable Tweedie models
+through simulation study. We describe the estimation of some particular
+cases of multivariate NST models, i.e. normal gamma, normal Poisson and normal invers-Gaussian. The result shows that UMVU method pro-
+duces better estimations than ML method on small samples and they
+both produce similar estimations on large samples.",HA,Applied Mathematical Sciences,2016-12,
+FMIPA9,"ON GENERALIZED VARIANCE OF NORMAL-POISSON MODEL AND
+POISSON VARIANCE ESTIMATION UNDER GAUSSIANITY","As an alternative to full Gaussianity, multivariate normal-Poisson model has been recently introduced. The model
+is composed by a univariate Poisson variable, and the remaining random variables given the Poisson one are real
+independent Gaussian variables with the same variance equal to the Poisson component. Under the statistical aspect of the
+generalized variance of normal-Poisson model, the parameter of the unobserved Poisson variable is estimated through a
+standardized generalized variance of the observations from the normal components. The proposed estimation is
+successfully evaluated through simulation study.",HA,ARPN Journal of Engineering and Applied Sciences,2017-06,
+FMIPA9,"ON GENERALIZED VARIANCE OF NORMAL-POISSON MODEL AND
+POISSON VARIANCE ESTIMATION UNDER GAUSSIANITY","As an alternative to full Gaussianity, multivariate normal-Poisson model has been recently introduced. The model
+is composed by a univariate Poisson variable, and the remaining random variables given the Poisson one are real
+independent Gaussian variables with the same variance equal to the Poisson component. Under the statistical aspect of the
+generalized variance of normal-Poisson model, the parameter of the unobserved Poisson variable is estimated through a
+standardized generalized variance of the observations from the normal components. The proposed estimation is
+successfully evaluated through simulation study.",HA,ARPN Journal of Engineering and Applied Sciences,2017-06,
+,ANALISIS VARIANS UNTUK DATA TAK LENGKAP PADA RANCANGAN STRIP-PLOT MENGGUNAKAN PENDEKATAN SATTERTHWAITE-COCHRAN,"Missing data in strip plot design cause unbalanced design. As a result, several problems occur in analysing the data. This paper discusses the estimation toward missing data and the hypotheses test in strip plot design. The estimation of missing data is done by using Yates approach. Satterthwaite-Cochran approximation is used to omit the bias caused by value estimation of missing data. Then, the simulation for power of test is done to compare the power of test resulted from direct tests to the imputed data using Yates approach estimation and the modified test using Satterthwaite-Cochran approximation (adjusted-test) toward standard test for complete data. Analytically, the result shows the estimation of missing data using Yates approach give an unbiased mean square error in strip plot design. However, the mean squares of treatment is over biased (positive). Using Satterthwaite-Cochran approach, the adjusted mean squares of treatments can be formulated such that the expected mean squares obtained are the same as the expected mean squares of strip plot design from complete data. The simulation study result shows that the adjusted-test using Satterthwaite-Cochran approximation give better result than the direct-test based on their power of test from 1000 replicated samples.",HA,,2018-12-20,
+FMIPA9,"Analysis of wholesale price indexes with the vector
+error correction model (VECM) approach","To obtain the wholesale price index (WPI) model and see the causal relationship between variables with the VECM approach based on the period January 2000 to August 2019. In this study, 3 variables are used; (i) Agriculture, (ii) Industry and (iii) Oil and Gas. This research begins with the stationarity test by looking at the plot and unit root test. When the variables are not stationary, a differencing is
+necessarily needed. The lag assessment is performed by observing at the smallest Aikake Information Criteria (AIC) and Schwarzt Information Criteria (SIC). A cointegration test using Johansen test is conducted to find whether there is a longterm relationship between WPI variables as a condition to proceed to VECM modeling. To see the dynamic behavior of the VECM model the Impulse Response
+Function (IRF) is used.    The best model obtained in this study is VECM(3) and based on the Granger causality analysis we obtained that Industry is affected by Oil and Gas, and Oil and Gas is affected by Industry and Agriculture.",HA,"TEST, ENGINEERING & MANAGEMEN",2020-02,
+,"ANALISIS REGRESI KOMPONEN UTAMA ROBUST UNTUK
+DATA MENGANDUNG PENCILAN","Principal Component Regression (PCR) is one of the widely used statistical techniques for regression analysis with
+colinearity, and a robust technique on PCR when data contains outlier is an important problem. In this paper we consider the problem of robust PCR based on Minimum Volume Ellipsoid (MVE) estimator and Least Trimmed Square (LTS) regression. We aimed to look at the behavior of the principal component regression coefficient resulted by MVE-LTS and compare them with classical estimator through the bias and the mean square error. The result shows that PCR using MVE-LTS is very robust.",HA,J. Sains MIPA,2008,
+FMIPA9,Gamma and Lognormal in Generelized Linear Model Persfective,,HA,"International Journal of Innovative  Research in Science, Engineering and  Technology (IJIRSET)",2020-09-20,
+FMIPA9,Study of Daily Rainfall Distribution for Flood Disaster Mitigation in Bandar Lampung,"Extreme rainfall is a hydro-meteorological event that most often causes disasters such as floods and landslides in Bandar Lampung. This makes the importance of using rainfall probability distribution to explain the potential of extreme rainfall events in Bandar Lampung. In this study, rainfall data were modelled using generalized Pareto distribution. The generalized Pareto distribution is known to be effective in explaining extreme event data and is suitable for data that involves time-dependent parameters to account for temporal changes in the frequency of distribution. The data used in this study are the intensities of daily rainfall from the Maritime Station of Meteorology, Climatology and Geophysics Agency (Indonesian: Badan Meteorologi, Klimatologi, dan Geofisika, abbreviated BMKG) in Panjang - Bandar Lampung in the period 1999-2018. The results showed that the generalized Pareto distribution was very suitable in describing the intensity of rainfall in Bandar Lampung and could be used for flood disaster mitigation.",HA,,2019-10-22,
+FMIPA9,"PERBANDINGAN MVE-BOOTSTRAP DAN MCD-BOOTSTRAP DALAMANALISIS REGRESI LINEAR BERGANDA PADA DATA BERUKURAN
+KECIL YANG MENGANDUNG PENCILAN","Dalam analisis regresi, metode penduga tak bias terbaik (best linier unbiased estimator) yang digunakan untuk
+pendugaan parameter adalah Metode Kuadrat Terkecil (MKT). Namun, ketika terdapat pencilan pada data
+pengamatan, MKT menjadi bias dan tidak efisien. Hal ini dikarenakan MKT sangat sensitif terhadap pencilan.
+Metode yang tepat digunakan untuk mengatasi masalah tersebut adalah metode robust. Minimum Volume Ellipsoid
+(MVE) dan Minimum Covariance Determinant (MCD) merupakan dua metode robust yang dikenal memiliki
+ketegaran yang baik terhadap pencilan. Tetapi, penggunaan MVE dan MCD diragukan apabila dihadapkan pada
+data yang berukuran kecil. Oleh sebab itu, perlu penerapan metode bootstrap/resampling pada kedua metode
+tersebut agar diperoleh hasil pendugaan yang lebih baik. Tujuan dari penelitian ini adalah membandingkan
+ketegaran metode MVE-Bootstrap dan MCD-Bootstrap untuk mengatasi pengaruh pencilan pada data yang berukuran kecil dalam analisis regresi linear berganda. Efektivitas masing-masing metode dapat diketahui berdasarkan nilai bias dan Mean Square Error (MSE) dari pendugaan parameter yang dihasilkan. Hasil penelitian menunjukkan bahwa MVE-Bootstrap lebih baik dari MCD-Bootstrap dalam menduga parameter regresi pada data
+berukuran kecil yang mengandung pencilan.",HA,,2018,
+FMIPA9,Analisis Vector Autoregressive (VAr) pada kurs mata uang dan harga saham,,HA,Prosidng seminar nasional metode kuantitatif III 2020,,
+FMIPA9,ESTIMASI KURVA REGRESI NONPARAMETRIK DENGAN MENGGUNAKAN METODE FOURIER DENGAN DAN TANPA PENCILAN,,HA,Prosiding semniar Nasional FMIPA 2019,,
+FMIPA9,ESTIMASI KURVA REGRESI NONPARAMETRIK DENGAN MENGGUNAKAN METODE FOURIER DENGAN DAN TANPA PENCILAN,,HA,Prosiding seminar nasional FMIPA 2019,,
+FMIPA9,"PELATIHAN ANALISIS DATA KESEHATAN DENGAN STATISTIKA
+DESKRIPTIF BAGI OPERATOR KESEHATAN/TENAGA
+KESEHATAN PUSKESMAS SE KECAMATAN TELUK BETUNG
+UTARA KOTA BANDAR LAMPUNG",,HA,Jurnal Pengabdian Kepada Masyarakat BUGUH,2022-03-30,
+FEB5,"Understanding Causality Relation among FDI, Foreign Trade and Economic Growth","This study aims to analyze the causality relationship between Foreign Direct Investment (FDI), Foreign Trade, and Economic Growth in Indonesia using quarterly time-series data from Q1-2004 to Q2-2019. This study uses co-analytical techniques, VECM integration, and Engle-Granger causality. The results of a two-way causality test happen between export and GDP variables, as well as import and GDP variables. In other words, foreign trade has an essential role in increasing economic growth in Indonesia. However, the two-way causality relationship takes place only in the short term. In the long run, it does not occur; what happens in the long term is an only one-way relationship, namely from foreign trade (X and M) to economic growth. While export and import relations have an only one-way relationship, namely from import growth to export growth, and this relationship only happens in the short term. In contrast, in the long term, it has no significant relationship. Likewise, the one-way relationship also takes place from imports to FDI in the short term. At the same time, export variables and GDP variables do not have a significant relationship with FDI variables. In the long-term economic growth, it turns out to be very instrumental in increasing both FDI, exports, and imports.","H1, HA, HD",Economics Development Analysis Journal,2020-11,
+FMIPA9,MODEL PERSAMAAN STRUKTURAL UNTUK ANALISIS DATA ( Studi Kasus Survey Kepuasan Konsumen),"Abstraks Teori dan Model Statistika dalam ilmu sosial dan perilaku  umumnya diformulasikan menggunakan konsepkonsep teoritis atau konstruk-konstruk  yang tidak dapat diukur atau diamati secara langsung. Tetapi masih bisa menemukan beberapa indikator atau gejala yang dapat digunakan untuk mempelajari konsep-konsep teoritis. Menurut Jöreskog dan Sörborm (1989), bahwa kondisi di atas menimbulkan dua permasalahan dasar yang berhubungan dengan usaha untuk membuat kesimpulan ilmiah) dalam ilmu sosial danperilaku, yaitu: masalah pengukuran dan hubungan kausal antar peubah. Model Persamaan Struktutural atau dikenal dengan LISREL atau  LInear Structural RELationships untuk data dalam skala tak metriks ( ordinal ) dirancang sebagai alat ukur untuk data bersifat kategori, tetapi data perludi  upgrade  ke dalam skala metrik,  hal tersebut dinamakan suatu koreksi pada pemodelan LISREL yang disebut dengan variabel underlying. Selanjutnya dengan memanfaatkan matriks kovarians, korelasi yang diperoleh dalam bentuk kontinu disebut korelasi polikorik yang merupakan korelasi antara variabel underlying.  
+ 
+Kata Kunci: Matriks Covarians, SEM.",HA,BKS-PTN Wilayah Barat Semirata 2016 Bidang MIPA Semirata 2016 Bidang MIPA Semirata 2016 Bidang MIPA,2016-05-22,
+FMIPA9,Model Persamaan structural untuk analisis data (Study kasus survey kepuasan konsumen),,HA,"Prosiding Semirata 2016 BKS -PTN Barat , Palembang",2016-05-22,
+FMIPA9,"MODELING STOCK RETURN DATA USING
+ASYMMETRIC VOLATILITY MODELS :  A PERFORMANCE COMPARISON BASED ON THE AKAIKE
+INFORMATION CRITERION AND SCHWARZ CRITERION","The Generalized Autoregressive Conditional Heteroscedasticity (GARCH) model has been widely used in time series forecasting especially with asymmetric volatility data. As the generalization of autoregressive conditional heteroscedasticity model, GARCH is known to be more flexible to lag structures. Some enhancements of GARCH models were introduced in literatures, among them are Exponential GARCH (EGARCH), Threshold GARCH (TGARCH) and Asymmetric Power GARCH (APGARCH) models. This paper aims to compare the performance of the three enhancements of the asymmetric volatility models by means of applying the three models to estimate real daily stock return volatility data. The presence of leverage effects in empirical series is investigated. Based on the value of Akaike information and Schwarz criterions, the result showed that the best forecasting model for our daily stock return data is the APARCH model.",HA,INSIST,,
+FMIPA9,Modeling Stock Return Data using Asymmetric Volatility Models : A Performance Comparison based on the Akaike Information Criterion and Schwarz Criterion,,HA,Journal of Engineering and Scientific Research (JESR),2019-06,
+FMIPA9,HANDLING FULL MULTICOLLINEARITY AND VARIOUS NUMBERS OF OUTLIERS USING ROBUST RIDGE REGRESSION,,HA,Science Internaitonal Lahore,2019-03,
+FMIPA9,SOSIALISASI PENGGUNAAN GOOGLE FORM BAGI PERANGKAT DESA DAN GURU SIDO MAKMUR,,HA,Jurnal Buguh,2022-06-10,
+FMIPA9,A Structural Equation Modeling of Factors Affecting Student Motivation in Thesis Preparation,,HA,Journal of Physics: Conference Series,2020-09-03,
+FMIPA9,METODE ESTIMASI DIAGONAL WEIGHTED LEAST SQUARE (DWLS) UNTUK BERBAGAI UKURAN SAMPEL  (Studi Kasus Kualitas Pelayanan Perpustakaan Unila),,HA,Prosiding Seminar Nasional METODE KUANTITATIF 2018,,
+FMIPA9,PELATIHAN ANALISIS DATA KESEHATAN DENGAN STATISTIKA DESKRIPTIF BAGI OPERATOR KESEHATAN/TENAGA KESEHATAN PUSKESMAS SE KECAMATAN TELUK BETUNG UTARA KOTA BANDAR LAMPUNG,,HA,Jurnal Pengabdian Kepada Masyarakat BUGUH,2022-03-31,
+FMIPA9,Analisis Klaster Menggunakan Metode Fuzzy C-Means pada Data COVID-19 di Provinsi Lampung,,HA,"Seminar Nasional Sains, Matematika, Informatika dan  Aplikasinya VI UNILA",2022-05-02,
+FISIP1,Statistika Bisnis,"Buku ajar statistik bisnis ini dibuat agar mahasiswa mampu memahami statistik dalam rangka membantu memecahkan permasalahan bisnis dan juga dapat digunakan untuk pembuatan keputusan bisnis. Buku ini diawali pembahasan urgensi mempelajari statistik, peran ilmu statistik dalam bisnis dan industri, cara berpikir statistik. Selanjutnya dilengkapi dengan aplikasi dan contoh penggunaan statistik dalam kehidupan sehari-hari maupun pada dunia bisnis, serta riset-riset bisnis yang menggunakan statistik. 
+
+Pembahasan dilanjutkan dengan memberikan pengertian Pendalaman Tipe-Tipe Statistik, Statistik Deskriptif, Statistik Inferensial, Metode Pengumpulan Data,  Pengolahan Data, Penyajian Data, Distribusi Frekuensi, Ukuran Nilai Sentral,  Annova, analisis Varians Satu jalan ( One Way Annova), analisis Varians Satu jalan ( One Way Annova).
+
+Bab berikutnya akan menjelaskan tentang Alat Analisis Data, Analisis Regresi dan Korelasi, Analisis Regresi Berganda, Asumsi Klasik, selanjutnya pembahasan statistic dalam buku ini aka ditutup dengan pembahasan tentang Statistika non-parametrik I, Prinsip-prinsip statistika non-parametrik, uji Kolmogorov-Smirnov, Statistika non-parametrik 2 berupa  Uji Wilcoxon, Uji Mann-Whitney, dan Analisis Varian.",HA,,2017-10-19,
+FISIP1,SMARTSOLUTION MATEMATIKA BISNIS & KEUANGAN,"Buku smart solution matematika bisnis & keuangan ini dibuat agar mahasiswa mampu memahami matematika dalam rangka membantu memecahkan permasalahan bisnis dan juga dapat digunakan untuk pembuatan keputusan bisnis. Buku ini diawali pembahasan urgensi mempelajari matematika, peran ilmu matematika dalam bisnis dan industri, cara berpikir matematika. Selanjutnya dilengkapi dengan aplikasi dan contoh penggunaan matematika dalam kehidupan sehari-hari maupun pada dunia bisnis, serta riset-riset bisnis yang menggunakan matematika dan keuangan.","HA, HG",,2021-01-02,
+FT4,"LAPORAN AKHIR PENELITIAN MANDIRI FAKULTAS TEKNIK UNILA, PENGARUH INCREMENTASI AKUISISI DATA TERHADAP PROSENTASE
+KOMPONEN UTAMA PADA UJI THERMOGRAPHY","Penentuan kondisi suatu objek menggunakan metode thermography didasarkan atas besarnya pancaran
+energy panas yang diterima oleh sensor kamera inframerah. Pengujian thermograhy membutuhkan
+image processing untuk memperoleh informasi sesuai dengan tujuan pengujian. Salah satu metode
+image processing adalah metode Analisis Komponen Utama (Principal Component Analysis).  Input
+data metode Principal Component Analysis adalah data sequence thermogram, sehingga semakin lama
+proses uji thermography, maka semakin besar data yang tercatat.  Hal ini selain mengakibatkan ukuran
+storage yang besar, juga membutuhkan waktu image processing yang lama. 
+Penelitian ini bertujuan untuk mengetahui besarnya perbedaan prosentase komponen utama saat image
+processing untuk berbagai incrementasi akuisisi data uji thermography. Penelitian ini diharapkan dapat
+digunakan sebagai acuan awal penentuan besarnya incrementasi saat pengujian thermography tanpa
+mengurangi akurasi saat image processing. Variasi incrementasi waktu akuisisi data pada penelitian
+ini adalah 1/8 s (8 fps); 1/4 s (7 fps); 1/3 s (6 fps); ½ s (5 fps) dan 1 s (1 fps). Pengujian thermography
+dilakukan pada objek kubus beton bertulang. Lampu halogen daya 500 watt digunakan sebagai sumber
+panas yang diletakkan 30 cm didepan kamera inframerah. Kamera inframerah diletakkan 60 cm; 70 cm
+dan 80 cm di depan benda uji. Pengujian dilakukan dalam ruangan untuk meminimalkan pengaruh
+kecepatan angin dalam proses pengujian. Hasil analisis menunjukkan bahwa recording speed 1 fps – 8
+fps menunjukkan tingkat variaso komponen utama yang hampir sama besar.","HA, Q1, TH, TR","Laporan Akhir PENELITIAN MANDIRI FAKULTAS TEKNIK UNILA, PENGARUH INCREMENTASI AKUISISI DATA TERHADAP PROSENTASE KOMPONEN UTAMA PADA UJI THERMOGRAPHY",2022,
+FKIP9,"UJI STATISTIK BERBANTUAN SPSS UNTUK PENELITIAN PENDIDIKAN
+Menggunakan Pendekatan Kasus Penelitian Pendidikan","Pengolahan atau analisis data statistik sering dianggap sulit, terutama dalam memilih teknik analisis atau uji statistik yang tepat.  Apalagi kalau peneliti harus melakukan banyak perhitungan dalam mengolah data. Buku ini disusun untuk membantu peneliti bidang pendidikan atau mahasiswa bidang studi pendidikan dalam memilih analisis statistik yang diperlukan dalam menyelesaikan penelitiannya. Para pengguna buku ini tidak perlu melakukan perhitungan sendiri untuk menganalisis data, tetapi cukup dengan memasukan data dan memilih analisis yang sudah disediakan oleh SPSS. Pembaca akan diberi contoh kasus penelitian pendidikan, dituntun untuk  memasukan data, menganalisis data, dan menginterpretasi hasil analisis data, serta menarik kesimpulan.",HA,,2017-11-08,
+FISIP2,"Similirity ""Artikel Regulatory Impact Analysis on Mangrove Forest in the Coastal Area of the Bandar Lampung""","Gambaran hasil tes kesamaan sebagai parameter plagiasi, duplikasi dan orijinalitas karya ilmiah. Silimirity Index 6%, artinya artikel ini memenuhi standard, terhindar dari plagiasi dan duplikasi.","H1, HA",,2022,
+FMIPA9,Pendugaan Model Time Varying Parameter Menggunakan Algoritma Kalman Filter,"The Time Varying Parameter (TVP) model is a univariate time series model, where the parameters vary with time. The TVP model is specified in the state space model and is estimated by the Kalman Filter algorithm. Estimation of the model in the Kalman Filter algorithm uses maximum likelihood method. In this way, the Kalman Filter algorithm can be used with the maximum likelihood in the time domain to estimate the parameters of the TVP model and the state vector",HA,,2020-10-24,
+,Analisis Perbandingan Kualitas Informasi Akuntansi Sebelum dan Sesudah Adopsi IFRS,,"H1, HA, HB, HG",Jurnal Akuntansi dan Keuangan,2018-07,
+FEB5,"DESAIN PENGEMBANGAN PARIWISATA TERHADAP
+PENINGKATAN PENDAPATAN PENDEKATAN
+PARTNERSHIP
+(Studi Kasus Kawasan Wisata Unggulan Pantai Teluk Kiluan
+dan Pantai Tanjung Setia Provinsi Lampung)","Pariwisata merupakan salah satu sumber penerimaan utama di berbagai Negara termasuk
+Indonesia. Kegiatan pariwisata menimbulkan permintaan barang dan jasa pada industri
+pariwisata dan industri terkait, sehingga dorongan atas permintaan pariwisata yang muncul
+menjadi faktor penting bagi pertumbuhan ekonomi suatu daerah. Implikasi kegiatan pariwisata
+terhadap perekonomian daerah, sejatinya adalah dampak dari pengeluaran wisatawan
+mancanegara dan domestik atau nusantara terhadap sejumlah variabel makro ekonomi,
+disamping juga dampak dari pengeluaran pemerintah untuk promosi dan pembinaan pariwisata,
+serta investasi pemerintah dan swasta di bidang pariwisata. Eksplorasi dari penelitian ini
+diharapkan dapat mengungkap potensi, problematika, dimensi, dan pengelolaan pariwisata di
+kawasan unggulan pariwisata (KWU) Pantai Teluk Kiluan dan Pantai Tanjung Setia provinsi
+Lampung hingga lahir desain/model/konsep pengembangan pariwisata yang mensejahterakan
+masyarakat sekitar.
+Penelitian ini bersifat kualitatif dengan tahapan metode memetakan dimensi karakteristik
+situs penelitian, problem, dan konsepsi pengelolaannya lewat informan kunci dan informan
+pendukung yang telah teruji keabsahannya. Target akhir luaran penelitian memunculkan model
+/konsep/desain baru dalam pengelolaan pariwisata yang dapat mensejahterakan masyarakat
+sekitar, kontribusi terhadap bidang ilmu ekonomi kelembagaan, dan publikasi internasional.
+Kata kunci: Pariwisata, dimensi karakteristik, lembaga dan kelembagaan, kesejahteraan, dan
+desain Partnership","HA, HB",laporan lppm,,
+,Accurate Estimated Model of Volatility Crude Oil Price,Hasil Cek Plagiasi Artikel : Accurate Estimated Model of Volatility Crude Oil Price,"HA, HB, HG",International Journal of Energy Economics and Policy,,
+,Pengantar Statistika Ekonomi,"Metode Statistik adalah mata kuliah alat yang banyak digunakan bagi mahasiswa Fakultas Ekonomi.  Penguasaan terhadap mata kuliah statistik baik deskriptif maupun inferens sangat diperlukan untuk penyelesaian persoalan-persoalan ekonomi yang nantinya akan digunakan untuk
+pengambilan kesimpulan dan kebijakan. 
+ 
+Buku ajar statistika ini ditujukan untuk melengkapi bahan kuliah mahasiswa ekonomi.  Penyajian buku ajar ini  terfokus pada aplikasi dan penyelesaian persoalan-persoalan ekonomi. 
+ 
+Penyajiannya diawali dengan arti dan kegunaan statistika, data statistika dan penyajiannya, pengukuran nilai sentral, ukuran penyebaran, angka indeks, deret berkala dan analisis regresi dan korelasi sederhana. 
+Persoalan probabilita turut dibahas sebagai pendahuluan untuk memasuki
+statistik inferens pada statistika lanjutan. 
+ 
+Buku ajar ini masih banyak kelemahan dan keterbatasan.  Maka sangat diharapkan saran dan masukan yang membangun untuk perbaikan buku ajar ini. 
+ 
+Akhir kata, terima kasih diucapkan pada “Peer Group” Statistika Ekonomi Fakultas Ekonomi Unila yang membantu penulisan materi dan pengetikan buku ajar ini.  Semoga apa yang menjadi tujuan utama dalam penyusunan buku ajar ini akan tercapai. Amin.",HA,,2018-08-06,
+FISIP3,"Government policy in the case of provision of
+commercial bank loans based on business fields per 
+Sumatra region","A number of efforts were made by the government so that economic growth can be achieved on target. One of them is by offering bank loans in several regions of Indonesia such as in Sumatra. The quick step in describing the case of economic growth is with a biplot analyst, as biplot analysis can illustrate a lot of data which is then summarized in the form of two-dimensional graphic. The purpose of this study
+is to map several regions throughout Sumatra based on the commercial bank credit sector until the period of January 2019, to obtain information about the similarity of
+the regions, variable diversity, relationships between variables, and ―relative position‖ of a region to the variables without having to use many graphs or tables,
+and know the level of goodness of the biplot analysis results. This study indicates that the biplot analysis is able to provide representative information about
+commercial bank loans in several regions of Sumatra by 92.79%. Some important information was obtained, including the provinces of Jambi, West Sumatra, Riau,
+South Sumatra, and Lampung, which have the same characteristics in terms of credit based on business activities until the period of January 2019. Bank credit is
+mostly in the Health Services and Social Activities sector, Agriculture sector, Hunting, and Forestry, Community Services, Cultural, Entertainment and Other Individuals Sector, Education Services sector, Wholesale and Retail Trade sector,and Intermediary sector, namely in the regions of Jambi, Riau, West Sumatra, South Sumatra, Lampung and North Sumatra .","HA, JS","TEST, ENGINEERING & MANAGEMEN",2020-02,

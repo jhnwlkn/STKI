@@ -1,0 +1,1908 @@
+[
+    {
+      "date_type": "published",
+      "official_url": "https:\/\/www.youtube.com\/channel\/UCPZn5FccLtU7ARxMkmKGURg\/videos?view_as=subscriber",
+      "full_text_status": "public",
+      "publisher": "www.panjikurniawan.com",
+      "rev_number": 13,
+      "creators": [
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "PANJI",
+            "family": "KURNIAWAN"
+          }
+        }
+      ],
+      "eprintid": 6920,
+      "lastmod": "2019-05-14 08:28:37",
+      "datestamp": "2019-05-14 08:28:37",
+      "dir": "disk0\/00\/00\/69\/20",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "subjects": [
+        "NA",
+        "NC",
+        "NX"
+      ],
+      "output_media": "Youtube",
+      "metadata_visibility": "show",
+      "related_url": [
+        {
+          "url": "https:\/\/youtu.be\/KQzLQz6eNOs"
+        }
+      ],
+      "title": "ANIMASI METODE PEKERJAAN DAM",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6920",
+      "type": "video",
+      "userid": 72,
+      "status_changed": "2019-05-14 08:28:37",
+      "date": "2017-08-29",
+      "documents": [
+          {
+            "content": "published",
+            "placement": 1,
+            "security": "public",
+            "format": "video",
+            "formatdesc": "Metode Pekerjaan DAM",
+            "mime_type": "text\/html",
+            "docid": 19893,
+            "files": [
+                {
+                  "objectid": 19893,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "watch_v=KQzLQz6eNOs&feature=youtu.be",
+                  "mime_type": "text\/html",
+                  "fileid": 63461,
+                  "filesize": 154353,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/63461",
+                  "mtime": "2018-05-21 07:54:33",
+                  "hash": "903e3fd447f196fc2631527f84ce8783"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 6920,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19893",
+            "rev_number": 3,
+            "main": "watch_v=KQzLQz6eNOs&feature=youtu.be",
+            "language": "en"
+          }
+      ]
+    },
+    {
+      "type": "video",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13039",
+      "related_url": [
+        {
+          "url": "https:\/\/youtu.be\/o69r6KTRE_0"
+        }
+      ],
+      "title": "ANIMASI RENCANA PENATAAN MASTER PLAN GOR KAUR",
+      "metadata_visibility": "show",
+      "output_media": "Youtube",
+      "subjects": [
+        "NA",
+        "NC"
+      ],
+      "documents": [
+          {
+            "security": "public",
+            "content": "presentation",
+            "placement": 1,
+            "format": "video",
+            "formatdesc": "RENCANA PENATAAN MASTER PLAN GOR KAUR",
+            "mime_type": "text\/html",
+            "docid": 26040,
+            "files": [
+                {
+                  "filename": "watch_v=o69r6KTRE_0&feature=youtu.be",
+                  "hash_type": "MD5",
+                  "mime_type": "text\/html",
+                  "objectid": 26040,
+                  "datasetid": "document",
+                  "hash": "61b5c136450f83e798a96749d17808f9",
+                  "mtime": "2019-05-17 09:46:29",
+                  "filesize": 176248,
+                  "fileid": 114812,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/114812"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 13039,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26040",
+            "main": "watch_v=o69r6KTRE_0&feature=youtu.be",
+            "language": "en"
+          }
+      ],
+      "date": "2018-11-18",
+      "status_changed": "2019-05-21 03:00:42",
+      "userid": 72,
+      "contact_email": "vanzie.kurniawan@gmail.com",
+      "eprintid": 13039,
+      "lastmod": "2019-05-21 03:00:42",
+      "creators": [
+        {
+          "name": {
+            "family": "KURNIAWAN",
+            "given": "PANJI",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "official_url": "https:\/\/www.youtube.com\/",
+      "rev_number": 12,
+      "publisher": "www.panjikurniawan.com",
+      "full_text_status": "public",
+      "date_type": "published",
+      "contributors": [
+        {
+          "name": {
+            "family": "kurniawan",
+            "given": "panji",
+            "honourific": null,
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/ANM",
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "datestamp": "2019-05-21 03:00:42",
+      "dir": "disk0\/00\/01\/30\/39",
+      "divisions": [
+        "FT9"
+      ]
+    },
+    {
+      "status_changed": "2019-05-21 03:00:44",
+      "userid": 72,
+      "documents": [
+          {
+            "files": [
+                {
+                  "mtime": "2019-05-17 10:03:30",
+                  "hash": "1dc26e3865463706f0df6a55698b9237",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/114824",
+                  "filesize": 162463,
+                  "fileid": 114824,
+                  "mime_type": "text\/html",
+                  "hash_type": "MD5",
+                  "filename": "watch_v=0vkjeUJwMwk&feature=youtu.be",
+                  "datasetid": "document",
+                  "objectid": 26041
+                }
+            ],
+            "pos": 1,
+            "eprintid": 13040,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26041",
+            "main": "watch_v=0vkjeUJwMwk&feature=youtu.be",
+            "language": "en",
+            "content": "presentation",
+            "security": "public",
+            "placement": 1,
+            "format": "video",
+            "formatdesc": "Animasi Backyard Private Residence Mr. Ridho Wiradinata",
+            "mime_type": "text\/html",
+            "docid": 26041
+          }
+      ],
+      "date": "2018-04-07",
+      "related_url": [
+        {
+          "url": "https:\/\/youtu.be\/0vkjeUJwMwk"
+        }
+      ],
+      "title": "Animasi Backyard Private Residence Mr. Ridho Wiradinata",
+      "metadata_visibility": "show",
+      "subjects": [
+        "NA",
+        "NC"
+      ],
+      "output_media": "Youtube",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13040",
+      "type": "video",
+      "datestamp": "2019-05-21 03:00:44",
+      "dir": "disk0\/00\/01\/30\/40",
+      "divisions": [
+        "FT9"
+      ],
+      "contributors": [
+        {
+          "name": {
+            "given": "Panji",
+            "family": "Kurniawan",
+            "honourific": null,
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/ANM",
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "ispublished": "pub",
+      "abstract": "Ini merupakan alternatif awal dari rumah BPk. Ridho yang fokus ke bagian belakang area rumah. Penggunaan elemen lansekap yang di padupadankan dengan rumah utama melalui konektifitas yang \"mengapung\" di atas air memberikan kesan lembut dan lebih santai sebagai penguat tema bagian belakang rumah yang memang di peruntukkan bagi kegiatan keluarga.\r\n\r\nDesign n build :\r\nwww.panjikurniawan.com",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "lastmod": "2019-05-21 03:00:44",
+      "eprintid": 13040,
+      "creators": [
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "KURNIAWAN",
+            "given": "PANJI"
+          }
+        }
+      ],
+      "official_url": "https:\/\/www.youtube.com\/",
+      "full_text_status": "public",
+      "publisher": "www.panjikurniawan.com",
+      "rev_number": 10
+    },
+    {
+      "userid": 72,
+      "status_changed": "2019-11-14 11:22:58",
+      "date": "2019-10-16",
+      "documents": [
+          {
+            "main": "watch_v=MijzqFCovNI&feature=youtu.be",
+            "language": "en",
+            "files": [
+                {
+                  "mime_type": "text\/html",
+                  "hash_type": "MD5",
+                  "filename": "watch_v=MijzqFCovNI&feature=youtu.be",
+                  "datasetid": "document",
+                  "objectid": 29510,
+                  "mtime": "2019-11-14 06:49:44",
+                  "hash": "a9f3b06c8d478357070094e49e247b76",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/139950",
+                  "filesize": 277242,
+                  "fileid": 139950
+                }
+            ],
+            "eprintid": 16407,
+            "pos": 1,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29510",
+            "mime_type": "text\/html",
+            "docid": 29510,
+            "security": "public",
+            "content": "published",
+            "placement": 1,
+            "formatdesc": "Animasi Arsitektur Desain Bandar Lampung Agripark",
+            "format": "video"
+          }
+      ],
+      "output_media": "Youtube",
+      "subjects": [
+        "N1",
+        "NA",
+        "NC",
+        "NX"
+      ],
+      "metadata_visibility": "show",
+      "related_url": [
+        {
+          "type": "author",
+          "url": "https:\/\/youtu.be\/MijzqFCovNI"
+        }
+      ],
+      "title": "Animasi Desain Penataan Bandar Lampung Agripark",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16407",
+      "type": "video",
+      "divisions": [
+        "FT9"
+      ],
+      "dir": "disk0\/00\/01\/64\/07",
+      "datestamp": "2019-11-14 11:22:58",
+      "eprint_status": "archive",
+      "abstract": "Agrowisata merupakan rangkaian kegiatan wisata yang memanfaatkan potensi pertanian sebagai obyek wisata, baik potensi berupa pemandangan alam kawasan pertaniannya, maupun kekhasan dan keanekaragaman aktivitas produksi dan teknologi pertanian serta budaya masyarakat petaninya. Kegiatan Agrowisata bertujuan untuk memperluas wawasan pengetahuan, pengalaman rekreasi dan hubungan usaha di bidang pertanian yang meliputi tanaman pangan, hortikultura, perkebunan, perikanan dan peternakan. Disamping itu yang termasuk dalamAgrowisata adalah perhutanan dan sumber daya pertanian.\r\n\r\nUpaya pengembangan Agripark yang memanfaatkan potensi agronya, serta adanya pelibatan masyarakat setempat, tentu dapat berfungsi sebagai media pemberdayaan masyarakat berbasis pariwisata (community based tourism). Pemberdayaan masyarakat dimaksud adalah agrowisata yang dapat mengikutsertakan peran dan aspirasi masyarakat setempat selaras dengan pendayagunaan potensi sumber daya alam dan sumber daya manusia yang dimilikinya. Persoalannya adalah bagaimana konsep pengembangan Agripak yang akan di tawarkan, termasuk bagaimana konsep pemberdayaan masyarakat setempat agar potensi-potensi yang dimiliki di sekitar area dapat digali secara optimal, sehingga dapat memberikan hasil maksimal stakeholder terkait dan menjadi sumber pendapatan yang dapat diandalkan bagi Pemerintah Kota Bandar Lampung.\r\n\r\nSejalan dengan itu, maka Pemerintah Pemerintah Kota Bandar Lampung memandang perlu untuk melakukan kajian tentang bagaimana konsep Pengembangan Agripark Kota Bandar Lampung yang berada di Kelurahan Kemiling Raya, Kecamatan Kemiling ini sebagai salah satu penghasil pertumbuhan ekonomi pariwisata, yang pada gilirannya diharapkan dapat berpeluang untuk menjadi pendorong pertumbuhan sektor pembangunan lainnya.",
+      "ispublished": "pub",
+      "date_type": "published",
+      "official_url": "https:\/\/www.youtube.com\/channel\/UCPZn5FccLtU7ARxMkmKGURg\/videos?view_as=subscriber",
+      "publisher": "www.panjikurniawan.com",
+      "full_text_status": "public",
+      "rev_number": 13,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "KURNIAWAN",
+            "given": "PANJI"
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "eprintid": 16407,
+      "lastmod": "2019-11-14 11:22:58"
+    },
+    {
+      "datestamp": "2019-05-21 03:00:45",
+      "dir": "disk0\/00\/01\/30\/41",
+      "divisions": [
+        "FT9"
+      ],
+      "abstract": "Kebutuhan akan presentasi sangat di butuhkan sebelum melaksanakan pekerjaan. Dalam hal rencana pembangunan Tower Listrik, setiap jajaran petugas, perencana hingga pekerja harus mengetahui secara detail runtutan pelaksanaan. Oleh sebab itu, penyajian visual melalui sebuah animasi atu gambar bergerak pada Pembangunan atau penegakan Tower Listrik ini digunakan dalam penyamaam persepsi dan teknis dari alur pekerjaan yang akan di lalui.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "contributors": [
+        {
+          "name": {
+            "given": "Panji",
+            "family": "Kurniawan",
+            "honourific": null,
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/ANM",
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "KURNIAWAN",
+            "given": "PANJI"
+          }
+        }
+      ],
+      "rev_number": 12,
+      "official_url": "https:\/\/www.youtube.com\/",
+      "publisher": "www.panjikurniawan.com",
+      "full_text_status": "public",
+      "lastmod": "2019-05-21 03:00:45",
+      "eprintid": 13041,
+      "status_changed": "2019-05-21 03:00:45",
+      "userid": 72,
+      "date": "2018-03-02",
+      "documents": [
+          {
+            "language": "en",
+            "main": "watch_v=qwscNGwjW0k&feature=youtu.be",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26043",
+            "files": [
+                {
+                  "mime_type": "text\/html",
+                  "hash_type": "MD5",
+                  "filename": "watch_v=qwscNGwjW0k&feature=youtu.be",
+                  "datasetid": "document",
+                  "objectid": 26043,
+                  "mtime": "2019-05-17 10:15:23",
+                  "hash": "4ac158347f920c310602865138cac4af",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/114839",
+                  "fileid": 114839,
+                  "filesize": 181112
+                }
+            ],
+            "pos": 1,
+            "eprintid": 13041,
+            "mime_type": "text\/html",
+            "docid": 26043,
+            "formatdesc": "Animasi Metode Erection Tower 500KV 4 Sirkit",
+            "format": "video",
+            "security": "public",
+            "content": "published",
+            "placement": 1
+          }
+      ],
+      "subjects": [
+        "N1",
+        "NC"
+      ],
+      "output_media": "Youtube",
+      "related_url": [
+        {
+          "url": "https:\/\/youtu.be\/qwscNGwjW0k"
+        }
+      ],
+      "title": "Animasi Erection Tower 500KV 4 Sirkit",
+      "metadata_visibility": "show",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13041",
+      "type": "video"
+    },
+    {
+      "status_changed": "2019-08-01 07:38:01",
+      "userid": 72,
+      "documents": [
+          {
+            "language": "en",
+            "main": "watch_v=l-36-RAHEzY&feature=youtu.be",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26353",
+            "eprintid": 13347,
+            "pos": 1,
+            "files": [
+                {
+                  "filesize": 167647,
+                  "fileid": 116953,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/116953",
+                  "mtime": "2019-05-28 14:58:49",
+                  "hash": "7307afe885972379106f4fa4db4c584a",
+                  "objectid": 26353,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "watch_v=l-36-RAHEzY&feature=youtu.be",
+                  "mime_type": "text\/html"
+                }
+            ],
+            "docid": 26353,
+            "mime_type": "text\/html",
+            "formatdesc": "Animasi LPPM UNILA",
+            "format": "video",
+            "content": "presentation",
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "date": "2017-12-13",
+      "title": "Animasi LPPM UNILA",
+      "related_url": [
+        {
+          "url": "https:\/\/youtu.be\/l-36-RAHEzY",
+          "type": "pub"
+        }
+      ],
+      "metadata_visibility": "show",
+      "subjects": [
+        "N1",
+        "NA",
+        "NC"
+      ],
+      "output_media": "Youtube",
+      "type": "video",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13347",
+      "dir": "disk0\/00\/01\/33\/47",
+      "datestamp": "2019-08-01 07:38:01",
+      "divisions": [
+        "FT9"
+      ],
+      "contributors": [
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/ANM",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "PANJI",
+            "family": "KURNIAWAN"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "HENDRO",
+            "given": "KELIK"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/ARC",
+          "id": "Kelik.Hendro@eng.unila.ac.id"
+        }
+      ],
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "lastmod": "2019-08-01 07:38:01",
+      "eprintid": 13347,
+      "creators": [
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "name": {
+            "given": "PANJI",
+            "family": "KURNIAWAN",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "official_url": "https:\/\/www.youtube.com\/",
+      "rev_number": 11,
+      "publisher": "www.panjikurniawan.com",
+      "full_text_status": "public"
+    },
+    {
+      "date": "2017-11-05",
+      "documents": [
+          {
+            "placement": 1,
+            "content": "presentation",
+            "security": "public",
+            "format": "video",
+            "formatdesc": "Animasi Masjid Murattal Haq Pondok Pesantren Al Hanif",
+            "docid": 26348,
+            "mime_type": "text\/html",
+            "eprintid": 13342,
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 26348,
+                  "mime_type": "text\/html",
+                  "filename": "watch_v=Yzu5LziWS9w&feature=youtu.be",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/116891",
+                  "fileid": 116891,
+                  "filesize": 167796,
+                  "hash": "286bc01657b00b0731475d77ca45e82c",
+                  "mtime": "2019-05-28 14:41:59"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26348",
+            "rev_number": 3,
+            "main": "watch_v=Yzu5LziWS9w&feature=youtu.be",
+            "language": "en"
+          }
+      ],
+      "status_changed": "2019-08-01 07:37:53",
+      "userid": 72,
+      "type": "video",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13342",
+      "output_media": "Youtube",
+      "subjects": [
+        "N1",
+        "NA",
+        "NC"
+      ],
+      "title": "Animasi Masjid Murattal Haq Pondok Pesantren Al Hanif",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/youtu.be\/Yzu5LziWS9w"
+        }
+      ],
+      "metadata_visibility": "show",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "contributors": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "KURNIAWAN",
+            "given": "PANJI"
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "datestamp": "2019-08-01 07:37:53",
+      "dir": "disk0\/00\/01\/33\/42",
+      "divisions": [
+        "FT9"
+      ],
+      "creators": [
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "KURNIAWAN",
+            "given": "PANJI"
+          }
+        }
+      ],
+      "full_text_status": "public",
+      "official_url": "https:\/\/www.youtube.com\/",
+      "publisher": "www.panjikurniawan.com",
+      "rev_number": 12,
+      "lastmod": "2019-08-01 07:37:53",
+      "eprintid": 13342,
+      "date_type": "published"
+    },
+    {
+      "datestamp": "2019-08-01 07:37:58",
+      "dir": "disk0\/00\/01\/33\/45",
+      "divisions": [
+        "FT9"
+      ],
+      "contributors": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "PANJI",
+            "family": "KURNIAWAN"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/ANM",
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "eprintid": 13345,
+      "lastmod": "2019-08-01 07:37:58",
+      "creators": [
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "PANJI",
+            "family": "KURNIAWAN"
+          }
+        }
+      ],
+      "official_url": "https:\/\/www.youtube.com\/",
+      "rev_number": 11,
+      "publisher": "www.panjikurniawan.com",
+      "full_text_status": "public",
+      "status_changed": "2019-08-01 07:37:58",
+      "userid": 72,
+      "documents": [
+          {
+            "docid": 26351,
+            "mime_type": "text\/html",
+            "formatdesc": "Animasi Metode Pekerjaan Tunnel",
+            "format": "video",
+            "security": "public",
+            "content": "presentation",
+            "placement": 1,
+            "language": "en",
+            "main": "watch_v=ESfWKuK1OV4&feature=youtu.be",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26351",
+            "rev_number": 3,
+            "pos": 1,
+            "eprintid": 13345,
+            "files": [
+                {
+                  "hash": "e6452e0b879b5f968d03d416572f97d0",
+                  "mtime": "2019-05-28 14:51:54",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/116930",
+                  "filesize": 168723,
+                  "fileid": 116930,
+                  "mime_type": "text\/html",
+                  "filename": "watch_v=ESfWKuK1OV4&feature=youtu.be",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 26351
+                }
+            ]
+          }
+      ],
+      "date": "2017-08-29",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/youtu.be\/ESfWKuK1OV4"
+        }
+      ],
+      "title": "Animasi Metode Pekerjaan Tunnel",
+      "metadata_visibility": "show",
+      "subjects": [
+        "N1",
+        "NA",
+        "NC"
+      ],
+      "output_media": "Youtube",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13345",
+      "type": "video"
+    },
+    {
+      "dir": "disk0\/00\/03\/15\/48",
+      "datestamp": "2021-06-01 03:00:58",
+      "divisions": [
+        "FT9"
+      ],
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "PANJI",
+            "family": "KURNIAWAN"
+          }
+        }
+      ],
+      "publisher": "https:\/\/youtube.com\/c\/wwwpanjikurniawancom",
+      "official_url": "https:\/\/youtube.com\/c\/wwwpanjikurniawancom",
+      "full_text_status": "public",
+      "rev_number": 12,
+      "eprintid": 31548,
+      "lastmod": "2021-06-01 03:00:58",
+      "status_changed": "2021-06-01 03:00:58",
+      "userid": 72,
+      "date": "2021-03-09",
+      "documents": [
+          {
+            "docid": 142714,
+            "mime_type": "text\/html",
+            "placement": 1,
+            "content": "published",
+            "security": "public",
+            "format": "video",
+            "main": "watch_v=NnoIwnFv8kg&feature=youtu.be",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 31548,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 142714,
+                  "mime_type": "text\/html",
+                  "filename": "watch_v=NnoIwnFv8kg&feature=youtu.be",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/373800",
+                  "filesize": 477091,
+                  "fileid": 373800,
+                  "hash": "4de577f7c285f8e6197be4091d5e41be",
+                  "mtime": "2021-05-31 14:39:18"
+                }
+            ],
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/142714"
+          }
+      ],
+      "output_media": "https:\/\/www.youtube.com\/",
+      "subjects": [
+        "N1",
+        "NA",
+        "NC"
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/youtu.be\/NnoIwnFv8kg"
+        }
+      ],
+      "title": "Animasi Rencana Desain Rumah Tinggal Mr. AM",
+      "metadata_visibility": "show",
+      "type": "video",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31548"
+    },
+    {
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "KURNIAWAN",
+            "given": "PANJI"
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "official_url": "https:\/\/www.youtube.com\/",
+      "publisher": "www.panjikurniawan.com",
+      "rev_number": 11,
+      "full_text_status": "public",
+      "eprintid": 13344,
+      "lastmod": "2019-08-01 07:37:57",
+      "dir": "disk0\/00\/01\/33\/44",
+      "datestamp": "2019-08-01 07:37:57",
+      "divisions": [
+        "FT9"
+      ],
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "contributors": [
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/ANM",
+          "name": {
+            "given": "PANJI",
+            "family": "KURNIAWAN",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "subjects": [
+        "N1",
+        "NA",
+        "NC"
+      ],
+      "output_media": "Youtube",
+      "title": "Animasi Rencana Penataan Pasar Pandan Sari, Sukoharjo, Pringsewu",
+      "related_url": [
+        {
+          "url": "https:\/\/youtu.be\/-zTfioiRP0U",
+          "type": "pub"
+        }
+      ],
+      "metadata_visibility": "show",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13344",
+      "type": "video",
+      "status_changed": "2019-08-01 07:37:57",
+      "userid": 72,
+      "date": "2017-10-18",
+      "documents": [
+          {
+            "pos": 1,
+            "eprintid": 13344,
+            "files": [
+                {
+                  "mtime": "2019-05-28 14:48:57",
+                  "hash": "d592fee7e866520f212cbc141c1b4ef9",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/116919",
+                  "filesize": 169533,
+                  "fileid": 116919,
+                  "mime_type": "text\/html",
+                  "hash_type": "MD5",
+                  "filename": "watch_v=-zTfioiRP0U&feature=youtu.be",
+                  "datasetid": "document",
+                  "objectid": 26350
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26350",
+            "rev_number": 3,
+            "main": "watch_v=-zTfioiRP0U&feature=youtu.be",
+            "language": "en",
+            "content": "presentation",
+            "placement": 1,
+            "security": "public",
+            "format": "video",
+            "formatdesc": "Animasi Rencana Penataan Pasar Pandan Sari, Sukoharjo, Pringsewu",
+            "docid": 26350,
+            "mime_type": "text\/html"
+          }
+      ]
+    },
+    {
+      "status_changed": "2019-08-01 07:37:55",
+      "userid": 72,
+      "date": "2017-10-18",
+      "documents": [
+          {
+            "pos": 1,
+            "eprintid": 13343,
+            "files": [
+                {
+                  "filename": "watch_v=TTG6ysrrqWs&feature=youtu.be",
+                  "hash_type": "MD5",
+                  "mime_type": "text\/html",
+                  "objectid": 26349,
+                  "datasetid": "document",
+                  "hash": "c769ff4611021956ae670c1daae0ba73",
+                  "mtime": "2019-05-28 14:45:02",
+                  "filesize": 172399,
+                  "fileid": 116907,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/116907"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26349",
+            "rev_number": 3,
+            "main": "watch_v=TTG6ysrrqWs&feature=youtu.be",
+            "language": "en",
+            "placement": 1,
+            "content": "presentation",
+            "security": "public",
+            "formatdesc": "Animasi Ruang Terbuka Hijau (RTH) Sukoharjo",
+            "format": "video",
+            "docid": 26349,
+            "mime_type": "text\/html"
+          }
+      ],
+      "subjects": [
+        "N1",
+        "NA",
+        "NC"
+      ],
+      "output_media": "Youtube",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/youtu.be\/TTG6ysrrqWs"
+        }
+      ],
+      "title": "Animasi Ruang Terbuka Hijau (RTH) Sukoharjo",
+      "metadata_visibility": "show",
+      "type": "video",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13343",
+      "datestamp": "2019-08-01 07:37:55",
+      "dir": "disk0\/00\/01\/33\/43",
+      "divisions": [
+        "FT9"
+      ],
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/ANM",
+          "name": {
+            "family": "KURNIAWAN",
+            "given": "PANJI",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "given": "PANJI",
+            "family": "KURNIAWAN",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "full_text_status": "public",
+      "official_url": "https:\/\/www.youtube.com\/",
+      "publisher": "www.panjikurniawan.com",
+      "rev_number": 11,
+      "eprintid": 13343,
+      "lastmod": "2019-08-01 07:37:55"
+    },
+    {
+      "subjects": [
+        "N1",
+        "NA",
+        "NC"
+      ],
+      "output_media": "Youtube",
+      "title": "Animasi Rumah Sakit & Research Centre Unila",
+      "related_url": [
+        {
+          "url": "https:\/\/youtu.be\/_B8aL_vQ4rw",
+          "type": "pub"
+        }
+      ],
+      "metadata_visibility": "show",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13346",
+      "type": "video",
+      "status_changed": "2019-08-01 07:38:00",
+      "userid": 72,
+      "date": "2018-02-11",
+      "documents": [
+          {
+            "formatdesc": "Animasi Rumah Sakit & Research Centre Unila",
+            "format": "video",
+            "placement": 1,
+            "content": "presentation",
+            "security": "public",
+            "docid": 26352,
+            "mime_type": "text\/html",
+            "rev_number": 4,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26352",
+            "pos": 1,
+            "eprintid": 13346,
+            "files": [
+                {
+                  "hash": "bbbd7dd740ce243f8d551c5818f0c88c",
+                  "mtime": "2019-05-28 14:54:28",
+                  "fileid": 116941,
+                  "filesize": 175826,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/116941",
+                  "filename": "watch_v=_B8aL_vQ4rw&feature=youtu.be",
+                  "hash_type": "MD5",
+                  "mime_type": "text\/html",
+                  "objectid": 26352,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "main": "watch_v=_B8aL_vQ4rw&feature=youtu.be"
+          }
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "name": {
+            "family": "KURNIAWAN",
+            "given": "PANJI",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "official_url": "https:\/\/www.youtube.com\/",
+      "publisher": "www.panjikurniawan.com",
+      "full_text_status": "public",
+      "rev_number": 12,
+      "lastmod": "2019-08-01 07:38:00",
+      "eprintid": 13346,
+      "dir": "disk0\/00\/01\/33\/46",
+      "datestamp": "2019-08-01 07:38:00",
+      "divisions": [
+        "FT9"
+      ],
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "PANJI",
+            "family": "KURNIAWAN"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/ANM",
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/ARC",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "KELIK",
+            "family": "HENDRO"
+          },
+          "id": "Kelik.Hendro@eng.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "datestamp": "2019-08-01 07:37:52",
+      "dir": "disk0\/00\/01\/33\/40",
+      "divisions": [
+        "FT9"
+      ],
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "PANJI",
+            "family": "KURNIAWAN"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/ANM",
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "lastmod": "2019-08-01 07:37:52",
+      "eprintid": 13340,
+      "creators": [
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "name": {
+            "given": "PANJI",
+            "family": "KURNIAWAN",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "official_url": "https:\/\/www.youtube.com\/",
+      "publisher": "www.panjikurniawan.com",
+      "full_text_status": "public",
+      "rev_number": 11,
+      "status_changed": "2019-08-01 07:37:52",
+      "userid": 72,
+      "documents": [
+          {
+            "mime_type": "text\/html",
+            "docid": 26345,
+            "placement": 1,
+            "content": "presentation",
+            "security": "public",
+            "formatdesc": "Animasi Tugu Gajah Mada Sukoharjo Pringsewu",
+            "format": "video",
+            "main": "watch_v=NGYmJRp6jtQ&feature=youtu.be",
+            "language": "en",
+            "files": [
+                {
+                  "hash": "128164dbfcf3105662b6eab132566a10",
+                  "mtime": "2019-05-28 14:37:35",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/116868",
+                  "fileid": 116868,
+                  "filesize": 160635,
+                  "mime_type": "text\/html",
+                  "filename": "watch_v=NGYmJRp6jtQ&feature=youtu.be",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 26345
+                }
+            ],
+            "pos": 1,
+            "eprintid": 13340,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26345",
+            "rev_number": 3
+          }
+      ],
+      "date": "2017-10-24",
+      "title": "Animasi Tugu Gajah Mada Sukoharjo Pringsewu",
+      "related_url": [
+        {
+          "url": "https:\/\/youtu.be\/NGYmJRp6jtQ"
+        }
+      ],
+      "metadata_visibility": "show",
+      "output_media": "Youtube",
+      "subjects": [
+        "N1",
+        "NA",
+        "NC"
+      ],
+      "type": "video",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13340"
+    },
+    {
+      "date_type": "published",
+      "full_text_status": "public",
+      "official_url": "http:\/\/senapati.eng.unila.ac.id\/",
+      "rev_number": 8,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "KURNIAWAN",
+            "given": "PANJI"
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "lastmod": "2020-11-16 01:49:15",
+      "eprintid": 25133,
+      "pres_type": "paper",
+      "refereed": "TRUE",
+      "divisions": [
+        "FT9"
+      ],
+      "datestamp": "2020-11-16 01:49:15",
+      "dir": "disk0\/00\/02\/51\/33",
+      "eprint_status": "archive",
+      "abstract": "Pembangunan diberbagai bidang terus berkembang saat ini. Peningkatan terhadap kualitas hidup, tidak hanya tidak hanya di tandai dengan meningkatnya kesejahteraan, namun juga pada konteks hubungan dengan sang maha pencipta, Allah SWT. Hubungan komunikasi antara mahluk dan tuhannya di wadahi pada bentuk fisik tertentu. Misalnya yang dilakukan pada pengabdian kali ini yaitu Rencana Renovasi Masjid Osman Hosen yang berada di kompleks Pesantren Putra-Puteri Perkemas dusun Sidorejo, desa Branti Raya, Kecamatan Natar, Lampung Selatan. Dalam Rencana Renovasi dari Masjid ini membutuhkan pendanaan yang cukup besar mengingat luasannya yang terbilang besar. Oleh sebab itu diperlukan sebuah konsep pembangunan yang terencana dan membutuhkan urun saran dari berbagai pihak. Langkah awal yang dapat di lakukan adalah dengan menginformasikan tentang rencana tersebut dalam sebuah gambar simulasi yang akan di gunakan dalam Proposal Pembangunan. Dari sisi disiplin ilmu yang kami coba berikan bantuan adalah simulasi 3D bangunan Masjid Osman Hosen sebagai langkah awal yang akan menggambarkan bentuk fisik jika bangunan tersebut telah terbangun di kemudian hari.\r\nKata kunci: Renovasi, 3D Visual.",
+      "ispublished": "inpress",
+      "subjects": [
+        "NA",
+        "NC"
+      ],
+      "metadata_visibility": "show",
+      "title": "Bantuan Teknis Desain dan 3d Visual \r\nRenovasi Masjid Osman Hosen \r\nPondok Pesantren Putra-Puteri Perkemas Dusun Sidorejo, Desa Branti Raya, Kecamatan Natar, Lampung Selatan",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25133",
+      "event_type": "conference",
+      "userid": 72,
+      "status_changed": "2020-11-16 01:49:15",
+      "event_title": "“Sinergi Perguruan Tinggi dengan Masyarakat untuk Pembangunan Berkelanjutan”",
+      "date": "2020-09",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 38921,
+            "mime_type": "application\/pdf",
+            "pos": 1,
+            "eprintid": 25133,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "filename": "SENAPATI_PANJI KURNIAWAN_ARSITEKTUR _FT_UNILA.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 38921,
+                  "datasetid": "document",
+                  "mtime": "2020-11-13 05:43:59",
+                  "hash": "ba234559d05ee3b504be382b43e097db",
+                  "fileid": 227463,
+                  "filesize": 1597517,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/227463"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38921",
+            "main": "SENAPATI_PANJI KURNIAWAN_ARSITEKTUR _FT_UNILA.pdf",
+            "language": "en"
+          }
+      ]
+    },
+    {
+      "documents": [
+          {
+            "docid": 167076,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "LAPORAN KARYA LOGO DIES KE 56.pdf",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 45134,
+            "files": [
+                {
+                  "mtime": "2022-09-22 05:02:45",
+                  "hash": "d125de9afc2d9a982876cde122ba4d10",
+                  "filesize": 586137,
+                  "fileid": 486269,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/486269",
+                  "hash_type": "MD5",
+                  "filename": "LAPORAN KARYA LOGO DIES KE 56.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 167076,
+                  "datasetid": "document"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/167076",
+            "rev_number": 1
+          }
+      ],
+      "date": "2021-06-14",
+      "status_changed": "2022-09-23 04:04:17",
+      "userid": 72,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45134",
+      "type": "image",
+      "title": "LAPORAN KARYA LOGO DIES KE 56",
+      "metadata_visibility": "show",
+      "output_media": "Cetak, Visual",
+      "subjects": [
+        "NC"
+      ],
+      "abstract": "Unila merupakan perguruan tinggi di lingkungan Kementerian Riset, Teknologi, dan Pendidikan Tinggi yang berkedudukan di Kota Bandar Lampung, Provinsi Lampung. Unila didirikan pada tanggal 23 September 1965 berdasarkan Keputusan Menteri Perguruan Tinggi dan Ilmu Pengetahuan Nomor 195 Tahun 1965 yang selanjutnya dikukuhkan dengan Keputusan Presiden Republik Indonesia Nomor 73 Tahun 1966 tanggal 6 April 1966.\r\nHingga saat ini Unila melaksanakan peringatan hari jadi, yang saat ini telah mencapai hari jadi ke-56 pada tahun 2021. Dalam peringatan hari jadi tersebut Unila banyak mengadakan kegiatan yang bersifat perlombaan di berbagai bidang. Ini menjadi sangat penting terutama dalam membangun komunikasi antar civitas akademis terutama di lingkungan Universitas Lampung.\r\nBerkenaan dengan hal tersebut biasanya kepanitiaan akan dikordinatori oleh 1 Fakultas dan 1 Fakultas lain sebagai pendamping. Untuk Fakultas lain akan memeriahkan sebagai peserta yang juga memiliki perwakilan dalam kepanitiaan Dies di tingkat Universitas.\r\nDalam pelaksanaan kepanitiaan ini akan membutuhkan sebuah identitas kegiatan yang terwujud dalam desain sebuah logo kegiatan. Akan berbeda-beda desain logo tersebut mengikuti tahun pelaksanaan Dies Natalis di lingkungan Unila.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/04\/51\/34",
+      "datestamp": "2022-09-23 04:04:17",
+      "divisions": [
+        "FT9"
+      ],
+      "eprintid": 45134,
+      "lastmod": "2022-09-23 04:04:17",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "KURNIAWAN",
+            "given": "PANJI"
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "full_text_status": "public",
+      "publisher": "Universitas Lampung",
+      "rev_number": 7,
+      "date_type": "published"
+    },
+    {
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "PANJI",
+            "family": "KURNIAWAN"
+          }
+        }
+      ],
+      "full_text_status": "public",
+      "publisher": "Universitas Lampung (Dies 57)",
+      "rev_number": 11,
+      "eprintid": 45136,
+      "lastmod": "2022-09-23 04:04:24",
+      "dir": "disk0\/00\/04\/51\/36",
+      "datestamp": "2022-09-23 04:04:24",
+      "divisions": [
+        "FT9"
+      ],
+      "abstract": "Unila merupakan perguruan tinggi di lingkungan Kementerian Riset, Teknologi, dan Pendidikan Tinggi yang berkedudukan di Kota Bandar Lampung, Provinsi Lampung. Unila didirikan pada tanggal 23 September 1965 berdasarkan Keputusan Menteri Perguruan Tinggi dan Ilmu Pengetahuan Nomor 195 Tahun 1965 yang selanjutnya dikukuhkan dengan Keputusan Presiden Republik Indonesia Nomor 73 Tahun 1966 tanggal 6 April 1966.\r\nHingga saat ini Unila melaksanakan peringatan hari jadi, yang saat ini telah mencapai hari jadi ke-57 pada tahun 2022 ini. Dalam peringatan hari jadi tersebut Unila banyak mengadakan kegiatan yang bersifat perlombaan di berbagai bidang. Ini menjadi sangat penting terutama dalam membangun komunikasi antar civitas akademis terutama di lingkungan Universitas Lampung.\r\nBerkenaan dengan hal tersebut biasanya kepanitiaan akan dikordinatori oleh 1 Fakultas dan 1 Fakultas lain sebagai pendamping. Untuk Fakultas lain akan memeriahkan sebagai peserta yang juga memiliki perwakilan dalam kepanitiaan Dies di tingkat Universitas.\r\nDalam pelaksanaan kepanitiaan ini akan membutuhkan sebuah identitas kegiatan yang terwujud dalam desain sebuah logo kegiatan. Akan berbeda-beda desain logo tersebut mengikuti tahun pelaksanaan Dies Natalis di lingkungan Unila.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "subjects": [
+        "NC"
+      ],
+      "output_media": "Cetak, Visual",
+      "title": "LAPORAN KARYA LOGO DIES KE 57",
+      "metadata_visibility": "show",
+      "type": "image",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45136",
+      "status_changed": "2022-09-23 04:04:24",
+      "userid": 72,
+      "date": "2022-08-01",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "docid": 167079,
+            "mime_type": "application\/pdf",
+            "eprintid": 45136,
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "LAPORAN KARYA LOGO DIES KE 57.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 167079,
+                  "hash": "12c33dbe192c6ca51d9007d5c4ad473a",
+                  "mtime": "2022-09-22 05:21:53",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/486288",
+                  "filesize": 828963,
+                  "fileid": 486288
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/167079",
+            "rev_number": 1,
+            "main": "LAPORAN KARYA LOGO DIES KE 57.pdf",
+            "language": "en"
+          }
+      ]
+    },
+    {
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "PANJI",
+            "family": "KURNIAWAN"
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "rev_number": 12,
+      "publisher": "Dies Natalis 55 Unila",
+      "full_text_status": "public",
+      "eprintid": 24661,
+      "lastmod": "2020-11-09 09:13:13",
+      "dir": "disk0\/00\/02\/46\/61",
+      "datestamp": "2020-11-09 09:13:13",
+      "divisions": [
+        "FT9"
+      ],
+      "abstract": "ARTI LOGO :\r\n\r\nBentuk Setengah Lingkaran Berwarna Kuning, memiliki arti Surya\/Matahari yang bersinar dengan membawa kemakmuran, kegemilangan, berwarna kuning denan latar depan siluet orang dengan keceriaan, merupakan dominasi warna Universitas Lampung, sebagai wadah pendidikan yang mampu menghantarkan civitas akademisnya meraih kesuksesan.\r\nSiluet Garis Horizon berwarna Biru, merupakan Fakultas Penyelenggara yang dalam Hal ini adalah FKIP dan Fakultas Teknik.\r\nRiak Gelombang Ungu yang menyerupai tangan menengadah, merupakan refleksi keluasan ilmu pengetahuan, dan keleluasaan keilmuan (kurikulum merdeka) yang mampu mencapai ke seluruh ruang dan tempat dan mampu beradaptasi dengan kondisi apapun dan dimanapun, dengan tetap menjadikan kebesaran Tuhan YME, Allah SWT sebagai satu-satunya sumber dari segala Ilmu dalam Kehidupan.\r\nSiluet Pohon, Orang sebagai Tunas, dengan Daun Berwarna-warni, merefleksikan Kemampuan & Komitmen Unila untuk mampu Menciptakan Generasi yang Unggul, melalui sejumlah Fakultas yang dimilikinya.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "output_media": "IMAGE",
+      "subjects": [
+        "N1",
+        "NC",
+        "ND",
+        "NE",
+        "NK",
+        "NX"
+      ],
+      "title": "LOGO DIES 55 UNIVERSITAS LAMPUNG",
+      "metadata_visibility": "show",
+      "type": "image",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24661",
+      "status_changed": "2020-11-09 09:13:13",
+      "userid": 72,
+      "date": "2020-07",
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 38406,
+                  "mime_type": "application\/pdf",
+                  "filename": "LOGO Dies 55 Unila.pdf",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/223843",
+                  "fileid": 223843,
+                  "filesize": 695889,
+                  "hash": "f55b953e01bfe38e42bac7bb9c63b3f1",
+                  "mtime": "2020-11-08 01:27:14"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 24661,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38406",
+            "main": "LOGO Dies 55 Unila.pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 38406
+          }
+      ]
+    },
+    {
+      "status_changed": "2019-08-01 07:37:49",
+      "userid": 72,
+      "documents": [
+          {
+            "mime_type": "text\/html",
+            "docid": 26340,
+            "format": "video",
+            "formatdesc": "Lighting decoration Planning Project Animation",
+            "placement": 1,
+            "content": "presentation",
+            "security": "public",
+            "language": "en",
+            "main": "watch_v=zdiZolP-X_s&feature=youtu.be",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26340",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/116838",
+                  "filesize": 162012,
+                  "fileid": 116838,
+                  "mtime": "2019-05-28 14:25:28",
+                  "hash": "31bb2dbd4503f3c8ec4cc3ce47621be9",
+                  "datasetid": "document",
+                  "objectid": 26340,
+                  "mime_type": "text\/html",
+                  "hash_type": "MD5",
+                  "filename": "watch_v=zdiZolP-X_s&feature=youtu.be"
+                }
+            ],
+            "eprintid": 13336,
+            "pos": 1
+          }
+      ],
+      "output_media": "Youtube",
+      "subjects": [
+        "N1",
+        "NA",
+        "NC"
+      ],
+      "title": "Lighting decoration Planning Project Animation Kantor Satu Atap Pemkot Bandar lampung & Menara Masjid Al-Furqon Bandar Lampung",
+      "related_url": [
+        {
+          "url": "https:\/\/youtu.be\/zdiZolP-X_s"
+        }
+      ],
+      "metadata_visibility": "show",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13336",
+      "type": "video",
+      "datestamp": "2019-08-01 07:37:49",
+      "dir": "disk0\/00\/01\/33\/36",
+      "divisions": [
+        "FT9"
+      ],
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/ANM",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "KURNIAWAN",
+            "given": "PANJI"
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "KURNIAWAN",
+            "given": "PANJI"
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "official_url": "https:\/\/www.youtube.com\/",
+      "publisher": "www.panjikurniawan.com",
+      "full_text_status": "public",
+      "rev_number": 15,
+      "eprintid": 13336,
+      "lastmod": "2019-08-01 07:37:49"
+    },
+    {
+      "status_changed": "2019-11-18 07:14:12",
+      "userid": 72,
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 29915,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/142981",
+                  "filesize": 2597015,
+                  "fileid": 142981,
+                  "mtime": "2019-11-17 22:46:45",
+                  "hash": "10070eaaaf7f209ebea36c5794b28cf7",
+                  "datasetid": "document",
+                  "objectid": 29915,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "PANJI KURNIAWAN-PROSIDING-SENAPATI-2019.pdf"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 16828,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29915",
+            "rev_number": 1,
+            "main": "PANJI KURNIAWAN-PROSIDING-SENAPATI-2019.pdf",
+            "language": "en"
+          }
+      ],
+      "date": 2019,
+      "publication": "PROSIDING SENAPATI SEMINAR NASIONAL PENGABDIAN KEPADA MASYARAKAT TEKNOLOGI DAN INOVASI Pengabdian Masyarakat di Era Revolusi Industri 4.0 dan Society 5.0",
+      "related_url": [
+        {
+          "url": "http:\/\/senapati.eng.unila.ac.id\/wp-content\/uploads\/2019\/07\/28.pdf",
+          "type": "author"
+        }
+      ],
+      "title": "PROSIDING SENAPATI BANTUAN TEKNIS PEMBUATAN 3D DAN ANIMASI MASJID KOMPLEK CALON PONDOK PESANTREN AL HANIF BANDAR LAMPUNG",
+      "metadata_visibility": "show",
+      "id_number": 28,
+      "subjects": [
+        "NA",
+        "NC"
+      ],
+      "pagerange": "96-101",
+      "volume": 1,
+      "issn": "2685-0427",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16828",
+      "dir": "disk0\/00\/01\/68\/28",
+      "datestamp": "2019-11-18 07:14:12",
+      "divisions": [
+        "FT9"
+      ],
+      "abstract": "Pembangunan terus berkembang dengan pesatnya. Tak terkecuali dalam pembangunan rumah ibadah\r\nyang dalam hal ini adalah perencanaan Pembangunan Masjid yang berada di area rencana\r\nPembangunan Pondok Pesantren Al-Hanif Bandar Lampung. Dalam sebuah rencana pembangunan yang\r\ntertuang dalam Gambar Perancangan, akan berisi mengenai dokumen-dokumen gambar. Dalam dokumen\r\ntersebut secara detail akan menunjukkan tentang informasi teknis mengenai ukuran baik melalui tampak\r\nataupun denah bangunan. Namun terkadang sangat minim informasi tentang gambar perspektif atau tiga\r\ndimensional bangunan (3D), hal ini yang terjadi pada dokumen gambar perancangan Masjid yang di\r\nrencanakan di lokasi rencana Pondok Pesantren Al-Hanif ini. Gambar Masjid yang diberi nama Murattal\r\nHaq, ini sangat penting untuk di bantu dalam pembuatan 3D-nya. Gambar ini memberikan beberapa hal\r\npenting bagi keberlangsungan pembangunan. Kemudahan dalam menyamakan persepsi bentuk dalam\r\nmelihat gambar akan mempermudah pekerja bangunan dan masyarakat terlebih donatur pembangunan\r\nmenjadi capaian yang menjadi tujuan dari gambar 3 dimensional ini. Kemudian untuk lebih memberikan\r\nkesan yang mendalam gambar 3 dimensi tersebut di buat dalam sebuah gambar bergerak yang disebut\r\nAnimasi",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "number": 28,
+      "refereed": "TRUE",
+      "lastmod": "2019-11-18 07:14:12",
+      "eprintid": 16828,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "KURNIAWAN",
+            "given": "PANJI"
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "official_url": "http:\/\/senapati.eng.unila.ac.id\/prosiding-2019\/",
+      "publisher": "Fakultas Teknik Unila",
+      "rev_number": 7,
+      "full_text_status": "public"
+    },
+    {
+      "creators": [
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "KURNIAWAN",
+            "given": "PANJI"
+          }
+        }
+      ],
+      "rev_number": 10,
+      "official_url": "https:\/\/youtube.com\/",
+      "publisher": "https:\/\/youtube.com\/c\/wwwpanjikurniawancom",
+      "full_text_status": "public",
+      "lastmod": "2020-11-09 09:13:26",
+      "eprintid": 24660,
+      "date_type": "published",
+      "abstract": "Pembuatan Karya Video Animasi Layanan Fasilitas Pendidikan Universitas Lampung, Publikasi Tim Kerja Rektor, Tim Feasibility Studi.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/02\/46\/60",
+      "datestamp": "2020-11-09 09:13:26",
+      "divisions": [
+        "FT9"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24660",
+      "type": "video",
+      "subjects": [
+        "N1",
+        "NA",
+        "NC"
+      ],
+      "output_media": "Video",
+      "related_url": [
+        {
+          "url": "https:\/\/youtu.be\/gIevVMDOUxI",
+          "type": "pub"
+        }
+      ],
+      "title": "Pembuatan Karya Video Animasi Layanan Fasilitas Pendidikan Universitas Lampung.",
+      "metadata_visibility": "show",
+      "date": "2020-11-05",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38405",
+            "eprintid": 24660,
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "video\/mp4",
+                  "filename": "LAYANAN FASILITAS PENDIDIKAN UNILA.mp4",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 38405,
+                  "hash": "ac0fbee8720c1d0b047d75b0b17daf3b",
+                  "mtime": "2020-11-08 01:16:43",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/223829",
+                  "filesize": 93750040,
+                  "fileid": 223829
+                }
+            ],
+            "language": "en",
+            "main": "LAYANAN FASILITAS PENDIDIKAN UNILA.mp4",
+            "format": "video",
+            "placement": 1,
+            "security": "public",
+            "docid": 38405,
+            "mime_type": "video\/mp4"
+          }
+      ],
+      "status_changed": "2020-11-09 09:13:26",
+      "userid": 72
+    },
+    {
+      "status_changed": "2019-08-01 07:37:50",
+      "userid": 72,
+      "documents": [
+          {
+            "mime_type": "text\/html",
+            "docid": 26342,
+            "format": "video",
+            "formatdesc": "Private Home Theatre Room Interior Animation",
+            "security": "public",
+            "content": "presentation",
+            "placement": 1,
+            "language": "en",
+            "main": "watch_v=FtZsAaiblno&feature=youtu.be",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26342",
+            "rev_number": 3,
+            "files": [
+                {
+                  "mtime": "2019-05-28 14:32:36",
+                  "hash": "7dd44735fd8775efaaf68cd1ccf8cd64",
+                  "fileid": 116849,
+                  "filesize": 168961,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/116849",
+                  "hash_type": "MD5",
+                  "filename": "watch_v=FtZsAaiblno&feature=youtu.be",
+                  "mime_type": "text\/html",
+                  "objectid": 26342,
+                  "datasetid": "document"
+                }
+            ],
+            "eprintid": 13339,
+            "pos": 1
+          }
+      ],
+      "date": "2018-01-17",
+      "title": "Private Home Theatre Room Interior Animation",
+      "related_url": [
+        {
+          "url": "https:\/\/youtu.be\/FtZsAaiblno"
+        }
+      ],
+      "metadata_visibility": "show",
+      "subjects": [
+        "N1",
+        "NA",
+        "NC"
+      ],
+      "output_media": "Youtube",
+      "type": "video",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13339",
+      "datestamp": "2019-08-01 07:37:50",
+      "dir": "disk0\/00\/01\/33\/39",
+      "divisions": [
+        "FT9"
+      ],
+      "contributors": [
+        {
+          "name": {
+            "given": "PANJI",
+            "family": "KURNIAWAN",
+            "honourific": null,
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/ANM",
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "lastmod": "2019-08-01 07:37:50",
+      "eprintid": 13339,
+      "creators": [
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "name": {
+            "family": "KURNIAWAN",
+            "given": "PANJI",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "rev_number": 11,
+      "official_url": "https:\/\/www.youtube.com\/",
+      "publisher": "www.panjikurniawan.com",
+      "full_text_status": "public"
+    },
+    {
+      "publication": "Amalee: Indonesian Journal of Community Research and Engagement",
+      "documents": [
+          {
+            "docid": 139812,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 7,
+            "language": "en",
+            "main": "jurnal AMALEE 2021 - Yunita Kesuma.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/139812",
+            "pos": 7,
+            "eprintid": 30961,
+            "files": [
+                {
+                  "fileid": 367280,
+                  "filesize": 495943,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/367280",
+                  "hash": "8ff34cecada50c48142dfbea88944c71",
+                  "mtime": "2021-05-27 02:50:50",
+                  "objectid": 139812,
+                  "datasetid": "document",
+                  "filename": "jurnal AMALEE 2021 - Yunita Kesuma.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf"
+                }
+            ]
+          }
+      ],
+      "userid": 1175,
+      "status_changed": "2021-05-27 04:44:48",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30961",
+      "type": "article",
+      "issn": "2715-7997",
+      "volume": "Vol. 2",
+      "subjects": [
+        "BP",
+        "HN",
+        "NA",
+        "NC"
+      ],
+      "metadata_visibility": "show",
+      "title": "Pendampingan Tata Konsep Pengembangan Masjid Jami’ Al Mujahidien Yosodadi, Kota Metro",
+      "eprint_status": "archive",
+      "ispublished": "submitted",
+      "abstract": "Every development process needs to begin with a carefully designed plan. The lack of planning or master plan of al Mujahidien Mosque complex causes the undirected process of building the Mosque so that the layout of the mosque and its supporting rooms are less synergistic, and the use of development funds becomes inefficient. Moreover, the location of the mosque is in an area with the rapid development of the commercial activity, causing the mosque yard to be used as a parking lot due to commercial activities around it. The concept of Jami' Al Mujahidien Mosque development is needed to improve the comfort of worship and be side-by-side with the surrounding environment. The methods used in these activities includes; interviews, surveys, updating the existing conditions of the mosque building, site analysis, identification of space requirements, takmir and the mosque manager determining the concept and physical development plan. The results of the activities are in the form of site plan concept drawings and development system of the mosque complex design plans that can accommodate activities following the current developments, including new normal adaptations, as a means or reference committee mosque development in preparing a mosque master plan to improve the comfort of mosque users, as well as increase the spirit in the management of Jami' Al Mujahidien Mosque.",
+      "divisions": [
+        "FT9"
+      ],
+      "dir": "disk0\/00\/03\/09\/61",
+      "datestamp": "2021-05-27 04:44:48",
+      "rev_number": 19,
+      "official_url": "https:\/\/ejournal.insuriponorogo.ac.id\/",
+      "publisher": "LP2M INSURI Ponorogo",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "given": "Yunita",
+            "family": "Kesuma",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "yunitakesuma@eng.unila.ac.id"
+        },
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "name": {
+            "family": "KURNIAWAN",
+            "given": "PANJI",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "jaya_setika@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Basuki",
+            "given": "Kelik Hendro"
+          }
+        }
+      ],
+      "eprintid": 30961,
+      "lastmod": "2021-05-27 04:44:48",
+      "number": 1,
+      "refereed": "TRUE",
+      "date_type": "submitted"
+    },
+    {
+      "subjects": [
+        "N1",
+        "NA",
+        "NC"
+      ],
+      "metadata_visibility": "show",
+      "title": "Rancangan Animasi Fasiltias Layanan Pendidikan Universitas Lampung",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30384",
+      "type": "image",
+      "userid": 31,
+      "status_changed": "2021-05-21 06:40:50",
+      "documents": [
+          {
+            "language": "en",
+            "main": "watch_v=GOeCD6fsas4&feature=youtu.be",
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/136639",
+            "eprintid": 30384,
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "text\/html",
+                  "hash_type": "MD5",
+                  "filename": "watch_v=GOeCD6fsas4&feature=youtu.be",
+                  "datasetid": "document",
+                  "objectid": 136639,
+                  "mtime": "2021-05-21 06:14:04",
+                  "hash": "140cb8bd67b90f3139ecbef2bbd8261d",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/360148",
+                  "fileid": 360148,
+                  "filesize": 381997
+                }
+            ],
+            "docid": 136639,
+            "mime_type": "text\/html",
+            "format": "video",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "rev_number": 11,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "agung.cahyo@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nugroho",
+            "given": "Agung Cahyo"
+          }
+        },
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "PANJI",
+            "family": "KURNIAWAN"
+          }
+        }
+      ],
+      "lastmod": "2021-05-21 06:40:50",
+      "eprintid": 30384,
+      "divisions": [
+        "FT9"
+      ],
+      "datestamp": "2021-05-21 06:40:50",
+      "dir": "disk0\/00\/03\/03\/84",
+      "eprint_status": "archive",
+      "ispublished": "unpub"
+    }
+]
+

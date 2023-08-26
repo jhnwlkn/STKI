@@ -1,0 +1,588 @@
+[
+    {
+      "abstract": "Tanggal 1 Januari 1949, bertetapan dengan 12 hari setelah meruntuhkan Ibukota Yogyakarta, Belanda mengarahkan pasukannya menuju sai bumi ruwa jurai, Karesidenan Lampung dan melumpuhkan Teluk Betung-Tanjung Karang, Ibukota karesidenan. Lampung yang sebelumnya jauh dari hingar bingar bunyi tembakan mendadak panas dengan kobaran semangat rakyat untuk mempertahankan wilayahnya demi mempertahankan kemerdekaan Republik Indonesia dari Agresi Militer Belanda II. Salah satu wilayah yang bergejolak di Lampung adalah Kalianda, kota yang berada di ujung selatan Pulau Sumatera. Apa artinya Indonesia tanpa wilayahnya, inilah kesadaran nasionalisme yang dimiliki rakyat Lampung untuk berjuang mempertahankan wilayahnya. Ada peristiwa heroic yang dikenang masyarakat Kalianda yaitu pertempuran 5 jam yang berhasil memukul mundur tentara Belanda tanggal 21 Maret 1949 oleh segenap kekuatan perlawanan rakyat semesta pimpinan Kolonel Makmum Rasyid. Pertempuran 5 jam terjadi pukul 01.00 sampai pukul 05.00. Pertempuran mengakibatkan 10 korban jiwa, 2 korban luka-luka dari pasukan Kolonel Makmun Rasyid 9 orang tewas dari pihak Belanda.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "datestamp": "2020-08-31 01:56:11",
+      "dir": "disk0\/00\/02\/37\/98",
+      "divisions": [
+        "FKIP24"
+      ],
+      "isbn": 9786026042002,
+      "creators": [
+        {
+          "id": "suparman.arif@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "ARIF",
+            "given": "SUPARMAN"
+          }
+        },
+        {
+          "id": "syaiful.m@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "M",
+            "given": "Syaiful"
+          }
+        }
+      ],
+      "rev_number": 9,
+      "publisher": "FIS UNY",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "eprintid": 23798,
+      "lastmod": "2020-08-31 01:56:11",
+      "date_type": "published",
+      "date": 2016,
+      "documents": [
+          {
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 37432,
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37432",
+            "pos": 1,
+            "eprintid": 23798,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 37432,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Prosiding Sejarah (4)_2.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/217177",
+                  "fileid": 217177,
+                  "filesize": 29692981,
+                  "mtime": "2020-08-29 08:46:50",
+                  "hash": "7af278c7f61b20d9370f18411ce7d2c3"
+                }
+            ],
+            "language": "en",
+            "main": "Prosiding Sejarah (4)_2.pdf"
+          }
+      ],
+      "status_changed": "2020-08-31 01:56:11",
+      "book_title": "Proseding Seminar Nasional Program Studi Sejarah se-Indonesia",
+      "userid": 250,
+      "type": "book_section",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23798",
+      "subjects": [
+        "D1",
+        "D731",
+        "D839"
+      ],
+      "pagerange": "448-457",
+      "title": "Pertempuran 5 Jam di Kalianda: Mempertahanan Republik Indonesia di Pintu Gerbang Sumatera",
+      "metadata_visibility": "show"
+    },
+    {
+      "volume": 4,
+      "issn": "2477-2771",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16395",
+      "type": "article",
+      "title": "KECAMUK REVOLUSI KEMERDEKAAN DI KUNINGAN (1947-1950)",
+      "metadata_visibility": "show",
+      "subjects": [
+        "D1",
+        "D839"
+      ],
+      "pagerange": "94-106",
+      "documents": [
+          {
+            "pos": 1,
+            "eprintid": 16395,
+            "files": [
+                {
+                  "hash": "d35477d72f518c3721db18a6eefdf5ba",
+                  "mtime": "2019-11-14 05:28:06",
+                  "filesize": 290270,
+                  "fileid": 139875,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/139875",
+                  "filename": "1. Susurgalur Vol. 3 No. 2  September 2015.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 29499,
+                  "datasetid": "document"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29499",
+            "main": "1. Susurgalur Vol. 3 No. 2  September 2015.pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 29499,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "date": 2018,
+      "publication": "Jurnal Candrasangkala",
+      "status_changed": "2019-11-14 10:34:41",
+      "userid": 2784,
+      "number": 2,
+      "refereed": "TRUE",
+      "lastmod": "2019-11-14 10:34:41",
+      "eprintid": 16395,
+      "creators": [
+        {
+          "id": "rinaldo.adipratama@fkip.unila.ac.id",
+          "name": {
+            "family": "Pratama",
+            "given": "Rinaldo Adi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "publisher": "Jurusan Pendidikan Sejarah",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "date_type": "published",
+      "abstract": "This research aims to find the role of locality in the revolution period. As we\r\nknow that revolution period was a period that was quite important for the history of the\r\nnation because many areas are involved in this important event. The research method\r\nused is historical methods that include, heuristics, criticism, interpretation, and\r\nhistoriography. Based on the research conducted that during the period of Indonesia's\r\nindependence revolution, Kuningan had a central role in the struggle to maintain the\r\nsovereignty of the country in the eastern region of West Java, especially the Karesidenan\r\nCirebon. Kuningan in particular Ciwaru has a stake in the struggle for independence\r\nwhich is the capital of refugee from the Karesidenan Cirebon government after being\r\nbombarded the center of government in Cirebon by the events of the first Dutch Military\r\nAggression. In addition there are also wars involving civilians with the formation special\r\ntroops in Kuningan. As a place of refuge in the civil administration, the Karesidenan\r\nCirebon certainly made Kuningan as a battleground that was quite powerful in the\r\neastern region of West Java",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "datestamp": "2019-11-14 10:34:41",
+      "dir": "disk0\/00\/01\/63\/95",
+      "divisions": [
+        "FKIP24"
+      ]
+    },
+    {
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "rinaldo.adipratama@fkip.unila.ac.id",
+          "name": {
+            "given": "Rinaldo Adi",
+            "family": "Pratama",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "rev_number": 4,
+      "publisher": "Jurusan Pendidikan Sejarah",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 2,
+      "eprintid": 19990,
+      "lastmod": "2020-05-18 21:42:13",
+      "dir": "disk0\/00\/01\/99\/90",
+      "datestamp": "2020-05-18 21:42:13",
+      "divisions": [
+        "FKIP24"
+      ],
+      "ispublished": "pub",
+      "abstract": "This research aims to find the role of locality in the revolution period. As we\r\nknow that revolution period was a period that was quite important for the history of the\r\nnation because many areas are involved in this important event. The research method\r\nused is historical methods that include, heuristics, criticism, interpretation, and\r\nhistoriography. Based on the research conducted that during the period of Indonesia's\r\nindependence revolution, Kuningan had a central role in the struggle to maintain the\r\nsovereignty of the country in the eastern region of West Java, especially the Karesidenan\r\nCirebon. Kuningan in particular Ciwaru has a stake in the struggle for independence\r\nwhich is the capital of refugee from the Karesidenan Cirebon government after being\r\nbombarded the center of government in Cirebon by the events of the first Dutch Military\r\nAggression. In addition there are also wars involving civilians with the formation special\r\ntroops in Kuningan. As a place of refuge in the civil administration, the Karesidenan\r\nCirebon certainly made Kuningan as a battleground that was quite powerful in the\r\neastern region of West Java",
+      "eprint_status": "archive",
+      "subjects": [
+        "D1",
+        "D839"
+      ],
+      "pagerange": "94-106",
+      "title": "KECAMUK REVOLUSI KEMERDEKAAN DI KUNINGAN (1947-1950)",
+      "metadata_visibility": "show",
+      "issn": "2477-2771",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19990",
+      "type": "article",
+      "volume": 4,
+      "status_changed": "2020-05-18 21:42:13",
+      "userid": 2784,
+      "date": 2018,
+      "publication": "Jurnal Candrasangkala",
+      "documents": [
+          {
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 33335,
+            "mime_type": "application\/pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33335",
+            "rev_number": 1,
+            "pos": 1,
+            "eprintid": 19990,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "filename": "Vol. 4 No. 2 2018.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 33335,
+                  "datasetid": "document",
+                  "mtime": "2020-05-18 09:56:19",
+                  "hash": "353f6d692d646d551a504fc9d0c95472",
+                  "fileid": 189076,
+                  "filesize": 472846,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/189076"
+                }
+            ],
+            "language": "en",
+            "main": "Vol. 4 No. 2 2018.pdf"
+          }
+      ]
+    },
+    {
+      "subjects": [
+        "D839"
+      ],
+      "pagerange": "217-228",
+      "metadata_visibility": "show",
+      "title": "Mengenai Sutan Akbar pada Masa Revolusi\r\nIndonesia di Ciwaru, Kuningan, Jawa Barat,\r\nTahun 1947 – 1948",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16459",
+      "issn": "2302-5808",
+      "volume": 3,
+      "userid": 2784,
+      "status_changed": "2019-11-15 02:38:08",
+      "publication": "Susurgalur: Jurnal Kajian Sejarah dan Pendidikan Sejarah",
+      "date": "2015-09",
+      "documents": [
+          {
+            "docid": 29547,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "1. Susurgalur Vol. 3 No. 2  September 2015.pdf",
+            "language": "en",
+            "eprintid": 16459,
+            "pos": 1,
+            "files": [
+                {
+                  "mtime": "2019-11-14 12:31:27",
+                  "hash": "d35477d72f518c3721db18a6eefdf5ba",
+                  "filesize": 290270,
+                  "fileid": 140620,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/140620",
+                  "hash_type": "MD5",
+                  "filename": "1. Susurgalur Vol. 3 No. 2  September 2015.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 29547,
+                  "datasetid": "document"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29547"
+          }
+      ],
+      "date_type": "published",
+      "official_url": "http:\/\/journals.mindamas.com\/index.php\/susurgalur\/article\/view\/677",
+      "full_text_status": "public",
+      "publisher": "Minda Masagi Press dan Universitas Brunei Darusalam",
+      "rev_number": 6,
+      "creators": [
+        {
+          "id": "rinaldo.adipratama@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Rinaldo Adi",
+            "family": "Pratama"
+          }
+        },
+        {
+          "name": {
+            "family": "Kamsori",
+            "given": "Moch Eryk",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "eprintid": 16459,
+      "lastmod": "2019-11-15 02:38:08",
+      "refereed": "TRUE",
+      "number": 2,
+      "divisions": [
+        "FKIP24"
+      ],
+      "datestamp": "2019-11-15 02:38:08",
+      "dir": "disk0\/00\/01\/64\/59",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Divisi Bambu Runcing merupakan sebuah lasykar yang dibentuk oleh Sutan Akbar, yang\r\nterdiri atas gabungan lasykar-lasykar perjuangan di Jawa Barat yang masih tersisa, setelah Divisi\r\nSiliwangi mendapatkan gempuran oleh pasukan Belanda selama Agresi Militer I pada bulan Juli\r\n1947. Keberadaan Divisi Bambu Runcing sebenarnya mendapatkan mandat resmi dari Jenderal\r\nSudirman, yang pada awal revolusi Indonesia memang bersikap oposisional kepada pemerintah.\r\nKarena itu, sikap Sutan Akbar juga menentang segala kebijakan yang dilakukan oleh pemerintah\r\nRepublik Indonesia, khususnya dalam melakukan diplomasi dengan pihak Belanda. Sutan Akbar\r\nmemilih daerah Ciwaru, Kuningan, Jawa Barat, sebagai markas utamanya, yang pada saat itu juga\r\nCiwaru sedang dijadikan Pusat Pemerintahan Darurat Keresidenan Cirebon. Dari daerah Ciwaru\r\ninilah Sutan Akbar dapat mengendalikan pergerakan Divisi Bambu Runcing di seluruh wilayah Jawa\r\nBarat; namun di Ciwaru ini juga Divisi Bambu Runcing mengalami kehancurannya, karena harus\r\nberhadapan langsung dengan kekuatan resmi tentara Republik Indonesia, yakni Divisi Siliwangi."
+    },
+    {
+      "ispublished": "pub",
+      "abstract": "Money function during the revolution in Lampung Residency was not limited to its traditional function as an economic transaction, but also as a media of struggle in defending the sovereignty of Indonesia. This research focuses on exploring information related to events that occurred during the revolution in the Lampung Residency, especially in the monetary sector, namely the Local Banknotes of the Republic of Indonesia or ORIDA. The research uses a historical method that includes heuristics, source critic, interpretation, and the last stage is historiography. The results showed that the Lampung Residency during the independence revolution issued a monetary policy, independent from the Government of the Province of Sumatra and the Government of the Republic of Indonesia. This policy issued by the acting resident Gele Harun Nasution and Regent Akhmad Akuan aims to maintain the existence of the Lampung Residency as part of the sovereign Indonesian government. The acting resident issued the local banknotes that are only valid in several areas in Lampung with varying nominal. The monetary policy issued by the Resident of Lampung in Tanjungkarang-Telukbetung and Regent of North Lampung Regency in Kotabumi made the Lampung residency free from the economic and political crisis and the Dutch were unable to control the Lampung Residency region during their military aggression in 1947-1949.",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/04\/10\/69",
+      "datestamp": "2022-04-05 07:13:24",
+      "divisions": [
+        "FKIP24"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Pratama",
+            "given": "Rinaldo Adi"
+          },
+          "id": "rinaldo@fkip.unila.ac.id"
+        },
+        {
+          "id": "maskun.1959@fkip.unila.ac.id",
+          "name": {
+            "family": "Maskun",
+            "given": "Maskun",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "ali.imron@fkip.unila.ac.id",
+          "name": {
+            "given": "Ali",
+            "family": "Imron",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "official_url": "https:\/\/www.atlantis-press.com\/proceedings\/ulicoss-21\/125968298",
+      "rev_number": 6,
+      "publisher": "Atlantis Press SARL",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "eprintid": 41069,
+      "lastmod": "2022-04-05 07:13:24",
+      "date_type": "published",
+      "date": "2022-01",
+      "publication": "Advances in Social Science, Education and Humanities Research (ASSEHR)",
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "docid": 162494,
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162494",
+            "eprintid": 41069,
+            "pos": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "filename": "125968298 (5).pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 162494,
+                  "datasetid": "document",
+                  "mtime": "2022-04-05 06:03:45",
+                  "hash": "a5cb025f505be1f28b18ab054e06a369",
+                  "filesize": 756603,
+                  "fileid": 456124,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456124"
+                }
+            ],
+            "language": "en",
+            "main": "125968298 (5).pdf"
+          }
+      ],
+      "status_changed": "2022-04-05 07:13:24",
+      "userid": 2784,
+      "issn": "2352-5398",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41069",
+      "volume": 628,
+      "subjects": [
+        "D839"
+      ],
+      "pagerange": "215-223",
+      "title": "Struggling Through Money: Local Banknotes of Republic of Indonesia During the Independence Revolution in the Residency of Lampung",
+      "id_number": "https:\/\/doi.org\/10.2991\/assehr.k.220102.027",
+      "metadata_visibility": "show"
+    },
+    {
+      "volume": 1,
+      "type": "book_section",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24620",
+      "pagerange": "210-225",
+      "subjects": [
+        "D839"
+      ],
+      "documents": [
+          {
+            "eprintid": 24620,
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 38353,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "REV. JILID 1 Kota Tua Punya Banyak Cerita 229hlm.pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 6283000,
+                  "fileid": 223536,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/223536",
+                  "mtime": "2020-11-06 15:27:16",
+                  "hash": "368e83099e668c66f97bf09c679d3c83"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38353",
+            "rev_number": 1,
+            "main": "REV. JILID 1 Kota Tua Punya Banyak Cerita 229hlm.pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "docid": 38353,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "date": "2020-09-30",
+      "pages": 210,
+      "series": "Kota Tua Punya Banyak Cerita Jilid 1",
+      "status_changed": "2020-11-09 09:08:24",
+      "userid": 2779,
+      "refereed": "TRUE",
+      "lastmod": "2020-11-09 09:08:24",
+      "contact_email": "jkt17.kotatua@gmail.com",
+      "eprintid": 24620,
+      "full_text_status": "public",
+      "official_url": "https:\/\/www.youtube.com\/watch?v=bCz-nrmC9_s",
+      "rev_number": 7,
+      "date_type": "published",
+      "contributors": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Perdana",
+            "family": "Yusuf"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "abstract": "Surabaya merupakan salah satu kota tertua di Indonesia yang mempunyai beragam peninggalan bangunan Kolonial dan menjadi saksi bisu pergolakan di kota pahlawan tersebut. Beberapa bangunan kolonial yang menjadi cagar budaya hingga saat ini adalah Gedung De Javasche Bank dan Hotel Majapahit. Gedung De Javasche Bank sendiri kini sudah menjadi Museum Bank Indonesia, namun gedung tersebut yang notabene peninggalan era kolonial masih berdiri kokoh. Bangunan kolonial yang terkenal selanjutnya adalah Hotel Majapahit yang didirikan pada era kolonial, pada awal berdirinya Hotel Majapahit bernama Hotel Oranje. Kedua bangunan tersebut merupakan bangunan peninggalan kolonial yang kaya akan nilai sejarah dan arsitekturnya, mengingat Hotel Majapahit sendiri masih aktif melayani pengunjung dengan ciri khas arsitektur kolonialnya. Penelitian ini merupakan penelitian historis dengan menggunakan metode sejarah. Langkah-langkah dalam penelitian ini adalah heuristik atau penelusuran sumber, kritik sumber yakni menelaah kebenaran sumber -sumber yang ada, interpretasi data atau penafsiran sejarah dan selanjutnya adalah historiografi yakni menyusun kembali dalam deskripsi kualitatif. Hasil penelitian ini menjelaskan kedua bangunan kolonial yakni De Javasche Bank dan Hotel Majapahit yang ditinjau dari segi sejarah dan\r\narsitekturnya, kedua bangunan tersebut merupakan bangunan yang mendapat pengaruh budaya barat dengan arsitektur klasik Yunani dan Romawi. Arsitektur kedua bangunan tersebut dapat dilihat langsung dari jendela yang berukuran besar dan lebar, pilar-pilar di serambi yang berukuran besar bergaya khas Yunani. Penggunan skala bangunan yang tinggi besar dan menimbulkan kesan yang kokoh serta mewah, selain arsitektur kedua bangunan tersebut juga memilki sejarah yang kaya diantaranya Hotel Majapahit pada pasca kemerdekaan merupakan saksi perjuangan arek-arek suroboyo dalam perjuangan mempertahankan kemerdekaan. Gedung De Javasche Bank yang kini menjadi Museum Bank Indonesia sendiri dibangun pada Tahun 1829 yang mempunyai koleksi diantaranya mulai dari mata uang lama hingga harta budaya.\r\nKata Kunci : Arsitektur, De Javasche Bank, Hotel Majapahit",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "isbn": "978-623-278-287-7",
+      "datestamp": "2020-11-09 09:08:24",
+      "title": "ARSITEKTUR KOLONIAL SURABAYA DARI DE JAVASCHE BANK HINGGA HOTEL MAJAPAHIT",
+      "metadata_visibility": "show",
+      "projects": [
+        "Webinar AGSI dan Jaringan Kota Tua"
+      ],
+      "referencetext": "Aditya N. Widiadi. 2009. PROBLEMATIKA DAN TANTANGAN PESEK (Pembelajaran Sejarah Emotif dan Kontroversial). Sejarah dan Budaya Tahun Kedua, No.2 Desember 2009.\r\nArdina Susanti. 2015. Perjalanan Arsitektur Melewati Masa : Transformasi Langgam Arsitektur Kolonial Belanda (Studi Kasus : Hotel Majapahit, Surabaya).\r\nJurnal Desain Interior Program Studi Desain Interior Sekolah Tinggi Desain Bali. Vol. 2. No. 1.\r\nBasundoro, Purnawan. 2012. Pengantar Sejarah Kota. Yogyakarta: Ombak.\r\nFreek Colombijn, dkk. 2019. Kota Lama Kota Baru : Sejarah Kota-Kota Di Indonesia. Yogyakarta : Ombak.\r\nHandinoto. 2010. Arsitektur dan Kota-Kota di Jawa Pada Masa Kolonial. Yogyakarta : Graha Ilmu.\r\nMargana, Sri & M. Nursam. 2010. Kota-Kota Di Jawa : Identitas Gaya Hidup Dan Permasalahan Sosial.\r\nYogyakarta : Ombak.\r\nNurbaity, Arif Hidayat & Fahmi Hidayat. 2019. Dinamika Nasionalisasi De Javasche Bank : Sebuah Perjuangan Menjadi Bank Indonesia (1950-1953).\r\nSeminar Nasional Sejarah Ke 4 Pendidikan Sejarah Universitas Negeri Padang.\r\nPurnawan Basundoro. 2009. Dua Kota Tiga Zaman Surabaya dan Malang Sejak zaman Kolonial sampai Kemerdekaan. Yogyakarta : Ombak\r\nR Dimas Widya Putra. Identifikasi Kelestarian Kawasan Kota Lama Melalui Proteksi Bangunan Cagar Budaya Oleh Pemerintah Kota Surabaya. Jurnal Pengembangan Kota, Vol. 4 No. 2. 2016.\r\nRizvanda Ryan Savero dan I Gusti Ngurah Antaryama. 2012. Keatraktifan Galeri Seni Di Kawasan Cagar Budaya Surabaya. Jurnal Sains dan Seni ITS. Vol 1. No. 1.\r\nTim Ahli Cagar Budaya Kota Surabaya. 2018. Pasak Sejarah Indonesia Kekinian 10 November 1945.\r\nSurabaya : Bagian Hubungan Masyarakat Pemerintah Kota Surabaya.\r\nTimoticin Kwanda. 2013. Mengelola Perubahan : Perencanaan Konservasi Gedung De Javasche Bank Surabaya. DIMENSI : Journal of Architecture and Built Environment. Vol. 40, No.1\r\nUdjianto Pawitro. 2015. Preservasi – Konservasi Bangunan Bersejarah dan pengelolaan Kawasan Kota Lama. Simposium Nasional Rapi XIV - 2015 FT UMS.\r\nUnit Khusus Museum Bank Indonesia. 2007. Bagian Enam : DJB Masa Revolusi, Museum Bank Indonesia\r\n226 Kota Tua Punya Banyak Cerita Kota Tua Punya Banyak Cerita 227\r\nUnit Khusus Museum Bank Indonesia. 2007. Bagian Lima : DJB pada Masa Pendudukan Jepang (1942-1945). Museum Bank Indonesia\r\nUnit Khusus Museum Bank Indonesia. 2007. Bagian Tujuh : Periode Pengakuan Kedaulatan RI s.d Nasionalisasi DJB. Museum Bank Indonesia\r\nVeronica A. Kumurur. 2015. Pengaruh Gaya Arsitektur Kolonial Belanda Pada Bangunan Bersejarah di Kawasan Manado Kota Lama. Prosiding Temu Ilmiah IPLBI.\r\nwww.surabaya.liputan6.com\r\nYames Jaya A. Dan J. Lukito Kartono. 2015. Hotel Resor Kenjeran Surabaya. Jurnal eDimensi Arsitektur.\r\nVol. 2. No.2\r\nYusuf Perdana, Henry Susanto & Yustina Sri Ekwandari. 2019. Dinamika Industri Gula Sejak Cultuurstelsel Hingga Krisis Malaise Tahun 1830 – 1929. Historia : Jurnal Pendidikan Sejarah . Vol. 7. No.2.",
+      "book_title": "Kota Tua Punya Banyak Cerita",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Yusuf Perdana",
+            "family": "Yusuf Perdana"
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "publisher": "Asosiasi Guru Sejarah Indonesia Jaringan Kota Tua",
+      "dir": "disk0\/00\/02\/46\/20",
+      "divisions": [
+        "FKIP24"
+      ]
+    },
+    {
+      "refereed": "TRUE",
+      "lastmod": "2020-11-09 09:13:04",
+      "eprintid": 24621,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yusuf Perdana",
+            "given": "Yusuf Perdana"
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "rev_number": 7,
+      "official_url": "https:\/\/simbelmawa.kemdikbud.go.id\/portal\/pengumuman-pendanaan-pkm-5-bidang-tahun-2020\/",
+      "publisher": "Penerbit Ali Imron",
+      "full_text_status": "public",
+      "date_type": "published",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Yusuf",
+            "given": "Perdana"
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "isbn": "978-602-5857-54-6",
+      "datestamp": "2020-11-09 09:13:04",
+      "dir": "disk0\/00\/02\/46\/21",
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24621",
+      "type": "book",
+      "related_url": [
+        {
+          "url": "https:\/\/simbelmawa.kemdikbud.go.id\/portal\/pengumuman-pendanaan-pkm-5-bidang-tahun-2020\/",
+          "type": "org"
+        }
+      ],
+      "title": "Tenggelamnya Mutiara Hitam Lampung : Lada Ke Kopi Era Kolonial di Kabupaten Tanggamus",
+      "metadata_visibility": "show",
+      "subjects": [
+        "D839"
+      ],
+      "projects": [
+        "Program Kreativitas Mahasiswa"
+      ],
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "docid": 38354,
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38354",
+            "eprintid": 24621,
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 38354,
+                  "datasetid": "document",
+                  "filename": "Tenggelamnya Mutiara Hitam Lampung (1).pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 223547,
+                  "filesize": 1187898,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/223547",
+                  "hash": "5c4a518fa4f2ec5c3bb0a60f150f793e",
+                  "mtime": "2020-11-06 15:42:59"
+                }
+            ],
+            "language": "en",
+            "main": "Tenggelamnya Mutiara Hitam Lampung (1).pdf"
+          }
+      ],
+      "pages": 98,
+      "date": "2020-10-05",
+      "funders": [
+        "Kementerian Pendidikan dan Kebudayaan"
+      ],
+      "status_changed": "2020-11-09 09:13:04",
+      "referencetext": "Ariwibowo. G. A. 2018. Aktivitas Ekonomi dan Perdagangan di\r\nKeresidenan Lampung Pada Priode 1856 Hingga 1930.\r\nJurnal Patanjala. 10 (2) : 331-346.\r\nBachri, B.S. 2010. Meyakinkan Validitas Data Melalui\r\nTriangulasi Pada Penelitian Kualitatif. Surabaya, Jurnal\r\nTeknologi Pendidikan. 10 (1) : 46-62.\r\nBPS Lampung. 2012. Lampung dalam Angka. 1982-1983. BPS\r\nProvinsi Lampung. Lampung.\r\nBudiman, H.G. 2012. Dinamika Industri Kopi Bubuk di\r\nLampung (1907-2011), Bandung, Jurnal Patanjala. 4 (3)\r\n: 526-543.\r\nDahlan, Halwi. M. 2014. Perpindahan Penduduk Dalam Tiga\r\nMasa : Kolonisasi, Kokuminggakari, Dan Transmigrasi Di\r\nProvinsi Lampung (1905-1979). Jurnal Balai Pelestarian\r\nNilai Budaya Bandung : 335-348\r\nEvizal, R. dkk. 2015. Ragam Kultivar Kopi di Lampung. Jurnal\r\nAgrotrop. 5 (1) : 80-88.\r\nHartono, Mudji. 2014. Realisasi Politik Etis Di Bojonegoro Pada\r\nAwal Abad XX : Kajian Sosial Ekonomi. Jurnal Fakultas\r\nIlmu sosial UGM vol 1. ISSN 1858-2621 : 1-22\r\nImadudin, I. 2016 Perdagangan Lada Di Lampung Dalam Tiga\r\nMasa. Bandung, Jurnal Patanjala. 8(3) : 394-364.\r\nIrwanto, D. 2017. Malaise dan Lambang Kekayaan Ekonomi\r\nPenguasa Lokal di Palembang,1929–1942. Jurnal\r\nLembaran Sejarah Volume 13 No 1 : 48-71. Galih, Rangga\r\nD 2017. Penerapan Politik Etis Di Surabaya Tahun 1911-\r\n1930. AVATARA, e-Journal Pendidikan Sejarah Volume 5,\r\nNo. 3 : 751-765\r\nGumulya, D dan Helmi S.I. 2017. Kajian Budaya Minum Kopi.\r\nJurnal Dimensi, Vol.13- No.2 : 153-172.\r\nKITLV Leiden, Belanda, Nomor Arsip: 53673, Jan Van Der Kolk.\r\nKoentjaraningrat. 1997. Metode penelitian Masyarakat.\r\nGramedia. Jakarta.\r\nKoentjaraningrat, Kebudayaan, Mentalitas dan Pembangunan\r\nJakarta : Gramedia Pustaka Utama, 1993.\r\nKristian, Y. 2019. Politik Ekonomi Belanda Terhadap Lampung\r\nPada Tahun 1800-1942. Uwais Inspirasi Indonesia.\r\nAnggota IKAPI.\r\nKustyawati, M.E. dkk. 2017. Produksi Kopi Terintegrasi Untuk\r\nMeningkatkan Usaha Srikandi di Kab.Tanggamus.\r\nBandung, Jurnal Batoboh. 2 (1) : 45-56.\r\nKurnianto, BT. 2017. Dampak Sosial Ekonomi Masyarakat\r\nAkibat Pengembangan Lingkar Wilis Di Kabupaten\r\nTulungagung. Jurnal Agribisnis Fakultas Pertanian Unita\r\n: 55-84\r\nLestari, O. dkk. 2017. Analisis Usaha Tani dan Efisiensi\r\nPermasalahan kopi (Coffea sp) Di Kecamatan Pulau\r\nPanggung Kabupaten Tanggamus. Jurnal JIIA. Volume (5)\r\n1 : 8.\r\nMasroh, L. 2015. Perkebunan dan Perdagangan Lada di\r\nLampung Tahun 1816-1942. Malang, Jurnal 66 Sejarah\r\ndan Budaya. 9 (1) : 64-78.\r\nNazir, M. 2013. Metode Penelitian. Ghalia Indonesia. Bogor.\r\nNopriyandi, R. dan Haryadi. 2017. Analisis Ekspor Kopi\r\nIndonesia. Jambi. Jurnal Paradigma Ekonomi. 12 (1) : 1-8\r\nNotosusanto, N. 1984. Masalah Penelitian Sejarah kontemporer.\r\nInti Indayu Press. Jakarta.\r\nNurleli. 2008. Pengembangan Komoditas Unggulan Perkebunan\r\ndi Kabupaten Tanggamus Propinsi Lampung. Tesis.\r\nInstitut Pertanian Bogor. Bogor.\r\nPerdana, Y. dkk. 2019. Dinamika Industri Gula Sejak\r\nCultuurstelsel Hingga Krisis Malaise Tahun 1830 – 1929.\r\nJurnal Program Studi Pendidikan Sejarah Volume 7 (2) :\r\n227-242\r\nRetnandari, N.D dan Tjokrowinoto, M. 1991. Kopi : Kajian\r\nSosial-Ekonomi. Aditya Media. Yogyakarta.\r\nSjamsuddin, Helius. 2007. Metodologi Sejarah. Yogyakarta :Ombak\r\nSiswoyo, T. Ekwandari, Y.S dan Wakidi. Pengaruh Malaise\r\nTerhadap Perkebunan Kolonial di Hindia Belanda Tahun\r\n1930-1940. Jurnal FKIP Unila 1-12.\r\nSudarsono, M. dan Erwanto. 2013. Revitalisasi Lada Lampung\r\nSebagai Komoditas Warisan. Anugrah Utama Raharja.\r\nBandar lampung.\r\nSusilo, Agus. 2018. Politik Etis Dan Pengaruhnya Bagi Lahirnya\r\nPergerakan Bangsa Indonesia. Jurnal HISTORIA Volume\r\n6, Nomor 2, ISSN 2337-4713 : 403-416\r\nWawancara dengan Bapak Masmu’i Sebagai petani lada yang\r\nberalih ke tanaman kopi.Tanggamus, Pada tanggal 9\r\nNovember 2019.",
+      "userid": 2779
+    }
+]
+

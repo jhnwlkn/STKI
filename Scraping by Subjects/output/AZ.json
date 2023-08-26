@@ -1,0 +1,290 @@
+[
+    {
+      "date_type": "published",
+      "rev_number": 9,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhammad Basri",
+            "given": "Muhammad Basri"
+          },
+          "id": "muhammad.basri@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Sumargono",
+            "given": "Sumargono",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "sumargono.1988@fkip.unila.ac.id"
+        }
+      ],
+      "lastmod": "2021-05-11 00:49:28",
+      "eprintid": 30127,
+      "divisions": [
+        "FKIP24"
+      ],
+      "datestamp": "2021-05-11 00:49:28",
+      "dir": "disk0\/00\/03\/01\/27",
+      "eprint_status": "archive",
+      "abstract": "Motif batik nekara dan bejana lampung",
+      "ispublished": "pub",
+      "subjects": [
+        "AZ",
+        "D1",
+        "NX"
+      ],
+      "metadata_visibility": "show",
+      "id_number": "EC00202027868",
+      "title": "Karya seni batik",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30127",
+      "type": "patent",
+      "userid": 573,
+      "status_changed": "2021-05-11 00:49:28",
+      "date": "2020-08-14",
+      "patent_applicant": "Menteri Hukum dan Hak Asasi Manusia Direktur Jendral Kekayaan Intelektual",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 135276,
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "main": "sertifikat_EC00202027868.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/135276",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 135276,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "sertifikat_EC00202027868.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/357112",
+                  "filesize": 772880,
+                  "fileid": 357112,
+                  "mtime": "2021-05-10 06:31:30",
+                  "hash": "ae0f2af7540db027b1c33b1cb4688b88"
+                }
+            ],
+            "eprintid": 30127,
+            "pos": 1
+          }
+      ]
+    },
+    {
+      "note": "noersoedjarwanto@gmail.com",
+      "number": 3,
+      "creators": [
+        {
+          "id": "noer.soedjarwanto@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Noer Soedjarwanto",
+            "given": "Noer"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Endah Komalasari",
+            "given": "Endah"
+          },
+          "id": "endah.komalasari@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Venus Assadila",
+            "given": "Venus",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "venusassadila@gmail.com"
+        }
+      ],
+      "publisher": "Electrician",
+      "dir": "disk0\/00\/01\/39\/07",
+      "divisions": [
+        "FT5"
+      ],
+      "title": "Rancang Bangun Multilevel Boost Converter Untuk Catu Daya Motor Arus Searah Pada Kendaraan Listrik Berbasis Mikrokontroler",
+      "id_number": "3 September 2018",
+      "metadata_visibility": "show",
+      "keywords": "Multilevel boost converter, boost converter, motor arus searah",
+      "publication": "Rancang Bangun Multilevel Boost Converter Untuk Catu Daya Motor Arus Searah Pada Kendaraan Listrik Berbasis Mikrokontroler",
+      "referencetext": "[2] Priowirjanto,  Gator.  “Prinsip  Dasar \r\nArus  Searah”  Direktorat Pendidikan\r\nMenengah Kejuruan, Jakarta 89-104,\r\n2003. \r\n[3] M.A. Zumain, “Prototipe Mobil\r\nListrik dengan Menggunakan Motor\r\nDC Magnet Permanen 0,37 HP”.\r\nFakultas Tenik Universitas Indonesia,\r\nDepok, 9-10, 2009. \r\nI. Joni, W. Slamet, Mustaziri.\r\n“Rancang Bangun Alat Pemberi\r\nPakan Burung Otomatis Berbasis\r\nMikrokontroler Atmega16 dengan\r\nSMS Gateway”, Politeknik Negeri\r\nSriwijaya, Palembang, 2014.\r\n\r\n\r\n[4] S. Nur, S. Erwin, K. Ekki.\r\n“Perancangan dan Implementasi\r\nKonverter untuk Pembangkit Listrik\r\nHybrid Tenaga Surya dan Angin\r\nuntuk Suplai Listrik Arus Bolak\r\nBalik”, Fakultas Teknik Universitas\r\nTelkom, Bandung, 20, 2015. \r\nElecttrical \r\nand Data \r\nCommunication, Vol. 1, Issue 1,\r\nISSN: 2320-2084, 2013.\r\n\r\n[5] P. Thounhong, B. Davat. “Study of A\r\nMulthiphase Interleaved Step-Up\r\nConverter for Fuel Cell High Power \r\n[6] F.  Y.  Zaky,  A.  Muhammad,  Y. \r\nTeguh,  “Desain  dan  Simulasi\r\nKonverter Boost Multilevel sebagai\r\nCatu Daya Kendaraan Listrik”, Jurnal\r\nTeknik POMITS Voll. 3, ISSN 23373539,\r\n2014.\r\n\r\n[7] Rectifier, International. ”High and\r\nLow Side Driver, All High Voltage\r\nPins on One Side, Separate Logic and\r\nPower Ground, Shut-Down in a 14pin\r\nDIP\r\npackage”.\r\n[8]\r\n\r\nM.  Ganta,  P.  Nirupa,  T.  Akshitha, \r\nR.  Seyezhai.  “Design  and\r\nSimulation of PWM FED Two –\r\nPhase Interleaved Boost Converter\r\nJurnal Rekayasa Elektrika Vol. xx,\r\nNo. xx, April 2  for Renewable\r\nEnergy Source”, International Journal\r\nof \r\n[9] R Caro, Julio, Ramirez, Juan, Peng,\r\nValderrabano, “A DC- DC Multilevel\r\nBoost Converter”, IET Power\r\nElectron, Vol.3, Iss.1, 129-137, 2010.",
+      "refereed": "TRUE",
+      "contact_email": "electrician@eng.unila.ac.id",
+      "eprintid": 13907,
+      "lastmod": "2019-08-25 17:07:05",
+      "official_url": "https:\/\/https:\/\/electrician.unila.ac.id\/index.php\/ojs\/article\/view\/2089",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "date_type": "published",
+      "corp_creators": [
+        "Noer Soedjarwanto",
+        "Endah Komalasari",
+        "Venus Asadila"
+      ],
+      "contributors": [
+        {
+          "id": "noer.soedjarwanto@eng.unila.ac.id",
+          "name": {
+            "family": "Noer Soedjarwanto",
+            "given": "noer",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/DSR"
+        }
+      ],
+      "abstract": "Rangkaian multilevel boost converter memiliki prinsip kerja yang sama dengan boost converter\r\nkonvensional namun rasio tegangan keluarannya lebih tinggi. Dimana tegangan keluaran dari multilevel boost\r\nconverter ini akan digunakan sebagai catu daya untuk mengendalikan kecepatan putar motor arus searah\r\n(MAS). Kemudian akan dilakukan perbandingan antara tegangan keluaran multilevel boost converter dengan\r\nboost converter konvensional yang digunakan sebagai catu daya MAS. Pada penelitian ini nilai tegangan\r\nkeluaran multilevel boost converter saat dihubungkan pada MAS dengan duty cycle 20% yaitu 80,3 volt dan\r\nMAS sudah mulai berputar dengan kecepatan 350 rpm. Sementara tegangan keluaran boost converter\r\nkonvensional sebesar 39,4 volt namun MAS belum dapat berputar pada duty cycle 20% dan tegangan masukan\r\nyang sama yaitu 12,3 volt. Kemudian dilakukan penambahan beban MAS pada pengujian multilevel boost\r\nconverter. Dimana semakin berat beban pada MAS maka torsinya akan meningkat. Dengan demikian\r\nperangkat multilevel boost converter dapat digunakan sebagai catu daya MAS untuk kendaraan listrik.\r\nKata kunci: Multilevel boost converter, boost converter, motor arus searah",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "datestamp": "2019-08-25 17:07:05",
+      "volume": 12,
+      "issn": "2549-3442",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13907",
+      "type": "article",
+      "subjects": [
+        "AZ"
+      ],
+      "pagerange": "1-7",
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "docid": 26938,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26938",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "2089-Article Text-375-1-10-20190404.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 26938,
+                  "hash": "40e402428b3229dbb732ed3c13a9cc65",
+                  "mtime": "2019-08-21 02:19:24",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/121268",
+                  "fileid": 121268,
+                  "filesize": 480558
+                }
+            ],
+            "eprintid": 13907,
+            "pos": 1,
+            "language": "en",
+            "main": "2089-Article Text-375-1-10-20190404.pdf"
+          },
+          {
+            "language": "en",
+            "main": "CoverElectrician.docx",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26939",
+            "rev_number": 1,
+            "eprintid": 13907,
+            "pos": 2,
+            "files": [
+                {
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "filename": "CoverElectrician.docx",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 26939,
+                  "hash": "275160214aceae10952918c654c54238",
+                  "mtime": "2019-08-21 02:19:48",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/121270",
+                  "filesize": 180486,
+                  "fileid": 121270
+                }
+            ],
+            "docid": 26939,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "format": "text",
+            "security": "public",
+            "placement": 2
+          }
+      ],
+      "date": "2019-08-21",
+      "status_changed": "2019-08-25 17:07:05",
+      "userid": 498
+    },
+    {
+      "documents": [
+          {
+            "main": "WhatsApp Image 2021-03-03 at 15.07.56.jpeg",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 42219,
+                  "datasetid": "document",
+                  "filename": "WhatsApp Image 2021-03-03 at 15.07.56.jpeg",
+                  "hash_type": "MD5",
+                  "mime_type": "image\/jpeg",
+                  "fileid": 250722,
+                  "filesize": 130828,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/250722",
+                  "hash": "b460a6ab6439809cb1d9d5117f14fe05",
+                  "mtime": "2021-03-03 08:10:38"
+                }
+            ],
+            "eprintid": 28175,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42219",
+            "rev_number": 1,
+            "mime_type": "image\/jpeg",
+            "docid": 42219,
+            "placement": 1,
+            "security": "public",
+            "format": "image"
+          }
+      ],
+      "date": "2020-06",
+      "pages": 142,
+      "status_changed": "2021-03-04 03:23:52",
+      "userid": 1070,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28175",
+      "type": "book",
+      "title": "MENEMBUS SALJU MENGGAPAI CITA",
+      "metadata_visibility": "show",
+      "subjects": [
+        "AZ"
+      ],
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "ispublished": "pub",
+      "abstract": "Buku “Menembus Salju Menggapai Cita”: Biografi Muhajir Utomo ini menceritakan parjalanan panjang Prof. Ir. Muhajir Utomo, Ph.D., M.Sc. seorang anak transmigran dalam rangka mewujudkan cita-citanya. Penulis menyusun buku biografi ini karena rasa penghormatan yang tinggi pada Prof. Ir. Muhajir Utomo, Ph.D., M.Sc. yang merupakan seorang pejuang yang dapat dijadikan panutan oleh penulis.\r\nPenulis berharap dengan terbitnya buku in, bahwa liku-liku perjuangan kehidupan Muhajir dapat dijadikan motivasi kehidupan perjuangan anak bangsa. Perjuangan untuk sukses bisa dimulai dengan “modal dengkul” artinya modal kehidupan yang sangat sederhana dengan kondisi fisik dan harta yang sangat “pas-pasan”. Dengan demikian mudah-mudahan buku ini dapat menimbulkan motivasi pembacanya. Pembaca yang masih mudah dapat mengambil contoh untuk berjuang. Pembaca ang sudah lanjut usia dapat menjadikan bahan nasehat pada generasi muda.\r\nSelanjutnya penuslis mengucapkan terima kasih pada Ibu Maria Harjani Sanusi, S.T. dan Bapak Budi Sutedjo Dharma Oetomo, S.Kom., M.M. yang berusaha memberi semangat penuslisan buku ini dan mendampingi sampai terselesaikannya buku ini. Kepada semua pembaca kami mohon kritik dan saran yang membangun untuk perbaikan atas segala kesalahan yang dijumpai.",
+      "eprint_status": "archive",
+      "isbn": "978-602-1025-23-9",
+      "dir": "disk0\/00\/02\/81\/75",
+      "datestamp": "2021-03-04 03:23:52",
+      "refereed": "TRUE",
+      "lastmod": "2021-03-04 03:23:52",
+      "eprintid": 28175,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Suharno",
+            "given": "Suharno"
+          },
+          "id": "suharno@eng.unila.ac.id"
+        }
+      ],
+      "publisher": "TALENTA INDONESIA MANDIRI (TIM)",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "date_type": "published"
+    }
+]
+

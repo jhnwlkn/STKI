@@ -1,0 +1,245 @@
+[
+    {
+      "status_changed": "2020-06-04 07:36:32",
+      "funders": [
+        "LPPM UNILA"
+      ],
+      "userid": 2269,
+      "book_title": "Ilmu-ilmu Teknik : Kebencanaan 2019",
+      "documents": [
+          {
+            "main": "Book-Chapter-IIT-Kebencanaan-2019.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/201547",
+                  "filesize": 4152441,
+                  "fileid": 201547,
+                  "hash": "fc9fbb5d8be50991bb14ab375301d517",
+                  "mtime": "2020-06-04 06:24:48",
+                  "datasetid": "document",
+                  "objectid": 35186,
+                  "mime_type": "application\/pdf",
+                  "filename": "Book-Chapter-IIT-Kebencanaan-2019.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "eprintid": 21795,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35186",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 35186,
+            "placement": 1,
+            "security": "public",
+            "format": "text"
+          }
+      ],
+      "date": 2020,
+      "pages": 328,
+      "place_of_pub": "Bandar Lampung",
+      "title": "PEMETAAN ESTIMASI DAERAH RAWAN TSUNAMI DAN WILAYAH LAYANAN EVAKUASI BERDASARKAN SKENARIO WAKTU KEPUTUSAN EVAKUASI DI WILAYAH PESISIR KOTA BANDAR LAMPUNG",
+      "editors": [
+        {
+          "id": "shirley.savetlana@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Shirley",
+            "family": "Savetlana"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Sukmana",
+            "given": "Irza"
+          },
+          "id": "irza.sukmana@gmail.com"
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "family": "Muhammad",
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Afri",
+            "family": "Yudamson"
+          },
+          "id": "afri.yudamson@eng.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "subjects": [
+        "GB",
+        "GC",
+        "HD61",
+        "QE"
+      ],
+      "volume": 1,
+      "type": "book_section",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21795",
+      "isbn": "978-602-73260-3-3",
+      "dir": "disk0\/00\/02\/17\/95",
+      "datestamp": "2020-06-04 07:36:32",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "abstract": "Geological activity in the Sunda Strait shows us again its existence through the tsunami that occurred at the end of 2018 and the tectonic earthquake in the Sunda Strait subduction zone with Magnitude 6.9 on August 2, 2019. This activity raises concerns in the surrounding area. Bandar Lampung City which is located in a radius that is quite close to the Sunda Strait has a tsunami-prone lowland which is quite extensive with a high population density. Considering this risk threat, this study aims to map areas estimated to be affected by tsunami inundation and evacuation service areas during a tsunami emergency for 3 evacuation time scenarios namely 10 minutes, 20 minutes and 30 minutes from the Temporary Evacuation Site (TES). This challenge requires spatial analysis of tsunami inundation areas which is processed from SRTM topographic data of 15m altitude. Evacuation services area is obtained through evacuation network analysis according to the Bandar City road network. Both of these steps are simulated using spatial analysis and network analysis tools in the Geographic Information System (GIS). The results show the tsunami submerged estimation area in the coastal area of the city that forms a half circle from the west, north to east. Generally the community can evacuate within 20 minutes on foot. But in some areas, TES can only be reached in more than 20 minutes. Even the people on the island of Pasaran have to spend more than 30 minutes to reach TES",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "refereed": "FALSE",
+      "eprintid": 21795,
+      "lastmod": "2020-06-04 07:36:32",
+      "contact_email": "henky.mayaguezz@fp.unila.ac.id",
+      "creators": [
+        {
+          "id": "henky.mayaguezz@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Mayaguezz",
+            "given": "henky"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Munti",
+            "family": "Sarida"
+          },
+          "id": "munti.sarida@fp.unila.ac.id"
+        },
+        {
+          "id": "listumbinang.halengkara@fkip.unila.ac.id",
+          "name": {
+            "family": "Halengkara",
+            "given": "Listumbinang",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "publisher": "UPT Perpustakaan Universitas Lampung",
+      "rev_number": 10,
+      "full_text_status": "public"
+    },
+    {
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 157563,
+            "format": "text",
+            "date_embargo": "2021-11-25",
+            "formatdesc": "Publication in International Journal of Productivity and Performance Management",
+            "security": "validuser",
+            "content": "published",
+            "placement": 1,
+            "language": "en",
+            "main": "10-1108_IJPPM-03-2020-0111.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/157563",
+            "rev_number": 2,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 157563,
+                  "mime_type": "application\/pdf",
+                  "filename": "10-1108_IJPPM-03-2020-0111.pdf",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/422195",
+                  "fileid": 422195,
+                  "filesize": 239490,
+                  "hash": "c2657ebc93b2a2caafdde62f1ffc61ea",
+                  "mtime": "2021-11-13 09:08:26"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 36647
+          }
+      ],
+      "date": "2021-02-22",
+      "publication": "International Journal of Productivity and Performance Management",
+      "status_changed": "2021-11-13 10:11:15",
+      "userid": 608,
+      "issn": "1741-0401",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/36647",
+      "type": "article",
+      "title": "The “interactive” performance measurement system and team performance – Towards optimal organizational utility",
+      "metadata_visibility": "show",
+      "id_number": "10.1108\/IJPPM-03-2020-0111",
+      "subjects": [
+        "HD28",
+        "HD61"
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "corp_creators": [
+        "University of Lampung"
+      ],
+      "ispublished": "pub",
+      "abstract": "Abstract\r\nPurpose\r\nThis study aims to highlight the significance of Performance Measurement System (PMS) as an “interactive” system that adapts to the organization's peculiar operational setup, thereby delivering optimal employee performance management benefits. Using Schatzki's (2002) “site of the social” theoretical conceptualization, it aims to empirically investigate the influence PMS's such strategic adaptation could have on employees' team performance through its mediating effect on improving organizational learning and knowledge sharing.\r\n\r\nDesign\/methodology\/approach\r\nIn pursuit of the set objective, we conducted a survey of 200 employees in public accounting firms located in the two major Indonesian cities of Jakarta and Surabaya. The survey yielded 89 responses of which 87 were deemed fit for empirical analyses. The statistical analyses of the data were performed using SmartPLS.\r\n\r\nFindings\r\nThe statistical analyses using SmartPLS found evidence that the strategic use of the PMS positively influences team performance, both directly and indirectly, through its role in enhancing organizational learning; however, its role in enhancing knowledge sharing did not demonstrate leveraging team performance.\r\n\r\nResearch limitations\/implications\r\nThe study conclusions are based on a relatively small data sample and the context of a developing economy, and, hence, need to be replicated with caution.\r\n\r\nOriginality\/value\r\nThe study contributes to the management accounting theory and practice and emphasizes the strategic use of PMS to help improve organizational performance. Its novel “site” and context directs researchers' and practitioners' attention to the “interactive”, rather than passive and standalone, use of PMS to influence team performance and instigates a new debate on the management tool's optimal use.",
+      "eprint_status": "archive",
+      "datestamp": "2021-11-13 10:11:15",
+      "dir": "disk0\/00\/03\/66\/47",
+      "divisions": [
+        "FEB4"
+      ],
+      "refereed": "TRUE",
+      "eprintid": 36647,
+      "lastmod": "2021-11-13 10:11:15",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Yuliansyah",
+            "family": "Yuliansyah"
+          },
+          "id": "yuliansyah@feb.unila.ac.id"
+        },
+        {
+          "id": "akhan@une.edu.au",
+          "name": {
+            "given": "Asfaq",
+            "family": "Khan",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Wijaya",
+            "family": "Triwacananingrum",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "publisher": "Emerald Publishing",
+      "official_url": "https:\/\/www.emerald.com\/insight\/publication\/issn\/1741-0401",
+      "rev_number": 8,
+      "full_text_status": "restricted",
+      "date_type": "published"
+    }
+]
+

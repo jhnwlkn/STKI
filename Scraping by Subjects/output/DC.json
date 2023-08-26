@@ -1,0 +1,71 @@
+[
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52172",
+      "type": "article",
+      "subjects": [
+        "DC"
+      ],
+      "metadata_visibility": "show",
+      "title": "Tambora Pencetus Kekalahan Napoleon",
+      "publication": "https:\/\/terekamjejak.com\/",
+      "date": "2023-06-02",
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "docid": 252517,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252517",
+            "rev_number": 1,
+            "files": [
+                {
+                  "objectid": 252517,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "Tambora Pencetus Kekalahan Napoleon - Terekam Jejak.pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 1921517,
+                  "fileid": 618196,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/618196",
+                  "mtime": "2023-06-17 12:51:20",
+                  "hash": "a5dfa714a9c3ba0d0651481f979a38ce"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 52172,
+            "language": "en",
+            "main": "Tambora Pencetus Kekalahan Napoleon - Terekam Jejak.pdf"
+          }
+      ],
+      "userid": 2796,
+      "status_changed": "2023-06-19 01:17:41",
+      "official_url": "https:\/\/terekamjejak.com\/perang-terakhir-napoleon\/",
+      "publisher": "Terekam Jejak",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rakhmadi",
+            "given": "Roby"
+          },
+          "id": "roby.rakhmadi007@fisip.unila.ac.id"
+        }
+      ],
+      "lastmod": "2023-06-19 01:17:41",
+      "eprintid": 52172,
+      "refereed": "FALSE",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "divisions": [
+        "FISIP8"
+      ],
+      "datestamp": "2023-06-19 01:17:41",
+      "dir": "disk0_bak\/00\/05\/21\/72"
+    }
+]
+

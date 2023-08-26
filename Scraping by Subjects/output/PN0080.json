@@ -1,0 +1,85 @@
+[
+    {
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "docid": 33503,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33503",
+            "files": [
+                {
+                  "filename": "Prosiding Semnas 28 Sep 2019 Munaris dan Rian.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 33503,
+                  "datasetid": "document",
+                  "hash": "47412f86c7016e5476921f5852839c3a",
+                  "mtime": "2020-05-19 23:33:44",
+                  "fileid": 190264,
+                  "filesize": 508015,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/190264"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 20164,
+            "language": "en",
+            "main": "Prosiding Semnas 28 Sep 2019 Munaris dan Rian.pdf"
+          }
+      ],
+      "date": 2019,
+      "userid": 3012,
+      "event_title": "SEMINAR NASIONAL PENDIDIKAN FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN “TRANSFORMASI PENDIDIKAN ABAD 21 MENUJU SOCIETY 5.0”",
+      "status_changed": "2020-05-20 02:07:33",
+      "event_type": "conference",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20164",
+      "metadata_visibility": "show",
+      "title": "PEMANFAATAN KAJIAN EKOKRITIK DALAM PEMBELAJARAN\r\nSASTRA SEBAGAI WAHANA MENANAMKAN CINTA LINGKUNGAN",
+      "subjects": [
+        "L1",
+        "PN0080",
+        "PZ"
+      ],
+      "eprint_status": "archive",
+      "abstract": "The environment and humans have a very close\r\nrelationship. The quality of human life in the future is greatly affected by the quality\r\nof the environment in the present. In fact, the current problem of pollution and\r\nenvironmental damage in Indonesia is very complex, ranging from waste problems\r\nto forest destruction. The most effective way to deal with these problems is to instill\r\na sense of love for the environment from an early age. Instilling a sense of love for\r\nthe environment at an early age can be started by using literary learning in schools.\r\nOne concept of literary learning that can accommodate the cultivation of a sense\r\nof love for the environment is through literary learning patterns based on literary\r\necocritics. The concept of literary ecocritics views literature as a picture of human\r\nreality as biological and ecological creatures. The literary ecocritical study model\r\nis broken down into the study of environmental literature and ethical literature.\r\nEnvironmental literature studies consist of the study of pastoral literary narratives\r\nand apocalyptic literary narratives. The study of ethical literature includes cultural\r\ndimensions and ecological dimensions trying to restore literature to its original\r\nplace of life. The following article proves that the concept of literary ecocritics is\r\nvery influential in the process of instilling a sense of environmental love in students\r\nranging from elementary, junior high, and high school \/ vocational school levels.\r\nKeywords: Ecocritics, Learning, Literature, Environment",
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP14"
+      ],
+      "datestamp": "2020-05-20 02:07:33",
+      "dir": "disk0\/00\/02\/01\/64",
+      "lastmod": "2020-05-20 02:07:33",
+      "eprintid": 20164,
+      "pres_type": "paper",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "event_dates": "28 September 2019",
+      "event_location": "Bandarlampung",
+      "rev_number": 10,
+      "creators": [
+        {
+          "id": "munaris_labib@yahoo.co.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Munaris",
+            "given": "Munaris"
+          }
+        },
+        {
+          "name": {
+            "family": "Rian Andri Prasetya",
+            "given": "RAP",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "rian.andri@fkip.unila.ac.id"
+        }
+      ],
+      "date_type": "published"
+    }
+]
+

@@ -1,0 +1,1354 @@
+[
+    {
+      "rev_number": 11,
+      "event_dates": "14 November 2015",
+      "event_location": "Faculty of Teacher Training and Education Lambung Mangkurat University",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "abdurrahman.1968@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Abdurrahman",
+            "family": "Abdurrahman"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Utaminingsih",
+            "given": "Diah"
+          },
+          "id": "diahutaminingsih@yahoo.co.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Budi",
+            "family": "Kadaryanto"
+          },
+          "id": "kadaryanto@gmail.com"
+        },
+        {
+          "id": "andriansaputra@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Andrian",
+            "family": "Saputra"
+          }
+        }
+      ],
+      "eprintid": 2511,
+      "lastmod": "2017-06-02 07:40:32",
+      "pres_type": "paper",
+      "refereed": "TRUE",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "The frequent disaster events in Indonesia have been a major challenge for concerning more consideration on integrating disaster education curricula'. Models of Learning Community to enhance the students' disaster recovery and resilience have been criticized for not being embedded in the context of partnership between school and society. This paper highlighted an adapted Learning Community model, which the qualitative investigations indicated that it was potentially effective in facilitating students' disaster literacy, attitudes and skills for preparing post-disaster recovery and resilience in the context of learning community approach. The role shift needed to embed and extend the optimalization of teacher-parents involved in the school program that was achieved through the positive support and commitment of them in the engaging of schools program development.",
+      "divisions": [
+        "FKIP2"
+      ],
+      "dir": "disk0\/00\/00\/25\/11",
+      "datestamp": "2017-06-02 07:40:32",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2511",
+      "event_type": "conference",
+      "subjects": [
+        "BF",
+        "LB"
+      ],
+      "metadata_visibility": "show",
+      "title": "The Learning Community Based Model In The Context Of Teacher-Parent Partnership For Preparing Post-Disaster Recovery And Resilience Of Elementary Student At Risk Area In Indonesia.",
+      "documents": [
+          {
+            "language": "en",
+            "main": "Ethnopedagogy Proceeding_Abdurrahman.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2396",
+            "rev_number": 2,
+            "eprintid": 2511,
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "Ethnopedagogy Proceeding_Abdurrahman.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 2396,
+                  "hash": "b8e97b4fa1a39636aec1427db4b10686",
+                  "mtime": "2017-05-31 06:52:25",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/17379",
+                  "filesize": 1975674,
+                  "fileid": 17379
+                }
+            ],
+            "docid": 2396,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "security": "public",
+            "content": "published",
+            "placement": 1
+          }
+      ],
+      "userid": 140,
+      "status_changed": "2017-06-02 07:40:32",
+      "event_title": "International Seminar on Ethnopedagogy"
+    },
+    {
+      "date": "2017-09",
+      "publication": "International Journal of Education and Research",
+      "documents": [
+          {
+            "format": "text",
+            "content": "published",
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "docid": 18752,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18752",
+            "rev_number": 3,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54404",
+                  "fileid": 54404,
+                  "filesize": 694781,
+                  "mtime": "2017-11-17 02:35:26",
+                  "hash": "1e44f7e36590b32448bfe094f9dbe3e2",
+                  "datasetid": "document",
+                  "objectid": 18752,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "16.pdf"
+                }
+            ],
+            "eprintid": 5821,
+            "pos": 1,
+            "language": "en",
+            "main": "16.pdf"
+          }
+      ],
+      "status_changed": "2017-11-17 04:20:29",
+      "userid": 140,
+      "issn": "ISSN: 2411-5681",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5821",
+      "type": "article",
+      "volume": 5,
+      "pagerange": "177-188",
+      "subjects": [
+        "BF"
+      ],
+      "title": "Mapping and Developing Students Resilence in A Risk-disaster Area",
+      "metadata_visibility": "show",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "datestamp": "2017-11-17 04:20:29",
+      "dir": "disk0\/00\/00\/58\/21",
+      "divisions": [
+        "FKIP2"
+      ],
+      "creators": [
+        {
+          "name": {
+            "family": "Diah",
+            "given": "Utaminingsih",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "official_url": "http:\/\/www.ijern.com",
+      "rev_number": 7,
+      "publisher": "Contemporary Research Center CRC Publications",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 8,
+      "lastmod": "2017-11-17 04:20:29",
+      "eprintid": 5821,
+      "date_type": "published"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3955",
+      "type": "article",
+      "metadata_visibility": "show",
+      "title": "POLA ASUH ORANG TUA, KONSEP DIRI DAN KAITANNYA DENGAN KEMATANGAN ARAH PILIHAN KARIR MAHASISWA",
+      "subjects": [
+        "BF"
+      ],
+      "documents": [
+          {
+            "main": "jurnalku.pdf",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 3955,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 3807,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "jurnalku.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/27652",
+                  "fileid": 27652,
+                  "filesize": 466151,
+                  "mtime": "2017-09-25 04:56:32",
+                  "hash": "145c8c35b8b1449215fa7a6631f51129"
+                }
+            ],
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3807",
+            "docid": 3807,
+            "mime_type": "application\/pdf",
+            "security": "validuser",
+            "placement": 1,
+            "format": "text"
+          }
+      ],
+      "publication": "repository unila",
+      "userid": 228,
+      "status_changed": "2017-09-25 05:06:23",
+      "eprintid": 3955,
+      "lastmod": "2017-09-25 05:06:23",
+      "refereed": "TRUE",
+      "rev_number": 12,
+      "full_text_status": "restricted",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "EKA ANDRIYANTO",
+            "given": "REDI"
+          }
+        }
+      ],
+      "corp_creators": [
+        "UNIVERSITAS LAMPUNG"
+      ],
+      "eprint_status": "archive",
+      "ispublished": "unpub",
+      "abstract": "Abstract; The contribution of parental involvement, self concept in increasing the maturity of the students ' career choices. The purpose of this study was to describe the contribution of parental involvement and self concept of students career choices towards maturity. The population of this research is the final level students majoring in science education FKIP Unila with number of samples as much as 88 people with simple random sampling techniques.The research consists of three Data questionnaire; parental involvement, self concept and the maturity of the students career choices.  The data analysis done in a descriptive and for testing the hypotheses used simple regression analysis techniques and multiple regression. The results showed that 1) parental involvement contribute to the maturity of the students career choices, 2) concept of themselves contribute to the maturity of the students career choices, 3) parental involvement and self Concept together also contribute to the maturity of the students career choices. This research it can be concluded that parental involvement and good self concept separate and jointly contribute to the maturity of the students ' career choices.\r\n\r\nKeywords: Parental Involvement, Self-Concept, Career Choices Maturity",
+      "divisions": [
+        "FKIP2"
+      ],
+      "datestamp": "2017-09-25 05:06:23",
+      "dir": "disk0\/00\/00\/39\/55"
+    },
+    {
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26286",
+      "event_type": "conference",
+      "subjects": [
+        "BF",
+        "H1"
+      ],
+      "title": "Antecedent of Organizational Citizenship Behavior:  Positive and Negative Affectivity",
+      "metadata_visibility": "show",
+      "date": 2020,
+      "documents": [
+          {
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 40167,
+            "mime_type": "application\/pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40167",
+            "rev_number": 1,
+            "eprintid": 26286,
+            "pos": 1,
+            "files": [
+                {
+                  "hash": "82e771d4216feebe06ac38b5a9c1ff1c",
+                  "mtime": "2020-11-19 10:18:49",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/236635",
+                  "fileid": 236635,
+                  "filesize": 1241493,
+                  "mime_type": "application\/pdf",
+                  "filename": "ISBN Abstract Book_ICEBE 2020.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 40167
+                }
+            ],
+            "language": "en",
+            "main": "ISBN Abstract Book_ICEBE 2020.pdf"
+          }
+      ],
+      "event_title": "The 3rd International Conference of Economics, Business and Entrepreneurship (ICEBE3)",
+      "status_changed": "2020-11-19 11:39:21",
+      "userid": 108,
+      "creators": [
+        {
+          "id": "umi_asra@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Keumala",
+            "family": "Hayati"
+          }
+        }
+      ],
+      "rev_number": 14,
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "eprintid": 26286,
+      "lastmod": "2020-11-19 11:39:21",
+      "ispublished": "inpress",
+      "abstract": "This set of tests sought to examine the influence of affectivity on OCB. The use of Affective\r\nEvent Theory could have deﬁnitively influenced the results of this study. There have been limited studies\r\non the impact of positive and negative affectivity on OCB simultaneously. Overall, the study of the effect\r\nof negative affectivity on OCB is inconclusive. The novelty of this study is the finding of the effect of\r\nnegative affectivity on OCB. This study identifies the area of Sharia Banks as an area requiring further\r\ninvestigation. The sample is 115 employees from four Sharia banks in Lampung. The findings show that\r\npositive affectivity influence OCB positively. But also, negative affectivity influence OCB negatively.\r\nThis study suggests that employees who experience positive feelings will behave in sportsmanship,\r\naltruism, politeness, awareness, and civic virtue. In contrast, employees with negative feelings tend to\r\nimpact behavior negatively.",
+      "eprint_status": "archive",
+      "datestamp": "2020-11-19 11:39:21",
+      "dir": "disk0\/00\/02\/62\/86",
+      "divisions": [
+        "FEB6"
+      ]
+    },
+    {
+      "publication": "Musikolastika",
+      "referencetext": "Andaryani, E. T. (2019). Pengaruh musik dalam meningkatkan mood booster mahasiswa. Musikolastika: Jurnal Pertunjukan dan Pendidikan Musik, 1(2), 109–115. https:\/\/doi.org\/10.7592\/musikolastika.v1i2.31\r\nAveyard, H. (2014). Doing a literature review in health and social care: A practical guide (Third edition). McGraw-Hill Education, Open University Press.\r\nBooth, A., Sutton, A., & Papaioannou, D. (2016). Systematic approaches to a successful literature review (Second edition). Sage.\r\nCarayannis, E. G. (Ed.). (2013). Encyclopedia of creativity, invention, innovation and entrepreneurship. Springer New York. https:\/\/doi.org\/10.1007\/978-1-4614-3858-8\r\nCook, N. (2018). Music as creative practice: Studies in musical performance as creative practice. Oxford University Press, USA.\r\nde Bruin, L. R. (2019). Expert improvisers’ formal, informal and situated influences on learning, motivation and self-efficacy: A qualitative study. Music Education Research, 21(1), 99–115. https:\/\/doi.org\/10.1080\/14613808.2018.1516746\r\nDeliège, I. (2006). Musical creativity: Multidisciplinary research in theory and practice (1st ed.). Psychology Press. https:\/\/doi.org\/10.4324\/9780203088111\r\nEuro-net, University of Turku, MCPZ d.o.o., Fab Lab London, & Erhvervsakademi Sydvest. (2017). InnovatiVET project: Creative problem solving and design thinking. Erasmus+.\r\nHagata, M., Sitorus, E. R., & Hapsari, P. D. (2016). Pembelajaran musik kreatif pada siswa [Thesis]. Institut Seni Indonesia Yogyakarta.\r\nKaufman, J. C., & Sternberg, R. J. (2006). The international handbook of creativity. Cambridge University Press.\r\nMadore, K. P., Jing, H. G., & Schacter, D. L. (2016). Divergent creative thinking in young and older adults: Extending the effects of an episodic specificity induction. Memory & Cognition, 44(6), 974–988. https:\/\/doi.org\/10.3758\/s13421-016-0605-z\r\nMcCrae, R. R. (1987). Creativity, divergent thinking, and openness to experience. Journal of Personality and Social Psychology, 52(6), 1258–1265. https:\/\/doi.org\/10.1037\/0022-3514.52.6.1258\r\nRitter, S. M., & Ferguson, S. (2017). Happy creativity: Listening to happy music facilitates divergent thinking. PLOS ONE, 12(9), e0182210. https:\/\/doi.org\/10.1371\/journal.pone.0182210\r\nRunco, M. A. (2007). Encouraging creativity in education. In A.-G. Tan (Ed.), Creativity: A handbook for teachers (pp. vii–ix). World Scientific Publishing Co. Pte. Ltd.\r\nSternberg, R. J. (2006). Introduction. In J. C. Kaufman & R. J. Sternberg (Eds.), The international handbook of creativity (pp. 1–9). Cambridge University Press.\r\nTan, A.-G., Tsubonou, Y., Oie, M., & Mito, H. (2018). Creativity and music education: A state of art reflection. In Y. Tsubonou, A.-G. Tan, & M. Oie (Eds.), Creativity in music education (pp. 3–16). Springer Berlin Heidelberg.\r\nWebster, P. R. (2002). Creative thinking in music: Advancing a model. In T. Sullivan & L. Willingham (Eds.), Creativity and music education (pp. 16–33). The Canadian Music Educators’ Association.\r\nWicaksono, H. Y. (2009). Kreativitas dalam pembelajaran musik. Cakrawalan Pendidikan: Jurnal Ilmiah Pendidikan, 1, 1–12. https:\/\/doi.org\/10.21831\/cp.v1i1.42",
+      "metadata_visibility": "show",
+      "title": "KREATIVITAS DALAM PENDIDIKAN MUSIK: BERPIKIR DIVERGEN DAN KONVERGEN",
+      "keywords": "Kreativitas, pendidikan musik, berpikir divergen dan konvergen",
+      "divisions": [
+        "FKIP25"
+      ],
+      "dir": "disk0\/00\/02\/28\/91",
+      "number": 1,
+      "publisher": "Program Studi Pendidikan Musik, Fakultas Bahasa dan Seni Universitas Negeri Padang",
+      "creators": [
+        {
+          "id": "riyanhidayat28@gmail.com",
+          "name": {
+            "family": "Hidayatullah",
+            "given": "Riyan",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "documents": [
+          {
+            "main": 32,
+            "license": "cc_by_4",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 36438,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": 32,
+                  "mime_type": "text\/html",
+                  "filesize": 26107,
+                  "fileid": 210073,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/210073",
+                  "mtime": "2020-06-30 04:40:06",
+                  "hash": "638507d281b61317e7d68e5f40ee75ec"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 22891,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36438",
+            "rev_number": 3,
+            "mime_type": "text\/html",
+            "docid": 36438,
+            "placement": 1,
+            "content": "published",
+            "security": "public",
+            "format": "text"
+          },
+          {
+            "main": "Hidayatullah - 2020 - Kreativitas dalam Pendidikan Musik.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 36439,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Hidayatullah - 2020 - Kreativitas dalam Pendidikan Musik.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/210076",
+                  "fileid": 210076,
+                  "filesize": 301458,
+                  "mtime": "2020-06-30 04:40:30",
+                  "hash": "16c831df975417e644b7d0a5c72fa2e3"
+                }
+            ],
+            "eprintid": 22891,
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36439",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 36439,
+            "placement": 2,
+            "security": "public",
+            "format": "text"
+          }
+      ],
+      "date": "2020-06-20",
+      "userid": 1136,
+      "status_changed": "2020-06-30 04:52:41",
+      "volume": 2,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22891",
+      "issn": "2657-0599",
+      "subjects": [
+        "BF",
+        "M1",
+        "ML",
+        "MT"
+      ],
+      "pagerange": "1-7",
+      "eprint_status": "archive",
+      "abstract": "Musik merupakan hasil dari pemikiran dan proses kreatif. Karya musik diciptakan melalui ide-ide baru kepada penikmatnya. Dalam konteks pendidikan musik, kreativitas merupakan alat untuk mencapai tujuan pembelajaran musik. Strategi pembelajaran didasaran pada pemikiran untuk memancing peserta didik menumbuhkan ide-ide (divergen) dan mencari solusi (konvergen). Artikel ini mempersepsikan kreativitas sebagai sebuah alat berpikir dalam konteks pendidikan musik. Literature review digunakan sebagai metode untuk melakukan identifikasi mendalam dan kritis terhadap penelitian sebelumnya (Aveyard, 2014). Kreativitas memberikan nilai pada kualitas pembelajaran musik melalui aktivitas berpikir yang dinamis. Mengaransemen, berimprovisasi dalam materi musik tertentu (seperti jazz), dan secara teratur mempraktikkan sight-reading adalah pola belajar yang berlandaskan kreativitas. Musik dapat dilibatkan dalam proses pembelajaran untuk membangkitkan gairah dalam belajar musik (lihat: Ritter & Ferguson, 2017).\r\n\r\nKata kunci: Kreativitas, pendidikan musik, berpikir divergen dan konvergen",
+      "ispublished": "pub",
+      "datestamp": "2020-06-30 04:52:41",
+      "lastmod": "2020-06-30 04:52:41",
+      "eprintid": 22891,
+      "contact_email": "riyan.1002@fkip.unila.ac.id",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "rev_number": 12,
+      "official_url": "http:\/\/musikolastika.ppj.unp.ac.id\/index.php\/musikolastika\/about",
+      "date_type": "published"
+    },
+    {
+      "eprintid": 31991,
+      "lastmod": "2021-06-04 01:37:24",
+      "refereed": "TRUE",
+      "number": 2,
+      "publisher": "Universitas Malahayati",
+      "official_url": "http:\/\/ejurnalmalahayati.ac.id\/index.php\/PSIKOLOGI\/article\/view\/3023",
+      "rev_number": 8,
+      "full_text_status": "none",
+      "creators": [
+        {
+          "id": "shinta.mayasari@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Mayasari",
+            "given": "Shinta"
+          }
+        }
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "mayasari",
+            "given": "shinta"
+          }
+        }
+      ],
+      "eprint_status": "archive",
+      "abstract": "A qualified counselor will determine the success of the counseling process. Three characteristics are needed and determine the quality of a counselor, namely: (1) congruence (authentic), (2) unconditional positive regard (acceptance), and (3) empathy (empathy). This study aims to describe the characteristics of counselors based on gender groups. The research sample consisted of 68 prospective counselor students who were divided into gender groups. The measuring instrument uses a counselor characteristic test developed using controversial statements with alternative Likert scale answers. The results of the study found that there were significant differences in the characteristics of counselors among students of the guidance and counseling study program based on differences in gender groups. There is a significant difference between the need to develop educational programs and effective counselor training for male and female students. The development of congruence characteristics is more needed for male students, while female students on the characteristics of unconditional positive regard. A larger sample size is needed to increase heterogeneity, and additional interviews are conducted individually to deepen the discussion.",
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP2"
+      ],
+      "datestamp": "2021-06-04 01:37:24",
+      "dir": "disk0\/00\/03\/19\/91",
+      "volume": 2,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31991",
+      "metadata_visibility": "show",
+      "title": "COUNSELOR CHARACTERISTIC AMONG CANDIDATED COUNSELOR BASED ON GENDER GROUP DIFFERENCES",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/ejurnalmalahayati.ac.id\/index.php\/PSIKOLOGI\/article\/view\/3023"
+        }
+      ],
+      "subjects": [
+        "BF"
+      ],
+      "publication": "Jurnal Psikologi Malahayati",
+      "date": 2020,
+      "userid": 20,
+      "status_changed": "2021-06-04 01:37:24"
+    },
+    {
+      "divisions": [
+        "FKIP2"
+      ],
+      "datestamp": "2021-11-11 02:52:04",
+      "dir": "disk0\/00\/03\/58\/83",
+      "eprint_status": "archive",
+      "ispublished": "unpub",
+      "abstract": "PEMBUATAN APLIKASI PENDETEKSI \r\nKESEJAHTERAAN PSIKOLOGI BERBASIS APPS\r\n(DELIT-DETEKSI MENTAL DAN INTERVENSI TERPADU)\r\n\r\nShinta Mayasari*, Moch Johan Pratama\r\n1Bimbingan dan Konseling, Fakultas Keguruan dan Ilmu Pendidikan, Universitas Lampung, \r\nJl. Prof. Dr. Soemantri Brojonegoro No. 1 Bandar Lampung, Indonesia\r\n*e-mail: shinta.mayasari@fkip.unila.ac.id\r\n\r\nAbstrak\r\n\r\n\r\nKesejahteraan psikologi merupakan suatu kondisi tertinggi yang dapat dicapai oleh individu, mencakup evaluasi dan penerimaan diri pada berbagai aspek kehidupan, serta ditandai dengan rasa bahagia dan adanya kepuasan dalam hidup. Meskipun demikian, kesejahteraan psikologi masih jarang menjadi fokus perhatian masyarakat Indonesia karena adanya sikap tabu untuk terbuka membicarakan isu permasalahan mental yang erat kaitannya dengan ketidaksejahteraan psikologi. Padahal, riset kesehatan dasar Kementerian Kesehatan Republik Indonesia menunjukkan bahwa pada tahun 2018 sedikitnya terdapat sejumlah 11.315.500 masyarakat Indonesia yang terkategori mengalami depresi. Fakta tersebut dapat diibaratkan sebagai fenomena gunung es, sebab angka kasus yang terjadi dapat jauh lebih tinggi dari angka temuan. Bahkan, upaya penanggulangan permasalahan psikologi melalui bantuan tenaga psikolog pun masih dianggap sebagai pilihan alternatif semata oleh masyarakat. Oleh karena itu, peneliti melakukan upaya riset yang bertujuan membangun aplikasi prastart-up pendeteksi kesejahteraan psikologi berbasis aplikasi. Aplikasi prastart-up tersebut telah berhasil dibangun dengan merk dagang MAHAN. Pembentukan aplikasi menggunakan desain bisnis B2C yang bertujuan membentuk pangsa pasar terhadap perguruan tinggi dan masyarakat umum lainnya. Metode yang digunakan adalah product validation dan a\/b testing yang kemudian dikembangkan dengan scrum sprint. Pengembangan content dilakukan bekerjasama dengan HIMPSI wilayah Lampung, Formabika FKIP Unila, dan Sthala.Talk Sehat Mental Unila. Sehingga, aplikasi ini mampu memberikan informasi mengenai tingkat kesejahteraan psikologi individu, serta menyediakan layanan terpadu untuk meningkatkan kesejahteraan psikologi sesuai dengan kebutuhan masing-masing individu pengguna aplikasi MAHAN.\r\n\r\nKata kunci: kesejahteraan psikologi, layanan psikologi, aplikasi MAHAN.",
+      "event_location": "Hotel Novotel Bandar Lampung",
+      "event_dates": "21 Oktober 2021",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "shinta.mayasari@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Shinta",
+            "family": "Mayasari"
+          }
+        }
+      ],
+      "eprintid": 35883,
+      "lastmod": "2021-11-11 02:52:04",
+      "refereed": "FALSE",
+      "pres_type": "speech",
+      "userid": 20,
+      "funders": [
+        "LPPM Universitas Lampung"
+      ],
+      "status_changed": "2021-11-11 02:52:04",
+      "event_title": "Seminar Nasional Hasil Penelitian dan Monev Penelitian LPPM Universitas Lampung",
+      "date": "2021-10-21",
+      "documents": [
+          {
+            "language": "en",
+            "main": "Presentasi PPT Mahan.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156832",
+            "rev_number": 1,
+            "files": [
+                {
+                  "hash": "0b6f3b3ecdbeb3b1cd2b5e15472efb68",
+                  "mtime": "2021-11-11 02:31:14",
+                  "fileid": 416691,
+                  "filesize": 7774549,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/416691",
+                  "filename": "Presentasi PPT Mahan.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 156832,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 35883,
+            "mime_type": "application\/pdf",
+            "docid": 156832,
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "projects": [
+        "PEMBUATAN APLIKASI PENDETEKSI KESEJAHTERAAN PSIKOLOGI BERBASIS APPS (DELIT-DETEKSI MENTAL DAN INTERVENSI TERPADU)"
+      ],
+      "subjects": [
+        "BF"
+      ],
+      "metadata_visibility": "show",
+      "title": "PEMBUATAN APLIKASI PENDETEKSI KESEJAHTERAAN PSIKOLOGI BERBASIS APPS (DELIT-DETEKSI MENTAL DAN INTERVENSI TERPADU)",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35883",
+      "type": "conference_item",
+      "event_type": "conference"
+    },
+    {
+      "dir": "disk0_bak\/00\/05\/00\/88",
+      "divisions": [
+        "FKIP2"
+      ],
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Mayasari",
+            "given": "Shinta"
+          },
+          "id": "shinta.mayasari@fkip.unila.ac.id"
+        },
+        {
+          "id": "ranni.rahmayanthi@fkip.unila.ac.id",
+          "name": {
+            "given": "Ranni",
+            "family": "Rahmayanthi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "eka.kurniawati73@fkip.unila.ac.id",
+          "name": {
+            "family": "Eka Kurniawati",
+            "given": "Eka  K",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Redi Eka",
+            "family": "Redi Eka Ardiyanto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "Redi.ekaunila@gmail.com"
+        }
+      ],
+      "publisher": "FKIP Universitas Lampung",
+      "number": 2,
+      "publication": "Nuwo-Abdimas",
+      "related_url": [
+        {
+          "url": "file:\/\/\/D:\/32.%20JURNAL%20INTERNATIONAL\/JURNAL%20PKM%20FKIP%20NUWO%20ABDIMAS\/Artikel%20komik%20Nuwo%20Abdimas.pdf"
+        }
+      ],
+      "title": "Sosialisasi Implementasi Media Layanan Informasi dengan Tema \r\nKesejahteraan Psikologis",
+      "id_number": 2,
+      "metadata_visibility": "show",
+      "datestamp": "2023-04-10 09:19:23",
+      "ispublished": "pub",
+      "abstract": ": Health is a basic need for every individual. Health is not only related \r\nto physical health, but also mental health. Psychological wellbeing is a \r\nmanifestation of an individual's mental health. Psychological wellbeing is \r\npositively correlated with social support, internal locus of control, optimism, job \r\nsatisfaction, self-efficacy, contextual performance, gratitude, resilience, and job \r\ninvolvement. Individual processes to achieve psychological wellbeing need to \r\nbe pursued through the provision of systematic guidance services. Information \r\nservice is one of the important services to be implemented because every \r\nindividual is basically thirsty for information. Information can be used by \r\nindividuals to increase their knowledge and understanding of the concept of \r\npsychological wellbeing. This community service is designed to implement \r\npsychological wellbeing information services with educational comic media. \r\nEducational comics media are considered to be more effective in delivering \r\ninformation, more varied so that they do not become saturated, and can be \r\naccessed wherever they are.\r\nKeywords: information services; mental health; psychological wellbeing\r\nAbstrak: Kesehatan merupakan kebutuhan dasar bagi setiap individu. \r\nKesehatan tidak hanya terkait dengan kesehatan fisik semata, melainkan juga \r\nkesehatan mental. Kesejahteraan psikologis merupakan manifestasi dari \r\nkesehatan mental seorang individu. Kesejahteraan psikologis berkorelasi \r\npositif dengan dukungan sosial, lokus pengendalian internal, optimisme, \r\nkepuasan kerja, efikasi diri, kinerja kontekstual, rasa syukur, resiliensi, dan \r\nketerlibatan kerja. Proses individu untuk mencapai kesejahteraan psikologis \r\nperlu diupayakan melalui pemberian layanan bimbingan secara sistematik. \r\nLayanan informasi merupakan salah satu layanan yang penting untuk \r\ndilaksanakan karena setiap individu pada dasarnya haus informasi. Informasi \r\ndapat digunakan oleh individu untuk menambah pengetahuan dan \r\npemahaman terhadap konsep kesejahteraan psikologis. Pengabdian kepada \r\nmasyarakat ini dirancang untuk mengimplementasikan layanan informasi \r\nkesejahteraan psikologis dengan media komik edukasi. Media komik edukasi \r\ndirasa lebih efektif dalam penyampaian informasi, lebih bervariasi sehingga \r\ntidak membuat jenuh, dan bisa diakses dimanapun berada.\r\nKata Kunci: layanan informasi; kesehatan mental; kesejahteraan psikologis",
+      "eprint_status": "archive",
+      "contributors": [
+        {
+          "id": "shinta.mayasari@fkip.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Mayasari Shinta",
+            "family": "Shinta Mayasari"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ranni Rahmayanthi",
+            "given": "Rahmayanti Rani"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "ranni.rahmayanthi@fkip.unila.ac.id"
+        },
+        {
+          "id": "eka.kurniawati73@fkip.unila.ac.id",
+          "name": {
+            "family": "Eka Kurniawati",
+            "given": "Kurniawati Eka",
+            "honourific": null,
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "Redi.ekaunila@gmail.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Redi Eka Ardiyanto",
+            "given": "Ardiyanto Redi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "official_url": "http:\/\/e-jurnal.fkip.unila.ac.id\/index.php\/nuwo\/index",
+      "refereed": "TRUE",
+      "eprintid": 50088,
+      "lastmod": "2023-04-10 09:19:23",
+      "status_changed": "2023-04-10 09:19:23",
+      "userid": 3253,
+      "date": "2022-11-22",
+      "documents": [
+          {
+            "docid": 189786,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "main": "Artikel komik Nuwo Abdimas.pdf",
+            "language": "en",
+            "eprintid": 50088,
+            "pos": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "filename": "Artikel komik Nuwo Abdimas.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 189786,
+                  "datasetid": "document",
+                  "mtime": "2023-04-10 07:23:51",
+                  "hash": "b584faffc1ea0a191b184803c99d72de",
+                  "fileid": 541741,
+                  "filesize": 712686,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/541741"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189786"
+          }
+      ],
+      "pagerange": "118-124",
+      "subjects": [
+        "BF"
+      ],
+      "issn": "2829-5288",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50088",
+      "volume": 1
+    },
+    {
+      "abstract": ": The aim of this study was to determine the conformity profile peers based on \r\nmulticulture perspective. Participants in this study weres 76 students senior hig school consist \r\nof 32 boys student and 44 girls students. This research approach using quantitative approach, \r\ntypes of research using a cross sectional survey. The instruments used was a scale conformity \r\npeers. Data were analyzed using analysis Mann-Whitney U with a score of 702,5 and a \r\nsignificance probability value of 0.414. Because the probability of significance 0.987 > 0.05, \r\nthe results showed that there was no difference conformity peers in the boys student and girls \r\nstudent. \r\nKeywords: Adolesence, Conformity, Multiculture.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "datestamp": "2022-04-06 06:09:14",
+      "rev_number": 5,
+      "full_text_status": "public",
+      "official_url": "https:\/\/ejournal.upi.edu\/index.php\/JOMSIGN",
+      "refereed": "TRUE",
+      "lastmod": "2022-04-06 06:09:14",
+      "eprintid": 41122,
+      "date_type": "published",
+      "date": "2017-03",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 162555,
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "main": "53027-ID-konformitas-teman-sebaya-dalam-perspekti.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162555",
+            "rev_number": 2,
+            "files": [
+                {
+                  "filesize": 232107,
+                  "fileid": 456506,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456506",
+                  "mtime": "2022-03-15 03:10:55",
+                  "hash": "104cbb250a34658756ab180fb697bb82",
+                  "objectid": 162555,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "53027-ID-konformitas-teman-sebaya-dalam-perspekti.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 41122
+          },
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162556",
+            "files": [
+                {
+                  "objectid": 162556,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "review artikel 3.pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 1746274,
+                  "fileid": 456509,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456509",
+                  "mtime": "2022-04-06 04:53:26",
+                  "hash": "03ce7fe5c6211ad17b2165a2b960bca1"
+                }
+            ],
+            "eprintid": 41122,
+            "pos": 2,
+            "language": "en",
+            "main": "review artikel 3.pdf",
+            "format": "text",
+            "placement": 2,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "docid": 162556
+          }
+      ],
+      "status_changed": "2022-04-06 06:09:14",
+      "userid": 41,
+      "issn": "2549-7065",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41122",
+      "type": "article",
+      "volume": 1,
+      "pagerange": "71-82",
+      "subjects": [
+        "BF",
+        "L1"
+      ],
+      "dir": "disk0\/00\/04\/11\/22",
+      "divisions": [
+        "FKIP2"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Ranni",
+            "family": "Rahmayanthi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "ranni.rahmayanthi@fkip.unila.ac.id"
+        }
+      ],
+      "publisher": "Departemen Psikologi Pendidikan dan Bimbingan",
+      "succeeds": 40183,
+      "number": 1,
+      "publication": "JOMSIGN: Journal of Multicultural Studies in Guidance and Counseling (JOMSIGN)",
+      "referencetext": "Boehnke, K., Silbereisen, R. K., Eisenberg, N., & Reykowski, J. (1989). \r\nDevelopmental patterns of prosocial motivation: A cross-national study. \r\nJournal Of Cross-Cultural Psychology, 20, 219–243.\r\nBentz, J. L., & Fuchs, L. S. (1996). Improving peers’ helping behavior to \r\nstudents with learning disabilities during mathematics peer tutoring. \r\nLearning Disability Quarterly, 19(4), 202-215. \r\nBrendt, T. J. (1979). Developmental changes in comformity to peers and \r\nparents. Develop,Psychology, 15, 606-616. \r\nBrown, B. B., Claesen, D. R., & Eicher, S. A. (1986). Perceptions of peer \r\npressure, peer conformity dispositions, and self-reported behavior among \r\nadolescents. Developmental psychology, 22(4), 521-530. \r\nBryan, T., Pearl, R., & Fallon, P. (1989). Conformity to peer pressure by \r\nstudents with learning disanilities : a replication. Journal of learning \r\nDisabilities, 22(7), 458-460. \r\nCialdini, R. B., & Goldstein, N. J. (2004) Social influences: Compiliance and \r\ncomformity. Annual Review of Psychology, 55, 591-621. \r\nCohen, G. L., & Prinstein, M. J. (2006). Peer contagion of aggression and health \r\nrisk behavior among adolescent males: an experimental investigation of \r\neffects on public conduct and private attitudes. Child Development, 77(4), \r\n967–983. \r\nDejnozken, E. L., & Kopel, D. E. (1976). American educator encyclopedy.\r\nLondon: Greenwood Press. \r\nDuan, L., Chou, C., Andreeva, V., & Pentz, M. (2009). Trajectories of peer \r\nsocial influences as long-term predictors of drug use from early through \r\nlate adolescence. Journal of Youth & Adolescence, 38(3), 454-465. \r\nGerungan, W. A. (2010). Psikologi Sosial. Refika Aditama: Bandung. \r\nGudykunst, W. B., Yoon, Y. C., & Nishida, T. (1987). The influence of \r\nindividualism‐collectivism on perceptions of communication in ingroup \r\nand outgroup relationships. Communications Monographs, 54(3), 295-\r\n306.\r\nHurlock, E. (1999). Psikologi Perkembangan Suatu Pendekatan Sepanjang \r\nRentang Kehidupan. Jakarta: Erlangga. \r\nKillen, M., Crystal, D. S., & Watanabe, H. (2002). Japanese and American \r\nchildren’s evaluating of peer exclusion, tolerance of differeces, and \r\nprescriptions for conformity. Child Development, 73(6), 1788-1802. \r\nLease, A. M., & Axelrod, J. L. (2001). Position in the peer group’s perceived \r\norganizational structue : relation to social status and friendship. Journal \r\nof Early Adolescence, 21(4), 377-404. \r\nLefcourt, H. M. (1966). Internal versus external control of reinforcement: A \r\nreview. Psychology Bulletin. 65, 206-202\r\nLopez, M. P. S., Flores, I. C., Dresch, V., & Garcia, M. A. (2009). Conformity \r\nto feminime gender norms in the spanish popuation. Social Behaviour and \r\nPersonality, 37 (9), 1171-1186. \r\nMatsumoto, D. (1990). Cultural similarities and differences in display rules. \r\nMotivation and Emotion, 14, 195–214. \r\nMőnks, F. J., Knoers, A. M. P., Haditono, S. R. (2004). Psikologi \r\nPerkembangan. Yogyakarta: Gadjah Mada University Press. \r\nMyers, D. G. (2010). Social Psychology (10th ed.). New York: Mc Graw-Hill. \r\nNesdale, D., Mass, A., Kisner, J., Durkin, K., Griffths, J., & Ekberg, A. (2007). \r\nEffect of peer group rejection, group membership, and group norms, on \r\nchildren’s outgroup prejudice. International Journal of Behavioral \r\nDevelopment, 31(5), 526-535. \r\nPeak, L. (1989). Learning to become part of the group: The Japanese child’s \r\ntransition to preschool life. Journal of Japanese Studies, 1, 93–123. \r\nSantor, D. A., Messervey, D., & Kusumakar, V. (2000). Measuring peer \r\npressure, popularity, and conformity in adolescent boys and girls: \r\nPredicting school performance, sexual attitudes, and substance \r\nabuse. Journal of youth and adolescence, 29(2), 163-182. \r\nSantrock, J. W. (2002). Life-Span Development (Perkembangan Masa Hidup). \r\nJakarta: Erlangga. \r\nShi, B., & Xie, H. (2012). Socialization of physical and social aggression in \r\nearly adolescents’ peer groups: High-status peers, individual status, and \r\ngender. Social Development, 21(1), 170–194. \r\nSong, G., Ma, Q., Wu, F., & Li, L. (2012). The psychological explanation of \r\nconformity. Social Behavior and Personality: An International Journal, \r\n40(8), 1365.\r\nTriandis, H. (1995). Individualism and collectivism. Boulder, CO: Westview \r\nPress. \r\nTolley, R. A. (2013). Conformity: drug and alcohol abuse within adolescent \r\ncommunities. USA: Lincoln Memorial University \r\nZhang, J., & Thomas, D. L. (1994). Modernization theory revisited: A cross�cultural study of adolescent conformity to significant others in mainland \r\nChina, Taiwan, and the USA. Adolescence, 29(116), 885.",
+      "related_url": [
+        {
+          "type": "author",
+          "url": "https:\/\/ejournal.upi.edu\/index.php\/JOMSIGN"
+        }
+      ],
+      "title": "KONFORMITAS TEMAN SEBAYA DALAM PERSPEKTIF \r\nMULTIKULTURAL",
+      "metadata_visibility": "show"
+    },
+    {
+      "subjects": [
+        "BF",
+        "L1"
+      ],
+      "pagerange": "124-129",
+      "title": "Relationship Between Parenting Self Efficacy and Parenting Stress on Parents to Support Early Children Playing at Home",
+      "metadata_visibility": "show",
+      "issn": "2252-8415",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27707",
+      "volume": 9,
+      "status_changed": "2021-02-04 04:36:39",
+      "userid": 2790,
+      "date": "2020-11",
+      "publication": "Indonesian Journal of Early Childhood Education Studies",
+      "documents": [
+          {
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41672",
+            "pos": 1,
+            "eprintid": 27707,
+            "files": [
+                {
+                  "hash": "04734b4b49c3a50f1b2f35b66feb737d",
+                  "mtime": "2021-02-04 04:05:15",
+                  "fileid": 247166,
+                  "filesize": 32929,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/247166",
+                  "filename": 42212,
+                  "hash_type": "MD5",
+                  "mime_type": "text\/html",
+                  "objectid": 41672,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "main": 42212,
+            "format": "text",
+            "content": "published",
+            "placement": 1,
+            "security": "public",
+            "docid": 41672,
+            "mime_type": "text\/html"
+          },
+          {
+            "docid": 41673,
+            "mime_type": "application\/pdf",
+            "placement": 2,
+            "security": "public",
+            "format": "text",
+            "main": "Annisa Yulistia, M.Pd. Jurnal IJECES.pdf",
+            "language": "en",
+            "eprintid": 27707,
+            "pos": 2,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 41673,
+                  "mime_type": "application\/pdf",
+                  "filename": "Annisa Yulistia, M.Pd. Jurnal IJECES.pdf",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/247168",
+                  "fileid": 247168,
+                  "filesize": 336402,
+                  "hash": "16c43a51ce6e7e41866c3e929f615697",
+                  "mtime": "2021-02-04 04:06:15"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41673",
+            "rev_number": 1
+          }
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "sugiana@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sugiana",
+            "given": "Sugiana"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Sasmiati",
+            "family": "Sasmiati"
+          },
+          "id": "sasmiatiunila@gmail.com"
+        },
+        {
+          "id": "yulistiaannisa@gmail",
+          "name": {
+            "family": "yulistia",
+            "given": "annisa",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "full_text_status": "public",
+      "publisher": "Universitas Negeri Semarang",
+      "rev_number": 11,
+      "number": 2,
+      "refereed": "TRUE",
+      "lastmod": "2021-02-04 04:36:39",
+      "eprintid": 27707,
+      "datestamp": "2021-02-04 04:36:39",
+      "dir": "disk0\/00\/02\/77\/07",
+      "divisions": [
+        "FKIP23"
+      ],
+      "abstract": "This research was motivated by the challenges of parents in taking care of their children when facing the coronavirus pandemic happening globally.  This makes conditions change in various sectors.  The implementation of “Work from Home” and “School from Home” is a government policy to break the chain of the coronavirus. The purpose of this research was to determine the relationship between parenting self-efficacy and parenting stress on parents to support early children playing at home. The research design was quantitative simple correlation. The population in this research were parents having young children in Bandar Lampung City. The sample of this research was selected by simple random sampling technique. The results showed that there was a significant negative relationship between parenting self-efficacy and parenting stress on parents in accompanying early childhood playing at home.  So, if the parenting self-efficacy of parents is high, it can reduce the parenting stress when accompanying children to play at home. Based on these findings, this study suggests (1) further research should be done on a larger subject, (2) further research can compare between parents inservice and preservice training parenting, (3) Researchers can look for other factors as stressors for parents in parenting early childhood at home.",
+      "ispublished": "pub",
+      "eprint_status": "archive"
+    },
+    {
+      "publication": "Jurnal Sumbangsih",
+      "date": "2020-12",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 41675,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "main": "Annisa Yulistia. Jurnal Sumbangsih.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41675",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mtime": "2021-02-04 04:19:38",
+                  "hash": "c490ca44abeccd9de9bb2ccdc1711f7a",
+                  "filesize": 335784,
+                  "fileid": 247179,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/247179",
+                  "hash_type": "MD5",
+                  "filename": "Annisa Yulistia. Jurnal Sumbangsih.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 41675,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 27709
+          }
+      ],
+      "userid": 2790,
+      "status_changed": "2021-02-04 04:36:43",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27709",
+      "volume": 1,
+      "pagerange": "35-43",
+      "subjects": [
+        "BF",
+        "L1"
+      ],
+      "metadata_visibility": "show",
+      "title": "Penguatan Self-Esteem Anak Panti Asuhan Melalui COREL (Cinta, Olahraga, Rekreasi, Edukasi Dan Literasi)",
+      "eprint_status": "archive",
+      "abstract": "Sebagian besar anak yang tinggal di panti asuhan memiliki dinamika psikologis yang berbeda dengan anak lain pada umumnya. Permasalahan, pergesekan antara teman di dalam panti, dan ketiadaan peran orang tua lengkap dalam hidup anak akan menimbulkan perasaan inkompeten jika dibandingkan dengan anak lain dan muncul pula perasaan tidak berharga. Dua aspek ini akan mempengaruhi self-esteem yang dimiliki anak. Self-esteem sangat dibutuhkan oleh anak. Selfesteem yang baik dikaitkan dengan regulasi diri yang baik, kesehatan mental dan tingginya psychology. Melihat fenomena tersebut, kegiatan pengabdian dilakukan dengan cara memberikan penguatan melalui program COREL (Cinta, Olahraga, Rekreasi, Edukasi, dan Literasi) dalam meningkatkan Self Esteem Anak Panti Asuhan di Bandar Lampung. Berdasarkan hasil pre-test dan post-test setelah workshop terdapat perbedaan nilai mean pre-test dan post-test yaitu 42,50 dan 82,00. Hal tersebut menjelaskan bahwa pengetahuan dan keterampilan pengurus panti asuhan dapat dikembangkan melalui workshop yang telah diikuti.\r\nKata kunci.\r\nAnak, COREL, Self-Esteem",
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP23"
+      ],
+      "dir": "disk0\/00\/02\/77\/09",
+      "datestamp": "2021-02-04 04:36:43",
+      "rev_number": 8,
+      "publisher": "LPPM Unila",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "ulwan.syafrudin@fkip.unila.ac.id",
+          "name": {
+            "given": "Ulwan",
+            "family": "Syafrudin",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "yulistia",
+            "given": "annisa"
+          },
+          "id": "yulistiaannisa@gmail"
+        },
+        {
+          "id": "sugiana@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sugiana",
+            "given": "Sugiana"
+          }
+        }
+      ],
+      "eprintid": 27709,
+      "lastmod": "2021-02-04 04:36:44",
+      "refereed": "TRUE",
+      "number": 6,
+      "date_type": "published"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Diah",
+            "family": "Utaminingsih",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "diahutaminingsih@yahoo.co.id"
+        }
+      ],
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp\/",
+      "full_text_status": "public",
+      "publisher": "Unit Database dan Publikasi Ilmiah FKIP Universitas Lampung",
+      "rev_number": 12,
+      "refereed": "TRUE",
+      "number": 1,
+      "lastmod": "2017-05-30 06:49:18",
+      "eprintid": 2029,
+      "contact_email": "diah.utaminingsih@fkip,unila.ac.id",
+      "date_type": "published",
+      "abstract": "Tujuan dari penelitian ini adalah untuk mengetahui hubungan antara metakognisi, self-regulasi, dan motivasi belajar siswa. Sampel penelitian terdiri dari 130 siswa pendidikan menengah yang terdaftar dalam program yang berbeda di Bandar Lampung, Lampung. Dalam studi ini, Skala Metacognitive Learning Inventory-Science diadaptasi dari An & Co (2014). Hubungan antara metakognisi (a), self-regulation (b), dan motivasi belajar (c) diuji menggunakan analisis korelasi dan hipotesis diuji menggunakan analisis regresi berganda. Dalam analisis korelasi, metakognisi, dan self-regulasi \r\nberkorelasi secara positif (masing-masing r= 0,430; r= 0,584; r= 0,497; p < 0,01). Melalui analisis hasil metakognisi, dapat diprediksi secara positif melalui self-regulasi dan motivasi belajar (masing-masing R2= 18,5%; R2(a-c)= 34,1%; R2(b-c)= 24,1%). \r\n\r\nKata kunci: metakognisi, self-regulation, motivasi belajar",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "datestamp": "2017-05-30 06:49:18",
+      "dir": "disk0\/00\/00\/20\/29",
+      "divisions": [
+        "FKIP2"
+      ],
+      "issn": "2087-9849",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2029",
+      "type": "article",
+      "volume": 7,
+      "pagerange": "13-22",
+      "subjects": [
+        "BF",
+        "LB"
+      ],
+      "title": "Studi Investigasi Hubungan Antara Metakognisi, Self-Regulasi dan Motivasi Belajar Siswa",
+      "metadata_visibility": "show",
+      "date": "2017-04",
+      "publication": "Jurnal Pendidikan Progresif",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/14110",
+                  "filesize": 26155,
+                  "fileid": 14110,
+                  "mtime": "2017-05-30 05:01:20",
+                  "hash": "7f59b550742cbf0574bcde704b935b5a",
+                  "datasetid": "document",
+                  "objectid": 1895,
+                  "mime_type": "application\/xml",
+                  "hash_type": "MD5",
+                  "filename": 12313
+                }
+            ],
+            "eprintid": 2029,
+            "pos": 1,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1895",
+            "main": 12313,
+            "license": "cc_by_nc_sa_4",
+            "language": "en",
+            "placement": 1,
+            "content": "published",
+            "security": "public",
+            "format": "text",
+            "formatdesc": "Jurnal Pendidikan Progresif",
+            "mime_type": "application\/xml",
+            "docid": 1895
+          },
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/14156",
+                  "fileid": 14156,
+                  "filesize": 1226621,
+                  "hash": "ec48cfb692402143711ac719b30142cf",
+                  "mtime": "2017-05-30 05:20:53",
+                  "datasetid": "document",
+                  "objectid": 1905,
+                  "mime_type": "application\/pdf",
+                  "filename": "JPP April 2017.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "eprintid": 2029,
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1905",
+            "rev_number": 1,
+            "main": "JPP April 2017.pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 2,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 1905
+          },
+          {
+            "security": "public",
+            "placement": 3,
+            "format": "text",
+            "docid": 1907,
+            "mime_type": "text\/html",
+            "pos": 3,
+            "eprintid": 2029,
+            "files": [
+                {
+                  "mime_type": "text\/html",
+                  "filename": "index.html",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 1907,
+                  "hash": "332f2c550483fba307ed23ee0f2a3d84",
+                  "mtime": "2017-05-30 05:24:03",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/14165",
+                  "filesize": 24481,
+                  "fileid": 14165
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1907",
+            "rev_number": 2,
+            "main": "index.html",
+            "language": "en"
+          }
+      ],
+      "status_changed": "2017-05-30 06:49:18",
+      "referencetext": "An, Y.J. and Cao, L., 2014. Examining the effects of metacognitive scaffolding on students’ design problem solving and metacognitive skills in an online environment. Journal of Online Learning and Teaching, 10(4), p.552.\r\nAn, Y.J. and Cao, L., 2014. Examining the effects of metacognitive scaffolding on students’ design problem solving and metacognitive skills in an online environment. Journal of Online Learning and Teaching, 10(4), p.552.\r\nAmsterlaw, J., 2006. Children’s beliefs about\r\neveryday reasoning. Child Development,\r\n77(2), pp.443-464.\r\nBiggs, J. B. (1985). The role of metaleaming in study processes. British Journal of Educational Psychology, 55, 185-212.\r\nBiggs, John B. ( 1987). Student approaches to learning and studying. Melbourne: Australian Councilfor Educational Research.\r\nBråten, I. and Strømsø, H.I., 2005. The relationship between epistemological beliefs, implicit theories of intelligence, and self regulated learning among Norwegian postsecondary students. British Journal of Educational Psychology, 75(4), pp.539-565.\r\nBrown, A.L., 1978. Knowing when, where, and how  to  reme mber :  A  prob lem  of metacognition.\r\nButler, D. L. (1998). The Strategic Content Learning approach to promoting self- regulated learning: A summary of three stu dies .  Jou rnal  of  Educational Psychology, 90, 682-697.\r\nChen, C. H., & Chan, L. H. (2011). Effectiveness and impact of technology-enabled project- based learning with the use of process prompts in teacher education. Journal of Technology and TeacherEducation, 19(2), 141-167.\r\nComo, L., Collins, K., & Capper, J. (1982, March). Where there’s a way there’s a will: self-regulating the low-achieving student. Paper presented at the annual meeting of the American Educational Research Association, New York, NY.\r\nConley, A.M., Pintrich, P.R., Vekiri, I. and Harrison, D., 2004. Changes in epistemological beliefs in elementaryscience students. Contemporary educational psychology, 29(2), pp.186-204.\r\nCross, D. R., &  Paris, S. G. (1988). Developmental and instructional analyses of children’s metacognition and reading comprehension. Journal of Educational Psychology, 80, 131-142.\r\nDelclos, V. R., & Harrington, C. (1991). Effects of strategy monitoring and proactive instruction on children’sproblem-solving performance. Journal of Educational Psychology,83, 35-42.\r\nFlavell, J.H., 1979. Metacognition and cognitive monitoring: A new area of cognitive– de velo pmen tal  inqu iry.  Am eric an psychologist, 34(10), p.906.\r\nFlavell, J.H., 2000. Development of children’s knowledge about the mental world. International Journal of Behavioral Development, 24(1), pp.15-23.\r\nGe, X. and Land, S.M., 2003. Scaffolding students’ problem-solving processes in an ill-structured task using question prompts and peer interactions. Educational Technology Research and Development, 51(1), pp.21-38.\r\nHannafin, M., Land, S. and Oliver, K., 1999. Open l earning environments: Foundations, methods, and models. Instructional-design theories and models: A new paradigm of instructional theory, 2, pp.115-140.\r\nHollingworth, R.W. and McLoughlin, C., 2001. Developing Science Students’ Metacognitive Problem Solving Skills Online. Australian Journal of Educational Technology, 17(1), pp.50-63.\r\nHuff, J. D., & Nietfeld, J. L. (2009). Using strategy instruction and confidence judgments to improvemetacognitive mon itor ing.   Met acog niti on   a nd Learning, 4(2), 161-176.\r\nKing, A. (1991). Effects of training in strategic questioning on children’s problem-solving performance. Journal of Educational Psychology, 83, 307-317.\r\nKoch, A., 2001. Training in metacognition and comprehension of physics texts. Science Education, 85(6), pp.758-768.\r\nKramarski, B., & Mevarech, Z. R. (2003).\r\nEnhancing mathematical reasoning in the classroom: The effects of cooperative learning and metacognitive training. Ame rica n   Ed ucat iona l   Re search Journal, 40(1), 281-310.\r\nKurtz, B. E., & Borkowski, F. G. (1984).\r\nChildren’s metacognition: Exploring relations among knowledge, process, and motivational variables. Journal of Exp erim enta l  Ch ild  Psyc holo gy ,\r\n37,335-54.\r\nLandine, Jeffrey, and John Stewart. “Relationship between Metacognition, Motivation, Locus of Control, Self-Efficacy, and Academic Achievement.” Canadian Journal of Counselling 32.3 (1998): 200-12.\r\nLindner, R., & Harris, B. (1992). The development and evaluation of a self- regulated learning inventory and its implications for instructor-independent instruction. Paper presented at the Annual Meeting of the American Educational Research Association, San Francisco, CA.\r\nMcCormick, C.B., 2003. Metacognition and learning. Handbook of psychology. Zimmerman, B.J. and Schunk, D.H., 2011. Motivational sources and outcomes of\r\nself-regulated learning and performance. Handbook of self-regulation of learning and performance, pp.49-64.\r\nMevarech, Z. R., & Amrany, C. (2008). Immediate and delayed effects of metacognitive instruction on regulation of cognition and mathematics achievement. Metacognition Learning, 3(2), 147-157.\r\nNash-Ditzel, S., 2010. Metacognitive reading strategies can improve self-regulation. Jou rnal  of  Coll ege  Read ing  and Learning, 40(2), pp.45-63.\r\nPalincsar, A., & Brown, A. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. Cognition and Instruction,1, 117-175.\r\nPayne, B. D., & Manning, B. H. (1992). Basal rea der    inst ruct ion:    Eff ects    of comprehension monitoring training on reading comprehension, strategy use and att itude .   Re adi ng   Rese arc h   a nd Instruction, 32(1), 29-38.\r\nScaffolding wiki-based, ill-structured problem solving in an online environment. MERLOT Jou rnal  of  Onli ne  L earn ing  and Teaching, 6(4), 723-734.\r\nSchommer, M., Calvert, C., Gariglietti, G. and Bajaj, A., 1997. The development of epistemological beliefs among secondary students: A longitudinal study. Journal of Educational Psychology, 89(1), p.37.\r\nSchommer-Aikins, M., 2004. Explaining the epistemological belief system: Introducing the embedded systemic model and coo rdin ated    res earc h   ap proa ch. Educational psychologist, 39(1), pp.19-\r\n29.\r\nSchunk, D.H. and Zimmerman, B.J. eds., 1998.\r\nSelf-regulated learning: From teaching to self-reflective practice. Guilford Press.\r\nSperling, R.A., Howard, B.C., Miller, L.A. and Murphy, C., 2002. Measures of children’s knowledge and regulation of cognition. Contemporary educational psychology,\r\n27(1), pp.51-79.\r\nStipek, Deborah. (1982, July). Motivating students to learn: A lifelong perspective. Paper presented at the Symposium, “The student’s role in learning,” of the National Commission on Excellence in Education, San Diego, CA.\r\nTopçu, M.S. and Yýlmaz-Tüzün, Ö., 2009.\r\nElementary students’ metacognition and epistemological beliefs considering science achievement, gender and socioeconomic status. Ýlköðretim Online, 8(3).\r\nUguroglu, M. E., & Walberg, H.J. (1986).\r\nPredicting achievement and motivation. Journal of Research and Development in Education, 19, 1-12.\r\nWatkins, D., & Hattie,J. (1992). The motive- strategy congruence model revisited. Contemporary, Educational Psychology,17, 194-198\r\nWittrock, M. (1983). Students’ thought processes. In M. C. Wittrock (Ed.), Handbook of Research on Teaching. (3rd ed.) (pp. 297-314). New York: Macmillan Publishing Company.\r\nVeenman, M. and Elshout, J.J., 1999. Changes in the relation between cognitive and metacognitive skills during the acquisition of expertise. European journal of psychology of education, 14(4), pp.509-\r\n523.",
+      "userid": 140
+    },
+    {
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2344",
+            "rev_number": 2,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "JPP Vol 6 No 1 - Diah Utaminingsih.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 2344,
+                  "hash": "459196401d31c9fb53727c4137c511e6",
+                  "mtime": "2017-05-31 05:50:03",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/17027",
+                  "fileid": 17027,
+                  "filesize": 1178616
+                }
+            ],
+            "eprintid": 2448,
+            "pos": 1,
+            "language": "id",
+            "main": "JPP Vol 6 No 1 - Diah Utaminingsih.pdf",
+            "license": "cc_by_nc_sa_4",
+            "format": "text",
+            "content": "published",
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "docid": 2344
+          }
+      ],
+      "publication": "Jurnal Pendidikan Progresif",
+      "userid": 140,
+      "referencetext": "Appleton,Ken. Problem Solving in Science Lessons : How Students Explore The Problem Space. Central Queensland University. Vol. 25(4).\r\n\r\nBarak, M., Ben-Chaim D., & Zoller U. 2007. Purposely Teaching for the Promotion of Higher-order Thinking Skills: A Case of Critical Thinking. Res Sci Educ, 37: 353–369.\r\n\r\nBassham, G., Irwin, W., Nardone, H., & Wallace, J. M. 2007. Critical thinking: a student introduction. 2nd Edition. Singapore: McGraw-Hill Company, Inc.\r\n\r\nCosta, Arthur L. 1988. Developing Minds A Resource Book for Teaching Thinking. California : Association for Supervision and Curriculum Development.\r\n\r\nChen, C.Y & Lee, W.C. 2012. Damages to school infrastructure and development to disaster prevention education strategy after Typhoon Morakot in Taiwan. Disaster Prevention and Management, Vol. 21 Iss: 5 pp. 541 – 555\r\n\r\nGalbreath, J. 1999. Preparing the 21st Century Worker: The Link Between Computer Based Technology and Future Skill Sets. Educational Technology. Desember: 14-22.\r\n\r\nJones, J. L., Rotabi, K. S., Levy, J. K., & Gray, L. A. 2012. An Interdisciplinary Approach to Developing Innovative Teaching Strategies For Responding to Global Disaster Disasters. Advances in Social Work, 13(2): 279-290.\r\n\r\nLubezki, A., Dori, Y. J., & Zoller, U. 2004. Hocspromoting assessment of students’ performanceon environment-related undergraduate chemistry. Chemistry education research and practice. 5(2).175-184.\r\n\r\nNorman and Schmidt.1992. The Psychological Basis of Problem Based Learning. A Review of The Evidence. Vol. 67.\r\n\r\nPeraturan Menteri Pendidikan dan Kebudayaan No.67 Tahun 2013. Tentang kerangka dasar dan struktur Kurikulum Sekolah Dasar\/Madrasah Ibtidaiyah. Rindell, A. J. A. 1999. Applying Inquiry-Based and Cooperative Group Learning Strategies to Promote Critical Thinking. Journal of College Science Teaching (JCST) 28(3): 203-207\r\n\r\nRutherford dan Ahlgren. 1990. Science for All Americans. NY: Oxford University Press.\r\n\r\nSchmidt. 1983. Problem Based Learning : Rationale and Description. Wiley Online Library\r\n\r\nStaci M. Zolkoski, Lyndal M. Bullock. 2012. Resilience in children and youth: A review. Children and youth review 34 (2012)2295-2303\r\n\r\nTsapartis, G. & Zoller, U. 2003. Evaluation of higher vs. Lower-order cognitive skills-type examination in chemistry: implications for university in-class assessment and examination. U.chem.ed. 7. 50-57.\r\n\r\nZoller, U. 1999. Teaching tomorrow’s college science courses – Are we getting it right? Journal of College Science Teaching, 29(6): 409–414.\r\n\r\nZoller, U. 2001. Alternative assessment as (critical) means of facilitating HOC Spromoting teaching and learning in chemistry education. Chemical Education Research and Practice in Europe, 2(1): 9–17.",
+      "status_changed": "2017-06-02 03:30:06",
+      "volume": 6,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2448",
+      "issn": "2087-9849",
+      "metadata_visibility": "show",
+      "title": "STRATEGI PENGEMBANGAN KETERAMPILAN PROBLEM SOLVING DALAM KONTEKS MEMBANGUN DISASTER RESILIENCE",
+      "pagerange": "39-47",
+      "subjects": [
+        "BF",
+        "LB"
+      ],
+      "eprint_status": "archive",
+      "abstract": "This study will provide an alternative strategy that can be done to improve problem solving skills, on children in the context of building the disaster resilience which are integrated in the learning process of science through community learning strategy. Qualitative and psychosocial research ethnography was conducted on 34 students in the District of the West Coast as the area with the most potential to experience the devastating earthquake and tsunami. Data were obtained using a strategy of focused group discussions and depth interviews with elements of the school community which are teachers, and parents. The purpose of the involvement of the school community was to get the data in understanding the resilience of students. The research proved that resilience is at the levels which are still low and this condition further provide recommendations related to alternative strategies for the development of higher level thinking skills for students in disaster prone areas.\r\n\r\nPenelitian ini akan memberikan strategi alternatif yang dapat dilakukan untuk meningkatkan ketrampilan memecahkan masalah (problem solving), pada anak-anak dalam konteks membangun resiliensi bencana (disaster resilience) yang terintegrasi dalam proses pembelajaran sains melalui strategi learning community. Penelitian kualitatif dengan tipe psikososial etnografi ini dilakukan terhadap 34 orang siswa di Kabupaten Pesisir Barat sebagai daerah yang paling potensial mengalami bencana gempa bumi dan tsunami. Data penelitian diperoleh menggunakan strategi focused group discussion dan depth interview terhadap unsur komunitas sekolah yaitu guru, dan orang tua. Tujuan dari terlibatnya komunitas sekolah untuk mendapatkan data dalam memahami resilience siswa. Hasil penelitian membuktikan bahwa resilience berada pada taraf yang masih rendah dan kondisi ini selanjutnya memberikan rekomendasi terkait strategi alternatif untuk pengembangan keterampilan berpikir tingkat tinggi bagi siswa di daerah rawan bencana.\r\n\r\nKata kunci: keterampilan problem solving, disaster resilience, siswa sekolah dasar, komunitas sekolah",
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP2"
+      ],
+      "dir": "disk0\/00\/00\/24\/48",
+      "datestamp": "2017-06-02 03:30:06",
+      "eprintid": 2448,
+      "lastmod": "2017-06-02 03:30:06",
+      "number": 1,
+      "refereed": "TRUE",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp\/article\/view\/12313",
+      "publisher": "Unit Database dan Publikasi Ilmiah FKIP Universitas Lampung",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "creators": [
+        {
+          "id": "diahutaminingsih@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Utaminingsih",
+            "given": "Diah"
+          }
+        },
+        {
+          "id": "abdurrahman.1968@fkip.unila.ac.id",
+          "name": {
+            "family": "Abdurrahman",
+            "given": "Abdurrahman",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "kadaryanto@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Budi",
+            "family": "Kadaryanto"
+          }
+        }
+      ]
+    },
+    {
+      "volume": 6,
+      "issn": "2580-9504 (online)",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33344",
+      "title": "Profil Kesiapan Masuk Sekolah Dasar Usia 5 – 6 Tahun di Bandar Lampung",
+      "metadata_visibility": "show",
+      "pagerange": "52-59",
+      "subjects": [
+        "BF",
+        "LB1501"
+      ],
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/152599",
+            "pos": 1,
+            "eprintid": 33344,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/395349",
+                  "filesize": 763091,
+                  "fileid": 395349,
+                  "hash": "78a83ef6e10e6381b2116adace4661fb",
+                  "mtime": "2021-08-06 21:42:33",
+                  "datasetid": "document",
+                  "objectid": 152599,
+                  "mime_type": "application\/pdf",
+                  "filename": "20867-48598-1-PB (1).pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "language": "en",
+            "main": "20867-48598-1-PB (1).pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 152599,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "date": "2020-05-12",
+      "publication": "Jurnal Pendidikan Anak",
+      "status_changed": "2021-08-08 15:24:56",
+      "userid": 15721,
+      "number": 1,
+      "refereed": "FALSE",
+      "eprintid": 33344,
+      "lastmod": "2021-08-08 15:24:56",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "susanthi",
+            "family": "pradini"
+          },
+          "id": "susanthi.pradini7201@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "harkina",
+            "given": "prida"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "vira",
+            "family": "Sandayanti"
+          }
+        }
+      ],
+      "publisher": "FKIP Universitas Lampung",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/PAUD\/index",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "date_type": "completed",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Malahayati",
+        "Universitas Malahayati"
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "ispublished": "pub",
+      "abstract": "The School Readiness Profile in Children Aged 5 – 6 Years Old to Enter\r\nPrimary School in Bandar Lampung. School readiness is indicated to determine\r\nchildren ability to participate learning in primary school. The research is aimed to\r\ndescribe school readiness profile in children aged 5 – 6 years old in Bandar Lampung\r\nwho has been declared ready to participate learning in primary school. The result in the\r\nresearch showed that personal and social aspects (self-awareness, self-autonomy, fine\r\nmotoric skill, and tracking precisely) has lower score than cognitive and academic\r\naspects. Therefore, the abilities are related to self-awareness, self-autonomy, and the\r\neager to do learn is need to be developed so children can perform optimally. Parents and\r\nTeachers has an important role to support children transition to participate learning and\r\nrule in school. Children, parents, and teachers should be committed to make a synergy in\r\norder to achieve success in school.\r\nKeywords: school readiness, early children, primary school, parent readiness",
+      "eprint_status": "archive",
+      "datestamp": "2021-08-08 15:24:56",
+      "dir": "disk0\/00\/03\/33\/44",
+      "divisions": [
+        "FKIP23"
+      ]
+    }
+]
+

@@ -1,0 +1,70 @@
+[
+    {
+      "date": "2023-06-18",
+      "publication": "terekamjejak.com",
+      "documents": [
+          {
+            "pos": 1,
+            "eprintid": 52175,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "Jejak Langkah VOC, Perintis Kapitalisme Modern - Terekam Jejak.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 252540,
+                  "hash": "6bc4806e66ac7702906f45970e65be48",
+                  "mtime": "2023-06-18 18:50:28",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/618235",
+                  "fileid": 618235,
+                  "filesize": 1957101
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252540",
+            "main": "Jejak Langkah VOC, Perintis Kapitalisme Modern - Terekam Jejak.pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "docid": 252540,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "status_changed": "2023-06-19 01:17:51",
+      "userid": 2796,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52175",
+      "type": "article",
+      "subjects": [
+        "DJ"
+      ],
+      "title": "Jejak Langkah VOC, Perintis Kapitalisme Modern",
+      "metadata_visibility": "show",
+      "ispublished": "unpub",
+      "eprint_status": "archive",
+      "datestamp": "2023-06-19 01:17:51",
+      "dir": "disk0_bak\/00\/05\/21\/75",
+      "divisions": [
+        "FISIP8"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Roby",
+            "family": "Rakhmadi"
+          },
+          "id": "roby.rakhmadi007@fisip.unila.ac.id"
+        }
+      ],
+      "publisher": "Terekam Jejak",
+      "official_url": "https:\/\/terekamjejak.com\/jejak-langkah-voc-perintis-kapitalisme-modern\/",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "eprintid": 52175,
+      "lastmod": "2023-06-19 01:17:51"
+    }
+]
+

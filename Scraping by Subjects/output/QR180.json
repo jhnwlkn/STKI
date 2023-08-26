@@ -1,0 +1,471 @@
+[
+    {
+      "volume": 9,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11452",
+      "type": "article",
+      "issn": "2580-4960",
+      "metadata_visibility": "show",
+      "related_url": [
+        {
+          "url": "http:\/\/ejournal.radenintan.ac.id\/index.php\/biosfer\/index"
+        }
+      ],
+      "title": "UJI DAYA ANTIBAKTERI ISOLAT BAKTERI ASAM LAKTAT DARI KEFIR dengan Inokulum Ragi Tape TERHADAP Escherichia coli",
+      "pagerange": "217-223",
+      "subjects": [
+        "QR180"
+      ],
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "docid": 24450,
+            "mime_type": "application\/pdf",
+            "pos": 1,
+            "eprintid": 11452,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "2018 agung Sumardi UIN.pdf",
+                  "datasetid": "document",
+                  "objectid": 24450,
+                  "mtime": "2019-04-30 15:06:21",
+                  "hash": "019ee1d778506ffab786da4c0da2b42f",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/104020",
+                  "filesize": 630521,
+                  "fileid": 104020
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24450",
+            "rev_number": 1,
+            "main": "2018 agung Sumardi UIN.pdf",
+            "language": "en"
+          }
+      ],
+      "publication": "BIOSFER Jurnal Tadris Pendidikan Biologi",
+      "date": "2018-12",
+      "userid": 965,
+      "status_changed": "2019-05-02 04:08:07",
+      "lastmod": "2019-05-02 04:08:07",
+      "eprintid": 11452,
+      "number": 2,
+      "refereed": "TRUE",
+      "publisher": "Prodi Pendidikan Biologi, UIN Raden Intan Lampung",
+      "official_url": "http:\/\/ejournal.radenintan.ac.id\/index.php\/biosfer\/article\/view\/2608\/2673",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Agung",
+            "given": "Setia Ningsih"
+          },
+          "id": null
+        },
+        {
+          "id": "ecoli.lacto@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "christina",
+            "given": "Nugroho Ekowati"
+          }
+        },
+        {
+          "name": {
+            "family": "Sumardi",
+            "given": "Sumardi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "sumardi_bio@yahoo.co.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Farisi",
+            "family": "Salman"
+          },
+          "id": "alfarisi.mdr@gmail.com"
+        }
+      ],
+      "date_type": "published",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "This study aimed to determine the antibacterial power produced by isolates of lactic acid bacteria from kefir of cow's milk and soy milk on Escherichia coli. This research was conducted in four stages, namely isolation and identification of kefir BAL, antibacterial substance production from isolates, testing the inhibition of BAL antibacterial isolates against Escherichia coli. The results showed that the sixth lactic acid bacterial isolate from soybean kefir and cow's milk kefir was able to inhibit the growth of Escherichia coli in acidic and neutral conditions. In acidic conditions, the KE1-KE3 inhibition zone is 3.51; 2.93; 2,66 and SA1-SA3 are 1,83; 2.46; 2.46. In the neutral condition of the KE1-KE3 inhibitory zone, respectively 1.59; 2.33; 1,99 and SA1-SA2 are 1,49; 2.49; 2.39.",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0\/00\/01\/14\/52",
+      "datestamp": "2019-05-02 04:08:07"
+    },
+    {
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 190375,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "main": "7816-Article Text-68168-76361-10-20230419.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 190375,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "7816-Article Text-68168-76361-10-20230419.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/546058",
+                  "filesize": 927218,
+                  "fileid": 546058,
+                  "mtime": "2023-04-23 02:45:44",
+                  "hash": "90313056121dfe468782644314563bed"
+                }
+            ],
+            "eprintid": 50671,
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190375"
+          }
+      ],
+      "publication": "Baghdad Science Journal",
+      "userid": 3262,
+      "status_changed": "2023-04-25 11:20:39",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50671",
+      "issn": "2411-7986",
+      "metadata_visibility": "show",
+      "title": "Antioxidant Activity of Endophytic Bacteria isolated from (Pyrrosia piloselloides) (L) M.G. Price",
+      "subjects": [
+        "QR",
+        "QR180",
+        "R1",
+        "RM"
+      ],
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0_bak\/00\/05\/06\/71",
+      "datestamp": "2023-04-25 11:20:39",
+      "lastmod": "2023-04-25 11:20:39",
+      "eprintid": 50671,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Achmad",
+            "family": "Arifiyanto"
+          },
+          "id": "achmad.arifiyanto@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Farisi",
+            "family": "Salman"
+          },
+          "id": "alfarisi.mdr@gmail.com"
+        }
+      ]
+    },
+    {
+      "dir": "disk0\/00\/04\/39\/99",
+      "datestamp": "2022-08-15 01:33:11",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "eprintid": 43999,
+      "lastmod": "2022-08-15 01:33:11",
+      "refereed": "TRUE",
+      "publisher": "JPAM Publisher",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "creators": [
+        {
+          "id": "hendri_busman@yahoo.com",
+          "name": {
+            "given": "Hendri",
+            "family": "Busman",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "emantisrosa@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Emantis",
+            "family": "Rosa"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Lestari",
+            "given": "Reza Pina"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Arifiyanto",
+            "given": "Achmad"
+          },
+          "id": "achmad.arifiyanto@fmipa.unila.ac.id"
+        }
+      ],
+      "userid": 3262,
+      "status_changed": "2022-08-15 01:33:11",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165999",
+            "rev_number": 1,
+            "eprintid": 43999,
+            "pos": 1,
+            "files": [
+                {
+                  "hash": "e208a1105337c5ec3374993db2dcb5ea",
+                  "mtime": "2022-08-12 14:41:42",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/478721",
+                  "filesize": 778787,
+                  "fileid": 478721,
+                  "mime_type": "application\/pdf",
+                  "filename": "JPAM.16.3.41.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 165999
+                }
+            ],
+            "language": "en",
+            "main": "JPAM.16.3.41.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 165999,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publication": "Journal of Pure and Applied Microbiology",
+      "metadata_visibility": "show",
+      "title": "Kersen (Muntingia calabura L.) Ethanol Extract Repairs Pancreatic Cell Damage, Total Coliforms, and Lactic Acid Bacteria in Hyperglycemic Mice",
+      "subjects": [
+        "QR",
+        "QR180",
+        "RM"
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43999",
+      "issn": "0973-7510"
+    },
+    {
+      "status_changed": "2021-11-03 01:35:18",
+      "userid": 965,
+      "date": "2021-04",
+      "publication": "Sriwijaya Bioscientia",
+      "documents": [
+          {
+            "docid": 155590,
+            "mime_type": "text\/html",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "main": 184,
+            "language": "en",
+            "pos": 1,
+            "eprintid": 34899,
+            "files": [
+                {
+                  "mime_type": "text\/html",
+                  "filename": 184,
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 155590,
+                  "hash": "e2653b48ce168f93b172a7410ec7d297",
+                  "mtime": "2021-11-03 00:53:18",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/408922",
+                  "fileid": 408922,
+                  "filesize": 46144
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155590",
+            "rev_number": 2
+          }
+      ],
+      "subjects": [
+        "QR180"
+      ],
+      "pagerange": "30-37",
+      "title": "Kajian Daya Hambat Ekstrak Antibakteri Dari Isolat Actinomycetes Terhadap Vibrio sp. Resisten Ampisilin Dan Tetrasiklin",
+      "metadata_visibility": "show",
+      "issn": "2722-0680",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34899",
+      "volume": 2,
+      "datestamp": "2021-11-03 01:35:18",
+      "dir": "disk0\/00\/03\/48\/99",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "ispublished": "pub",
+      "abstract": "Actinomycetes dengan kode isolat RH dan AF diisolasi dari tanah mangrove Hanura, Lampung Timur dan tanah rizosfer Sidoarjo. Kedua isolat diidentifikasi secara mikroskopis dan makroskopis. Isolat diseleksi berdasarkan aktivitas antibakteri, uji tantang terhadap Vibrio sp., dan didukung dengan uji patogenitas untuk mengetahui sifat patogen dari isolat tersebut.  Zat antibakteri dari isolat diperoleh melalui ekstraksi dengan pelarut metanol dan etil asetat.  Hasil penelitian menunjukkan bahwa isolat RH dan AF mampu menghambat pertumbuhan Vibrio sp. resisten antibiotik. Pada uji tantang terhadap Vibrio sp. resisten antibiotik terbentuk zona jernih diantara kedua isolat yang menunjukkan bahwa isolat RH memiliki kemampuan untuk menghambat pertumbuhan Vibrio sp. resisten antibiotik. Pada uji patogenitas kedua isolat Actinomycetes RH tidak menunjukan kemampuan hemolisis apapun yang dibuktikan dengan tidak terbentuknya zona jernih pada medium agar darah, namun pada isolat AF menunjukan kemampuan β-hemolisis yang dibuktikan dengan terbentuknya zona jernih pada medium agar darah.",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "sumardi_bio@yahoo.co.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Sumardi",
+            "family": "Sumardi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ekowati",
+            "given": "Christina Nugroho"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Salman",
+            "family": "Farisi"
+          },
+          "id": "alfarisi.mdr@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "RCN",
+            "family": "Hutagalung"
+          }
+        }
+      ],
+      "publisher": "Universitas Sriwijaya",
+      "official_url": "https:\/\/biovalentia.ejournal.unsri.ac.id\/sribios",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "refereed": "TRUE",
+      "number": 1,
+      "eprintid": 34899,
+      "lastmod": "2021-11-03 01:35:18"
+    },
+    {
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Environmental pollution in the Coastal Bay of Lampung is dominated by heavy metal pollution which is toxic to living things because it can cause cell damage and death. Micoorganisms have the ability to accumulate, bind and reduce heavy metal ions. Anoxigenic Photosyntetic Bacteria (APB) is specifically recommended to handle the bioremediation process and degradation of pollutants from polluted environments because they are resistant to heavy metals.The purpose of this study was to determine the effect of heavy metals on growth and APB spectral patterns. The result of the analysis showed that the growth of AM isolates was the most stable compared to other isolates so it was continued with spectrophotometric tests. The control spectra pattern has a high absorbance at a wavelength of 800 nM. While the bacterial spectra pattern from the results of heavy metal treatment did not show any high spectral absorbance.",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "datestamp": "2020-06-02 08:00:04",
+      "dir": "disk0\/00\/01\/99\/03",
+      "publisher": "Perhimpunan Biologi Indonesia Cabang Lampung",
+      "rev_number": 10,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "given": "Sumardi",
+            "family": "Sumardi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "sumardi_bio@yahoo.co.id"
+        },
+        {
+          "name": {
+            "given": "Farisi",
+            "family": "Salman",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "alfarisi.mdr@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Rochmah",
+            "family": "Agustrina",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "rochmah.agustrina@fmipa.unila.ac.id"
+        },
+        {
+          "id": "-",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Edelyn Stephani Salim",
+            "given": "Edelyn"
+          }
+        }
+      ],
+      "eprintid": 19903,
+      "lastmod": "2020-06-02 08:00:04",
+      "refereed": "TRUE",
+      "publication": "Prosiding Seminar Nasional Biologi PBI XXV",
+      "documents": [
+          {
+            "mime_type": "text\/html",
+            "docid": 33207,
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "index.html",
+            "language": "en",
+            "files": [
+                {
+                  "filesize": 739,
+                  "fileid": 188267,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/188267",
+                  "mtime": "2020-05-18 00:46:39",
+                  "hash": "67bb20ee078302bf2309684d7f31c975",
+                  "objectid": 33207,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "index.html",
+                  "mime_type": "text\/html"
+                }
+            ],
+            "eprintid": 19903,
+            "pos": 1,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33207"
+          }
+      ],
+      "userid": 965,
+      "status_changed": "2020-06-02 08:00:04",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19903",
+      "issn": "978-623-93052-0-8",
+      "subjects": [
+        "QR180"
+      ],
+      "metadata_visibility": "show",
+      "title": "Pengaruh Logam Berat Terhadap Pertumbuhan dan Pola Spektra Bakteri Fotosintetik Anoksigenik (BFA)"
+    }
+]
+

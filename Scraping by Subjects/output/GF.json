@@ -1,0 +1,1818 @@
+[
+    {
+      "date_type": "completed",
+      "lastmod": "2021-11-12 07:41:08",
+      "eprintid": 36391,
+      "number": 1,
+      "refereed": "FALSE",
+      "official_url": "https:\/\/ppjp.ulm.ac.id\/journal\/index.php\/jht",
+      "full_text_status": "public",
+      "publisher": "Fakultas Kehutanan Universitas Mulawarman",
+      "rev_number": 7,
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Anesa",
+            "given": "Dadi"
+          }
+        },
+        {
+          "id": "rommy.qurniati@fp.unila.ac.id",
+          "name": {
+            "family": "Qurniati",
+            "given": "Rommy",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Fitriana",
+            "given": "Yulia Rahma"
+          },
+          "id": "yulia.fitriana@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Banuwa",
+            "given": "Irwan Sukri"
+          },
+          "id": "irwanbanuwa@yahoo.com"
+        }
+      ],
+      "divisions": [
+        "FP5"
+      ],
+      "dir": "disk0\/00\/03\/63\/91",
+      "datestamp": "2021-11-12 07:41:08",
+      "eprint_status": "archive",
+      "ispublished": "submitted",
+      "abstract": "Pola tanam agroforestri merupakan sistem pengelolaan lahan yang banyak diterapkan dalam pemanfaatan lahan hutan melalui penggabungan antara tanaman kehutanan dan tanaman pertanian. Dalam pengelolaanya, petani memiliki cara tersendiri yang dipengaruhi oleh budaya dan kearifan lokal yang diwarisi orang tuanya. Untuk itu penelitian ini bertujuan untuk mengidentifikasi budaya dan kearifan lokal petani dalam pengelolaan lahan dengan pola agroforestri.  Pengambilan data telah dilaksanakan pada bulan Februari-Maret 2021 dengan studi kasus di 3 Gabungan kelompok tani (Gapoktan) yaitu Gapoktan Hijau Makmur, Gapoktan Mahardika, dan Gapoktan Cempaka yang berada dalam wilayah Kesatuan Pengelolaan Hutan Lindung(KPHL) Batutegi, Provinsi Lampung. Penentuan besarnya responden menggunakan teknik purposive sampling yang difokuskan pada petani agroforestri. Pengumpulan data dilakukan dengan wawancara terstruktur menggunakan kuisioner dan wawancara mendalam. Pada penelitian ini teridentifikasi bahwa cara pengelolaan lahan petani dipengaruhi oleh budaya berupa kegiatan ngoret, angin-anginan, nunas, perantingan dan setek pada pemeliharaan tanaman, mutil dan ngunduh pada kegiatan pemanenan dan pembibitan. Selain itu budaya ini juga mengandung kearifan dalam kegiatan babat belukar pada penyiapan lahan dan nandur pada penanaman. Kearifan lokal ini masih diterapkan secara terbatas sehingga perlu dikembangkan agar dapat diterapkan secara luas untuk mendukung kelestarian hutan di KPHL Batutegi.",
+      "metadata_visibility": "show",
+      "title": "Budaya dan Kearifan Lokal dalam Pengelolaan Lahan dengan Pola Agroforestri di Kesatuan Pengelolaan Hutan Lindung Batutego Provinsi Lampung",
+      "subjects": [
+        "GE",
+        "GF"
+      ],
+      "volume": 6,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/36391",
+      "type": "article",
+      "issn": "2599 1183",
+      "userid": 168,
+      "status_changed": "2021-11-12 07:41:08",
+      "documents": [
+          {
+            "main": "LoA_Dadi Anesa.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "objectid": 157323,
+                  "datasetid": "document",
+                  "filename": "LoA_Dadi Anesa.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 420329,
+                  "filesize": 146172,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/420329",
+                  "hash": "2a2906c3348cabc8e2734de339f91ee4",
+                  "mtime": "2021-11-12 03:32:33"
+                }
+            ],
+            "eprintid": 36391,
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/157323",
+            "mime_type": "application\/pdf",
+            "docid": 157323,
+            "security": "public",
+            "placement": 1,
+            "format": "text"
+          }
+      ],
+      "publication": "Ulin Jurnal Hutan Tropis"
+    },
+    {
+      "number": 1,
+      "refereed": "TRUE",
+      "eprintid": 46101,
+      "lastmod": "2022-10-31 01:04:59",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Adhi",
+            "family": "Auliya Fikri"
+          }
+        },
+        {
+          "id": "arief.darmawan@fp.unila.ac.id",
+          "name": {
+            "given": "Arief",
+            "family": "Darmawan",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Rudi",
+            "family": "Hilmanto"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Irwan Sukri",
+            "family": "Banuwa"
+          },
+          "id": "irwanbanuwa@yahoo.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Agustiono",
+            "given": "Aryadi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Agustiana",
+            "given": "Laviyanti"
+          }
+        }
+      ],
+      "official_url": "https:\/\/ejournal.umm.ac.id\/index.php\/avicennia\/article\/view\/19938",
+      "full_text_status": "public",
+      "publisher": "Universitas Muhammadiyah Malang",
+      "rev_number": 10,
+      "date_type": "published",
+      "ispublished": "pub",
+      "abstract": "Tahura Wan Abdul Rachman (Tahura WAR) terbagi menjadi beberapa blok pengelolaan, yaitu blok perlindungan, blok pemanfaatan, blok koleksi, dan blok lainnya. Blok pada Tahura WAR telah mengalami degradasi akibat aktivitas manusia, perubahan status kawasan, dan kebijakan. Penelitian ini bertujuan mengetahui dinamika serta menghasilkan informasi terbaru terkait dengan perubahan tutupan lahan di Tahura WAR. Metode yang digunakan, yaitu klasifikasi terbimbing dengan algoritma random forest yang tersedia pada platform Google Earth Engine (GEE). Uji akurasi dilakukan dengan menggunakan tabel confusion matrix. Hasil penelitian meliputi uji akurasi, tren perubahan tutupan lahan, dan perubahan tutupan lahan pada setiap blok. Akurasi kappa yang dihasilkan pada tahun 2015, 2018 dan 2021 berturut-turut adalah sebesar 87.88%, 94%, dan 92%. Tren perubahan tahun 2015-2018 tutupan hutan meningkat 1334.47 ha, kebun campuran menurun 5068.36 ha, dan tegakan kopi meningkat 3398.43 ha. Tutupan hutan pada semua blok terjadi peningkatan pada tahun 2015-2018 dan penurunan tahun 2018-2021, tegakan kopi mengalami perubahan terbesar pada tahun 2015-2018 yang berada pada blok lainnya. Tutupan hutan, kebun campuran dan tegakan kopi merupakan tutupan yang mendominasi serta mengalami perubahan yang fluktuatif dibanding dengan tutupan lainnya. Tutupan hutan harus terus dipertahankan status dan fungsinya, selain itu perlunya pembinaan yang intensif dan pengelolaan yang kolaboratif bersama masyarakat yang sudah mengelola di kawasan Tahura WAR.",
+      "eprint_status": "archive",
+      "datestamp": "2022-10-31 01:04:59",
+      "dir": "disk0\/00\/04\/61\/01",
+      "divisions": [
+        "FP5"
+      ],
+      "volume": 5,
+      "issn": "2622-8505",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46101",
+      "title": "Pemanfaatan platform Google Earth Engine dalam Pemantauan Perubahan Tutupan Lahan di Taman Hutan Raya Wan Abdul Rachman",
+      "metadata_visibility": "show",
+      "subjects": [
+        "GF",
+        "S1",
+        "SB",
+        "SD"
+      ],
+      "pagerange": "46-57",
+      "documents": [
+          {
+            "docid": 184925,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "5Adhi+A+Fikri.pdf",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 46101,
+            "files": [
+                {
+                  "filesize": 962003,
+                  "fileid": 509914,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/509914",
+                  "mtime": "2022-10-30 16:06:54",
+                  "hash": "be92287d8f83d9ea7e07ddfb8d41dbd5",
+                  "objectid": 184925,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "5Adhi+A+Fikri.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184925"
+          }
+      ],
+      "date": "2022-02-01",
+      "publication": "Journal of Forest Science Avicennia",
+      "status_changed": "2022-10-31 01:04:59",
+      "userid": 623
+    },
+    {
+      "pagerange": "507-514",
+      "subjects": [
+        "G1",
+        "GA",
+        "GB",
+        "GE",
+        "GF",
+        "L1"
+      ],
+      "title": "PENERAPAN METODE RESITASI UNTUK MENINGKATKAN AKTIVITAS DAN PRESTASI BELAJAR GEOGRAFI SISWA KELAS XI IPS  DI SMA MUHAMMADIYAH MARTAPURA KABUPATEN OKU TIMUR",
+      "metadata_visibility": "show",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3920",
+      "type": "conference_item",
+      "event_type": "conference",
+      "event_title": "Proceeding of international seminar",
+      "status_changed": "2017-09-15 01:16:22",
+      "userid": 409,
+      "date": "2012-11-03",
+      "publication": "Proceeding of international seminar",
+      "documents": [
+          {
+            "language": "en",
+            "main": "Prosiding IGI_Nov_2012.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3774",
+            "rev_number": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/27400",
+                  "filesize": 920974,
+                  "fileid": 27400,
+                  "mtime": "2017-09-13 05:29:35",
+                  "hash": "fcbcde886e4981aed9c63bc21590ba93",
+                  "datasetid": "document",
+                  "objectid": 3774,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Prosiding IGI_Nov_2012.pdf"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 3920,
+            "mime_type": "application\/pdf",
+            "docid": 3774,
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "creators": [
+        {
+          "id": "de_miswar@yahoo.com",
+          "name": {
+            "given": "Miswar",
+            "family": "Dedy",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Sugeng",
+            "given": "Widodo",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "sugeng.widodo@fkip.unila.ac.id"
+        },
+        {
+          "id": "nani.suwarni@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nani",
+            "given": "Suwarni"
+          }
+        }
+      ],
+      "event_location": "Universitas Negeri Surakarta",
+      "event_dates": "3-4 November 2012",
+      "rev_number": 14,
+      "full_text_status": "public",
+      "pres_type": "paper",
+      "refereed": "TRUE",
+      "lastmod": "2017-09-15 01:16:22",
+      "eprintid": 3920,
+      "datestamp": "2017-09-15 01:16:22",
+      "dir": "disk0\/00\/00\/39\/20",
+      "divisions": [
+        "FKIP18"
+      ],
+      "abstract": "Penelitian ini bertujuan untuk menganalisis penggunaan metode resitasi dalam meningkatkan aktivitas dan prestasi belajar geografi siswa kelas XI IPS SMA Muhammadiyah Martapura. Penelitian yang dilakukan adalah penelitian tindakan kelas yang dilakukan dalam 3 siklus. Lokasi penelitian di SMA Muhammadiyah Martapura dengan subjek penelitian adalah 41 siswa yang terdiri dari 19 putra dan 22 putri, peneliti (guru), dan seorang guru geografi (observer). Hasil penelitian menunjukkan bahwa aktivitas siswa siklus I, 3 kelompok memperoleh kriteria aktif dan 4 kelompok lainnya sangat aktif sedangkan pada siklus II menunjukkan bahwa seluruh kelompok memperoleh kriteria sangat aktif. Hasil yang diperoleh pada siklus I adalah 80,5% siswa memperoleh nilai 65 atau lebih dan pada siklus II 85,4% siswa memperoleh nilai 65 atau lebih. Kesimpulan dalam penelitian ini bahwa melalui penggunaan metode resitasi dapat meningkatkan aktivitas dan prestasi belajar geografi siswa kelas kelas XI IPS SMA Muhammadiyah Martapura",
+      "ispublished": "pub",
+      "eprint_status": "archive"
+    },
+    {
+      "date_type": "published",
+      "lastmod": "2022-07-11 02:15:27",
+      "eprintid": 43188,
+      "refereed": "TRUE",
+      "number": 1,
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/JPG\/article\/view\/24186",
+      "publisher": "FKIP Unila",
+      "full_text_status": "public",
+      "rev_number": 10,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Dewi",
+            "given": "Citra"
+          },
+          "id": "citradewirohana@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Eko",
+            "family": "Rahmadi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "eko.rahmadi@eng.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FT11"
+      ],
+      "dir": "disk0\/00\/04\/31\/88",
+      "datestamp": "2022-07-11 02:15:27",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "eprint_status": "archive",
+      "abstract": "Kota Bandar Lampung menurut data dari Direktorat Reserse Narkoba Polda Lampung, kota ini merupakan daerah yang memiliki jumlah penyalahgunaan narkoba yang paling banyak dari 15 Kabupaten\/Kota di Provinsi Lampung. Penelitian ini bertujuan untuk penentuan daerah rawan penyalahgunaan narkoba di Bandar Lampung menggunakan sistem informasi geografis. Metode yang digunakan yaitu scoring, pembobotan parameter menggunakan Analytical Hierarchy Process (AHP) dan overlay seluruh parameter yang mempengaruhi suatu wilayah rawan terjadinya penyalahgunaan narkoba. Penerapan teknik overlay menggunakan sistem informasi geografis. Parameter yang digunakan yaitu kepadatan penduduk, tingkat kemiskinan, daerah kumuh, tingkat kriminalitas, tingkat pendidikan (tamatan), jenis pekerjaan, tingkat perceraian dan jarak ke terminal. Hasil perhitungan parameter menunjukkan tingkat kriminalitas adalah parameter yang paling dominan dengan bobot 25%, tingkat kemiskinan 17%, jenis pekerjaan 14%, kepadatan penduduk 12%, tingkat pendidikan 12%, jarak ke terminal 8% serta daerah kumuh dan tingkat perceraian memberi kontribusi terkecil dengan bobot 6%. Berdasarkan hasil analisa menunjukkan bahwa daerah yang termasuk kategori sangat tinggi menjadi lokasi penyalahgunaan narkoba terdapat pada 32 kelurahan, kategori rawan terdapat 36 kelurahan dan cukup rawan terdapat 58 kelurahan. Dengan luas wilayah untuk tingkat sangat rawan 4032,207963 Ha (21,94%), rawan yaitu 5471,04702 Ha (29,78%) dan cukup rawan 8872,430536 Ha (48,28%).",
+      "ispublished": "pub",
+      "metadata_visibility": "show",
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/JPG\/index",
+          "type": "pub"
+        }
+      ],
+      "title": "PENENTUAN DAERAH RAWAN PENYALAHGUNAAN NARKOBA DI KOTA BANDAR LAMPUNG MENGGUNAKAN SISTEM INFORMASI GEOGRAFIS (SIG)",
+      "pagerange": "1-14",
+      "subjects": [
+        "G1",
+        "GA",
+        "GE",
+        "GF",
+        "T1"
+      ],
+      "volume": 10,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43188",
+      "type": "article",
+      "issn": "2302-0032",
+      "userid": 121,
+      "status_changed": "2022-07-11 02:15:27",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 165051,
+            "mime_type": "application\/pdf",
+            "eprintid": 43188,
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "24186-61459-1-PB.pdf",
+                  "datasetid": "document",
+                  "objectid": 165051,
+                  "mtime": "2022-07-10 23:13:09",
+                  "hash": "182238b9ef0505c89e7b070dddfa857c",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/472166",
+                  "fileid": 472166,
+                  "filesize": 399632
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165051",
+            "rev_number": 1,
+            "main": "24186-61459-1-PB.pdf",
+            "language": "en"
+          }
+      ],
+      "publication": "JURNAL PENELITIAN GEOGRAFI",
+      "date": 2022
+    },
+    {
+      "subjects": [
+        "GF",
+        "H1",
+        "JZ"
+      ],
+      "pagerange": "185-189",
+      "title": "NEGARA DAN KEANEKARAGAMAN HAYATI: MENGHADAPI TANTANGAN GLOBALISASI EKONOMI",
+      "metadata_visibility": "show",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23914",
+      "type": "article",
+      "status_changed": "2020-09-10 01:12:56",
+      "userid": 2805,
+      "publication": "PROSIDING SEMINAR NASIONAL FISIPUNIVERSITAS LAMPUNG (SEFILA) 3TAHUN 2019",
+      "documents": [
+          {
+            "docid": 37591,
+            "mime_type": "text\/html",
+            "security": "validuser",
+            "content": "published",
+            "placement": 1,
+            "format": "text",
+            "main": 31,
+            "language": "id",
+            "pos": 1,
+            "eprintid": 23914,
+            "files": [
+                {
+                  "objectid": 37591,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": 31,
+                  "mime_type": "text\/html",
+                  "filesize": 4003,
+                  "fileid": 218046,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/218046",
+                  "mtime": "2020-09-07 15:09:13",
+                  "hash": "438f43e113543ef29f3f65200f014167"
+                }
+            ],
+            "rev_number": 5,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37591"
+          }
+      ],
+      "creators": [
+        {
+          "id": "gita.djausal@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Gita Paramita",
+            "family": "Djausal"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "sanjaya",
+            "given": "fitri juliana"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ardeanto",
+            "given": "Eris"
+          }
+        }
+      ],
+      "full_text_status": "restricted",
+      "rev_number": 10,
+      "refereed": "TRUE",
+      "eprintid": 23914,
+      "lastmod": "2020-09-10 01:12:56",
+      "contact_email": "gita.djausal@fisip.unila.ac.id",
+      "datestamp": "2020-09-10 01:12:56",
+      "dir": "disk0\/00\/02\/39\/14",
+      "divisions": [
+        "FISIP1"
+      ],
+      "ispublished": "pub",
+      "abstract": "Globalization poses ambiguous challenges through increasing trade transactions, technological advances, abundant natural resources that urge the double edge knives for the society. The state as the main actor has the authority to regulate their assets. A state with big forest area, push to protect its interest. By using the analysis discourse research technique, the description of the national's interests and carrying capacity of biodiversity on the strength of the state is the focus of this research. In the agrarian aspect, in food security, biodiversity plays a role as provider of genetic diversity, protects the worst scenario of the harvest season, and the most important is to balance the ecosystem. It also contributes in maintaining the global climate and providing oxygen supply (the lungs of the world).",
+      "eprint_status": "archive"
+    },
+    {
+      "event_title": "Seminar nasional Ilmu Lingkungan (SNaIL) 2021",
+      "status_changed": "2021-11-12 07:41:10",
+      "userid": 168,
+      "documents": [
+          {
+            "language": "en",
+            "main": "LoA 09-SNaIL Muhammad Fadhil.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/157326",
+            "pos": 1,
+            "eprintid": 36392,
+            "files": [
+                {
+                  "filename": "LoA 09-SNaIL Muhammad Fadhil.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 157326,
+                  "datasetid": "document",
+                  "hash": "168edc233b02a0df95044babc2a299a9",
+                  "mtime": "2021-11-12 03:43:44",
+                  "fileid": 420347,
+                  "filesize": 137871,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/420347"
+                }
+            ],
+            "docid": 157326,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "title": "ANALISIS KESESUAIAN KAWASAN WISATA ALAM PULAU KELAGIAN BESAR KECAMATAN PADANG CERMIN, KABUPATEN PESAWARAN, PROVINSI LAMPUNG",
+      "metadata_visibility": "show",
+      "subjects": [
+        "GE",
+        "GF"
+      ],
+      "event_type": "conference",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/36392",
+      "datestamp": "2021-11-12 07:41:10",
+      "dir": "disk0\/00\/03\/63\/92",
+      "divisions": [
+        "FP11"
+      ],
+      "abstract": "Indeks kesesuaian kawasan merupakan suatu parameter untuk menentukan sesuai tidaknya suatu kawasan untuk dijadikan suatu objek wisata.  Pulau Kelagian Besar merupakan salah satu pulau di Provinsi Lampung yang menjadi objek wisata rekreasi berenang dan juga snorkeling. Tujuan penelitian untuk mengetahui nilai indeks kesesuian untuk wisata pantai kategori rekreasi dan berenang.  Penelitian ini menggunakan pendekatan kualitatif dengan metode purposive sampling pada enam zona titik lokasi sampling dengan mempertimbangkan lokasi yang sering digunakan wisatawan untuk berenang. Pengambilan data dilakukan dengan pengukuran dan pengamatan secara visual dilapangan. Hasil penelitian menunjukkan bahwa kesesuaian wisata Pulau Kelagian Besar untuk kegiatan wisata rekreasi pantai yang termasuk dalam kategori sangat sesuai (S3) terdapat pada zona 1, 2, 3, 4 dan 5, sedangkan zona 6 termasuk dalam kategori tidak sesuai (TS).  Adapun untuk kegiatan wisata snorkeling yang termasuk dalam kategori sesuai (S2) terdapat pada zona 6, sedangkan kategori tidak sesuai (TS) terdapat pada zona 1, 2, 3, 4 dan zona 5. Hasil penelitian ini menunjukkan bahwa sebagian besar titik zona yang diamati dapat dikategorikan sangat sesuai untuk dijadikan lokasi kegiatan rekreasi pantai. Hanya satu titik pengamatan yang hanya sesuai untuk kegiatan snorkeling. Perlu penelitian lebih lanjut tentang daya dukung fisik Pulau Kelagian Besar guna mengetahui kapasitas pulau tersebut dalam menampung wisatawan perharinya.",
+      "ispublished": "submitted",
+      "eprint_status": "archive",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "eprintid": 36392,
+      "lastmod": "2021-11-12 07:41:10",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Muhammad",
+            "family": "Fadhil"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Agus",
+            "family": "Setiawan"
+          },
+          "id": "aslulila@yahoo.com"
+        },
+        {
+          "id": "yulia.fitriana@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Fitriana",
+            "given": "Yulia Rahma"
+          }
+        },
+        {
+          "id": "gundowino@gmail.com",
+          "name": {
+            "given": "Gunardi Djoko",
+            "family": "Winarno",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "rev_number": 8,
+      "full_text_status": "public"
+    },
+    {
+      "keywords": "COVID-19, inverse distance weighted, old people population, spatial distribution, mitigation, PSBB",
+      "id_number": "https:\/\/doi.org\/10.23917\/forgeo.v35i1.12325",
+      "metadata_visibility": "show",
+      "title": "Spatial Analysis to Mitigate the Spread of Covid-19 Based on Regional Demographic Characteristics",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/journals.ums.ac.id\/index.php\/fg\/article\/view\/12325"
+        }
+      ],
+      "publication": "Forum Geografi",
+      "referencetext": "Ahmadi, M. et al. (2020) ‘Investigation of effective climatology parameters on COVID-19 outbreak in Iran’, Science of the Total Environment, 729. doi: 10.1016\/j.scitotenv.2020.138705.\r\n\r\nBariotakis, M. et al. (2020) ‘Climatic influences on the worldwide spread of SARS-CoV-2’, MedRXiv, 1, pp. 0–2. doi: 10.1101\/2020.03.19.20038158.\r\n\r\nBendib, A., Dridi, H. and Kalla, M. I. (2016) ‘Contribution of Landsat 8 data for the estimation of land surface temperature in Batna city, Eastern Algeria.’, Geocarto International, 32(5), pp. 503–513. doi: 10.1080\/10106049.2016.1156167.\r\n\r\nBPS Kabupaten Bandung (2019) Kabupaten Bandung dalam angka 2019. Bandung: BPS Kabupaten Bandung.\r\n\r\nBPS Kota Bandung (2020) Kota Bandung Dalam Angka 2020. Bandung: BPS Kota Bandung.\r\n\r\nChavez, P. S. (1988) ‘An improved dark-object subtraction technique for atmospheric scattering correction of multispectral data’, Remote Sensing of Environment, 24(3), pp. 459–479. doi: 10.1016\/0034-4257(88)90019-3.\r\n\r\nCoccia, M. (2020) ‘Factors determining the diffusion of COVID-19 and suggested strategy to prevent future accelerated viral infectivity similar to COVID’, Science of the Total Environment, 729, p. 138474. doi: 10.1016\/j.scitotenv.2020.138474.\r\n\r\nDennis, R. A. et al. (2005) ‘Fire, people and pixels: Linking social science and remote sensing to understand underlying causes and impacts of fires in Indonesia’, Human Ecology, 33(4), pp. 465–504. doi: 10.1007\/s10745-005-5156-z.\r\n\r\nDHS Spatial Interpolation Working Group (2014) Spatial Interpolation with Demographic and Health Survey Data : Key considerations. Rockville.\r\n\r\nVan Doremalen, N. et al. (2020) ‘Aerosol and surface stability of SARS-CoV-2 as compared with SARS-CoV-1’, New England Journal of Medicine. Massachussetts Medical Society, pp. 1564–1567. doi: 10.1056\/NEJMc2004973.\r\n\r\nFranch-Pardo, I. et al. (2020) ‘Spatial analysis and GIS in the study of COVID-19. A review’, Science of the Total Environment, 739, p. 140033. doi: 10.1016\/j.scitotenv.2020.140033.\r\n\r\nKohli, D., Sliuzas, R. and Stein, A. (2016) ‘Urban slum detection using texture and spatial metrics derived from satellite imagery’, Journal of Spatial Science, 8596(May), pp. 1–22. doi: 10.1080\/14498596.2016.1138247.\r\n\r\nLewis, T. (2020) How Coronavirus Spreads through the Air: What We Know So Far, scientificamerican. Available at: https:\/\/www.scientificamerican.com\/article\/how-coronavirus-spreads-through-the-air-what-we-know-so-far1\/ (Accessed: 30 September 2020).\r\n\r\nLuo, W. et al. (2020) ‘The role of absolute humidity on transmission rates of the COVID-19 outbreak’, MedRXiv, p. 8. doi: 10.1101\/2020.02.12.20022467.\r\n\r\nMcFeeters, S. K. (2013) ‘Using the normalized difference water index (ndwi) within a geographic information system to detect swimming pools for mosquito abatement: A practical approach’, Remote Sensing, 5(7), pp. 3544–3561. doi: 10.3390\/rs5073544.\r\n\r\nMeng, G., Law, J. and Thompson, M. E. (2010) ‘Small-scale health-related indicator acquisition using secondary data spatial interpolation’, International Journal of Health Geographics, 9, pp. 1–17. doi: 10.1186\/1476-072X-9-50.\r\n\r\nQi, H. et al. (2020) ‘COVID-19 transmission in Mainland China is associated with temperature and humidity: A time-series analysis’, Science of the Total Environment, 728, p. 6. doi: 10.1016\/j.scitotenv.2020.138778.\r\n\r\nRey, S. et al. (2011) ‘A companion to Theoretical Econometrics Spatial econometrics’, Economics Letters, 4(2), pp. 223–251. doi: 10.1108\/17538251111125007.\r\n\r\nSeltenrich, N. (2014) ‘Remote-sensing applications for environmental health research’, Environmental Health Perspectives, 122(10), pp. A268–A275. doi: 10.1289\/ehp.122-A268.\r\n\r\nSeyedmohammadi, J., Esmaeelnejad, L. and Shabanpour, M. (2016) ‘Spatial variation modeling of groundwater electrical conductivity using geostatistics and GIS’, Modeling Earth Systems and Environment, 2(4), pp. 1–10. doi: 10.1007\/s40808-016-0226-3.\r\n\r\nShah, D. et al. (2013) ‘Estimating minimum and maximum air temperature using MODIS data over Indo-Gangetic Plain’, Journal of Earth System Science, 122(6), pp. 1593–1605. doi: 10.1007\/s12040-013-0369-9.\r\n\r\nTosepu, R. et al. (2020) ‘Correlation between weather and Covid-19 pandemic in Jakarta, Indonesia’, Science of the Total Environment, 725, p. 4. doi: 10.1016\/j.scitotenv.2020.138436.\r\n\r\nXie, Z. et al. (2020) ‘Spatial and temporal differentiation of COVID-19 epidemic spread in mainland China and its influencing factors’, Science of the Total Environment, 744, p. 140929. doi: 10.1016\/j.scitotenv.2020.140929.\r\n\r\nZhang, H. et al. (2019) ‘The epidemic characteristics and spatial autocorrelation analysis of hand, foot and mouth disease from 2010 to 2015 in Shantou, Guangdong, China’, BMC public health, 19(1), p. 998. doi: 10.1186\/s12889-019-7329-5.",
+      "publisher": "Universitas Muhammadiyah Surakarta",
+      "creators": [
+        {
+          "name": {
+            "family": "Ghazali",
+            "given": "Mochamad Firman",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "firman.ghazali@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Tridawati",
+            "given": "Anggun"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sugandi",
+            "given": "Mamad"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Anesta",
+            "given": "Aqilla Fitdhea"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Wikantika",
+            "given": "Ketut"
+          }
+        }
+      ],
+      "number": 1,
+      "divisions": [
+        "FT11"
+      ],
+      "dir": "disk0\/00\/03\/14\/01",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31401",
+      "issn": "0852-0682",
+      "volume": 35,
+      "subjects": [
+        "G1",
+        "GF"
+      ],
+      "date": "2021-07-03",
+      "userid": 3260,
+      "status_changed": "2021-05-31 01:43:28",
+      "rev_number": 7,
+      "official_url": "http:\/\/journals.ums.ac.id\/index.php\/fg\/article\/view\/12325",
+      "full_text_status": "none",
+      "eprintid": 31401,
+      "lastmod": "2021-05-31 01:43:28",
+      "contact_email": "firman.ghazali@eng.unila.ac.id",
+      "refereed": "TRUE",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "COVID-19 is currently the hot topic of conversation because of its ability to spread relatively quickly, in line with everyday human activities. It is unknown exactly the dominant environmental factors and their influence on the spread of COVID-19 in the last four months. Its distribution ability is no longer locally but has succeeded in making several countries stop its important activities globally. Non-spatial data such as positive confirmed population data, population-based on age, and Landsat 7 satellite imagery data were used to determine the spatial characteristics of the COVID-19 distribution until October September 2020. Inverse distance weighted (IDW), Moran's I and Local Indicator Spatial Association (LISA), as well as the ratio of the old population to the population, confirmed positive (+) were used as an approach to determine the characteristics of its distribution. Besides information on residential areas, surface temperature, and surface humidity based on supervised classification, land surface temperature (LST), and the normalized difference water index (NDWI) of Landsat 7 satellite imagery is used to enrich the spatial analysis carried out. The study results show a population concentration of COVID-19 towards the city of Bandung, with Moran's I result in not showing a good correlation. Meanwhile, the LISA results show that areas with a large or small number of elderly residents do not always have high positive COVID-19 numbers. The relation between the positive population (+) COVID-19 population and the built-up area (settlement), the surface temperature in the built-up area, surface humidity, and old age population based on the coefficient of determination (R2) is 0.03, 0.28, 0.25, and 0.019. This shows the level of vulnerability of the area is low. So, in the end, a recommendation for handling can be produced by taking into account the demographic characteristics of the area appropriately",
+      "datestamp": "2021-05-31 01:43:28"
+    },
+    {
+      "abstract": "Weather-induced hazards are one potential reason for such decline. While the new coastal megacities can command large resources and significant political influence, they are also concentrating increasing populations in potentially hazardous locations, particularly in the new emerging megacities in the developing world. Thus, the development of these cities requires successful mitigation of these hazards. System resilience is seen as a desirable property in the face of a range of potential stresses, including weatherinduced hazards and disaster reduction. Most of the near-coastal zone is sparsely inhabited, with the human population being concentrated in a few specific areas of the world’s coast. These areas correspond mainly to near-coastal plains in Europe and parts of Asia, and to a lesser extent to densely populated urban areas. Urban populations tend to have higher consumption levels than their rural counterparts, as well as different consumption patterns. The increasing demand for food requires increasing productivity in fisheries and agriculture. However, this is often impeded by the loss of agricultural land to urban expansion and the reduction of fisheries potential because of habitat loss and pollution of rivers and coastal waters from urban and industrial waste. It should be noted that the aforementioned weather related hazards are usually directly modified by other human activities in and around urban areas, including changing sediment supply due to changing land use, land claim of intertidal areas and deepening of channels for navigation, enhanced subsidence due to groundwater withdrawal. Over time, technology is increasing the options that are available for hazard reduction, particularly those strategies that reduce losses Given the large populations and economic values in cities, there is usually a bias toward loss reduction, and it can be argued that large coastal cities would not have evolved without the availability of these hazard reduction strategies.\r\n\r\nKeywords: weather,coastal megacities, urban, hazard reduction",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "dir": "disk0\/00\/00\/62\/55",
+      "datestamp": "2018-06-04 06:29:08",
+      "divisions": [
+        "FKIP18"
+      ],
+      "creators": [
+        {
+          "id": "Irmalusi_80@yahoo.com",
+          "name": {
+            "family": "Irma Lusi Nugraheni M.Si",
+            "given": "irma lusi nugraheni",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "publisher": "JAKARTA",
+      "rev_number": 11,
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "eprintid": 6255,
+      "lastmod": "2018-06-04 06:29:08",
+      "date_type": "published",
+      "date": "2017-01-01",
+      "publication": "SPASIAL",
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/msword",
+            "docid": 19184,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19184",
+            "rev_number": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 19184,
+                  "mime_type": "application\/msword",
+                  "filename": "The Resilience of Coastal Megacities to Weather.doc",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/57270",
+                  "fileid": 57270,
+                  "filesize": 71168,
+                  "hash": "739f10f349c7d9f67a28b1f85568ea49",
+                  "mtime": "2017-12-15 03:23:51"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 6255,
+            "language": "en",
+            "main": "The Resilience of Coastal Megacities to Weather.doc"
+          }
+      ],
+      "status_changed": "2018-06-04 06:29:08",
+      "userid": 264,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6255",
+      "subjects": [
+        "GF"
+      ],
+      "title": "The Resilience of Coastal Megacities to Weather-Related Hazards",
+      "metadata_visibility": "show"
+    },
+    {
+      "contributors": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Novia Fitri",
+            "family": "Istiawati"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "novia.istiawati@fkip.unila.ac.id"
+        },
+        {
+          "id": "sugeng.widodo@fkip.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Sugeng",
+            "family": "Widodo"
+          }
+        },
+        {
+          "id": null,
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Lestari",
+            "given": "Miranda Agustin"
+          }
+        }
+      ],
+      "abstract": "This study aims to look at the backwardness of the region and the socio-cultural construction of the Besemah Pantauan Bunting tradition by revealing: 1) the process of the birth of the tradition, 2) the factors causing differences in the distribution of traditions in each region, and 3) existence in the tracking era of the Besemah Tribe. The research was conducted in Lahat District, South Sumatra using an interpretive paradigm, qualitative research types and ethnographic methods. Data obtained from primary and secondary sources. Data collection techniques were carried out through non-participant observation, interviews, and documentation, as well as purposive sampling techniques. Data analysis was carried out through open coding, axial coding, and selective coding, while data analysis was carried out through continuous observation, triangulation, member checks and peer reviews and reference adequacy checks. Based on the results of the analysis with Berger's social construction theory, social construction is formed through 3 (three) dialectical processes namely, the first externalization of the existence of Pantauan Bunting as part of the Besemah Tribe marriage which is intended to introduce the bride and groom to relatives and family so that a harmonious relationship is established in period after marriage. Second, the process of objectivation through the implementing regulations for the Pantauan Bunting tradition succeeded in legitimizing the existence of this tradition in society. Third, the process of internalization through primary socialization by using customary institutions to move the community to be aware of their ancestral heritage so that they continue the tradition. The distribution of the Pantauan Bunting tradition varies in each region due to geographical and social factors. Even though it has entered the modern era, the existence of this tradition is still maintained by the Besemah people and we can still find it in various areas in Lahat Regency.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "datestamp": "2023-04-04 01:55:01",
+      "refereed": "TRUE",
+      "eprintid": 49604,
+      "lastmod": "2023-04-04 01:55:01",
+      "contact_email": "novia.istiawati@fkip.unila.ac.id",
+      "full_text_status": "public",
+      "rev_number": 12,
+      "official_url": "https:\/\/ejurnal.ung.ac.id\/index.php\/JGEJ\/index",
+      "date_type": "published",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189237",
+            "eprintid": 49604,
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 189237,
+                  "datasetid": "document",
+                  "filename": "17355-48881-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "filesize": 341961,
+                  "fileid": 537879,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/537879",
+                  "hash": "e7dbe0b66ad925cbe2641f48db8772af",
+                  "mtime": "2023-04-04 01:19:00"
+                }
+            ],
+            "language": "en",
+            "main": "17355-48881-1-PB.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 189237,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "date": "2023-03-31",
+      "status_changed": "2023-04-04 01:55:01",
+      "userid": 3493,
+      "volume": 4,
+      "issn": "2721-7000",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49604",
+      "subjects": [
+        "G1",
+        "GF",
+        "GN",
+        "H1",
+        "L1"
+      ],
+      "pagerange": "35-48",
+      "dir": "disk0_bak\/00\/04\/96\/04",
+      "divisions": [
+        "FKIP18"
+      ],
+      "number": 1,
+      "creators": [
+        {
+          "name": {
+            "given": "Novia Fitri",
+            "family": "Istiawati",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "novia.istiawati@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Sugeng",
+            "family": "Widodo",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "sugeng.widodo@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Miranda Agustin",
+            "family": "Lestari",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "publisher": "Universitas Negeri Gorontalo",
+      "publication": "JAMBURA GEO EDUCATION JOURNAL",
+      "referencetext": "Adams-Hutcheson, G. (2019). Farming in the troposphere: drawing together affective atmospheres and\r\nelemental geographies. Social and Cultural Geography, 20(7), 1004–1023.\r\nhttps:\/\/doi.org\/10.1080\/14649365.2017.1406982\r\nAnu, K. S. A. (2022). Kajian Geografi Budaya terhadap Tradisi Keo Rado Masyarakat Adat Tololela di Desa\r\nManubara Kecamatan Inerie Kabupaten Ngada.\r\nBa’, S. (2021). The critique of Sociology of Childhood: Human capital as the concrete ‘social construction of\r\nchildhood.’ Power and Education, 13(2), 73–87. https:\/\/doi.org\/10.1177\/17577438211011637\r\nBadan Pusat Statistik. (2018). Survei Demografi dan Kesehatan Indonesia Tahun 2018. In Badan Pusat\r\nStatistik.\r\nBadan Pusat Statistik. (2021). Kabupaten Lahat Dalam Angka. Badan Pusat Statistik.\r\nBerger, Peter & Luckmann, T. (1990). Tafsir Sosial atas Kenyataan: Risalah tentang Sosiologi Pengetahuan.\r\nLP3ES.\r\nBurr, V. (2015). Social constructionism. Routledge.\r\nDiaz-Leon, E. (2015). What is social construction? European Journal of Philosophy, 23(4), 1137–1152.\r\nhttps:\/\/doi.org\/10.1111\/ejop.12033\r\nGray, N. J., Corson, C., Campbell, L. M., Wilshusen, P. R., Gruby, R. L., & Hagerman, S. (2020). Doing\r\nStrong Collaborative Fieldwork in Human Geography*. Geographical Review, 110(1–2), 117–132.\r\nhttps:\/\/doi.org\/10.1111\/gere.12352\r\nHammersley, Martyn & Atkinson, P. (2019). Ethnography Principles in Practice. Routledge.\r\nHitchings, R., & Latham, A. (2020). Qualitative methods II: On the presentation of ‘geographical ethnography.\r\nProgress in Human Geography, 44(5), 972–980.\r\nHjelm, T. (2019). Rethinking the theoretical base of Peter L. Berger’s sociology of religion: Social\r\nconstruction, power, and discourse. Critical Research on Religion, 7(3), 223–236.\r\nhttps:\/\/doi.org\/10.1177\/2050303219874392\r\nJohn, D. R. (1999). Consumer socialization of children: A retrospective look at twenty-five years of research.\r\nJournal of Consumer Research, 26(3), 183–213. https:\/\/doi.org\/10.1086\/209559\r\nJumhari, & Hariadi. (2014). Identitas Kultural Orang Besemah di Kota Pagaralam.\r\nKardiyan. (2015). Setengah Abad Amalgamasi Antara Etnis Jawa dengan Etnis Tempatan di Desa Siabu\r\nKecamatan Salo Kabupaten Kampar. Jom FISIP, 2(2).\r\nKwok, A. O. J., & Koh, S. G. M. (2021). Deepfake: a social construction of technology perspective. Current\r\nIssues in Tourism, 24(13), 1798–1802. https:\/\/doi.org\/10.1080\/13683500.2020.1738357\r\nLestari, P. (2019). Urgensi Habituasi Nilai Karakter Kemandirian Dan Tanggung Jawab Peserta Didik Sekolah\r\nMenengah Keguruan. Jurnal Ilmiah Ilmu Sosial, 4(2), 114–119.\r\nhttps:\/\/doi.org\/10.23887\/jiis.v4i2.16525\r\nLusiani, N. (2015). Pudarnya Pernikahan Ngerorod pada Masyarakat Bali Desa Tri Mulyo Kabupaten\r\nLampung Tengah. Universitas Lampung.Novia Fitri Istiawati, Miranda Agustin Lestari, Sugeng Widodo \/ Jambura Geo Education Journal (2023) 4 (1) 35-48\r\nPublisher: Geography Educatio Study Program, FMIPA Universitas Negeri Gorontalo\r\nJournal Homepage: http:\/\/ejurnal.ung.ac.id\/index.php\/jgej 48\r\nMatthews, M. (2019). Agency and Social Construction: Practice of the Self in Art and Design. International\r\nJournal of Art and Design Education, 38(1), 18–33. https:\/\/doi.org\/10.1111\/jade.12186\r\nMoleong, Lexy, J. (2010). Metodologi Penelitian Kualitatif. Rosda.\r\nOndiba, H. A., & Matsui, K. (2019). Social attributes and factors influencing entrepreneurial behaviors among\r\nrural women in Kakamega County, Kenya. Journal of Global Entrepreneurship Research, 9(1).\r\nhttps:\/\/doi.org\/10.1186\/s40497-018-0123-5\r\nRefisrul, N. (2019). Fungsi Lemang dalam Upacara Perkawinan Suku Besemah di Kabupaten Kaur Provinsi\r\nBengkulu. Jurnal Penelitian Sejarah Dan Budaya, 5(2).\r\nSandu, A., & NISTOR, P. (2021). Individual versus social in psycho-sociology. The social construction of\r\nreality. Moldavian Journal for Education and Social Psychology, 4(2), 44–49.\r\nhttps:\/\/doi.org\/10.18662\/mjesp\/4.2\/21\r\nSari, P. I., M. S. dan S. K. (2021). Tradisi Dalam Perkawinan Masyarakat Desa Sukarami Pagaralam. Tanjak:\r\nSejarah Dan Peradaban Islam, 1(2).\r\nSari, P. I., Syawaludin, M., & Khudin, S. (2021). Tradisi Pantauan Bunting Dalam Perkawinan Masyarakat\r\nDesa Sukarami Pagaralam. Tanjak: Sejarah Dan Peradaban Islam, 1(2), 10–20.\r\nhttps:\/\/doi.org\/10.19109\/tanjak.v1i2.9370\r\nScott, J. (2012). Teori Sosial: Masalah Pokok dalam Sosiologi. Pustaka Pelajar.\r\nSulistiyo, A. B. (2019). Memahami Paradigma Interpretivisme, Kritisisme Dan Postmodernisme Dalam\r\nPenelitian Sosial Dan Akuntansi. File:\/\/Localhost\/h:\/Non POS\/Agung Budi Sulistiyo.Htm.\r\nfile:\/\/localhost\/h:\/non POS\/Agung Budi Sulistiyo.htm\r\nViani, D. (2019). Peran K. H Sayyid Umar Bin H. Mesagus Abdurrahman dalam Perkembangan Islam di Desa\r\nPagaruyung Kecamatan Kota Agung Kabupaten Lahat (1905-1969 M\/1322-1388 H). UIN Raden Fatah\r\nPalembang.\r\nYulistiana, T., Studi, P., Agama, S., Ushuluddin, F., Pemikiran, D. A. N., Islam, U., & Sunan, N. (2017).\r\nPerubahan Pemaknaan Tradisi Lokal Jawa Mendhem Ari-Ari ( Korelasi terhadap Tradisi Lokal Jawa\r\nMendhem Ari-ari di Perumahan Mutiara Persada Wonosobo)",
+      "title": "Keterkaitan Jarak Geografis Terhadap Eksistensi Tradisi Pantauan Bunting (Konstruksi Sosial Suku Besemah, Lahat, Indonesia)",
+      "id_number": "10.34312\/jgej.v4i1.17355",
+      "metadata_visibility": "show"
+    },
+    {
+      "status_changed": "2022-07-20 09:47:19",
+      "userid": 1000,
+      "date": "2020-07",
+      "publication": "International Journal of Research and Innovation in Social Science (IJRISS)",
+      "documents": [
+          {
+            "language": "en",
+            "main": "Jurnal 005.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165422",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mtime": "2022-07-20 06:03:24",
+                  "hash": "5100f6cb3fef3d87c511ed4b7fd1370c",
+                  "fileid": 474663,
+                  "filesize": 676628,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474663",
+                  "hash_type": "MD5",
+                  "filename": "Jurnal 005.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 165422,
+                  "datasetid": "document"
+                }
+            ],
+            "eprintid": 43483,
+            "pos": 1,
+            "mime_type": "application\/pdf",
+            "docid": 165422,
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "subjects": [
+        "B1",
+        "BL",
+        "GF"
+      ],
+      "pagerange": "469-473",
+      "title": "The Effectiveness of Multicultural- Based Social Sciences Teaching Materials for Optimizing Nationality Character of Students in Junior High School One Natar South Lampung Regency",
+      "metadata_visibility": "show",
+      "issn": "2454-6186",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43483",
+      "type": "article",
+      "volume": 4,
+      "dir": "disk0\/00\/04\/34\/83",
+      "datestamp": "2022-07-20 09:47:19",
+      "divisions": [
+        "FP1"
+      ],
+      "ispublished": "pub",
+      "abstract": "This research is motivated by the lack of nationality \r\nand multicultural values, the limited number of textbooks in \r\nschools that are only received from the government and the lack \r\nof interesting books. Then, the need for multicultural-based \r\nlearning modules that have nationality character values. The \r\nresearch aims to produce IPS multicultural based teaching \r\nmaterial products and to analyze the effectiveness of the use of \r\nmulticultural based IPS teaching materials. This research is a \r\ndevelopment research (R&D) of Borg and Gall. The module \r\nproducts are validated by learning material experts, learning \r\nmedia or design experts, linguists, social studies teachers and \r\nstudents. The effectiveness of the product is obtained by using a \r\npre-test and post-test (control group design) experimental test. \r\nThe pre test and post test results of IPS tests were analyzed using \r\nt test and normalized gain comparison. Based on the results of \r\ndata analysis and discussion, the following conclusions are \r\nobtained: 1) Learning that uses multicultural-based teaching \r\nmaterials in social studies subjects as learning resources in social \r\nstudies learning can improve student character values. 2) \r\nLearning social studies using multicultural-based social studies \r\nteaching materials for eighth grade junior high school students is \r\nmore effective than using non-development modules in schools. \r\nThe module's teaching materials are effective by being proven 1) \r\nLearning that uses multicultural-based teaching materials in \r\nsocial studies subjects as learning resources in social studies \r\nlearning can improve student character values. 2) Learning \r\nsocial studies using multicultural-based social studies teaching \r\nmaterials for eighth grade junior high school students is more \r\neffective than using non-development modules in schools. The \r\nmodule's teaching materials are effective by being proven 1) \r\nLearning that uses multicultural-based teaching materials in \r\nsocial studies subjects as learning resources in social studies \r\nlearning can improve student character values. 2) Learning \r\nsocial studies using multicultural-based social studies teaching \r\nmaterials for eighth grade junior high school students is more \r\neffective than using non-development modules in schools. The \r\nmodule's teaching materials are effective by being provent-test \r\nanalysis of pre-test and post-test data on the learning outcomes \r\nof the control class and the experimental class, it is known that \r\nthe average learning outcomes of the experimental class are \r\nbetter than the control class. From these results there is clearly a \r\ndifference between the experimental class and the control class. \r\nThus thatmulticultural-based IPS teaching materialswhich \r\nproved to be more effectively used in learning. The results of the \r\ntest indicate that there is a significant difference and increase in \r\nstudent character outcomes from the experimental and control \r\nclass",
+      "eprint_status": "archive",
+      "corp_creators": [
+        "Meri Efendi",
+        "Risma Margaretha Sinaga",
+        "Erlina Rufaida"
+      ],
+      "contributors": [
+        {
+          "id": "-",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Efendi",
+            "family": "Meri"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "-",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Risma Margaretha",
+            "given": "Sinaga",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "-",
+          "name": {
+            "family": "Erlina",
+            "given": "Rufaidah",
+            "honourific": null,
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "-",
+          "name": {
+            "family": "Meri",
+            "given": "Efendi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Risma Margaretha",
+            "given": "Sinaga",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "-"
+        },
+        {
+          "name": {
+            "given": "Rufaidah",
+            "family": "Erlina",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "-"
+        }
+      ],
+      "full_text_status": "public",
+      "official_url": "https:\/\/www.rsisinternational.org\/journals\/ijriss\/Digital-Library\/volume-4-issue-7\/469-473.pdf",
+      "publisher": "www.rsisinternational.org",
+      "rev_number": 8,
+      "refereed": "TRUE",
+      "number": 7,
+      "eprintid": 43483,
+      "lastmod": "2022-07-20 09:47:19"
+    },
+    {
+      "isbn": "978-602-5947-82-7",
+      "dir": "disk0\/00\/02\/67\/06",
+      "datestamp": "2020-11-23 07:58:00",
+      "divisions": [
+        "FKIP18"
+      ],
+      "corp_creators": [
+        "Dedi Miswar Universitas Lampung",
+        "Irma Lusi Nugraheni Universitas Lampung"
+      ],
+      "contributors": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "dedi",
+            "family": "Miswar"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "dedimiswar@yahoo.com"
+        },
+        {
+          "name": {
+            "family": "Nugraheni",
+            "given": "Irma Lusi",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "irmalusi42@gmail.com"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": null,
+            "family": null,
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": null,
+            "family": null
+          },
+          "id": null
+        }
+      ],
+      "ispublished": "pub",
+      "abstract": "The environmental crisis being faced by people is essentiallythe impact of human behavior itself.Through a process of education, ecological values that aretaught by religion can be internalized to students. The main environmentaleducation starts from the family and more emphasis on informalprocesses. Interaction which is informal and emphasize the substancewill facilitate the establishment of ecological character for learners.",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "refereed": "TRUE",
+      "eprintid": 26706,
+      "lastmod": "2020-11-23 07:58:00",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Miswar",
+            "given": "Dedi"
+          },
+          "id": "dedimiswar@yahoo.com"
+        },
+        {
+          "id": "irmalusi42@gmail.com",
+          "name": {
+            "family": "Nugraheni",
+            "given": "Irma Lusi",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "full_text_status": "public",
+      "publisher": "PUSAKA MEDIA",
+      "rev_number": 7,
+      "status_changed": "2020-11-23 07:58:00",
+      "userid": 264,
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "image",
+            "docid": 40680,
+            "mime_type": "image\/jpeg",
+            "pos": 1,
+            "eprintid": 26706,
+            "files": [
+                {
+                  "filesize": 40383,
+                  "fileid": 239979,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/239979",
+                  "hash": "9467b600a1ee47328072cdfddf70842f",
+                  "mtime": "2020-11-23 07:44:42",
+                  "objectid": 40680,
+                  "datasetid": "document",
+                  "filename": "EKOLOGI PENDIDIKAN(ANGGOTA.2ORANG)BOOK.jpeg",
+                  "hash_type": "MD5",
+                  "mime_type": "image\/jpeg"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40680",
+            "main": "EKOLOGI PENDIDIKAN(ANGGOTA.2ORANG)BOOK.jpeg",
+            "language": "en"
+          }
+      ],
+      "date": "2019-08-04",
+      "place_of_pub": "LAMPUNG",
+      "related_url": [
+        {
+          "type": "pub"
+        }
+      ],
+      "editors": [
+        {
+          "id": "dedimiswar@yahoo.com",
+          "name": {
+            "given": "Dedi",
+            "family": "Miswar",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "irmalusi42@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nugraheni",
+            "given": "Irma Lusi"
+          }
+        }
+      ],
+      "title": "EKOLOGI PENDIDIKAN",
+      "metadata_visibility": "show",
+      "subjects": [
+        "GF"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26706",
+      "type": "book"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6913",
+      "type": "book",
+      "metadata_visibility": "show",
+      "title": "PROFIL KEPENDUDUKAN DAN PEMBANGUNAN LAMPUNG",
+      "subjects": [
+        "G1",
+        "GF",
+        "GN",
+        "H1",
+        "HN"
+      ],
+      "documents": [
+          {
+            "main": "Buku Profil Kependudukan dan Pembangunan Lampung.pdf",
+            "language": "en",
+            "eprintid": 6913,
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 19886,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Buku Profil Kependudukan dan Pembangunan Lampung.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/63412",
+                  "fileid": 63412,
+                  "filesize": 464978,
+                  "mtime": "2018-05-20 06:53:41",
+                  "hash": "8f45c663a507b64922c7c50bb2a41e55"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19886",
+            "docid": 19886,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "format": "text"
+          }
+      ],
+      "place_of_pub": "Yogyakarta",
+      "date": 2017,
+      "pages": 106,
+      "userid": 980,
+      "status_changed": "2018-05-28 03:59:13",
+      "eprintid": 6913,
+      "lastmod": "2018-05-28 03:59:13",
+      "refereed": "TRUE",
+      "rev_number": 11,
+      "publisher": "Mobius",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "trisna_unila@yahoo.co.id",
+          "name": {
+            "family": "Trisnaningsih",
+            "given": "Trisna",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Yarmaidi",
+            "family": "Yarmaidi"
+          },
+          "id": "yarmaidi@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Buchori",
+            "family": "Buchori asyik",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "buchoriasyik@yahoo.co.id"
+        }
+      ],
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Pembangunan berkelanjutan merupakan suatu proses pembangunan yang mengoptimalkan manfaat sumber daya alam dan sumber daya manusia secara berkelanjutan. Dengan cara menyerasikan aktivitas manusia sesuai dengan kemampuan sumber daya alam yang menopangnya dalam suatu ruang wilayah daratan, lautan, dan udara sebagai satu kesatuan.",
+      "isbn": "978-602-50698-3-3 E-ISBN : 978-602-50698-4-0",
+      "divisions": [
+        "FKIP18"
+      ],
+      "datestamp": "2018-05-28 03:59:13",
+      "dir": "disk0\/00\/00\/69\/13"
+    },
+    {
+      "metadata_visibility": "show",
+      "related_url": [
+        {
+          "type": "org",
+          "url": "http:\/\/www.indianjournals.com\/ijor.aspx?target=ijor:ijphrd&volume=10&issue=3&article=133"
+        }
+      ],
+      "title": "Housing Condition as Tuberculosis Infection Risk Factor",
+      "pagerange": "659-662",
+      "subjects": [
+        "GF",
+        "RA0421",
+        "TH"
+      ],
+      "volume": 10,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11666",
+      "issn": "0976-5506",
+      "userid": 1010,
+      "status_changed": "2019-05-06 06:39:03",
+      "funders": [
+        "Kemenristekdikti"
+      ],
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 24658,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "filename": "Repository IJPHRD (EPW Housing Condition).pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 24658,
+                  "datasetid": "document",
+                  "mtime": "2019-05-05 04:14:25",
+                  "hash": "d1622545fef4f60e6bc61ac48fed69bc",
+                  "fileid": 105470,
+                  "filesize": 263220,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/105470"
+                }
+            ],
+            "eprintid": 11666,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24658",
+            "rev_number": 1,
+            "main": "Repository IJPHRD (EPW Housing Condition).pdf",
+            "language": "en"
+          }
+      ],
+      "publication": "Indian Journal of Public Health Research & Development,",
+      "date": 2019,
+      "lastmod": "2019-05-06 06:39:03",
+      "eprintid": 11666,
+      "refereed": "TRUE",
+      "number": 3,
+      "publisher": "Institute of Medico Legal Association",
+      "official_url": "http:\/\/www.ijphrd.com\/",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Dyah Wulan",
+            "family": "Wardani"
+          },
+          "id": "dyah.wulan@fk.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Wahono",
+            "given": "Endro Prasetyo",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "epwahono@eng.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FT2"
+      ],
+      "dir": "disk0\/00\/01\/16\/66",
+      "datestamp": "2019-05-06 06:39:03",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Indonesia is a country with the third tuberculosis (TB) incidence in the world. Bandar Lampung is one of the cities in Indonesia with a high TB incidence. TB incidence in the city increased about 80% during four years period (2,056 cases in 2016 compared to 1,195 cases in 2012). Bandar Lampung is located in the fifth poorest province in Indonesia, which closely related to poor housing condition. This study aimed to identify significant influence of housing condition, which consisted of variables: ventilation, in-house sunlight, in-house smoking pollution and in-house TB contact; to TB infection. A case control study was used to study the influence of related variables. Case sample group consisted of 31 smear-positive TB patients; meanwhile control sample group consisted of 62 patients without TB. Both sample groups were obtained from Sukaraja and Panjang Community Health Service which have performing Directly Observed Treatment Shortcourse and have highest TB incidence in Bandar Lampung. Data were collected by using structured interview questions and observation; and was then analyzed using bivariate Chi square analysis. Less ventilation (odds ratio\/OR: 4.747; 95 % confidence interval\/CI: 1.875–12.022), no in-house sunlight (OR: 5.219; 95 % CI: 2.040–13.355), existence of in-house smoking pollution (OR: 3.067; 95 % CI: 1.240–7.584) as well as existence of in-house TB contact (OR: 10.688; 95 % CI: 3.792–30.121) are TB infection risk factors. In conclusion, TB control program should be highlighted the concerned variables in order to accelerate TB incidence reduction, especially in countries with poor housing conditions."
+    },
+    {
+      "number": 3,
+      "creators": [
+        {
+          "name": {
+            "given": "Dyah Wulan",
+            "family": "Wardani",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "dyah.wulan@fk.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Endro Prasetyo",
+            "family": "Wahono"
+          },
+          "id": "epwahono@eng.unila.ac.id"
+        }
+      ],
+      "publisher": "Official Publication of Indian Association of Preventive and Social Medicne",
+      "dir": "disk0\/00\/01\/16\/63",
+      "divisions": [
+        "FT2"
+      ],
+      "title": "Prediction Model of Tuberculosis Transmission Based on Its Risk Factors and Socioeconomic Position in Indonesia",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC6166512\/"
+        }
+      ],
+      "metadata_visibility": "show",
+      "id_number": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30294089",
+      "funders": [
+        "Kemenristekdikti"
+      ],
+      "publication": "Indian Journal of Community Medicine",
+      "date_type": "published",
+      "refereed": "TRUE",
+      "eprintid": 11663,
+      "lastmod": "2019-05-06 06:38:58",
+      "full_text_status": "public",
+      "official_url": "http:\/\/www.ijcm.org.in\/",
+      "rev_number": 9,
+      "datestamp": "2019-05-06 06:38:58",
+      "ispublished": "pub",
+      "abstract": "Context:\r\n The current evidence shows that people in low socioeconomic positions tend to be at high risk for TB transmission.\r\n Aims:\r\n To identify the significance of socioeconomic position and TB risk factors to TB transmission, particularly in Bandar Lampung, Indonesia.\r\n Settings and Design:\r\n This cross-sectional study, conducting in January – November 2017, included 166 samples of smear-positive TB patients collected from 30 primary health centres across the city that had implemented DOTS strategy.\r\n Methods and Material:\r\n The latent variables consisted of: socioeconomic position, housing, nutritional, healthcare access, and TB transmission, which was measured through corresponding indicators. The data was collected through in-depth interviews. \r\n Statistical analysis used:\r\n Data analyzed using Partial least square method.\r\n Results:\r\n Determinants of socioeconomic position through housing determinants significantly influence TB transmission with R2 of 42.3%. They also show that education, housing density index, and internal house transmission are the strongest indicators in explaining their associated latent variables.\r\n Conclusions:\r\n Tuberculosis control program should be integrated with education improvement, a reduction of housing density index, and strengthened examinations of internal house contacts. These programs should be supported by health institutions and other related institutions. The findings will improve TB control programs, especially in low and middle income countries with high socioeconomic disparity.",
+      "eprint_status": "archive",
+      "subjects": [
+        "GE",
+        "GF",
+        "HT",
+        "RA"
+      ],
+      "pagerange": "204-208",
+      "volume": 43,
+      "issn": "0970-0218",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11663",
+      "status_changed": "2019-05-06 06:38:58",
+      "userid": 1010,
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "docid": 24656,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24656",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mtime": "2019-05-05 03:26:19",
+                  "hash": "95d413d734f2d0667d9931ed6078d78a",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/105451",
+                  "filesize": 209530,
+                  "fileid": 105451,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Repository IJCM July 19(EPW Prediction Model).pdf",
+                  "datasetid": "document",
+                  "objectid": 24656
+                }
+            ],
+            "pos": 1,
+            "eprintid": 11663,
+            "language": "en",
+            "main": "Repository IJCM July 19(EPW Prediction Model).pdf"
+          }
+      ],
+      "date": "2018-07"
+    },
+    {
+      "subjects": [
+        "GE",
+        "GF",
+        "RA0421"
+      ],
+      "pagerange": "53-57",
+      "issn": "0970-0218",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11664",
+      "type": "article",
+      "volume": 44,
+      "status_changed": "2019-05-06 06:39:01",
+      "userid": 1010,
+      "date": "2019-03-12",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 24657,
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "Repository IJCM jan 19 (EPW Sputum Conversion).pdf",
+            "language": "en",
+            "files": [
+                {
+                  "fileid": 105460,
+                  "filesize": 187838,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/105460",
+                  "mtime": "2019-05-05 03:57:47",
+                  "hash": "8b6cae0006bef5d29e8957ef4f9aabb5",
+                  "objectid": 24657,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "Repository IJCM jan 19 (EPW Sputum Conversion).pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 11664,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24657",
+            "rev_number": 1
+          }
+      ],
+      "date_type": "published",
+      "rev_number": 8,
+      "official_url": "http:\/\/www.ijcm.org.in\/",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2019-05-06 06:39:01",
+      "eprintid": 11664,
+      "datestamp": "2019-05-06 06:39:01",
+      "abstract": "ontext:\r\n Sputum conversion in the first two months of tuberculosis (TB) treatment is closely related to successful treatment and a decrease in the likelihood of relapse. In 2015, there were 76% high TB burden countries with low rate of TB successful treatment.\r\n Aims:\r\n To evaluate the correlation between delayed sputum conversion and several determinants including: social determinants, smoking, malnutrition and type II diabetes (DM).\r\n Settings and Design:\r\n A case control approach was used to study the potential determinants. A Case sample group consisted of smear positive TB patients with delayed sputum conversion (31 patients) at community health centres in Bandar Lampung, Indonesia. Meanwhile, a control sample group consisted of smear positive TB patients with sputum conversion (62 patients).\r\n Methods and Material:\r\n Primary data consisted of social determinants and smoking, were collected through in-depth interviews. Meanwhile, secondary data, consisted of malnutrition, DM and sputum conversion were obtained from medical record.\r\n Statistical analysis used:\r\n Data was analyzed using chi square and multivariate logistic regression.\r\n Results:\r\n Low education (odds ratio\/ OR: 5.313; 95% (confidence interval\/ CI: 1.711–16.503), low social class (OR: 4.993; 95% CI: 1.430–17.430), smoking (OR: 7.457; 95% CI: 1.757–31.640) and DM (OR: 7.168; 95% CI: 1.746–29.431) influenced delayed sputum conversion.\r\n Conclusions:\r\n TB control programs in high TB burden countries with low rate of TB successful treatment; should be integrate TB treatment education, smoking cessation programs and follow-up treatments for TB patients with DM to improve the probability of sputum conversion and successful treatment.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "title": "Predominant Determinants of Delayed Tuberculosis Sputum Conversion in Indonesia.",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/www.ijcm.org.in\/article.asp?issn=0970-0218;year=2019;volume=44;issue=1;spage=53;epage=57;aulast=Wardani"
+        }
+      ],
+      "id_number": "DOI: 10.4103\/ijcm.IJCM_319_18",
+      "metadata_visibility": "show",
+      "funders": [
+        "Kemenristekdikti"
+      ],
+      "publication": "Indian Journal of Community Medicine",
+      "creators": [
+        {
+          "id": "dyah.wulan@fk.unila.ac.id",
+          "name": {
+            "family": "Wardani",
+            "given": "Dyah Wulan",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "epwahono@eng.unila.ac.id",
+          "name": {
+            "family": "Wahono",
+            "given": "Endro Prasetyo",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "publisher": "Official Publication of Indian Association of Preventive and Social Medicne",
+      "number": 1,
+      "dir": "disk0\/00\/01\/16\/64",
+      "divisions": [
+        "FT2"
+      ]
+    },
+    {
+      "contact_email": "arizka.warganegara@fisip.unila.ac.id",
+      "eprintid": 49591,
+      "lastmod": "2023-04-04 00:55:57",
+      "creators": [
+        {
+          "id": "arizka.warganegara@fisip.unila.ac.id",
+          "name": {
+            "family": "Warganegara",
+            "given": "Arizka",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Paul",
+            "family": "Waley"
+          },
+          "id": "P.T.Waley@leeds.ac.uk"
+        }
+      ],
+      "rev_number": 10,
+      "publisher": "Taylor and Francis",
+      "full_text_status": "public",
+      "date_type": "published",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "datestamp": "2023-04-04 00:55:57",
+      "dir": "disk0_bak\/00\/04\/95\/91",
+      "divisions": [
+        "FISIP3"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49591",
+      "type": "other",
+      "title": "Similarity Asian Ethnicity- The Political Legacies of Transmigration and the Dynamics of Ethnic Politics: a case study from Lampung, Indonesia",
+      "metadata_visibility": "show",
+      "subjects": [
+        "G1",
+        "GF",
+        "JA"
+      ],
+      "documents": [
+          {
+            "main": "Similarity_The political legacies of transmigration and the dynamics of ethnic politics a case study from Lampu.pdf",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 49591,
+            "files": [
+                {
+                  "filesize": 3021654,
+                  "fileid": 537757,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/537757",
+                  "mtime": "2023-04-03 14:29:59",
+                  "hash": "662df5f206618ea18342f7fbe8c88da8",
+                  "objectid": 189224,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "Similarity_The political legacies of transmigration and the dynamics of ethnic politics a case study from Lampu.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189224",
+            "docid": 189224,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "format": "text"
+          }
+      ],
+      "status_changed": "2023-04-04 00:55:57",
+      "userid": 570
+    },
+    {
+      "publication": "The political legacies of transmigration and the dynamics of ethnic politics: a case study from Lampung, Indonesia",
+      "referencetext": "Allen, Nathan W. “Clientelism and the Personal Vote in Indonesia.” Electoral Studies 37 (3\/\/ 2015): 73-85.\r\nAnanta, Aris, Evi Nurvidya Arifin, M Sairi Hasbullah, Nur Budi Handayani, and Agus Pramono. Demography of Indonesia's Ethnicity. Institute of Southeast Asian Studies, 2015.\r\nAspinall, E. “Democratization and Ethnic Politics in Indonesia: Nine Theses.” East Asian Studies, no. 11 (2011): 289-319.\r\nAspinall, Edward, and Muhammad Uhaib As’ ad. “Understanding Family Politics: Successes and Failures of Political Dynasties in Regional Indonesia.” South East Asia Research 24, no. 3 (2016): 420-35.\r\nAspinall, Edward, Sebastian Dettman, and Eve Warburton. “When Religion Trumps Ethnicity: A Regional Election Case Study from Indonesia.” South East Asia Research 19, no. 1 (Mar 2011): 27-58.\r\nAspinall, Edward, and Noor Rohman. “Village Head Elections in Java: Money Politics and Brokerage in the Remaking of Indonesia's Rural Elite.” Journal of Southeast Asian Studies 48, no. 1 (2017): 31-52.\r\nAspinall, Edward, and Mada Sukmajati. Electoral Dynamics in Indonesia: Money Politics, Patronage and Clientelism at the Grassroots. NUS Press, 2016.\r\nBlunt, Peter, Mark Turner, and Henrik Lindroth. “Patronage, Service Delivery, and Social Justice in Indonesia.” International Journal of Public Administration 35, no. 3 (2012): 214-20.\r\nBrown, Graham K, and Rachael Diprose. Bare-Chested Politics in Central Sulawesi, Indonesia: The Dynamics of Local Elections in A'post'-Conflict Region. Centre for Research on Inequality, Human Security and Ethnicity, 2007.\r\nBuehler, Michael, and Paige Tan. “Party-Candidate Relationships in Indonesian Local Politics: A Case Study of the 2005 Regional Elections in Gowa, South Sulawesi Province.” Indonesia  (2007): 41-69.\r\nCentral Statistical Bureau of Indonesia. “Indeks Komponen IPM (Indeks Pembangunan Manusia) Kota Metro Tahun 2010-2016.” BPS, https:\/\/data.metrokota.go.id\/2017\/07\/03\/indeks-pembangunan-manusia-di-kota-metro-tahun-2011-2016\/.\r\nCentral Statistical Bureau of Indonesia. Jumlah Penduduk Provinsi Lampung Menurut Kabupaten Kota 2015.  Lampung: Badan Pusat Statistik, 2015.\r\nCentral Statistical Bureau of Indonesia. Penduduk Provinsi Lampung Hasil Sensus Penduduk 2010. BPS Provinsi Lampung 2013.\r\nCentral Statistical Bureau of Indonesia. “Persentase Penduduk Miskin Menurut Kabupaten\/Kota 2005-2019.” Badan Pusat Statistik https:\/\/lampung.bps.go.id\/dynamictable\/2016\/10\/19\/40\/-dinamis-persentase-penduduk-miskin-menurut-kabupaten-kota-2005---2016.html.\r\nCentral Statistical Bureau of Indonesia. “Tabel Indeks Pembangunan Manusia.” BPS, https:\/\/ipm.bps.go.id\/data\/kabkot\/metode\/baru\/1804.\r\nChandra, Kanchan. Constructivist Theories of Ethnic Politics. Oxford University Press, 2012.\r\nChoi, N. “Local Elections and Democracy in Indonesia: The Riau Archipelago.” Journal of Contemporary Asia 37, no. 3 (Aug 2007): 326-45.\r\nCôté, Isabelle. “Internal Migration and the Politics of Place: A Comparative Analysis of China and Indonesia.” Asian Ethnicity 15, no. 1 (2014): 111-29.\r\nCôté, Isabelle, and Matthew I Mitchell. “Elections and 'Sons of the Soil' Conflict Dynamics in Africa and Asia.” Democratization 23, no. 4 (2016): 657-77.\r\nDavidson, Jamie, and David Henley. The Revival of Tradition in Indonesian Politics: The Deployment of Adat from Colonialism to Indigenism. Routledge, 2007.\r\nDettman, Sebastian, Thomas Pepinsky, and Jan Pierskalla. “Incumbency Advantage and Candidate Characteristics in Open-List Proportional Representation Systems: Evidence from Indonesia.” Electoral Studies 48 (2017).\r\nElmhirst, Rebecca. “Space, Identity Politics and Resource Control in Indonesia's Transmigration Programme.” Political Geography 18, no. 7 (Sep 1999): 813-35.\r\nGoebel, Zane. “The Idea of Ethnicity in Indonesia.” Tilburg Papers in Culture Studies, Working Paper Number 72 (2013).\r\nHefner, Robert W. Civil Islam: Muslims and Democratization in Indonesia. Princeton University Press, 2000.\r\nHorowitz, Donald. “Ethnic Power Sharing: Three Big Problems.” Journal of Democracy 25, no. 2 (2014): 5-20.\r\nHuber, John D. “Measuring Ethnic Voting: Do Proportional Electoral Laws Politicize Ethnicity?” American Journal of Political Science 56, no. 4 (2012): 986-1001.\r\nKristianus, Mr. “Politik Dan Strategi Budaya Etnik Dalam Pilkada Serentak Di Kalimantan Barat.” Jurnal Politik Indonesia 1, no. 1 (2016).\r\nLevang, P. Ayo Ke Tanah Sabrang: Transmigrasi Di Indonesia [in INDONESIA].  Jakarta: Kepustakaan Populer Gramedia 2003.\r\nPeluso, Nancy Lee, and Emily Harwell. “Territory, Custom, and the Cultural Politics of Ethnic War in West Kalimantan, Indonesia.” Violent environments  (2001): 83-116.\r\nSidel, John. “Bossism and Democracy in the Philippines, Thailand, and Indonesia: Towards an Alternative Framework for the Study of 'local Strongmen'.” In Politicisng Democracy, 51-74: Springer, 2005.\r\nSjaf, Sofyan. Politik Etnik: Dinamika Lokal Di Kendari. Yayasan Pustaka Obor Indonesia, 2014.\r\nSub-National Level Development Planning East Lampung District in Figure.  Sukadana: Bappeda Lampung Timur, 2014.\r\nTajima, Yuhki. “Mobilizing for Violence: The Escalation and Limitation of Identity Conflicts (the Case of Lampung, Indonesia).” Jakarta: World Bank 2004.\r\nTanasaldy, Taufiq. “Ethnic Identity Politics in West Kalimantan.” In Renegotiating Boundaries, 349-71: Brill, 2007.\r\nTanasaldy, Taufiq. Regime Change and Ethnic Politics in Indonesia: Dayak Politics of West Kalimantan.  Vol. 278: Brill, 2012.\r\nTirtosudarmo, Riwanto. “The Javanese in Lampung, Stranger or Locals? With the Reference of Chinese Experience.” Jurnal Kajian Wilayah 6, no. 2 (2016): 161-72.\r\nTomsa, Dirk. Party Politics and Democratization in Indonesia: Golkar in the Post-Suharto Era. Routledge, 2008.\r\nVan Klinken, Gerry. Communal Violence and Democratization in Indonesia: Small Town Wars.  Vol. 6: Routledge, 2007.\r\nVan Klinken. “The Limits of Ethnic Clientelism in Indonesia.” Review of Indonesian and Malaysian Affairs (RIMA) 42, no. 2 (2008): 35-65.",
+      "keywords": "local elections; ethnicity; transmigration; Indonesia; political elites",
+      "title": "The political legacies of transmigration and the dynamics of ethnic politics: a case study from Lampung, Indonesia",
+      "related_url": [
+        {
+          "url": "https:\/\/www.tandfonline.com\/doi\/full\/10.1080\/14631369.2021.1889356?src=recsys"
+        }
+      ],
+      "id_number": "https:\/\/doi.org\/10.1080\/14631369.2021.1889356",
+      "metadata_visibility": "show",
+      "dir": "disk0_bak\/00\/04\/80\/20",
+      "divisions": [
+        "FISIP6"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Arizka",
+            "family": "Warganegara",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "arizka.warganegara@fisip.unila.ac.id"
+        },
+        {
+          "id": "P.T.Waley@leeds.ac.uk",
+          "name": {
+            "family": "Waley",
+            "given": "Paul",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publisher": "Routledge",
+      "note": "xxxx",
+      "number": 4,
+      "date": "2021-02-16",
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "docid": 187185,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187185",
+            "rev_number": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "filename": "Pengesahan dan Paper Asian Ethnicity.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 187185,
+                  "datasetid": "document",
+                  "mtime": "2023-01-25 11:42:50",
+                  "hash": "d2bb2fb16652bf729ec82c5603b4bd9f",
+                  "fileid": 525138,
+                  "filesize": 4104790,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/525138"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 48020,
+            "language": "en",
+            "main": "Pengesahan dan Paper Asian Ethnicity.pdf"
+          }
+      ],
+      "status_changed": "2023-01-26 01:38:24",
+      "userid": 570,
+      "issn": 14631369,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48020",
+      "volume": 23,
+      "subjects": [
+        "G1",
+        "GF",
+        "H1",
+        "JA",
+        "JF",
+        "JS"
+      ],
+      "pagerange": "676-696",
+      "ispublished": "pub",
+      "abstract": "This paper discusses the political legacies of transmigration in local elections in Indonesia. Lampung province has an unusual ethnic make-up because in the past 100 years both the Dutch colonial administration and Indonesian Government have been implementing a transmigration programme. Transmigration has therefore changed the demographic pattern of Lampung. Since 2005, the mode of local election has been changed from indirect to direct. As a consequence of this, there is a revival of ethnic identity politics in local elections. In this paper, we focus on a transmigration affected area where the descendants of Javanese transmigrants are numerically dominant and correspondingly powerful in local politics. This research leads us to argue that ethnicity has become an important factor in local elections and that in transmigration affected areas it has led to the political domination of Javanese transmigrant descendants in local politics. We further to show how, in response to this, native Lampungese elites have adopted a number of strategies to help them retain a role in local politics. Our argument runs contrary to that of some scholars who have claimed that ethnicity is playing a diminishing role in Indonesian local elections.",
+      "eprint_status": "archive",
+      "datestamp": "2023-01-26 01:38:24",
+      "full_text_status": "public",
+      "official_url": "https:\/\/www.tandfonline.com\/doi\/full\/10.1080\/14631369.2021.1889356?src=recsys",
+      "rev_number": 11,
+      "refereed": "TRUE",
+      "eprintid": 48020,
+      "contact_email": "arizka.warganegara@fisip.unila.ac.id",
+      "lastmod": "2023-01-26 01:38:24",
+      "date_type": "published"
+    },
+    {
+      "date": "2021-04",
+      "publication": "Journal of Tropical Marine Science",
+      "documents": [
+          {
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/136661",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "2078-Article Text-6590-1-10-20210505.pdf",
+                  "datasetid": "document",
+                  "objectid": 136661,
+                  "mtime": "2021-05-21 06:18:44",
+                  "hash": "05bd12599b760fbf79586af1b5dc23c6",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/360210",
+                  "fileid": 360210,
+                  "filesize": 341868
+                }
+            ],
+            "eprintid": 30390,
+            "pos": 1,
+            "language": "en",
+            "main": "2078-Article Text-6590-1-10-20210505.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "docid": 136661
+          }
+      ],
+      "status_changed": "2021-05-21 07:05:57",
+      "userid": 623,
+      "issn": "2623-2235",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30390",
+      "type": "article",
+      "volume": 4,
+      "pagerange": "40-48",
+      "subjects": [
+        "GC",
+        "GE",
+        "GF",
+        "GN",
+        "SD"
+      ],
+      "title": "PERSEPSI MASYARAKAT PESISIR KOTA BANDAR LAMPUNG TERHADAP HUTAN MANGROVE",
+      "metadata_visibility": "show",
+      "abstract": "Persepsi masyarakat di wilayah pesisir perkotaan terhadap ekosistem mangrove menjadi faktor penting dalam perencanaan strategi keberlanjutannya. Penelitian ini bertujuan untuk menjelaskan persepsi masyarakat terhadap hutan mangrove di Kelurahan Kota Karang, Kota Bandar Lampung. Pengumpulan data dilakukan dengan wawancara menggunakan kuisioner dan observasi. Data yang terkumpul dianalisis menggunakan Skala Likert dan selanjutnya dideskripsikan secara kuantitatif. Hasil penelitian menunjukkan bahwa 50 % persepsi masyarakat terhadap mangrove masuk ke dalam kategori sedang (netral). Kondisi ini terjadi akibat masyarakat cenderung ragu dalam menentukan sikap terhadap hutan mangrove. Faktor yang mempengaruhi persepsi masyarakat tersebut yaitu rendahnya pengetahuan, jenjang pendidikan, kesadaran dan ketersediaan waktu masyarakat, serta minimnya informasi mengenai hutan mangrove akibat belum optimalnya peran pemerintah dalam memberikan edukasi (penyuluhan). Pemerintah diharapkan dapat memberikan edukasi dan membuat kebijakan untuk meningkatkan kesadaran masyarakat akan pentingnya kelestarian hutan mangrove.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/03\/03\/90",
+      "datestamp": "2021-05-21 07:05:57",
+      "divisions": [
+        "FP5"
+      ],
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": "permata",
+            "given": "chantika osfindra",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "ndaruforest57@gmail.com",
+          "name": {
+            "family": "Iswandaru",
+            "given": "Dian",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Indra Gumay",
+            "family": "Febryano",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "indragumay@yahoo.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hilmanto",
+            "given": "Rudi"
+          },
+          "id": "rudi.hilmanto@fp.unila.ac.id"
+        }
+      ],
+      "publisher": "Fakultas Pertanian Perikanan dan Biologi, Universitas Bangka Belitung",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "succeeds": 30385,
+      "refereed": "TRUE",
+      "number": 1,
+      "lastmod": "2021-05-21 07:05:57",
+      "eprintid": 30390,
+      "date_type": "published"
+    }
+]
+

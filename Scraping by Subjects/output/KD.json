@@ -1,0 +1,763 @@
+[
+    {
+      "userid": 278,
+      "status_changed": "2021-10-11 00:57:51",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/154964",
+            "rev_number": 1,
+            "eprintid": 34447,
+            "pos": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "filename": "IMPLEMENTASI PERATURAN DAERAH KABUPATEN LAMPUNG BARAT NOMOR 3 TAHUN 2018.docx",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "objectid": 154964,
+                  "datasetid": "document",
+                  "mtime": "2021-10-09 01:42:38",
+                  "hash": "6d55bce5eeb8560e42445d107889e9d4",
+                  "filesize": 46906,
+                  "fileid": 405360,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/405360"
+                }
+            ],
+            "language": "en",
+            "main": "IMPLEMENTASI PERATURAN DAERAH KABUPATEN LAMPUNG BARAT NOMOR 3 TAHUN 2018.docx",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "docid": 154964,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          }
+      ],
+      "publication": "SAKAI SAMBAYAN",
+      "metadata_visibility": "show",
+      "title": "IMPLEMENTASI PERATURAN DAERAH KABUPATEN LAMPUNG BARAT NOMOR 3 TAHUN 2018 TENTANG KABUPATEN LAYAK ANAK",
+      "subjects": [
+        "K1",
+        "KD"
+      ],
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34447",
+      "issn": "e-ISSN 2550-1089",
+      "divisions": [
+        "FH3"
+      ],
+      "datestamp": "2021-10-11 00:57:51",
+      "dir": "disk0\/00\/03\/44\/47",
+      "eprint_status": "archive",
+      "abstract": "Kabupaten layak anak adalah Kabupaten yang memiliki sistem pembangunan dan pelayanan publik dari pemerintah Kabupaten dengan dukungan dari orang tua, keluarga, masyarakat, swasta dan forum anak guna pemenuhan hak anak melalui pengintegrasian berkelanjutan melalui kebijakan, program, kegiatan dan penganggaran untuk kesejahteraan anak. Maka atas dasar tersebut dan dalam rangka penyadaran semua pihak akan hak-hak anak serta pembangunan yang responsif maka Pemerintah Kabupaten Lampung Barat menetapkan perda Nomor 3 tahun 2018 tentang kabupaten layak anak yang bertujuan sebagai acuan dalam pelaksanaan pemenuhan hak-hak anak. Permasalahan anak di daerah menjadi perhatian tersendiri mengingat saat ini berkembang berbagai perlakuan tak layak terhadap anak seperti kekerasan, penyakit Stunting, kenakalan anak, Eksploitasi anak, pekerja anak dan kondisi traumatis terhadap anak",
+      "ispublished": "submitted",
+      "eprintid": 34447,
+      "lastmod": "2021-10-11 00:57:51",
+      "refereed": "TRUE",
+      "publisher": "Lembaga Penelitian dan Pengabdian Kepada Masyarakat",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Yuniati",
+            "family": "Ati"
+          },
+          "id": "atiyuniati78@gmail.com"
+        },
+        {
+          "name": {
+            "family": "Andika",
+            "given": "Saputra",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "andikasaputrafh@gmail.com"
+        }
+      ]
+    },
+    {
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0_bak\/00\/05\/20\/12",
+      "datestamp": "2023-05-25 08:55:31",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "eprint_status": "archive",
+      "abstract": "Buku Kebijakan Penanaman Modal Menurut Undang- Undang\r\nNo. 25 Tahun 2007",
+      "ispublished": "pub",
+      "date_type": "published",
+      "lastmod": "2023-05-25 08:55:31",
+      "eprintid": 52012,
+      "publisher": "Lembaga Penelitian dan Pengabdian Kepada Masyarakat Unila",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "iwiranata@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "gede",
+            "family": "I Gede AB Wiranata"
+          }
+        }
+      ],
+      "userid": 1057,
+      "status_changed": "2023-05-25 08:55:31",
+      "documents": [
+          {
+            "language": "en",
+            "main": "up load kebijakan hpm.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251647",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mtime": "2023-05-25 04:57:50",
+                  "hash": "39270b274bad68d9c120e90be8759481",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/616278",
+                  "filesize": 651391,
+                  "fileid": 616278,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "up load kebijakan hpm.pdf",
+                  "datasetid": "document",
+                  "objectid": 251647
+                }
+            ],
+            "pos": 1,
+            "eprintid": 52012,
+            "mime_type": "application\/pdf",
+            "docid": 251647,
+            "format": "text",
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "date": "2018-08-24",
+      "metadata_visibility": "show",
+      "title": "SURAT PENCATATAN CIPTAAN EC00201824987",
+      "subjects": [
+        "K1",
+        "KD"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52012"
+    },
+    {
+      "title": "SKETSA HUKUM DAERAH DALAM MEWUJUDKAN KABUPATEN\/KOTA RAMAH HAM",
+      "metadata_visibility": "show",
+      "subjects": [
+        "K1",
+        "KD"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51499",
+      "type": "other",
+      "status_changed": "2023-05-12 09:29:17",
+      "userid": 101,
+      "lastmod": "2023-05-12 09:29:17",
+      "eprintid": 51499,
+      "creators": [
+        {
+          "name": {
+            "given": "Riananda",
+            "family": "Martha",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Candra",
+            "family": "Candra Perbawati"
+          },
+          "id": "perbawaticandra@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Malicia",
+            "family": "Evendia"
+          },
+          "id": null
+        }
+      ],
+      "publisher": "LAPORAN PENELITIAN",
+      "rev_number": 7,
+      "full_text_status": "none",
+      "dir": "disk0_bak\/00\/05\/14\/99",
+      "datestamp": "2023-05-12 09:29:17",
+      "ispublished": "unpub",
+      "eprint_status": "archive"
+    },
+    {
+      "rev_number": 8,
+      "official_url": "http:\/\/jurnal.fh.unila.ac.id\/",
+      "publisher": "Fakultas Hukum Universitas Lampung",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "family": "Natamiharja",
+            "given": "Rudi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "rudi.natamiharja@fh.unila.ac.id"
+        }
+      ],
+      "lastmod": "2018-11-03 09:23:34",
+      "eprintid": 9353,
+      "refereed": "TRUE",
+      "number": 3,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "The rights to privacy as an individual fundamental right should be protected. Ironically, this right is deliberately delivered publicly in social media. And Facebook, the largest social media, keep more than 2.2 billion privacies data in the whole world. In early April 2018, one million personal data of Indonesian Facebook users was stolen by other parties. Mark Zuckerberg, as a founder and CEO, acknowledged that the Facebook data consisting of customer personal data had been stolen and used by other parties. This is one of the weaknesses and negligence of Facebook that needs to be addressed in future. Indonesia government issued warning letter to Facebook and required formal explanation concerning those recent cases. However, the Government's seriousness on the protection of personal data of its citizens is still questioned. How Indonesian regulations cover private data protection on their citizen and what steps should be taken to protect personal data in Indonesia? By using International instrument and Indonesia legal instruments on protection of privacy right, this article would give the answer what government Indonesian should do to undertake this situation. The research found that the regulation of privacy protection is sufficient yet the government has no determination to take account seriously on protecting the privacy right and no sanction to the parties were involved. Socialization on the importance of personal data toward Indonesian society in Indonesia should be done, from the basic to the top level.\r\nKey word: right privacy, international law, fundamental rights",
+      "divisions": [
+        "FH3"
+      ],
+      "dir": "disk0\/00\/00\/93\/53",
+      "datestamp": "2018-11-03 09:23:34",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/9353",
+      "issn": "1978-5186",
+      "volume": 12,
+      "subjects": [
+        "K1",
+        "KD"
+      ],
+      "pagerange": "206-223",
+      "metadata_visibility": "show",
+      "title": "A Case Study on Facebook Data Theft in Indonesia",
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fh.unila.ac.id\/index.php\/fiat\/article\/view\/1312\/1217",
+          "type": "pub"
+        }
+      ],
+      "publication": "Fiat Justicia Jurnal Ilmu Hukum Fakultas Hukum Universitas Lampung",
+      "date": "2018-09",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 591352,
+                  "fileid": 89426,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/89426",
+                  "mtime": "2018-11-03 00:52:59",
+                  "hash": "d38a6e68d217cb9be4974c47bfbb7c2b",
+                  "objectid": 22409,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "A case study on facebook data thief in Indonesia_justisia_2018.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "eprintid": 9353,
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22409",
+            "main": "A case study on facebook data thief in Indonesia_justisia_2018.pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 22409
+          }
+      ],
+      "userid": 697,
+      "status_changed": "2018-11-03 09:23:34"
+    },
+    {
+      "status_changed": "2021-04-12 03:25:51",
+      "userid": 347,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43178",
+            "rev_number": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/257850",
+                  "filesize": 168248,
+                  "fileid": 257850,
+                  "mtime": "2021-04-10 02:32:07",
+                  "hash": "c992dadea58484056494ee3de7160b67",
+                  "datasetid": "document",
+                  "objectid": 43178,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "eai.16-10-2020.2305257-1.pdf"
+                }
+            ],
+            "eprintid": 29065,
+            "pos": 1,
+            "language": "en",
+            "main": "eai.16-10-2020.2305257-1.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "docid": 43178
+          }
+      ],
+      "date": "2021-03-24",
+      "publication": "Departement of constitutional law, faculty of law, university of lampung, Indonesia",
+      "title": "Finding The Right Setting Models for International Civil Laws",
+      "metadata_visibility": "show",
+      "subjects": [
+        "K1",
+        "KD"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/29065",
+      "type": "article",
+      "datestamp": "2021-04-12 03:25:51",
+      "dir": "disk0\/00\/02\/90\/65",
+      "abstract": "As rule of law, Indonesia Will organize an orderly life and life in society, as a nation and state using just legal rules. The Indonesian people will build and order of life together within the framework of a democratic Indonesian state based on a just national legal order. Thus, the development of the nation and state just also be accompanied by legal development. As a country that inherist that inherist the legal tradition of continental Europe, the development of legislation ia central to legal development the need to find the relationship between the setting model and the International Civil Laws principles was tasted and research in data are analysis by the questionnaire were distributed Aming stakeholder. The result show three are a significant correlation and effect between the two variables of the study and leade to the conclution that a significant correlation and impact of the right models' dimensions in supporting the right Civil laws.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "refereed": "TRUE",
+      "lastmod": "2021-04-12 03:25:51",
+      "eprintid": 29065,
+      "creators": [
+        {
+          "id": "rudy.1981@fh.unila.ac.id",
+          "name": {
+            "family": "Rudy",
+            "given": "Rudy",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "rev_number": 7,
+      "publisher": "EAI",
+      "full_text_status": "public"
+    },
+    {
+      "divisions": [
+        "FH3"
+      ],
+      "datestamp": "2019-11-14 11:22:21",
+      "dir": "disk0\/00\/01\/63\/00",
+      "isbn": "978-602-6739-26-1",
+      "eprint_status": "archive",
+      "abstract": "Apakah makna kemerdekaan bagi kita? Saya sendiri\r\nsangat terinspirasi oleh pernyataan yang disampaikan oleh\r\nBung Karno pada saat rapat BPUPKI pada tanggal 1 Juni\r\n1945. Bung Karno saat itu menyatakan bahwa kemerdekaan\r\nhanyalah satu fase dalam mewujudkan negara dan bangsa yang\r\nsejahtera. Penting bagi saya mengutip pernyataan lengkap\r\nBung Karno tersebut sebagai berikut:\r\nKemerdekaan, politieke onafhkelijkheid, political\r\nindependence, tak lain dan tak bukan, ialah satu jembatan, satu\r\njembatan emas. Saya katakan bahwa di seberangnya jembatan\r\nitulah kita sempurnakan kita punya masyarakat... Di dalam\r\nIndonesia Merdeka itulah kita menyatukan rakyat kita. Di\r\ndalam Indonesia Merdeka kita melatih pemuda kita agar\r\nsupaya menjadi kuat, di dalam Indonesia Merdeka kita\r\nmenyehatkan rakyat sebaik-baiknya. Inilah maksud saya\r\ndengan perkataan “jembatan”. Di seberang jembatan emas,\r\ninilah baru kita leluasa menyusun masyarakat Indonesia\r\nMerdeka yang gagah, kuat, sehat, kekal dan abadi (Soekarno,\r\n1945)",
+      "ispublished": "pub",
+      "date_type": "published",
+      "publisher": "AURA",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "creators": [
+        {
+          "id": "rudy.1981@fh.unila.ac.id",
+          "name": {
+            "family": "Rudy",
+            "given": "Rudy",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "lastmod": "2019-11-14 11:22:21",
+      "eprintid": 16300,
+      "number": "-",
+      "refereed": "TRUE",
+      "userid": 347,
+      "status_changed": "2019-11-14 11:22:21",
+      "series": "cetakan Pertama",
+      "place_of_pub": "jl. prof. Dr. Soemantri Brojonegoro, Komplek Unila Gedongmeneng Bandar lampung",
+      "date": "2017-08",
+      "pages": 126,
+      "documents": [
+          {
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "docid": 29405,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29405",
+            "rev_number": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/139253",
+                  "fileid": 139253,
+                  "filesize": 1997764,
+                  "hash": "805c1d6b1b1a84bf0eb809210ccaf51b",
+                  "mtime": "2019-11-13 11:35:26",
+                  "datasetid": "document",
+                  "objectid": 29405,
+                  "mime_type": "application\/pdf",
+                  "filename": "Pembangunan Hukum di Daerah - Rudy.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "eprintid": 16300,
+            "pos": 1,
+            "language": "en",
+            "main": "Pembangunan Hukum di Daerah - Rudy.pdf"
+          }
+      ],
+      "subjects": [
+        "K1",
+        "KD"
+      ],
+      "metadata_visibility": "show",
+      "title": "Pembangunan Hukum di Daerah. Membangun Legislasi yang Mengayomi",
+      "editors": [
+        {
+          "id": "yus_zoem@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yusnani",
+            "given": "Hasyimzoem"
+          }
+        }
+      ],
+      "type": "book",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16300",
+      "volume": "-"
+    },
+    {
+      "date": "2021-06-08",
+      "documents": [
+          {
+            "docid": 148514,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "The Possibility of Village Development.pdf",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 32686,
+            "files": [
+                {
+                  "filename": "The Possibility of Village Development.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 148514,
+                  "datasetid": "document",
+                  "hash": "52582b83bf4e93e8da55e1256df51d4b",
+                  "mtime": "2021-06-18 09:20:47",
+                  "filesize": 150882,
+                  "fileid": 386766,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/386766"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/148514",
+            "rev_number": 1
+          }
+      ],
+      "status_changed": "2021-06-21 01:05:51",
+      "event_title": "2nd International Conference  on Fundamental Rights ( I-COFFEES )",
+      "userid": 347,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32686",
+      "type": "conference_item",
+      "event_type": "conference",
+      "subjects": [
+        "K1",
+        "KD"
+      ],
+      "title": "The Possibility of Village Development: Village Regulation Formulation and Its Challenges",
+      "metadata_visibility": "show",
+      "abstract": "The new constitutionalism is giving the village new stance within Indonesia \r\nstate relation. This is creating the new relation between the state and village and open wide possibility for village development. As one of the authority of the village, the authority for the formulation the village regulation maybe the key to open those possibility. Thus, The need for good regulations is very urgent in this new development \r\nsince village regulation is become the foundation of village autonomy. Within the \r\nanalysis above, this research test the possibility of the development through the \r\nformulation of the village regulation on two village in Lampung namely Way Empulau \r\nUlu di West Lampung and Tanjung Setia Village in West Coast. In other side, \r\ngovernment has enacted many regulations to govern the management of village and has \r\nmade possibility to halt the development of village. This is based on the assumption that more regulation means more barrier for village formulation as Indonesia is using the model of hierarchy of law. This paper found that village regulation formulation success is \r\ndepend on the political will of the people and the collaboration with legal drafter is needed to achieve the goal of village development using the formulation of village regulation.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "datestamp": "2021-06-21 01:05:51",
+      "dir": "disk0\/00\/03\/26\/86",
+      "divisions": [
+        "FH3"
+      ],
+      "creators": [
+        {
+          "name": {
+            "family": "Rudy",
+            "given": "Rudy",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "rudy.1981@fh.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yusnani",
+            "given": "Hasyimzoem"
+          }
+        },
+        {
+          "id": "siti.khoiriah@fh.unila.ac.id",
+          "name": {
+            "family": "Siti",
+            "given": "Khoiriah",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Rukmi W P",
+            "family": "Roro"
+          },
+          "id": "roro.rukmi@fk.unila.ac.id"
+        }
+      ],
+      "event_dates": "5th–6th Aug 2019",
+      "official_url": "https:\/\/eudl.eu\/doi\/10.4108\/eai.5-8-2019.2308640",
+      "event_location": "Lampung, Indonesia",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "lastmod": "2021-06-21 01:05:51",
+      "eprintid": 32686,
+      "date_type": "published"
+    },
+    {
+      "volume": 7,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17345",
+      "type": "article",
+      "issn": "2225-0565",
+      "metadata_visibility": "show",
+      "title": "Local Regulation Design on the Protection and Empowerment of the Farmer Based on Law as a Tool of Social Empowering",
+      "subjects": [
+        "K1",
+        "KD"
+      ],
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30457",
+            "files": [
+                {
+                  "filename": "Local_Regulation_Design_on_the_Protection_and_Empo.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 30457,
+                  "datasetid": "document",
+                  "hash": "8b42323ceebad8376efb0dec92dc7aad",
+                  "mtime": "2019-12-17 08:07:15",
+                  "filesize": 3049062,
+                  "fileid": 146801,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/146801"
+                }
+            ],
+            "eprintid": 17345,
+            "pos": 1,
+            "language": "en",
+            "main": "Local_Regulation_Design_on_the_Protection_and_Empo.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "docid": 30457
+          }
+      ],
+      "publication": "Journal Developing Country Studies",
+      "date": 2017,
+      "userid": 888,
+      "status_changed": "2019-12-18 08:03:07",
+      "lastmod": "2019-12-18 08:03:07",
+      "eprintid": 17345,
+      "refereed": "FALSE",
+      "number": 10,
+      "rev_number": 7,
+      "publisher": "International Knowledge Sharing Platfrom",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "yulia.neta@fh.unila.ac.id",
+          "name": {
+            "family": "Yulia Neta",
+            "given": "Yulia",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "eprint_status": "archive",
+      "abstract": "Hasil Similarity Check",
+      "ispublished": "pub",
+      "divisions": [
+        "FH2"
+      ],
+      "dir": "disk0\/00\/01\/73\/45",
+      "datestamp": "2019-12-18 08:03:07"
+    },
+    {
+      "documents": [
+          {
+            "docid": 163227,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "Financial benefits of the environmentally friendly.pdf",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 41567,
+            "files": [
+                {
+                  "hash": "bc4c490fd6f917fa4eaf02f1509d08bc",
+                  "mtime": "2022-05-10 16:36:13",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/460048",
+                  "fileid": 460048,
+                  "filesize": 526266,
+                  "mime_type": "application\/pdf",
+                  "filename": "Financial benefits of the environmentally friendly.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 163227
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163227"
+          }
+      ],
+      "userid": 347,
+      "status_changed": "2022-05-11 01:29:15",
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41567",
+      "metadata_visibility": "show",
+      "title": "Hasil Similarity_Financial benefits of the environmentally friendly aquaponic media system",
+      "subjects": [
+        "KD"
+      ],
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Hasil Similarity Prosiding Financial benefits of the environmentally friendly aquaponic media system",
+      "divisions": [
+        "FH3"
+      ],
+      "datestamp": "2022-05-11 01:29:15",
+      "dir": "disk0\/00\/04\/15\/67",
+      "lastmod": "2022-05-11 01:29:15",
+      "eprintid": 41567,
+      "publisher": "IOP Conference: Earth and Environment Science",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "family": "Zainal",
+            "given": "Anna Gustina",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "annarudi76@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Herman",
+            "family": "Yulianto"
+          }
+        },
+        {
+          "name": {
+            "given": "Rudy",
+            "family": "Rudy",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "rudy.1981@fh.unila.ac.id"
+        },
+        {
+          "id": "helviyanfika@yahoo.co.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "HY",
+            "family": "Helvi Yanfika"
+          }
+        }
+      ]
+    },
+    {
+      "publication": "International Journal of Innovation, Creativity   and Change",
+      "date": "2019-10",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mtime": "2019-10-28 07:01:14",
+                  "hash": "c51c8f50d001baa4df576e93f55f5485",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/126916",
+                  "filesize": 6569698,
+                  "fileid": 126916,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Does the Juvenile Justice System protect Youth Supply chain_ Progressive Juvenile Court Judges_ Reform of the Juvenile Criminal Justice System in Indonesia through a Socio-Legal Approach supported by.pdf",
+                  "datasetid": "document",
+                  "objectid": 27761
+                }
+            ],
+            "eprintid": 14653,
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27761",
+            "main": "Does the Juvenile Justice System protect Youth Supply chain_ Progressive Juvenile Court Judges_ Reform of the Juvenile Criminal Justice System in Indonesia through a Socio-Legal Approach supported by.pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 27761
+          }
+      ],
+      "userid": 762,
+      "status_changed": "2019-10-28 07:14:33",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14653",
+      "type": "article",
+      "issn": "2201-1315",
+      "volume": 1,
+      "subjects": [
+        "K1",
+        "KD"
+      ],
+      "pagerange": "216-235",
+      "metadata_visibility": "show",
+      "title": "Does the Juvenile Justice System protect Youth Supply chain? Progressive Juvenile Court Judges : Reform of the Juvenile Criminal Justice System in Indonesia thourgh a Socio-Legal Approach supported by PLS-Structural Equation Modeling",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Hasil Similarity Check",
+      "divisions": [
+        "FH1"
+      ],
+      "datestamp": "2019-10-28 07:14:33",
+      "dir": "disk0\/00\/01\/46\/53",
+      "publisher": "Primrose Hall Publishing Group",
+      "rev_number": 10,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "family": "nikmah rosidah",
+            "given": "nikmah",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "eprintid": 14653,
+      "lastmod": "2019-10-28 07:14:33",
+      "refereed": "FALSE",
+      "number": 6
+    }
+]
+

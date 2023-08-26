@@ -1,0 +1,137 @@
+[
+    {
+      "eprint_status": "archive",
+      "ispublished": "unpub",
+      "contributors": [
+        {
+          "id": "rizkillah@gmail.com",
+          "name": {
+            "family": "Muhammad",
+            "given": "Rizkillah",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Ferianti",
+            "family": "Fera",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "fera.ferianti98@gmail.com"
+        },
+        {
+          "id": "hilman.rifqi19@gmail.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hilman",
+            "given": "Rifqi"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Yusuf Perdana",
+            "given": "Yusuf Perdana"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FKIP24"
+      ],
+      "datestamp": "2021-06-21 08:24:18",
+      "dir": "disk0\/00\/03\/27\/34",
+      "rev_number": 10,
+      "publisher": "University of Lampung",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "rizkillah@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Rizkillah",
+            "family": "Muhammad Rizkillah"
+          }
+        },
+        {
+          "id": "fera.ferianti98@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Ferianti",
+            "family": "Fera Ferianti"
+          }
+        },
+        {
+          "name": {
+            "family": "Hilman Rifqi",
+            "given": "Rifqi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "hilman.rifqi19@gmail.com"
+        },
+        {
+          "id": "yusuf.perdana@fkip.unila.ac.id",
+          "name": {
+            "family": "Yusuf Perdana",
+            "given": "Yusuf Perdana",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "lastmod": "2021-06-21 08:24:18",
+      "eprintid": 32734,
+      "date": "2021-12-18",
+      "documents": [
+          {
+            "main": "Poster tenggelamnya Mutiara Hitam Lampung Lada ke Kopi Era Kolonial Di Kabupaten Tanggamus.jpeg",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 32734,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 148778,
+                  "mime_type": "image\/jpeg",
+                  "filename": "Poster tenggelamnya Mutiara Hitam Lampung Lada ke Kopi Era Kolonial Di Kabupaten Tanggamus.jpeg",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/387331",
+                  "fileid": 387331,
+                  "filesize": 235070,
+                  "hash": "16dfecd057501ad85750f8f3165f7797",
+                  "mtime": "2021-06-21 04:33:37"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/148778",
+            "rev_number": 1,
+            "docid": 148778,
+            "mime_type": "image\/jpeg",
+            "placement": 1,
+            "security": "public",
+            "format": "image"
+          }
+      ],
+      "userid": 2779,
+      "status_changed": "2021-06-21 08:24:18",
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32734",
+      "subjects": [
+        "D1",
+        "D204"
+      ],
+      "metadata_visibility": "show",
+      "title": "Poster tenggelamnya Mutiara Hitam Lampung Lada ke Kopi Era Kolonial Di Kabupaten Tanggamus"
+    }
+]
+

@@ -1,0 +1,81 @@
+[
+    {
+      "dir": "disk0\/00\/04\/28\/08",
+      "datestamp": "2022-06-30 08:33:38",
+      "divisions": [
+        "FKIP24"
+      ],
+      "isbn": "978-623-420-201-4",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "family": "Pratama",
+            "given": "Rinaldo Adi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "rinaldo@fkip.unila.ac.id"
+        },
+        {
+          "id": "yusuf.perdana@fkip.unila.ac.id",
+          "name": {
+            "family": "Perdana",
+            "given": "Yusuf",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publisher": "Penerbit Lakeisha",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "refereed": "TRUE",
+      "lastmod": "2022-06-30 08:33:38",
+      "eprintid": 42808,
+      "status_changed": "2022-06-30 08:33:38",
+      "userid": 2784,
+      "date": "2022-04",
+      "pages": 267,
+      "place_of_pub": "Klaten",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "image",
+            "docid": 164560,
+            "mime_type": "image\/jpeg",
+            "eprintid": 42808,
+            "pos": 1,
+            "files": [
+                {
+                  "filename": "WhatsApp Image 2022-06-08 at 4.07.58 PM.jpeg",
+                  "hash_type": "MD5",
+                  "mime_type": "image\/jpeg",
+                  "objectid": 164560,
+                  "datasetid": "document",
+                  "hash": "7d3024782a3c28bd1f73d72cc2085e86",
+                  "mtime": "2022-06-30 04:25:45",
+                  "fileid": 469141,
+                  "filesize": 403456,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/469141"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164560",
+            "rev_number": 2,
+            "main": "WhatsApp Image 2022-06-08 at 4.07.58 PM.jpeg",
+            "language": "en"
+          }
+      ],
+      "subjects": [
+        "DS"
+      ],
+      "title": "SEJARAH INDONESIA MASA ORDE BARU HINGGA REFORMASI",
+      "metadata_visibility": "show",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42808",
+      "type": "book"
+    }
+]
+

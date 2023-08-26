@@ -1,0 +1,1237 @@
+[
+    {
+      "datestamp": "2017-05-31 01:40:55",
+      "dir": "disk0\/00\/00\/20\/56",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "corp_creators": [
+        "Jurusan Biologi FMIPA Universitas Lampung",
+        "Rumah Sakit Gajah Prof. Ir. Rubini Atmawidjaja PLG Taman Nasional Way Kambas"
+      ],
+      "abstract": "Study on blood sampling method on captive elephant, Elephas maximus sumatranus was done during the month June-August 2016 in Way Kambas Natinal Park  included  Elephant Training Center (ETC), Elephant Response Unit (ERU) I,  ERU II, and ERU III. The  technique of blood sampling on different sex, age, and  individual behaviour  was directly observed. There are three steps in blood sampling procedures i. e. preparation, handling, and blood sampling.  Handling includes habituation, preparing the elephant on ‘rung’ area assisted by Mahout and trained elephant. The 18 G Hypodermic needles or wings needles were used for blood sampling. Except for preparation, there were differences for the following two steps based on their sex and age. Male and juvenile individuals were treated specifically due to behavior background.",
+      "ispublished": "unpub",
+      "eprint_status": "archive",
+      "refereed": "TRUE",
+      "pres_type": "speech",
+      "eprintid": 2056,
+      "lastmod": "2017-05-31 01:40:55",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Siti",
+            "family": "Asiyah"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Dedi",
+            "family": "Candra"
+          }
+        },
+        {
+          "name": {
+            "family": "Anggraini",
+            "given": "Diah Esti",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "ely.jazdzyk@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Elly L.",
+            "family": "Rustiati"
+          }
+        },
+        {
+          "id": "priyambodo@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Priyambodo",
+            "family": "Priyambodo"
+          }
+        }
+      ],
+      "full_text_status": "public",
+      "event_dates": "18 - 19 October 2016",
+      "event_location": "University of Lampung",
+      "rev_number": 10,
+      "event_title": "International Wildlife Symposium",
+      "status_changed": "2017-05-31 01:40:55",
+      "userid": 496,
+      "documents": [
+          {
+            "language": "en",
+            "main": "BLOOD SAMPLING TECHNIQUE.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1928",
+            "rev_number": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/14281",
+                  "fileid": 14281,
+                  "filesize": 641613,
+                  "hash": "8c7f1deb622a292db72507c03b9462cc",
+                  "mtime": "2017-05-30 06:06:41",
+                  "datasetid": "document",
+                  "objectid": 1928,
+                  "mime_type": "application\/pdf",
+                  "filename": "BLOOD SAMPLING TECHNIQUE.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 2056,
+            "mime_type": "application\/pdf",
+            "docid": 1928,
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "date": "2016-10-18",
+      "title": "Blood Sampling Technique on Captive Elephant in Way Kambas National Park",
+      "metadata_visibility": "show",
+      "subjects": [
+        "Q1",
+        "QH301",
+        "QH426"
+      ],
+      "event_type": "conference",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2056"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1551",
+      "type": "article",
+      "issn": "2338-4344",
+      "volume": 3,
+      "pagerange": "7-12",
+      "subjects": [
+        "Q1",
+        "QH301",
+        "QH426"
+      ],
+      "metadata_visibility": "show",
+      "title": "KETERKAITAN JUMLAH DAERAH TERMUTASI PADA GEN β-GLOBIN DENGAN INDEKS KORPUSKULAR PEMBAWA SIFAT β-THALASSEMIA",
+      "publication": "Jurnal Ilmiah Biologi Eksperimen dan Keanekaragaman Hayati",
+      "date": "2016-11",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mtime": "2017-04-26 04:31:03",
+                  "hash": "2df2d4b265e7993780f09d89b7603216",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/10691",
+                  "filesize": 218076,
+                  "fileid": 10691,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Keterkaitan Jumlah Daerah Termutasi pada Gen b-Globin (Priyambodo).pdf",
+                  "datasetid": "document",
+                  "objectid": 1424
+                }
+            ],
+            "pos": 1,
+            "eprintid": 1551,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1424",
+            "rev_number": 1,
+            "main": "Keterkaitan Jumlah Daerah Termutasi pada Gen b-Globin (Priyambodo).pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 1424
+          }
+      ],
+      "userid": 1143,
+      "status_changed": "2017-04-26 06:48:46",
+      "official_url": "http:\/\/fmipa.unila.ac.id\/web\/biologi\/?page_id=329",
+      "publisher": "Jurusan Biologi Fakultas MIPA Unila dan Perhimpunan Biologi Indonesia Cabang Lampung",
+      "full_text_status": "public",
+      "rev_number": 19,
+      "creators": [
+        {
+          "id": "priyambodo@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Priyambodo",
+            "family": "Priyambodo"
+          }
+        }
+      ],
+      "lastmod": "2017-04-26 06:48:46",
+      "eprintid": 1551,
+      "number": 2,
+      "refereed": "TRUE",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "abstract": "Abstrak\r\nThalassemia merupakan kelainan genetik yang disebabkan karena mutasi titik pada gen penyandi rantai globin yang mengakibatkan menurunan indeks korpuskular pada penderita thalassemia, termasuk pada pembawa sifat thalassemia. Tiga hingga llima persen dari total penduduk Indonesia merupakan pembawa sifat thalassemia, dengan kasus tertinggi adalah β-thalassemia. Penelitian ini bertujuan untuk mengetahui hubungan antara jumlah daerah termutasi pada gen β-globin dengan penurunan indeks korpuskular pada pembawa sifat β-thalassemia. Data diambil pada tahun 2012-2013 di Yogyakarta. Analisis indeks korpuskular meliputi mean corpuscular volume (MCV), mean corpuscular haemoglobin (MCH), and mean corpuscular haemoglobin concentration (MCHC) dilakukan di laboratorium Prodia. Analisis molekuler dengan metode polymerase chain reaction-single stand conformation polymorphism (PCR-SSCP) dilakukan di Laboratorium Genetika dan Laboratorium Falitma, Fakultas Biologi, Universitas Gadjah Mada. Dari total 96 individu yang melakukan skrining, terdapat 9 individu terduga pembawa sifat β-thalassemia dengan 1 daerah termutasi pada gen β-globin menunjukkan rerata MCV 63,1 fl, MCH 19,76 pg dan MCHC 32,34 g\/dl. Tujuh terduga pembawa sifat β-thalassemia dengan 2 daerah termutasi pada gen β-globin menunjukkan rerata MCV 61,16 fl, MCH 19,74 pg, and MCHC 32,3 g\/gl. Satu individu terduga pembawa sifat β-thalassemia dengan 3 daerah termutasi pada gen β-globin menunjukkan rerata MCV 64,2 fl, MCH 19,5 pg, and MCHC 30,4 g\/dl. Jumlah daerah termutasi bukan merupakan faktor untama penurunan indeks korpuskular pada pembawa sifat β-thalassemia.",
+      "ispublished": "pub",
+      "corp_creators": [
+        "Jurusan Biologi FMIPA Universitas Lampung"
+      ],
+      "divisions": [
+        "FMIPA2"
+      ],
+      "datestamp": "2017-04-26 06:45:20",
+      "dir": "disk0\/00\/00\/15\/51"
+    },
+    {
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1820",
+      "event_type": "conference",
+      "subjects": [
+        "Q1",
+        "QH301",
+        "QH426"
+      ],
+      "title": "DETECTION OF EXON 1 MUTATIONS IN THE β-GLOBIN GENE ON β-THALASSEMIA CARRIER IN YOGYAKARTA",
+      "metadata_visibility": "show",
+      "date": "2016-10-18",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 1674,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 1674,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Abstrak IWS Priyambodo.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12686",
+                  "fileid": 12686,
+                  "filesize": 7496919,
+                  "mtime": "2017-05-29 05:47:44",
+                  "hash": "4ff9077664a6eec37359b206e2c2fb20"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 1820,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1674",
+            "rev_number": 1,
+            "main": "Abstrak IWS Priyambodo.pdf",
+            "language": "en"
+          }
+      ],
+      "status_changed": "2017-05-29 06:30:22",
+      "event_title": "International Wildlife Symposium",
+      "userid": 1143,
+      "creators": [
+        {
+          "name": {
+            "family": "Priyambodo",
+            "given": "Priyambodo",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "priyambodo@fmipa.unila.ac.id"
+        },
+        {
+          "id": "nikensat@yahoo.com",
+          "name": {
+            "family": "Handayani",
+            "given": "Niken Satuti Nur",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "event_dates": "18 - 19 October 2016",
+      "full_text_status": "public",
+      "event_location": "University of Lampung",
+      "rev_number": 9,
+      "refereed": "TRUE",
+      "pres_type": "speech",
+      "eprintid": 1820,
+      "lastmod": "2017-05-29 06:30:22",
+      "abstract": "Thalassemia is a hereditary dissorder caused by point mutation on the globin gene.  βthalassemia is the most common type in Indonesia. This study aimed to performed the molecular detection of exon 1 mutation in the β-globin gene by using polymerase chain reaction-single strand conformation polymorphism (PCR-SSCP) method. DNA samples was collected during 2012 to 2013 in Yogyakarta. DNA of each individual suspected βthalassemia carriers was isolated from blood and amplified with specific DNA primer and PCR conditions. Individual suspected β-thalassemia carriers with mutant alleles showed more than two DNA bands on polyacrilamide electro phoresis analysis. PCR-SSCP resultsshowed that 17 of 21 individual suspected β-thalassemia carriers have mutation site in exon 1 β-globin gene.",
+      "ispublished": "unpub",
+      "eprint_status": "archive",
+      "corp_creators": [
+        "Jurusan Biologi FMIPA Universitas Lampung",
+        "Laboratorium Genetika Fakultas Biologi Universitas Gadjah Mada"
+      ],
+      "datestamp": "2017-05-29 06:30:22",
+      "dir": "disk0\/00\/00\/18\/20",
+      "divisions": [
+        "FMIPA2"
+      ]
+    },
+    {
+      "documents": [
+          {
+            "eprintid": 4309,
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "IWS 2017 Priyambodo.pdf",
+                  "datasetid": "document",
+                  "objectid": 17194,
+                  "mtime": "2017-11-03 03:07:53",
+                  "hash": "30b12ee1bc7b52e8ec28b250000ee719",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/43182",
+                  "fileid": 43182,
+                  "filesize": 649889
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17194",
+            "rev_number": 1,
+            "main": "IWS 2017 Priyambodo.pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "docid": 17194,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "date": "2017-10-23",
+      "status_changed": "2017-11-03 12:54:41",
+      "event_title": "4th International Wildlife Symposium",
+      "userid": 1143,
+      "event_type": "conference",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4309",
+      "type": "conference_item",
+      "title": "Comparative Cytogenetic Study on Male and Female Captive Sumatran Elephant in Elephant Training Center, Way Kambas National Park",
+      "metadata_visibility": "show",
+      "subjects": [
+        "Q1",
+        "QH",
+        "QH301",
+        "QH426",
+        "QL"
+      ],
+      "corp_creators": [
+        "Department of Biology, Faculty of Mathematics and Natural Sciences, University of Lampung"
+      ],
+      "abstract": "Sumatran elephant (Elephas maximus sumatranus) was one of five big mammals in Way Kambas National Park (WKNP). Cytogenetic study was a part of conservation effort for sumatran elephant, especially in conservation genetic field. Captive sumatran elephant’s blood in Elephant Training Center (ETC) WKNP was collected to karyotype analysis. Captive sumatran elephant’s chromosome was analyzed by squashing technique with pretreating cells in a hypotonic solution. The study of karyotypes were made by giemsa staining applied to captive elephant’s blood cell. The diploid number of captive sumatran elephant was 56 both in male and female. The karyotype analysis performed different fundamental number (FN) in male and female, but same fundamental autosomal number (FNa). Chromosome of female sumatran elephant showed the FN = 8, and FNa = 6, but in male sumatran elephant FN = 7, and FNa = . The karyotypes of X chromosome was large submetacentric and Y chromosome was small acrocentric. The karyotype presented here will compilled with DNA fingerprinting analysis of all captive sumatran elephant in ETC WKNP as references in future breeding policy.\r\n \r\nKeywords: captive sumatran elephant, karyotype analysis",
+      "ispublished": "inpress",
+      "eprint_status": "archive",
+      "datestamp": "2017-11-03 12:54:41",
+      "dir": "disk0\/00\/00\/43\/09",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "pres_type": "paper",
+      "refereed": "TRUE",
+      "eprintid": 4309,
+      "lastmod": "2017-11-03 12:54:41",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Priyambodo",
+            "given": "Priyambodo"
+          },
+          "id": "priyambodo@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Elly L.",
+            "family": "Rustiati"
+          },
+          "id": "ely.jazdzyk@yahoo.com"
+        }
+      ],
+      "event_location": "Universitas Syiah Kuala, Banda Aceh",
+      "event_dates": "23-23 October 2017",
+      "rev_number": 11,
+      "full_text_status": "public"
+    },
+    {
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1651",
+            "rev_number": 1,
+            "pos": 1,
+            "eprintid": 1790,
+            "files": [
+                {
+                  "hash": "bf5dcbfe82b02b90ad2ce92d9515d255",
+                  "mtime": "2017-05-29 03:41:04",
+                  "filesize": 1128808,
+                  "fileid": 12422,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12422",
+                  "filename": "Semirata2017_Priyambodo,dkk.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 1651,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "main": "Semirata2017_Priyambodo,dkk.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 1651,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "date": "2017-05-12",
+      "status_changed": "2017-05-29 05:53:26",
+      "event_title": "SEMIRATA 2017 Bidang MIPA BKS-PTN Barat",
+      "userid": 496,
+      "event_type": "conference",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1790",
+      "type": "conference_item",
+      "title": "PEMBUATAN BANK DNA GAJAH SUMATERA (Elephas maximus sumatrensis) DI PUSAT LATIHAN GAJAH TAMAN NASIONAL WAY KAMBAS",
+      "metadata_visibility": "show",
+      "subjects": [
+        "Q1",
+        "QH301",
+        "QH426"
+      ],
+      "corp_creators": [
+        "Jurusan Biologi FMIPA Universitas Lampung",
+        "Pusat Latihan Taman Nasional Way Kambas"
+      ],
+      "ispublished": "unpub",
+      "abstract": "Penobatan Taman Nasional Way Kambas (TNWK) sebagai ASEAN Heritage Park berimbas pada kewajiban untuk berkontribusi menyeluruh dalam kegiatan konservasi satwa kunci yang berhabitat di taman nasional, termasuk gajah sumatera. Upaya konservasi gajah sumatera secara genetik dilakukan dengan konstruksi peta filogenetik gajah sumatera tangkapan di Pusat Latihan Gajah (PLG) TNWK yang berujung pada lahirnya breeding policy yang dapat meningkatkan keragaman genetik dalam populasi. Pembuatan Bank Deoxyribo Nucleic Acid (DNA) gajah sumatera di PLG TNWK merupakan langkah awal uji lanjut dalam konstruksi peta filogenetik gajah. DNA telah berhasil diisolasi dari 44 individu gajah sumatera di PLG TNWK dengan metode kolom berdasarkan protokol QIAGEN DNAEasy Kit. Bank DNA hasil isolasi selanjutnya akan dijadikan sebagai bahan dasar amplifikasi dan uji molekuler lebih lanjut. DNA hasil isolasi diuji secara kualitatif dengan elektroforesis gel agarosa 1% yang selanjutnya disimpan dalam -20oC.",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/00\/17\/90",
+      "datestamp": "2017-05-29 05:53:26",
+      "divisions": [
+        "FMIPA5"
+      ],
+      "pres_type": "speech",
+      "refereed": "TRUE",
+      "eprintid": 1790,
+      "lastmod": "2017-05-29 05:53:26",
+      "creators": [
+        {
+          "name": {
+            "given": "Priyambodo",
+            "family": "Priyambodo",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "priyambodo@fmipa.unila.ac.id"
+        },
+        {
+          "id": "ely.jazdzyk@yahoo.com",
+          "name": {
+            "given": "Elly L.",
+            "family": "Rustiati",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Candra",
+            "given": "Dedi"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Siti",
+            "family": "Asiyah",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "event_dates": "12-14 Mei 2017",
+      "full_text_status": "public",
+      "event_location": "Ratu Convention Center, Jambi",
+      "rev_number": 11
+    },
+    {
+      "event_title": "2nd ULICOSTE",
+      "status_changed": "2021-11-06 08:23:27",
+      "userid": 1143,
+      "date": 2021,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 156057,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "main": "Ulicoste_Priyambodo_Exploring environmental DNA for Barcoding Analysis of Sumatran.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/411771",
+                  "filesize": 3363832,
+                  "fileid": 411771,
+                  "mtime": "2021-11-06 06:46:10",
+                  "hash": "60d407715ab7e37c5587eddbbc5a1579",
+                  "datasetid": "document",
+                  "objectid": 156057,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Ulicoste_Priyambodo_Exploring environmental DNA for Barcoding Analysis of Sumatran.pdf"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 35261,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156057",
+            "rev_number": 1
+          }
+      ],
+      "subjects": [
+        "Q1",
+        "QH",
+        "QH301",
+        "QH426"
+      ],
+      "title": "Exploring environmental DNA for Barcoding Analysis of Sumatran Rhino in Way Kambas National Park",
+      "metadata_visibility": "show",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35261",
+      "event_type": "conference",
+      "dir": "disk0\/00\/03\/52\/61",
+      "datestamp": "2021-11-06 08:23:27",
+      "abstract": "The Sumatran rhino (Dicerorhinus sumatrensis) is one of five species of rhino in the world. The existence of the Sumatran rhino is also considered very vulnerable to habitat degradation, internal cross-breeding, disease and hunting. The Sumatran rhino population will experience extinction if there are no mature management measures for the long term. It is assumed that the dynamics of the natural ecosystem in the Sumatran rhino's natural habitat will have a negative effect on the existence of its population. Sumatran rhino puddle water is one of the remaining sources of environmental genetic material. Extraction of eDNA in the puddle water of individual Sumatran rhinos in Sumatra Rhino Sanctuary, Way Kambas National Park aims to determine the results of testing the quality of genetic material from Sumatran rhino puddle water in the Sumatran Rhino Reserve, Way Kambas National Park using simple and molecular methods. DNA extraction using a simple method detects 0\/12 samples, whereas using molecular methods can detect 11\/12 samples. These results should be followed by detection using specific primers to ensure that the eDNA extracted is Sumatran rhino eDNA",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "creators": [
+        {
+          "id": "priyambodo@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Priyambodo",
+            "family": "Priyambodo"
+          }
+        },
+        {
+          "id": "ely.jazdzyk@yahoo.com",
+          "name": {
+            "given": "Elly L.",
+            "family": "Rustiati",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Yeyen",
+            "family": "Kurniawati",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Chicka R.",
+            "family": "Putri"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Zulkarnain",
+            "given": "D"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Arsan",
+            "given": "Zulfi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Giyono",
+            "family": "Giyono",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Aprilia E.",
+            "family": "Widiawati",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "sukatmoko",
+            "family": "sukatmoko"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Eko Agus",
+            "family": "Srihanto"
+          }
+        }
+      ],
+      "rev_number": 12,
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "eprintid": 35261,
+      "lastmod": "2021-11-06 08:23:27"
+    },
+    {
+      "userid": 1143,
+      "status_changed": "2017-11-03 12:55:17",
+      "event_title": "4th International Wildlife Symposium",
+      "date": "2017-10-23",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17198",
+            "rev_number": 1,
+            "eprintid": 4312,
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/43209",
+                  "fileid": 43209,
+                  "filesize": 201628,
+                  "hash": "2e466e0bc6775f7710f7f6940b49bc24",
+                  "mtime": "2017-11-03 03:22:23",
+                  "datasetid": "document",
+                  "objectid": 17198,
+                  "mime_type": "application\/pdf",
+                  "filename": "IWS 2017 Elly Rustiati.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "language": "en",
+            "main": "IWS 2017 Elly Rustiati.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 17198,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "subjects": [
+        "Q1",
+        "QH301",
+        "QH426"
+      ],
+      "metadata_visibility": "show",
+      "title": "DNA Isolation on Captive Sumatran Elephant in Elephant Training Center, Way Kambas National Park: A First Step towards Its ID Card",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4312",
+      "event_type": "conference",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0\/00\/00\/43\/12",
+      "datestamp": "2017-11-03 12:55:17",
+      "eprint_status": "archive",
+      "ispublished": "inpress",
+      "abstract": "Elephant Training Center (ETC) Way Kambas National Park (WKNP) was built to support human-elephant mitigation conflict.  The small population of captive sumatran elephant in ETC WKNP need a comprehensive strategy in order to maintain the genetic variation of each individual and avoid inbreeding drive.  Currently, genetic studies have opened new field studies in ecology, included conservation ecology. Patterns in variation of population has been investigated by molecular method supporting species conservation effort. The captive sumatran elephant’s ID Card is a necessary in database building, which included morphology, health status, and genetic profile. Genetic profile in each ID Card was filled by cytogenetic and molecular profile for RADP result, that initiated with DNA isolation. The DNA sources collected by blood sampling protocol described by Asiyah et al. (2016) from captive sumatran elephant in ETC, WKNP, and be carried to laboratory in cold condition. The DNA sources stored at 4oC and isolated following commercial protocol. The result of DNA isolation stored at -20oC until amplification analysis.  DNA isolation was successfully done, for further individual genetic ID building.\r\n \r\nKeywords: Conservation, DNA isolation, sumatran elephant’s ID Card, WKNP",
+      "corp_creators": [
+        "Fakultas Biologi FMIPA Universitas Lampung",
+        "Pusat Latihan Gajah Taman Nasional Way Kambas",
+        "Balai Veteriner Lampung"
+      ],
+      "date_type": "published",
+      "rev_number": 11,
+      "event_dates": "23-23 October 2017",
+      "event_location": "Universitas Syiah Kuala, Banda Aceh",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "ely.jazdzyk@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Rustiati",
+            "given": "Elly L."
+          }
+        },
+        {
+          "id": "priyambodo@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Priyambodo",
+            "family": "Priyambodo"
+          }
+        },
+        {
+          "name": {
+            "family": "Asiyah",
+            "given": "Siti",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Dedi",
+            "family": "Candra",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Anggraini",
+            "given": "Diah Esti"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Krismuniarti",
+            "given": "Elizabeth Devi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Eko Agus",
+            "family": "Srihanto"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Liza",
+            "family": "Angeliya"
+          },
+          "id": null
+        },
+        {
+          "id": "uya.jujun@gmail.com",
+          "name": {
+            "family": "Nurcahyani",
+            "given": "N",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Enny",
+            "family": "Saswiyanti",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "eprintid": 4312,
+      "lastmod": "2017-11-03 12:55:17",
+      "refereed": "TRUE",
+      "pres_type": "paper"
+    },
+    {
+      "documents": [
+          {
+            "language": "en",
+            "main": "11368-28796-1-SM.pdf",
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21954",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/86078",
+                  "filesize": 189698,
+                  "fileid": 86078,
+                  "hash": "14e62db85ed9679b30be657d9c7b1f21",
+                  "mtime": "2018-10-11 09:21:54",
+                  "datasetid": "document",
+                  "objectid": 21954,
+                  "mime_type": "application\/pdf",
+                  "filename": "11368-28796-1-SM.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "eprintid": 8872,
+            "pos": 1,
+            "mime_type": "application\/pdf",
+            "docid": 21954,
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publication": "Int. J. Trop. Vet. Biomed. Res.",
+      "date": "2018-05",
+      "userid": 496,
+      "status_changed": "2018-10-26 10:02:12",
+      "volume": 3,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8872",
+      "issn": "2503-4715",
+      "metadata_visibility": "show",
+      "title": "DNA Isolation on Captive Sumatran Elephant in Elephant Training Center, Way Kambas National Park: A First Step towards Its ID Card",
+      "subjects": [
+        "Q1",
+        "QH301",
+        "QH426"
+      ],
+      "pagerange": "1-3",
+      "eprint_status": "archive",
+      "abstract": "Elephant Training Center (ETC) Way Kambas National Park (WKNP) was built to support human-elephant\r\nmitigation conflict. The small population of captive sumatran elephant in ETC WKNP need a comprehensive\r\nstrategy in order to maintain the genetic variation of each individual and avoid inbreeding drive. Currently, genetic studies have opened new field studies in ecology, included conservation ecology. Patterns in variation of population has been investigated by molecular method supporting species conservation effort. The captive sumatran elephant’s ID Card is a necessary in database building, which included morphology, health status, and genetic profile. Genetic profile in each ID Card was filled by cytogenetic and molecular profile for RADP result, that initiated with DNA isolation. The DNA sources collected by blood sampling protocol described by Asiyah et al. (2016) from captive sumatran elephant in ETC, WKNP, and be carried to laboratory in cold condition. The DNA sources stored at 4oC and isolated following commercial protocol. The result of DNA isolation stored at -20oC until amplification\r\nanalysis. DNA isolation was successfully done, for further individual genetic ID building.",
+      "ispublished": "pub",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0\/00\/00\/88\/72",
+      "datestamp": "2018-10-26 10:02:12",
+      "eprintid": 8872,
+      "lastmod": "2018-10-26 10:02:12",
+      "refereed": "TRUE",
+      "number": 1,
+      "official_url": "http:\/\/www.jurnal.unsyiah.ac.id\/IJTVBR\/issue\/view\/1160",
+      "rev_number": 11,
+      "publisher": "Syiah Kuala University",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "ely.jazdzyk@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Elly L.",
+            "family": "Rustiati"
+          }
+        },
+        {
+          "id": "priyambodo@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Priyambodo",
+            "given": "Priyambodo"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Asiyah",
+            "given": "Siti"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Dedi",
+            "family": "Candra",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Diah Esti",
+            "family": "Anggraini"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Krismuniarti",
+            "given": "Elizabeth Devi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Srihanto",
+            "given": "Eko Agus"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Angeliya",
+            "given": "Liza",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nurcahyani",
+            "given": "N"
+          },
+          "id": "uya.jujun@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Saswiyanti",
+            "given": "Enny",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "date_type": "published"
+    },
+    {
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 34015,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "main": "6. Elly Lestari Rustiati et al, 2020.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 34015,
+                  "mime_type": "application\/pdf",
+                  "filename": "6. Elly Lestari Rustiati et al, 2020.pdf",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/193837",
+                  "filesize": 1077872,
+                  "fileid": 193837,
+                  "hash": "e84639c1432333fe4d5e0989493ac5fa",
+                  "mtime": "2020-05-27 05:38:49"
+                }
+            ],
+            "eprintid": 20676,
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34015"
+          }
+      ],
+      "date": "2020-05",
+      "publication": "BIOVALENTIA : BIOLOGICAL RESEARCH JOURNAL",
+      "status_changed": "2020-05-27 06:01:37",
+      "userid": 1143,
+      "volume": 6,
+      "issn": "2477-1392",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20676",
+      "type": "article",
+      "related_url": [
+        {
+          "url": "http:\/\/biovalentia.mipa.unsri.ac.id\/index.php\/biovalentia\/article\/view\/74"
+        }
+      ],
+      "title": "The Essential Contribution of Captive Sumatran Elephant in Elephant  Training Center, Way Kambas National Park for Wildlife Genetics  Conservation",
+      "metadata_visibility": "show",
+      "subjects": [
+        "Q1",
+        "QH",
+        "QH426"
+      ],
+      "pagerange": "38-41",
+      "corp_creators": [
+        "Jurusan Biologi, FMIPA, Universitas Lampung",
+        "Jurusan Fisika, FMIPA, Universitas Lampung",
+        "Balai Veteriner Lampung",
+        "Pusat Latihan Gajah, TN Way Kambas"
+      ],
+      "abstract": "Way Kambas National Park (WKNP) is home of five protected big mammals including sumatran elephants.  It shares its border with 22 of 37 villages surrounding the national park.  Understanding their existence in the wild is a priority, and wildlife genetics is a crucially needed. Besides poaching and habitat fragmentation, wildlife-human conflict is one big issue.  Elephant Training Center (ETC) in WKNP is built for semi in-situ conservation effort on captive sumatran elephants that mainly have conflict histories with local people.  Participative observation and bio-molecular analysis were conducted to learn the importance of captive Sumatran elephant for conservation effort.  Through captive sumatran elephants, database and applicable methods are expected to be developed supporting the conservation of their population in the wild.  Participative observation and molecular identification was carried on captive sumatran elephants in ETC, WKNP under multiple year Terapan grant of Ministry of Research and Technology Higher Education, Indonesia. Gene sequence and cytological analyses showed that the captive sumatran elephants are closely related and tend to be domesticated.  Translocation among ETC to avoid inbreeding, and maintaining the captive sumatran elephant as natural as possible are highly recommended. Developing genetic database can be a reference for both captive and wild sumatran elephants.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/02\/06\/76",
+      "datestamp": "2020-05-27 06:01:37",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "refereed": "TRUE",
+      "number": 1,
+      "eprintid": 20676,
+      "lastmod": "2020-05-27 06:01:37",
+      "creators": [
+        {
+          "name": {
+            "family": "Rustiati",
+            "given": "Elly L.",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "ely.jazdzyk@yahoo.com"
+        },
+        {
+          "id": "priyambodo@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Priyambodo",
+            "family": "Priyambodo"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "yulianti",
+            "given": "yanti"
+          }
+        },
+        {
+          "name": {
+            "given": "Eko Agus",
+            "family": "Srihanto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Pratiwi",
+            "given": "Dian Neli",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Elsa",
+            "family": "Virnarenata",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Novianasari",
+            "given": "Tika"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Elizabeth Devi",
+            "family": "Krismuniarti",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Saswiyanti",
+            "given": "Enny"
+          },
+          "id": null
+        }
+      ],
+      "publisher": "Jurusan Biologi Unsri",
+      "official_url": "http:\/\/biovalentia.mipa.unsri.ac.id\/index.php\/biovalentia\/article\/view\/74",
+      "rev_number": 11,
+      "full_text_status": "public",
+      "date_type": "published"
+    },
+    {
+      "publication": "Jurnal Penelitian Sains",
+      "id_number": "https:\/\/doi.org\/10.26554\/jps.v22i2.578",
+      "metadata_visibility": "show",
+      "title": "Herpesviridae identification method on Ruminants through Molecular Method in Lampung Disease Investigation Center",
+      "related_url": [
+        {
+          "url": "http:\/\/ejurnal.mipa.unsri.ac.id\/index.php\/jps\/article\/view\/578"
+        }
+      ],
+      "divisions": [
+        "FMIPA2"
+      ],
+      "dir": "disk0\/00\/02\/37\/99",
+      "publisher": "Unit Penelitian dan Pengabdian Kepada Masyarakat (UP2M) FMIPA Universitas Sriwijaya",
+      "creators": [
+        {
+          "name": {
+            "family": "Susanto",
+            "given": "Alvin Wiwet",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "alvinwiwiet.s27@gmail.com"
+        },
+        {
+          "id": "ely.jazdzyk@yahoo.com",
+          "name": {
+            "family": "Rustiati",
+            "given": "Elly L.",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Priyambodo",
+            "family": "Priyambodo"
+          },
+          "id": "priyambodo@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Tinasari",
+            "given": "Yuni"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Firwantoni",
+            "family": "Firwantoni"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Romaya Wulan",
+            "family": "Suciningtyas"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Eko Agus",
+            "family": "Srihanto"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Saswiyanti",
+            "given": "Enny",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "number": 2,
+      "date": 2020,
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "docid": 37433,
+            "mime_type": "application\/pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37433",
+            "pos": 1,
+            "eprintid": 23799,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "filename": "578-1433-2-PB.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 37433,
+                  "datasetid": "document",
+                  "mtime": "2020-08-29 10:05:34",
+                  "hash": "9fede9bd75a6b7bd7ece5ab0a3f2b6e0",
+                  "filesize": 282550,
+                  "fileid": 217185,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/217185"
+                }
+            ],
+            "language": "en",
+            "main": "578-1433-2-PB.pdf"
+          }
+      ],
+      "userid": 1143,
+      "status_changed": "2020-08-31 01:55:15",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23799",
+      "issn": "2597-7059",
+      "volume": 22,
+      "subjects": [
+        "Q1",
+        "QH301",
+        "QH426"
+      ],
+      "pagerange": "99-103",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Farming is one sector that has an important role in building Indonesia's economic growth, especially for daily food. Farm production is facing challenges, include the low production yield, traditional management, and problems related to animal health. Infectious Bovine Rhinotracheitis (IBR) and Malignant Catarrhal Fever (MCF) are diseases caused by Herpesviridae. These are high mortality rate disease cause huge economic loss. Farms located nearby deer captivity increases the risk of deer to be infected by the same diseases. Surveillance is needed to discover the number of infected animals and their effect on the environment. Herpesviridae identification in surveillance was done through an accurate method, e.g. a molecular method. This research is done by Lampung Disease Investigation Center and funded by the Food Agriculture Organization (FAO). Herpesviridae identification was done in three steps, DNA isolation, Polymerase Chain Reaction (PCR), electrophoresis, and visualization.",
+      "corp_creators": [
+        "Jurusan Biologi, FMIPA Unila",
+        "Balai Veteriner Lampung"
+      ],
+      "datestamp": "2020-08-31 01:55:15",
+      "full_text_status": "public",
+      "official_url": "http:\/\/ejurnal.mipa.unsri.ac.id\/index.php\/jps\/index",
+      "rev_number": 9,
+      "lastmod": "2020-08-31 01:55:15",
+      "eprintid": 23799,
+      "refereed": "TRUE",
+      "date_type": "published"
+    }
+]
+

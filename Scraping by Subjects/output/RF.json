@@ -1,0 +1,1506 @@
+[
+    {
+      "userid": 737,
+      "status_changed": "2018-04-25 08:25:42",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 19618,
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "main": "2018 - IOSR - The Germination and Growth of Induced F1 Tomato Seeds By Exposure To 0.2mt of Magnetic Field And Fusarium Sp. Infection.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19618",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/61337",
+                  "filesize": 356088,
+                  "fileid": 61337,
+                  "hash": "fae26bb511ee62d1d35476a913c489b9",
+                  "mtime": "2018-03-29 08:45:14",
+                  "datasetid": "document",
+                  "objectid": 19618,
+                  "mime_type": "application\/pdf",
+                  "filename": "2018 - IOSR - The Germination and Growth of Induced F1 Tomato Seeds By Exposure To 0.2mt of Magnetic Field And Fusarium Sp. Infection.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "eprintid": 6654,
+            "pos": 1
+          }
+      ],
+      "publication": "IOSR Journal of Agriculture and Veterinary Science (IOSR-JAVS)",
+      "date": "2018-03-05",
+      "metadata_visibility": "show",
+      "title": "The Germination and Growth of Induced F1 Tomato Seeds By\r\nExposure To  0.2mT of Magnetic Field And Fusarium Sp. \r\nInfection",
+      "subjects": [
+        "QK",
+        "RF",
+        "S1"
+      ],
+      "pagerange": "84-88",
+      "volume": 11,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6654",
+      "type": "article",
+      "issn": "e-ISSN: 2319-2380, p-ISSN: 2319-2372.",
+      "divisions": [
+        "FMIPA2"
+      ],
+      "datestamp": "2018-04-25 08:25:42",
+      "dir": "disk0\/00\/00\/66\/54",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Abstract: Exposure of 0.2 mT magnetic field (MF) to tomato seeds is known to increase germination, growthand resistance of plants to Fusarium sp. In this study, the germination and growth of F1 tomato seeds weretested after reinfection with Fusarium oxysporum f.sp.lycopersici (Fol).   The study was arranged factorially inCompletely Randomized Design (CRD). The first factor is  F1 seed types consisting of 8 types: M\r\nM\r\n7\r\nF\r\n0\r\n, M\r\n7\r\nF\r\n60\r\n, M\r\n11\r\nF\r\n0\r\n, M\r\n11\r\nF\r\n60\r\n, M\r\n15\r\nF\r\n0\r\n, and M\r\n15\r\nF\r\n.  The numbers after letter M and F indicate that F1 tomatoseeds were obtained from parental tomato plants whose seeds were induced by exposure of 0.2 mTMF each fo0, 7’48”, 11’44”, and 15’36”and then infected by Fusarium sp. monospore suspension each for 0 and 60minrespectively. The second factor is Fol  infection. The data obtained were analyzed variance and followed byFisher's Test at α = 5%.The results show that the parental tomato seeds induced by 0,2 mT MF produce F1seeds that have a higher germination percentage and rate as well as dry weight than the parental tomato seedsof control although reinfected by Fol. These results suggest that the vigor properties of the F1 tomato seeds arethe same as the vigor properties of the parental seeds. \r\n60\r\nKeywords: F1 tomato seed type, germination rate, Fol, germination percentage, and dry weight.",
+      "date_type": "published",
+      "lastmod": "2018-04-25 08:25:42",
+      "eprintid": 6654,
+      "number": 2,
+      "refereed": "TRUE",
+      "official_url": "http:\/\/www.iosrjournals.org",
+      "publisher": "www.iosrjournals.org",
+      "rev_number": 12,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "rochmah.agustrina@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Agustrina",
+            "given": "Rochmah"
+          }
+        },
+        {
+          "id": "endang_nurcahyani@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nurcahyani",
+            "given": "Endang"
+          }
+        },
+        {
+          "id": "bambang.irawan@fmipa.unila.ac.id",
+          "name": {
+            "family": "Irawan",
+            "given": "Bambang",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Lusiati",
+            "family": "Lusiati"
+          },
+          "id": null
+        }
+      ]
+    },
+    {
+      "issn": "0974-6242",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21628",
+      "volume": 11,
+      "pagerange": "985-991",
+      "subjects": [
+        "RF"
+      ],
+      "title": "Clinical Outcomes of Hernia Nucleous Pulposus after Microendodiscectomy",
+      "metadata_visibility": "show",
+      "date": "2018-06",
+      "publication": "Biomedical & Pharmacology Journal",
+      "documents": [
+          {
+            "pos": 1,
+            "eprintid": 21628,
+            "files": [
+                {
+                  "fileid": 200291,
+                  "filesize": 197727,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200291",
+                  "mtime": "2020-06-03 05:01:15",
+                  "hash": "e1505ee29d1088b8ae5d029d5da1e96f",
+                  "objectid": 35015,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "BPJ_Vol_11_No_2_p_985-991.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35015",
+            "main": "BPJ_Vol_11_No_2_p_985-991.pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "docid": 35015,
+            "mime_type": "application\/pdf"
+          },
+          {
+            "format": "text",
+            "security": "public",
+            "placement": 2,
+            "docid": 35016,
+            "mime_type": "application\/pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35016",
+            "rev_number": 1,
+            "eprintid": 21628,
+            "pos": 2,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200293",
+                  "filesize": 197727,
+                  "fileid": 200293,
+                  "mtime": "2020-06-03 05:01:49",
+                  "hash": "e1505ee29d1088b8ae5d029d5da1e96f",
+                  "datasetid": "document",
+                  "objectid": 35016,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "BPJ_Vol_11_No_2_p_985-991.pdf"
+                }
+            ],
+            "language": "en",
+            "main": "BPJ_Vol_11_No_2_p_985-991.pdf"
+          }
+      ],
+      "status_changed": "2020-06-03 07:14:29",
+      "userid": 285,
+      "creators": [
+        {
+          "id": "ahmad.fauzi@fk.unila.ac.id",
+          "name": {
+            "family": "Ahmad",
+            "given": "Fauzi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "publisher": "Oriental Scientific Publishing Company",
+      "official_url": "https:\/\/biomedpharmajournal.org\/vol11no2\/clinical-outcomes-of-hernia-nucleous-pulposus-after-microendodiscectomy\/",
+      "rev_number": 9,
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 2,
+      "lastmod": "2020-06-03 07:14:29",
+      "eprintid": 21628,
+      "date_type": "published",
+      "ispublished": "pub",
+      "abstract": "There are several options of surgical treatment of Hernia Nucleous Pulposus (HNP) such as discectomy and micro-endodiscectomy (MED). The fundamental differences between these procedures are the size of the incision, the discectomy procedure and the volume of disc taken. However, until now, there has not been any class 1 evidences explaining the efficacy of these procedures, and there is only a few studies about its safety and factors influencing its efficacy in treating HNP, especially in Indonesia. This study is aimed to assess clinical outcomes and safety of MED in HNP patients who underwent this procedure. Patient with HNP who underwent MED were followed prospectively in a period of January 2015 until December 2016. Clinical outcomes were evaluated by using Visual Analog Score (VAS) for assessing back pain and leg, and Oswestry Disability Index (ODI). The mean of pre-treatment score was compared with the mean of post-surgical treatment score by using paired t-test. Subjects were 78 HNP patients treated surgically. The average surgery duration (± SD) was 60 ± 17.1 minutes. The pretreatment score mean on VAS and ODI were 4.88 ± 1.10 and 35.21 ± 8.24. After surgical treatment, the VAS and ODI score obtained were significantly reduced to 1.53 ± 1.14 and 5.16 ± 5.52, respectively (p<0,001). A type of complication was observed, which was 5 (6.4%) cases of dural tear; no deficit in ankle dorsiflexion nor foot paresis were found. MED has been shown to be able to treat HNP with clinical outcomes similar to conventional open discectomy but with better levels of safety and effectiveness. However, this procedure still requires high quality randomized controlled trials studying about its efficacy and cost effectiveness in HNP treatment.",
+      "eprint_status": "archive",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "datestamp": "2020-06-03 07:14:29",
+      "dir": "disk0\/00\/02\/16\/28",
+      "divisions": [
+        "FK1"
+      ]
+    },
+    {
+      "refereed": "TRUE",
+      "number": 4,
+      "eprintid": 22081,
+      "lastmod": "2020-06-08 05:36:20",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Fauzi",
+            "family": "Ahmad"
+          },
+          "id": "ahmad.fauzi@fk.unila.ac.id"
+        }
+      ],
+      "publisher": "Biomedical and Pharmacology Journal",
+      "official_url": "https:\/\/biomedpharmajournal.org\/volume-11-number-4\/",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "dir": "disk0\/00\/02\/20\/81",
+      "datestamp": "2020-06-08 05:36:20",
+      "divisions": [
+        "FK1"
+      ],
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "ispublished": "pub",
+      "abstract": "The use of mechanical and chemical hemostatic control techniques in spinal fusion \r\nsurgery is common in Indonesia. However, there has been no study comparing the two in a single\r\nclinical trials. This study aims to find out which best of tranexamic acid injection,  a bulky\r\ncompression dressing and a standard dressing in providing surgical outcomes in spinal fusion\r\nsurgery. Thirty patients were grouped into three, 10 patients  each. To Group 1, tranexamic acid\r\nat a dose of 500 mg\/ml was administered pre operation and 2 hours later. For Group 2, a bulky\r\ncompression dressing was performed by covering the surgical wounds with a low-adherent\r\ndressing, overlaid with  four layers of sterile gauze and then sealed with a conformable adhesive\r\nretention tape. Standard dressing was applied to the patients of Group-3 using the same type\r\nof bandage and adhesive tape given to the Group-2, but only overlaid with two layers of sterile\r\ngauze. There is no statistical difference among trials groups for preoperative (P > 0.220) and\r\npostoperative (P > 0.380) hemoglobin levels and the level of perioperative blood loss (P > 0.110).\r\nWith respect to number of transfusion required, the tranexamic acid group was significantly\r\nlower compared to the standard dressing group (P = 0.018). No abnormality of wound seen\r\nin all three trials groups and only 2 patients of bulky compression dressing group reported\r\nexperience of headache. In conclusion, tranexamic acid is better to promote hemostasis compared\r\nto conventional dressing techniques.\r\nKeywords: Spine surgery, surgical outcomes, tranexamic acid, compression dressing",
+      "eprint_status": "archive",
+      "title": "Compared to Conventional Dressing Techniques,\r\nTranexamic Acid Injection Provide Better Surgical\r\nOutcomes in Spinal Fusion Surgery",
+      "metadata_visibility": "show",
+      "pagerange": "2215-2220",
+      "subjects": [
+        "RF"
+      ],
+      "volume": 11,
+      "issn": "2456–2610",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22081",
+      "status_changed": "2020-06-08 05:36:20",
+      "userid": 285,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35477",
+            "rev_number": 1,
+            "files": [
+                {
+                  "hash": "d1cea6a2ecd63211534ad21c3602ac9c",
+                  "mtime": "2020-06-08 04:51:45",
+                  "fileid": 203470,
+                  "filesize": 242569,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/203470",
+                  "filename": "BPJ_Vol_11_No_4_p_2215-2220.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 35477,
+                  "datasetid": "document"
+                }
+            ],
+            "eprintid": 22081,
+            "pos": 1,
+            "language": "en",
+            "main": "BPJ_Vol_11_No_4_p_2215-2220.pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "docid": 35477
+          }
+      ],
+      "date": "2018-12",
+      "publication": "Biomedical and Pharmacology Journal"
+    },
+    {
+      "official_url": "https:\/\/biomedpharmajournal.org\/vol11no4\/compared-to-conventional-dressing-techniques-tranexamic-acid-injection-provide-better-surgical-outcomes-in-spinal-fusion-surgery\/",
+      "publisher": "Oriental Scientific Publishing Company",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "creators": [
+        {
+          "name": {
+            "family": "Ahmad",
+            "given": "Fauzi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "ahmad.fauzi@fk.unila.ac.id"
+        }
+      ],
+      "eprintid": 21626,
+      "lastmod": "2020-06-03 05:03:33",
+      "number": 4,
+      "refereed": "TRUE",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "The use of mechanical and chemical hemostatic control techniques in spinal fusion surgery is common in Indonesia. However, there has been no study comparing the two in a single clinical trials. This study aims to find out which best of tranexamic acid injection,  a bulky compression dressing and a standard dressing in providing surgical outcomes in spinal fusion surgery. Thirty patients were grouped into three, 10 patients  each. To Group 1, tranexamic acid at a dose of 500 mg\/ml was administered pre operation and 2 hours later. For Group 2, a bulky compression dressing was performed by covering the surgical wounds with a low-adherent dressing, overlaid with  four layers of sterile gauze and then sealed with a conformable adhesive retention tape. Standard dressing was applied to the patients of Group-3 using the same type of bandage and adhesive tape given to the Group-2, but only overlaid with two layers of sterile gauze. There is no statistical difference among trials groups for preoperative (P > 0.220) and postoperative (P > 0.380) hemoglobin levels and the level of perioperative blood loss (P > 0.110). With respect to number of transfusion required, the tranexamic acid group was significantly lower compared to the standard dressing group (P = 0.018). No abnormality of wound seen in all three trials groups and only 2 patients of bulky compression dressing group reported experience of headache. In conclusion, tranexamic acid is better to promote hemostasis compared to conventional dressing techniques.",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/02\/16\/26",
+      "datestamp": "2020-06-03 05:03:33",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21626",
+      "type": "article",
+      "issn": "0974-6242",
+      "volume": 11,
+      "subjects": [
+        "RF"
+      ],
+      "pagerange": "2215-2220",
+      "metadata_visibility": "show",
+      "title": "Compared to Conventional Dressing Techniques, Tranexamic Acid Injection Provide Better Surgical Outcomes in Spinal Fusion Surgery",
+      "publication": "Biomedical & Pharmacology Journal",
+      "date": "2018-12",
+      "documents": [
+          {
+            "language": "en",
+            "main": "BPJ_Vol_11_No_4_p_2215-2220.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35011",
+            "rev_number": 1,
+            "pos": 1,
+            "eprintid": 21626,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 35011,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "BPJ_Vol_11_No_4_p_2215-2220.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200266",
+                  "filesize": 242569,
+                  "fileid": 200266,
+                  "mtime": "2020-06-03 04:47:08",
+                  "hash": "d1cea6a2ecd63211534ad21c3602ac9c"
+                }
+            ],
+            "docid": 35011,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          },
+          {
+            "eprintid": 21626,
+            "pos": 2,
+            "files": [
+                {
+                  "mtime": "2020-06-03 04:47:55",
+                  "hash": "d1cea6a2ecd63211534ad21c3602ac9c",
+                  "fileid": 200269,
+                  "filesize": 242569,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200269",
+                  "hash_type": "MD5",
+                  "filename": "BPJ_Vol_11_No_4_p_2215-2220.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 35012,
+                  "datasetid": "document"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35012",
+            "rev_number": 1,
+            "main": "BPJ_Vol_11_No_4_p_2215-2220.pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 2,
+            "format": "text",
+            "docid": 35012,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 285,
+      "status_changed": "2020-06-03 05:03:33"
+    },
+    {
+      "publication": "Biomedical & Pharmacology Journal",
+      "date": 2021,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 156653,
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "BPJ_Vol_14_No_1_295-302.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "hash": "5fba8b2db9ea8d23f849d7b05f0a03d9",
+                  "mtime": "2021-11-10 02:16:56",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/415485",
+                  "fileid": 415485,
+                  "filesize": 282919,
+                  "mime_type": "application\/pdf",
+                  "filename": "BPJ_Vol_14_No_1_295-302.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 156653
+                }
+            ],
+            "eprintid": 35719,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156653",
+            "rev_number": 1
+          }
+      ],
+      "userid": 285,
+      "status_changed": "2021-11-10 02:55:40",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35719",
+      "type": "article",
+      "issn": "0974-6242",
+      "volume": 4,
+      "subjects": [
+        "RF"
+      ],
+      "pagerange": "295-302",
+      "metadata_visibility": "show",
+      "title": "Multivariate Analysis of Factors that Influence the Clinical\r\nOutcome Oswestry Disability Index in Patients with Lumbar\r\nSpinal Stenosis Post Percutaneous Stenoscopic Lumbar\r\nDecompression",
+      "eprint_status": "archive",
+      "abstract": "This study aimed to assess the factors that influence The Oswestry Disability Index\r\n(ODI) clinical outcomes in patients with Lumbal Spinal Stenosis (LSS) after Percutaneous\r\nStenoscopic Lumbar Decompression (PSLD). A total of 92 patients were analyzed for factors\r\nthat affecting ODI clinical outcome. These factors were age, sex, body mass index, cigarette\r\nconsumption, alcohol consumption, sports history, pain onset, radicular pain, VAS pain score,\r\nparesis and paresthesia symptoms, duration and conservative management, length of operation,\r\nduration of treatment, recurrence of pain, and duration of postoperative healing. Data were\r\ncollected by direct examination, questionnaires, in-depth interviews, and patient medical\r\nrecords. A Pearson correlation or Spearman Rank test and independent T-test or Mann Whitney\r\nwas conducted to determine the significant relationship between these factors and ODI clinical\r\noutcomes. Multiple linear regression was performed to find out which factor most influences ODI\r\nclinical outcome. Some factors influence ODI outcome in the sample as resulted by statistical\r\nanalysis. From the statistic analysis, only three factors that influence the ODI postoperative\r\nthere was age (p=0.003), VAS preoperative (p=0.001), and ODI preoperative (p=0.001). There\r\nwas no statistical significance found in the other factors with p>0.005. Factors influencing\r\nclinical outcomes by ODI in patients with lumbar spinal stenosis after PSLD was the age of the\r\npatient, preoperative ODI, and preoperative VAS.",
+      "ispublished": "pub",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "divisions": [
+        "FK1"
+      ],
+      "datestamp": "2021-11-10 02:55:40",
+      "dir": "disk0\/00\/03\/57\/19",
+      "official_url": "https:\/\/dx.doi.org\/10.13005\/bpj\/2125",
+      "rev_number": 6,
+      "publisher": "Oriental Scientific Publishing Company",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "ahmad.fauzi@fk.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ahmad",
+            "given": "Fauzi"
+          }
+        }
+      ],
+      "eprintid": 35719,
+      "lastmod": "2021-11-10 02:55:40",
+      "number": 1,
+      "refereed": "TRUE",
+      "date_type": "published"
+    },
+    {
+      "divisions": [
+        "FK1"
+      ],
+      "datestamp": "2019-11-18 05:05:38",
+      "dir": "disk0\/00\/01\/60\/93",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Rheumatoid arthritis (RA) adalah penyakit inflamasi tersering yang mengenai 1-3% populasi dewasa.\r\nKeterlibatan sendi multipel, penyakit sistemik komorbid, polifarmasi dengan obat-obatan imunomodulator,\r\nmemberikan tantangan baru pada ahli bedah. Terapi operatif pada RA memerlukan pendekatan multidisiplin.\r\nManagemen preoperatif meliputi evaluasi seluruh sendi, rencana terapi operatif yang akan dilakukan, serta\r\nevaluasi kondisi medis untuk operasi dan anestesi. Obat-obatan harus dilanjutkan perioperatif dengan adekuat\r\nreplacement therapy pada pasien dengan kortikosteroid. Perioperatif juga meliputi obat profilaksis untuk infeksi\r\ndan komplikasi gastrointestinal. Penanganan yang hati-hati terhadap jaringan lunak dan tulang amat diperlukan\r\nsaat operasi. Bagian dengan kulit yang tipis dan tertekan memerlukan bantuan dan alas. Keberhasilan\r\nrehabilitasi pasca operasi meliputi mobilisasi segera, masukan dari terapis okupasi dan fisioterapi, serta\r\npemantauan dari orang-orang terdekat",
+      "date_type": "published",
+      "lastmod": "2019-11-18 05:05:38",
+      "eprintid": 16093,
+      "number": 1,
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "official_url": "http:\/\/juke.kedokteran.unila.ac.id",
+      "publisher": "Volume 3, Nomor 1, Tahun 2019",
+      "rev_number": 6,
+      "creators": [
+        {
+          "id": "ahmad.fauzi@fk.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Fauzi",
+            "family": "Ahmad"
+          }
+        }
+      ],
+      "userid": 285,
+      "status_changed": "2019-11-18 05:05:38",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 29187,
+            "files": [
+                {
+                  "mtime": "2019-11-12 06:22:39",
+                  "hash": "08dd647ea563cabeeb25008b7a5b5008",
+                  "filesize": 679726,
+                  "fileid": 137849,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/137849",
+                  "hash_type": "MD5",
+                  "filename": "JK. Unila (dr. A. Fauzi).pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 29187,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 16093,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29187",
+            "rev_number": 1,
+            "main": "JK. Unila (dr. A. Fauzi).pdf",
+            "language": "en"
+          }
+      ],
+      "publication": "JK Unila Jurnal Kedokteran Unila",
+      "date": "2019-03-30",
+      "metadata_visibility": "show",
+      "title": "Rheumatoid Arthritis",
+      "pagerange": "167-175",
+      "subjects": [
+        "RF"
+      ],
+      "volume": 3,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16093",
+      "type": "article",
+      "issn": "2527-3612"
+    },
+    {
+      "dir": "disk0\/00\/02\/16\/16",
+      "datestamp": "2020-06-03 04:43:43",
+      "divisions": [
+        "FK1"
+      ],
+      "abstract": "Rheumatoid arthritis (RA) adalah penyakit inflamasi tersering yang mengenai 1-3% populasi dewasa. Keterlibatan sendi multipel, penyakit sistemik komorbid, polifarmasi dengan obat-obatan imunomodulator, memberikan tantangan baru pada ahli bedah. Terapi operatif pada RA memerlukan pendekatan multidisiplin. Managemen preoperatif meliputi evaluasi seluruh sendi, rencana terapi operatif yang akan dilakukan, serta evaluasi kondisi medis untuk operasi dan anestesi. Obat-obatan harus dilanjutkan perioperatif dengan adekuat replacement therapy pada pasien dengan kortikosteroid. Perioperatif juga meliputi obat profilaksis untuk infeksi dan komplikasi gastrointestinal. Penanganan yang hati-hati terhadap jaringan lunak dan tulang amat diperlukan saat operasi. Bagian dengan kulit yang tipis dan tertekan memerlukan bantuan dan alas. Keberhasilan rehabilitasi pasca operasi meliputi mobilisasi segera, masukan dari terapis okupasi dan fisioterapi, serta pemantauan dari orang-orang terdekat",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Fauzi",
+            "family": "Ahmad",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "ahmad.fauzi@fk.unila.ac.id"
+        }
+      ],
+      "official_url": "https:\/\/juke.kedokteran.unila.ac.id\/index.php\/JK\/issue\/view\/96\/showToc",
+      "rev_number": 6,
+      "publisher": "Volume 3, Nomor 1, Tahun 2019",
+      "full_text_status": "public",
+      "number": 1,
+      "refereed": "TRUE",
+      "eprintid": 21616,
+      "lastmod": "2020-06-03 04:43:43",
+      "status_changed": "2020-06-03 04:43:43",
+      "userid": 285,
+      "date": "2019-12",
+      "publication": "JK Unila Jurnal Kedokteran Unila",
+      "documents": [
+          {
+            "eprintid": 21616,
+            "pos": 1,
+            "files": [
+                {
+                  "mtime": "2020-06-03 04:18:21",
+                  "hash": "040a6f5ed339359af5c480f3d5edae86",
+                  "fileid": 200189,
+                  "filesize": 679726,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200189",
+                  "hash_type": "MD5",
+                  "filename": "Dosen A_ Fauzi - Copy.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 35002,
+                  "datasetid": "document"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35002",
+            "rev_number": 1,
+            "main": "Dosen A_ Fauzi - Copy.pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 35002,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pagerange": "167-175",
+      "subjects": [
+        "RF"
+      ],
+      "title": "Rheumatoid Arthritis",
+      "metadata_visibility": "show",
+      "issn": "2527-3612",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21616",
+      "volume": 3
+    },
+    {
+      "userid": 285,
+      "status_changed": "2020-06-03 07:14:35",
+      "documents": [
+          {
+            "docid": 35020,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "main": "2015RoleofSIldenafilinaccelerationofdelayedunionfracturehealingonSpragueDawleyRatsModelBJMMR.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35020",
+            "rev_number": 1,
+            "eprintid": 21632,
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "2015RoleofSIldenafilinaccelerationofdelayedunionfracturehealingonSpragueDawleyRatsModelBJMMR.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 35020,
+                  "hash": "bc00eb83f6251f06c15c9707b1d7f82a",
+                  "mtime": "2020-06-03 05:51:32",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200323",
+                  "filesize": 9645004,
+                  "fileid": 200323
+                }
+            ]
+          }
+      ],
+      "publication": "British Journal of Medicine & Medical Research",
+      "date": "2015-12",
+      "metadata_visibility": "show",
+      "title": "Role of Sildenafil in Acceleration of Delayed Union Fracture Healing on Sprague-Dawley Rats Model",
+      "subjects": [
+        "RF"
+      ],
+      "pagerange": "419-428",
+      "volume": 8,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21632",
+      "issn": "2231-0614",
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/02\/16\/32",
+      "datestamp": "2020-06-03 07:14:35",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "This work was carried out in collaboration between all authors. Author AF managed the experimental process, analyses of the study, performed the histomorphometry analysis. Author AFKdesignedthe study, wrote the protocol and wrote the manuscript. AuthorAKmanaged theliterature searches,provide scientific support andauthorEKperformed the immunohistochemistry analyses. All authors read and approved the final manuscript",
+      "date_type": "published",
+      "lastmod": "2020-06-03 07:14:35",
+      "eprintid": 21632,
+      "number": 5,
+      "refereed": "TRUE",
+      "official_url": "https:\/\/www.researchgate.net\/profile\/Aryadi_Kurniawan2\/publication\/332571072_2015_Role_of_SIldenafil_in_accelerationof_delayed_union_fracture_healing_on_Sprague_Dawley_Rats_Model_BJMMR\/links\/5cbeb299299bf1209778d739\/2015-Role-of-SIldenafil-in-accelerationof-delayed-union-fracture-healing-on-Sprague-Dawley-Rats-Model-BJMMR.pdf",
+      "publisher": "SCIENCEDOMAIN international",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "ahmad.fauzi@fk.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Fauzi",
+            "family": "Ahmad"
+          }
+        }
+      ]
+    },
+    {
+      "ispublished": "pub",
+      "abstract": "Trigger finger adalah penyakit yang umum terjadi pada jari, yang disebabkan oleh peradangan dan penyempitan pulley A-1, menyebabkan rasa sakit, terkunci dan hilangnya gerakan jari yang terkena. Meskipun dapat terjadi pada siapa saja, trigger finger lebih sering terdapat pada penderita diabetes dan wanita, umumnya pada dekade kelima dan keenam. Diagnosis penyakit ini cukup mudah, karena sebagian besar pasien mengeluh clicking atau jari terkunci, namun proses patologis lain seperti fraktur, tumor, atau cedera jaringan lunak lainnya harus disingkirkan. Penatalaksanaan konservatif antara lain splinting, injeksi kortikosteroid dan terapi adjuvant. Penatalaksanaan bedah terdiri dari pembedahan pulley A-1 dengan teknik terbuka atau perkutaneus. Komplikasi pembedahan jarang terjadi, meliputi bowstringing, cedera saraf interdigitalis, dan triggering yang tidak sembuh. Beberapa pasien memerlukan prosedur yang lebih ekstensif untuk mengurangi ukuran tendon fleksor. Kondisi komorbid mempengaruhi penatalaksanaan trigger finger. Pemahaman tentang pathomekanik, faktor risiko, dan variasi penatalaksanaan trigger finger, sangat penting untuk perawatan yang tepat. [JuKe Unila 2015; 5(9):134-140]\r\n\r\nKata Kunci: penatalaksanaan konservatif, penatalaksanaan bedah, trigger finger",
+      "eprint_status": "archive",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "datestamp": "2020-06-03 07:14:53",
+      "dir": "disk0\/00\/02\/16\/36",
+      "divisions": [
+        "FK1"
+      ],
+      "creators": [
+        {
+          "id": "ahmad.fauzi@fk.unila.ac.id",
+          "name": {
+            "family": "Ahmad",
+            "given": "Fauzi",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "official_url": "https:\/\/juke.kedokteran.unila.ac.id\/index.php\/juke\/issue\/view\/MA",
+      "publisher": "Fakultas Kedokteran Universitas Lampung dan IDI WIlayah Lampung",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "number": 9,
+      "refereed": "TRUE",
+      "eprintid": 21636,
+      "lastmod": "2020-06-03 07:14:53",
+      "date": 2015,
+      "publication": "JUKE",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "docid": 35023,
+            "mime_type": "application\/pdf",
+            "eprintid": 21636,
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 35023,
+                  "mime_type": "application\/pdf",
+                  "filename": "647-1335-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200336",
+                  "fileid": 200336,
+                  "filesize": 371714,
+                  "hash": "8f17ef8b093ae1732da35812bd41e952",
+                  "mtime": "2020-06-03 06:02:07"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35023",
+            "main": "647-1335-1-PB.pdf",
+            "language": "en"
+          }
+      ],
+      "status_changed": "2020-06-03 07:14:53",
+      "userid": 285,
+      "issn": "ISSN 2088-9348",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21636",
+      "volume": 5,
+      "subjects": [
+        "RF"
+      ],
+      "pagerange": "134-140",
+      "title": "Trigger Finger",
+      "metadata_visibility": "show"
+    },
+    {
+      "divisions": [
+        "FK1"
+      ],
+      "datestamp": "2020-06-08 05:36:14",
+      "dir": "disk0\/00\/02\/20\/80",
+      "eprint_status": "archive",
+      "abstract": "Lutut adalah salah satu sendi yang paling sering terkena rheumatoid arthritis (RA). Total knee arthroplasty (TKA)\r\nmerupakan intervensi yang paling sukses mengurangi nyeri lutut dan meningkatkan fungsi lutut pada RA stadium lanjut.\r\nKami laporkan kasus tiga pasien wanita dengan kerusakan lutut berat akibat RA sekunder yang dikelola dengan fixedbearing\r\nprosthesis\r\nZimmer's NexGen.\r\nPasien\r\npertama\r\nadalah seorang\r\nwanita\r\nberusia 45 tahun\r\nyang\r\nmenderita\r\nRA pada\r\nkedua\r\nlutut\r\ndengan\r\nKnee\r\nsociety\r\nscore\r\n(KSS)\r\npada\r\nlutut\r\nkanan\r\n40\r\ndan\r\npada\r\nlutut\r\nkiri\r\n38.\r\nPasien\r\nkedua\r\nadalah\r\nseorang\r\n\r\nwanita\r\nberusia\r\n46\r\ntahun\r\nyang\r\nmenderita\r\nRA\r\npada\r\nlutut\r\nkiri\r\ndengan\r\nKSS\r\n50.\r\nPasien\r\nketiga,\r\nwanita\r\nberusia\r\n35\r\ntahun\r\ndengan\r\n\r\nKSS\r\n40.\r\nSetelah\r\nmelakukan\r\nTKA,\r\nskor\r\nKSS\r\npasien\r\npertama\r\nmeningkat\r\nmenjadi\r\n77\r\npada\r\nkedua\r\nlutut.\r\nDemikian\r\njuga\r\npada\r\n\r\npasien\r\nkedua\r\ndan\r\nketiga,\r\nskor\r\nKSS\r\nmenjadi\r\n70.\r\nDari\r\nkasus\r\nini\r\ndapat\r\ndisimpulkan\r\nbahwa\r\nTKA\r\nmeningkatkan\r\nfungsi\r\nsecara\r\n\r\nkeseluruhan\r\nserta\r\nkualitas\r\nhidup\r\npasien\r\ndengan\r\nRA\r\nlutut.\r\nKata Kunci: Lutut, rheumatoid arthritis, total knee arthroplasty",
+      "ispublished": "pub",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "official_url": "https:\/\/jkb.ub.ac.id\/index.php\/jkb\/issue\/view\/64\/showToc",
+      "publisher": "Fakultas Kedokteran Universitas Brawijaya",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "given": "Fauzi",
+            "family": "Ahmad",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "ahmad.fauzi@fk.unila.ac.id"
+        }
+      ],
+      "eprintid": 22080,
+      "lastmod": "2020-06-08 05:36:14",
+      "number": 2,
+      "refereed": "TRUE",
+      "userid": 285,
+      "status_changed": "2020-06-08 05:36:14",
+      "publication": "Jurnal Kedokteran Brawijaya",
+      "date": "2016-08",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35476",
+            "rev_number": 1,
+            "files": [
+                {
+                  "hash": "ea2e028780462a2db0abe54a6af2105f",
+                  "mtime": "2020-06-08 04:32:22",
+                  "filesize": 978685,
+                  "fileid": 203463,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/203463",
+                  "filename": "1388-6420-5-PB.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 35476,
+                  "datasetid": "document"
+                }
+            ],
+            "eprintid": 22080,
+            "pos": 1,
+            "language": "en",
+            "main": "1388-6420-5-PB.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "docid": 35476
+          }
+      ],
+      "pagerange": "179-184",
+      "subjects": [
+        "RF"
+      ],
+      "metadata_visibility": "show",
+      "title": "otal Knee Arthroplasty pada Rheumatoid Arthritis",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22080",
+      "issn": "2338-0772",
+      "volume": 29
+    },
+    {
+      "creators": [
+        {
+          "id": "exsa.hadibrata@gmail.com",
+          "name": {
+            "family": "Exsa Hadibrata",
+            "given": "exsa",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Sutyarso",
+            "family": "Sutyarso",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "sutyarso@yahoo.co.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Rasmi Zakiah",
+            "given": "Oktarlina",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "publisher": "IBNU SINA Jurnal Kedokteran dan Kesehatan",
+      "official_url": "https:\/\/ojsfkuisu.com\/index.php\/ibnusina\/issue\/view\/2",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "refereed": "TRUE",
+      "number": 1,
+      "eprintid": 20777,
+      "lastmod": "2020-05-28 02:53:01",
+      "datestamp": "2020-05-28 02:53:01",
+      "dir": "disk0\/00\/02\/07\/77",
+      "divisions": [
+        "FK1"
+      ],
+      "ispublished": "pub",
+      "abstract": "Indonesia memiliki prevalensi infertilitas sebanyak 2.647.695 dari 238 juta penduduk.\r\nInfertilitas dapat disebabkan oleh faktor eksternal seperti obat antibiotik. Gentamisin\r\nmerupakan antibiotik yang dapat menginduksi stres oksidatif pada saluran reproduksi\r\npria dan menyebabkan kerusakan spermatogenesis. Tomat memiliki banyak kandungan\r\nantioksidan salah satunya, likopen yang berpotensi menghentikan kerusakan oksidatif\r\ntersebut. Penelitian ini bertujuan untuk mengetahui jumlah dan motilitas sperma yang\r\ndiinduksi gentamisin. Dengan sampel 30 tikus putih galur Sprague dawley dibagi ke\r\ndalam 5 kelompok, yaitu K1 yang tidak diberi perlakuan, K2  diberikan gentamisin 20\r\nmg\/kgbb, P1, P2 dan P3 diinduksi gentamisin 20 mg\/kgbb kemudian diberi jus tomat\r\n25% (P1), 50% (P2), dan 100% (P3). Data diuji dengan One Way Anova menunjukkan\r\ntidak terdapat pengaruh pemberian jus tomat terhadap jumlah spermatozoa (p>0,05).\r\nSedangkan pada motilitas terdapat pengaruh (P=0,00). Rerata jumlah spermatozoa\r\n20,5±10,36 (K1), 15,8±8,61 (K2), 22,9±13,07 (P1), 26,6±12,51 (P2), 32,9±13,63 (P3).\r\nRerata motilitas spermatozoa adalah 40,1±4,5 (K1), 14,2±3,9 (K2), 22,9±5,58 (P1),\r\n23,7±5,98 (P2), 33,1±5,48 (P3).  Hasil uji Post Hoc antar kelompok kontrol (K1)\r\ndengan K2 dan kelompok perlakuan P1, P2, P3 menunjukan perbedaan bermakna\r\n(p<0,05). Jus tomat 50% dan 100% dapat mencegah penurunan motilitas spermatozoa\r\ntetapi tidak memiliki efek yang nyata pada jumlah spermatozoa.\r\nKata kunci : Likopen, radikal bebas, antioksidan.",
+      "eprint_status": "archive",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "subjects": [
+        "RF"
+      ],
+      "pagerange": "1-9",
+      "title": "EFEK JUS TOMAT TERHADAP JUMLAH DAN MOTILITAS   SPERMATOZOA TIKUS PUTIH (RATTUS NORVEGICUS) YANG DIINDUKSI GENTAMISIN",
+      "metadata_visibility": "show",
+      "issn": "1411-9986",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20777",
+      "volume": 19,
+      "status_changed": "2020-05-28 02:53:01",
+      "userid": 88,
+      "date": "2020-01-01",
+      "publication": "IBNU SINA Jurnal Kedokteran dan Kesehatan",
+      "documents": [
+          {
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 34121,
+            "mime_type": "application\/pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34121",
+            "rev_number": 1,
+            "eprintid": 20777,
+            "pos": 1,
+            "files": [
+                {
+                  "filename": "alvira_balqis16.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 34121,
+                  "datasetid": "document",
+                  "hash": "0714c81bc9f93b8e9492bfc6622f3231",
+                  "mtime": "2020-05-28 02:29:07",
+                  "filesize": 521727,
+                  "fileid": 194558,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/194558"
+                }
+            ],
+            "language": "en",
+            "main": "alvira_balqis16.pdf"
+          }
+      ]
+    },
+    {
+      "title": "Indikasi Tonsilektomi pada Laki‐Laki Usia 19 Tahun dengan Tonsilitis Kronis",
+      "metadata_visibility": "show",
+      "pagerange": "22-25",
+      "subjects": [
+        "RF"
+      ],
+      "volume": 5,
+      "issn": "2339-1227",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2126",
+      "status_changed": "2017-05-31 02:15:23",
+      "userid": 261,
+      "documents": [
+          {
+            "language": "en",
+            "main": "Fariz-Acc-Kirim_UDA-DI-EDIT.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2000",
+            "rev_number": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "filename": "Fariz-Acc-Kirim_UDA-DI-EDIT.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 2000,
+                  "datasetid": "document",
+                  "mtime": "2017-05-30 07:18:57",
+                  "hash": "5bdce8714a1a73345a2116fab9e85568",
+                  "fileid": 14691,
+                  "filesize": 167507,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/14691"
+                }
+            ],
+            "eprintid": 2126,
+            "pos": 1,
+            "mime_type": "application\/pdf",
+            "docid": 2000,
+            "format": "text",
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "date": "2016-08-01",
+      "publication": "Medula",
+      "date_type": "published",
+      "number": 2,
+      "refereed": "TRUE",
+      "lastmod": "2017-05-31 02:15:23",
+      "eprintid": 2126,
+      "creators": [
+        {
+          "name": {
+            "given": "Fadly Tanjung",
+            "family": "FariZ",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "mukhlisimantokhlis@yahoo.co.id"
+        },
+        {
+          "id": "mukhlisimantokhlis@yahoo.co.id",
+          "name": {
+            "given": "Imanto",
+            "family": "Mukhlis",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "official_url": "http:\/\/jukeunila.com\/medula\/vol-5-no-02\/",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "datestamp": "2017-05-31 02:15:23",
+      "dir": "disk0\/00\/00\/21\/26",
+      "divisions": [
+        "FK1"
+      ],
+      "abstract": "Tonsilitis merupakan peradangan tonsil palatina yang merupakan bagian dari cincin waldeyer. Tonsilektomi adalah prosedur\r\nmengangkat keseluruhan tonsil termasuk kapsulnya dengan cara diseksi pada ruang peritonsilar antara kapsul tonsil dan\r\ndinding muskuler. Pilihan terapi tonsilektomi dilakukan berdasarkan indikasi yang tepat sehingga diperoleh keuntungan\r\nyang nyata. Laporan kasus ini bertujuan untuk mengkaji indikasi tonsilektomi yang tepat pada pasien ini. Data primer\r\ndiperolah berdasarkan anamnesis dan pemeriksaan fisik. Pasien seorang laki‐laki berusia 19 tahun dengan keluhan nyeri\r\npada tenggorokan yang dirasakan seperti ada yang mengganjal dan dirasakan terus menerus. Keluhan pertama terjadi saat\r\npasien berusia 5 tahun dan kembali kambuh lebih dari 3 kali sejak 2 bulan lalu dengan disertai napas berbau dan tidur\r\nmengorok. Dari pemeriksaan fisik didapatkan kesadaran komposmentis, tanda‐tanda vital normal. Pada status generalis\r\ndalam batas normal, pada status lokalis didapatkan tonsil T3‐T3, hiperemis ‐\/‐, kripta melebar +\/+, detritus ‐\/‐, dengan\r\nuvula berada ditengah dengan warna mukosa nonhiperemis. Pada pasien kemudian dilakukan tonsilektomi bilateral.\r\nBerdasarkan indikasi American Academy of Otolaryngology‐Head and Neck Surgery (AAO‐NHS) ditemukan indikasi relatif\r\nberupa serangan tonsilitis yang terjadi lebih dari 3 kali disertai dengan halitosis. Walaupun hanya ditemukan indikasi relatif\r\nnamun berdasarkan indikasi menurut Scottish Intercollegiate Guidelines Network (SIGN) disebutkan penilaian klinis dari\r\ndokter dapat dijadikan indikasi tonsilektomi.\r\nKata kunci: indikasi, tonsilektomi, tonsilitis kronik",
+      "ispublished": "pub",
+      "eprint_status": "archive"
+    },
+    {
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Yusi",
+            "family": "Farida"
+          },
+          "id": "yusifaridaaa@yahoo.co.id"
+        },
+        {
+          "id": "dwitaoktaria@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "dwita",
+            "family": "oktaria"
+          }
+        }
+      ],
+      "rev_number": 6,
+      "official_url": "http:\/\/jukeunila.com\/medula\/vol-6-no-01\/",
+      "publisher": "Medical Journal of Lampung Univerisity",
+      "full_text_status": "public",
+      "number": 1,
+      "refereed": "TRUE",
+      "lastmod": "2017-06-02 02:08:43",
+      "eprintid": 2303,
+      "datestamp": "2017-06-02 02:08:43",
+      "dir": "disk0\/00\/00\/23\/03",
+      "divisions": [
+        "FK1"
+      ],
+      "abstract": "Otitis media supuratif kronik (OMSK) adalah suatu keadaan peradangan kronik pada telinga bagian tengah dengan perforasi membran timpani dan riwayat keluarnya sekret dari liang telinga lebih dari 2 bulan. Prevalensi di seluruh dunia menyatakan bahwa ada sekitar 65-330 juta orang yang menderita penyakit OMSK. Tn. R, 17 tahun datang dengan keluhan keluar cairan berwarna  kekuningan,  tidak berbau  dan tidak berdarah  pada telinga  kiri sejak ±3 bulan.Pasien  juga mengeluh  telinga  kiri terasa  penuh  danmengalami  penurunan  pendengaran.  Temuan  fisik:  dalam  batas  normal.Status  lokalis:kanalis  auditoris eksterna telinga sinistra tampak sempit, mukosa hiperemis dan terlihat discharge mukopurulen.  Membran timpani sinistra perforasi di tengah dengan tepi rata. Pasien didiagnosis OMSK dan diterapi dengan irigasi larutan NaCl 0,9% disertai dengan aural toilet,  diberikan  amoksiklav  625 mg sehari  tiga kali selama  lima hari dan ciprofloxacin  tetes telinga  sehari  dua kali sebanyak   dua  tetes  pada  telinga   kiri.  Kombinasi   antibiotik   topikal   dan  sistemik   merupakan   pilihan   pertama   dalam tatalaksana  OMSK terkini yang menunjukkan  angka kesembuhan  sebesar 93% pada 100.000 kasus di Amerika Serikat pada tahun  2015.  Antibiotik   topikal  golongan   kuinolon   lebih  direkomendasikan  karena  lebih  efektif  dibandingkan   dengan golongan  aminoglikosida  dan tidak mempunyai  efek samping  ototoksik.  Amoksisilin\/clavulanat merupakan  obat antibiotik sistemik  pilihan  pertama  sedangkan  golongan  kuinolon  merupakan  obat  pilihan  kedua  pada  pasien  OMSK.  Pasien  juga diedukasi untuk menjaga telinga supaya tetap kering agar pengobatan optimal dan mencegah infeksi berulang.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "subjects": [
+        "RF"
+      ],
+      "title": "Tatalaksana Terkini Otitis Media Supuratif Kronis (OMSK)",
+      "related_url": [
+        {
+          "type": "org",
+          "url": "http:\/\/jukeunila.com\/medula\/vol-6-no-01\/"
+        }
+      ],
+      "metadata_visibility": "show",
+      "issn": "2337 3776",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2303",
+      "volume": 6,
+      "status_changed": "2017-06-02 02:08:43",
+      "userid": 161,
+      "date": "2016-12",
+      "publication": "Medical Journal of Lampung University",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 2188,
+            "mime_type": "application\/pdf",
+            "pos": 1,
+            "eprintid": 2303,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/15959",
+                  "fileid": 15959,
+                  "filesize": 154012,
+                  "hash": "80d5652f7941ce7cf493ae22e77ffa09",
+                  "mtime": "2017-05-31 02:00:43",
+                  "datasetid": "document",
+                  "objectid": 2188,
+                  "mime_type": "application\/pdf",
+                  "filename": "Yusi-dan-Dwita-_-Tatalaksana-Terkini-Otitis-Media-Supuratif-Kronis-OMSK.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2188",
+            "rev_number": 1,
+            "main": "Yusi-dan-Dwita-_-Tatalaksana-Terkini-Otitis-Media-Supuratif-Kronis-OMSK.pdf",
+            "language": "en"
+          }
+      ]
+    },
+    {
+      "eprintid": 44000,
+      "lastmod": "2022-08-15 01:33:15",
+      "number": 2,
+      "refereed": "TRUE",
+      "official_url": "https:\/\/dx.doi.org\/10.13005\/bpj\/2440",
+      "publisher": "Oriental Scientific Publishing Company",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Ahmad",
+            "family": "Fauzi"
+          }
+        }
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "eprint_status": "archive",
+      "abstract": "One of the causes of nonunion is inadequate vascularization due to severe injury\r\nmechanisms that cause defective bone healing factors. Therefore, in non-union fractures, a trigger\r\nis needed for the growth factors to work properly. This study aimed to determine the effects of\r\nALSR on VEGF and CD-34 in non-union fractures. This study used an experimental post-test\r\nonly control group design that involved white rats of the Sprague-Dawley strain. The VEGF\r\nexpression was assessed by anti-VEGF staining, which was done by cutting paraffin blocks into\r\na thickness of 5 µm, then the blocks were deparaffinized in xylol and rehydrated with alcohol.\r\nThe results of the analysis are displayed with their mean ranks between control groups and\r\ntreatment groups. It was found that CD-34 expression was high in the ALSR group. This shows\r\nthe occurrence of angiogenesis and the regeneration in the case of non-union fractures in this\r\nstudy.",
+      "ispublished": "pub",
+      "divisions": [
+        "FK1"
+      ],
+      "datestamp": "2022-08-15 01:33:15",
+      "dir": "disk0\/00\/04\/40\/00",
+      "volume": 15,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44000",
+      "issn": "0974-6242",
+      "metadata_visibility": "show",
+      "title": "Effects of Amnion Lyophilization Sterile Radiation on Vascular\r\nEndothelial Growth Factor and Cluster of Differentiation 34 in\r\nNonunion Fractures",
+      "pagerange": "1053-1057",
+      "subjects": [
+        "RF"
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "main": "BPJ_Vol_15_No_2_p_1053-1057.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166001",
+            "rev_number": 1,
+            "files": [
+                {
+                  "hash": "1bae51c7b573257d4e45aaf4cf270521",
+                  "mtime": "2022-08-12 20:03:49",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/478730",
+                  "fileid": 478730,
+                  "filesize": 412835,
+                  "mime_type": "application\/pdf",
+                  "filename": "BPJ_Vol_15_No_2_p_1053-1057.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 166001
+                }
+            ],
+            "pos": 1,
+            "eprintid": 44000,
+            "mime_type": "application\/pdf",
+            "docid": 166001,
+            "format": "text",
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "publication": "Biomedical & Pharmacology Journal",
+      "date": "2022-06-17",
+      "userid": 285,
+      "status_changed": "2022-08-15 01:33:15"
+    },
+    {
+      "userid": 275,
+      "status_changed": "2017-05-31 06:21:01",
+      "publication": "J\tMedula\tUnila",
+      "documents": [
+          {
+            "language": "en",
+            "main": "Lita Marlinda.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2148",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 2148,
+                  "mime_type": "application\/pdf",
+                  "filename": "Lita Marlinda.pdf",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/15679",
+                  "filesize": 213328,
+                  "fileid": 15679,
+                  "hash": "eba29eb072f21f3a8e1cf7a0cf239e78",
+                  "mtime": "2017-05-30 22:51:22"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 2263,
+            "mime_type": "application\/pdf",
+            "docid": 2148,
+            "format": "text",
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "pagerange": "67-71",
+      "subjects": [
+        "RF"
+      ],
+      "metadata_visibility": "show",
+      "title": "Otomikosis\tAuris\tDekstra\tpada\tPerenang",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2263",
+      "type": "article",
+      "volume": 6,
+      "divisions": [
+        "FK1"
+      ],
+      "datestamp": "2017-05-31 06:21:01",
+      "dir": "disk0\/00\/00\/22\/63",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Otomikosis\t adalah\t infeksi\t telinga\t yang\t disebabkan\t oleh\t jamur,\t atau\t infeksi\t jamur\t yang\t superficial\t pada\t pinna\t dan\t meatus\t\r\nauditorius\t eksternus.\t Pasien\t laki-laki,\t usia\t 23\t tahun\t datang\t ke\t Rumah\tSakit\t Provinsi\t dr.\t H.\t Abdul\t Moeloek\t dengan\tkeluhan\t\r\ngatal\t pada\t liang\t telinga\t kanan\t sejak\t 6\t hari\t yang\t lalu,\t dirasakan\t terus-menerus,\t sampai\t mengganggu\t aktivitas\t seharihari.Pasien\tmengatakan\tbeberapa\tkali\tmembersihkan\ttelinga\tkanannya\tdengan\tcotton\tbud\tdan\tterkadang\tmengorek\ttelinga\t\r\nmenggunakan\t\r\njari\t tangan.\t Pasien\t juga\t mengeluhkan\t terasa\t penuh\t di\t liang\t telinga\t kanan,\t nyeri\t telinga\t kanan,\t dan\t\r\npendengaran\t menurun.\t Pasien\t merupakan\t seseorang\t atlit\t \t renang,\t pasien\t beraktifitas\t renang\t 3-4\t hari\t seminggu.\t Pada\t\r\npemeriksaan\t fisik\t didapatkan\t liang\t telinga\t kanan\t sempit,\t tampak\t hiperemis,\t terdapat\t debris\t berwarna\t putih,\t edema\t (+),\t\r\nserumen\t (+).\t Membran\t timpani\t dekstra\t sulit\t dinilai\t dikarenakan\t terdapat\t edema\t pada\t kanalis\t aurikularis\t dekstra.\t\r\nPenatalaksanaan\tpasien\tdengan\tmembersihkan\tdebris\tpada\tliang\ttelinga\tkanan,\tKlotrimazol\t10\tgr\tsalep\t2x1,\tSetirizin\ttab\t10\t\r\nmg\t 1x1\t (malam\t hari),\t Kalium\t diklofenak\t tab\t 50mg\t 2x1,\t dan\t edukasi\t pasien\t untuk\t tidak\t membersihkan\t telinga,\t tidak\t\r\nberenang\tselama\tpengobatan.\t\r\n\t\r\nKata\tkunci:\tdebris\tputih,\tinfeksi\tfungi,\totomikosis",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "creators": [
+        {
+          "name": {
+            "given": "Lita",
+            "family": "Marlinda",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Apriliana",
+            "given": "Ety"
+          }
+        }
+      ],
+      "lastmod": "2017-05-31 06:21:01",
+      "eprintid": 2263,
+      "refereed": "FALSE",
+      "number": 1
+    },
+    {
+      "pagerange": "88-92",
+      "subjects": [
+        "RF"
+      ],
+      "title": "Corpus\tAlienum\tin\tEsophagus\tPars\tThoracic\tin\tBoy\tAged 3\tYears\tOld",
+      "metadata_visibility": "show",
+      "issn": "2339-1227",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2057",
+      "type": "article",
+      "volume": 6,
+      "status_changed": "2017-05-30 07:12:48",
+      "userid": 1125,
+      "date": "2016-12",
+      "publication": "medical profession journal of lampung university",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1929",
+            "rev_number": 1,
+            "eprintid": 2057,
+            "pos": 1,
+            "files": [
+                {
+                  "hash": "d5403b12d4737f3b1f4b7007ed461c0b",
+                  "mtime": "2017-05-30 06:11:48",
+                  "fileid": 14297,
+                  "filesize": 9282133,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/14297",
+                  "filename": "Muhammad-dan-Adityo-_-Corpus-Alienum-di-Esofagus-Pars-Torakalis-pada-Anak-Laki-Laki-Usia-3-Tahun.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 1929,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "main": "Muhammad-dan-Adityo-_-Corpus-Alienum-di-Esofagus-Pars-Torakalis-pada-Anak-Laki-Laki-Usia-3-Tahun.pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "docid": 1929,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "muhammaddwiario@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Muhammad Dwi\tArio",
+            "given": "ario"
+          }
+        },
+        {
+          "name": {
+            "given": "wibowo",
+            "family": "Adityo\tWibowo",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "doktertyowibowo87@gmail.com"
+        }
+      ],
+      "publisher": "FK Unila",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "number": 1,
+      "refereed": "FALSE",
+      "eprintid": 2057,
+      "lastmod": "2017-05-30 07:12:48",
+      "dir": "disk0\/00\/00\/20\/57",
+      "datestamp": "2017-05-30 07:12:48",
+      "divisions": [
+        "FK1"
+      ],
+      "ispublished": "pub",
+      "abstract": "Corpus\t alienum\t in\t esophagus\t can\t be sharp,blunt\t objects\t or\t food\t stucked\t and\t wedged\t in\t the\t esophagus\t caused\t by\t\t\r\nswallowing,\teither\tintentionally\tor\tunintentionally.\tForeign\tbodies\tin\tthe\tairways\tcan\toccur\tat\tall\tages,\tespecially\tchildren\t\r\nbecause\t they\toften\tinsert\tobjects\tinto\this\tmouth.\tForeign\tbodies\tin\t the\tesophagus\tcan\tcause\ta\tdangerous\tstate\t,\tsuch\tas\t\r\nblockage\tand\t suppression\tinto\t the\tairway.\tSymptoms\t that\tmay\tarise\tas\ta\t result\t of\t the\t corpus\talienum\tin\t the\tesophagus\t\r\ninclude\tdifficulty\tin\tswallowing\t(dysphagia),\tdiscomfort\tin\tthe\tchest,\tpain\twhen\tswallowing\t(odynophagia),\thypersalivation,\t\r\nregurgitation\tand\tvomiting\tand\talso\tdifficulty\tin\tbreathing\t(dyspnea)\tin\tcase\tof\tsuppression\tof\tthe\ttrachea\tby\tforeign\tbody.\t\r\nSymptoms\t of\t dysphagia\t varies\t depending\t on\t the\t size\t of\t the\t foreign\t body,\t dysphagia\t is\tmore\t severe\t if\t there\t has\t been\ta\t\r\nmucosal\tedema\twhich\tworsening\tthe\tblockage\tcausing\tthe\tpersistent\tblockage\tof\tthe\tesophagus.\tThree\tyears\told\tboy\tAn.R\t\r\nwas\treported\twith\tcorpus\talienum\tin\tesophagus\tpars\tthoracic.\tAfter\tconfirmation\tby\tthe\tX-ray\texamination\tof\tthoracic\tthen\t\r\ndo\tthe\timmediate\ttreatment\twith\tthe\textraction\tmethod\tof\tthe\tcorpus\talienum\twith\tesophagoscopy\tand\tdevice\tas\twell\tas\t\r\nconsideration\t of\t technique\t to\t encourage\t corpus\t alienum\t to\t the\t stomach\t and\t monitored\t that\t the\t result\t is\t used\t the\t\r\ntechnique\tto\tencourage\tcorpus\talienum\tto\tthe\tstomach\twhere\tcorpus\talienum\tcan\tget\tout\tfrom\tthe\tbody.",
+      "eprint_status": "archive"
+    },
+    {
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11066",
+      "issn": "2337-3776",
+      "volume": 7,
+      "subjects": [
+        "RF"
+      ],
+      "pagerange": "1-6",
+      "metadata_visibility": "show",
+      "title": "Pengaruh Induksi Plumbum Asetat Terhadap Memori Spasial Pada Tikus Putih Jantan (Rattus norvegicus) Galur Sprague dawley",
+      "publication": "Majority",
+      "date": "2018-12-01",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 24060,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "main": "2044-2764-1-PB.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24060",
+            "files": [
+                {
+                  "fileid": 101207,
+                  "filesize": 240821,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/101207",
+                  "hash": "0d24f5e61e1064ad307f7fee4f27807d",
+                  "mtime": "2019-04-02 07:39:14",
+                  "objectid": 24060,
+                  "datasetid": "document",
+                  "filename": "2044-2764-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 11066
+          }
+      ],
+      "userid": 1197,
+      "status_changed": "2019-04-09 06:56:55",
+      "official_url": "http:\/\/juke.kedokteran.unila.ac.id\/index.php\/majority\/index",
+      "rev_number": 6,
+      "publisher": "Juke Unila",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Teguh",
+            "given": "Dwi Wicaksono"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Janar Wulan",
+            "family": "Anggraeni",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "ratna.sari@fk.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ratna",
+            "given": "Dewi Puspita Sari"
+          }
+        }
+      ],
+      "eprintid": 11066,
+      "lastmod": "2019-04-09 06:56:55",
+      "refereed": "TRUE",
+      "number": 3,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "abstract": "Kendaraan menyumbangkan 70-80% polusi udara, salah satu komponen polusi tersebut adalah plumbum. Plumbum merupakan logam bersifat neurotoksik yang dapat menurunkan memori spasial. Penelitian ini menggunakan metode rancangan acak lengkap dengan sampel 24 ekor tikus putih (Rattus norvegicus) jantan galur Sprague dawley berusia 2-3 bulan terbagi ke dalam 4 kelompok yang diinduksi dengan plumbum asetat selama 7 hari, yaitu kelompok kontrol (K), kelompok perlakuan 1 dosis 50 mg\/kg (P1), kelompok perlakuan 2 dosis 100 mg\/kg (P2) dan kelompok perlakuan 3 dosis 200 mg\/kg (P3). Memori spasial dinilai menggunakan alat Morris-water maze metode probe test dengan latihan 4 kali\/hari selama 2 hari. Data dianalisis menggunakan metode One-way Anova. Hasil rerata nilai memori spasial pada K: 35.28%, P1: 25.55%, P2: 25.28%, P3: 21.39% didapatkan pengaruh yang bermakna dengan nilai p=0.037. Induksi plumbum asetat selama 7 hari dapat menurunkan memori spasial dan intake sukrosa tikus putih (Rattus norvegicus) jantan galur Sprague dawley.\r\nKata kunci: Memori Spasial, Plumbum, Watermaze",
+      "ispublished": "pub",
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/01\/10\/66",
+      "datestamp": "2019-04-09 06:56:55"
+    },
+    {
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "docid": 17964,
+            "mime_type": "application\/pdf",
+            "eprintid": 5037,
+            "pos": 1,
+            "files": [
+                {
+                  "fileid": 48357,
+                  "filesize": 150059,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/48357",
+                  "mtime": "2017-11-10 02:59:04",
+                  "hash": "32854b973f321d582fa7ea67ef4e11d3",
+                  "objectid": 17964,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "1552-2265-1-PB.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17964",
+            "main": "1552-2265-1-PB.pdf",
+            "language": "en"
+          }
+      ],
+      "date": "2017-06",
+      "publication": "Jurnal Agromedicine",
+      "status_changed": "2017-11-16 03:38:35",
+      "userid": 161,
+      "volume": 4,
+      "issn": "2356-332X",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5037",
+      "type": "article",
+      "title": "Laki-Laki 28 Tahun dengan Otitis Media Supuratif Kronis Maligna dan Parese Nervus Fasialis Perifer",
+      "metadata_visibility": "show",
+      "subjects": [
+        "RF"
+      ],
+      "pagerange": "66-70",
+      "abstract": "Gangguan pendengaran terjadi pada 5% masyarakat di dunia yaitu sebanyak 360 juta jiwa. Gangguan pendengaran dapat\r\ndisebabkan oleh faktor genetik, penyakit infeksi tertentu, infeksi kronik telinga, penggunaan obat ototoksik, paparan\r\nterhadap bising dan penuaan. Otitis media supurarif kronis (OMSK) dapat menyebabkan gangguan pendengaran. OMSK\r\nmerupakan radang kronis telinga tengah dengan adanya perforasi pada membran timpani dan riwayat keluarnya cairan\r\ndari telinga (otorea) lebih dari 6-8 minggu. Prevalensi OMSK di Indonesia antara 3-5,2% atau kira-kira kurang lebih 6,6 juta\r\npenduduk. OMSK dapat mengakibatkan beberapa komplikasi dan kadang-kadang mengancam jiwa seperti kehilangan\r\npendengaran, meningitis, abses serebri, mastoiditis, parese nervus fasial, kolesteatoma, jaringan granulasi dan empiema\r\nsubdural. Seorang laki-laki berusia 28 tahun datang ke Rumah Sakit dengan keluhan mulut mencong ke kiri sejak ± 2 hari\r\nsebelum berobat ke rumah sakit. Keluhan lain pada telinga kanan keluar cairan berwarna kuning, lengket dan berbau serta\r\npendengaran berkurang. Pada pemeriksaan fisik telinga kanan didapatkan sekret purulen, koleastoma, serta membran\r\ntimpani telinga kanan tidak intak, terdapat perforasi attic tepi rata dan pada pemeriksaan neurologi didapatkan wajah\r\nasimetris, tidak dapat mengangkat alis kanan dan kerutan pada dahi tidak simetris. Salah satu komplikasi OMSK adalah\r\nparese nervus fasialis. Tatalaksana konservatif dan operatif diperlukan pada OMSK tipe maligna dengan komplikasi.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/00\/50\/37",
+      "datestamp": "2017-11-16 03:38:35",
+      "divisions": [
+        "FK1"
+      ],
+      "refereed": "TRUE",
+      "number": 1,
+      "lastmod": "2017-11-16 03:38:35",
+      "eprintid": 5037,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "dwita",
+            "family": "oktaria"
+          },
+          "id": "dwitaoktaria@gmail.com"
+        },
+        {
+          "id": "shebadenisica@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "sheba",
+            "family": "nasution"
+          }
+        }
+      ],
+      "official_url": "http:\/\/juke.kedokteran.unila.ac.id\/index.php\/agro\/issue\/view\/78",
+      "full_text_status": "public",
+      "publisher": "Fakultas Kedokteran Universitas Lampung",
+      "rev_number": 6,
+      "date_type": "published"
+    }
+]
+

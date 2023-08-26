@@ -1,0 +1,1290 @@
+[
+    {
+      "status_changed": "2021-04-24 03:07:03",
+      "userid": 240,
+      "date": "2021-04",
+      "publication": "Journal of Geodesy and Geomatics (DATUM)",
+      "documents": [
+          {
+            "placement": 2,
+            "security": "public",
+            "format": "text",
+            "docid": 43803,
+            "mime_type": "application\/pdf",
+            "eprintid": 29605,
+            "pos": 3,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/262042",
+                  "fileid": 262042,
+                  "filesize": 1046950,
+                  "mtime": "2021-04-23 08:54:43",
+                  "hash": "2a0d3bf2b124985d5e46f60f7a20de90",
+                  "datasetid": "document",
+                  "objectid": 43803,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "132-18-PB.pdf"
+                }
+            ],
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43803",
+            "main": "132-18-PB.pdf",
+            "language": "en"
+          }
+      ],
+      "pagerange": "1-8",
+      "subjects": [
+        "Q1",
+        "QB",
+        "T1"
+      ],
+      "title": "PENDEFINISIAN KOORDINAT ULP2 TERHADAP ITRF 2014 MENGGUNAKAN KOMBINASI SATELIT GPS DAN GLONASS",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/journal.eng.unila.ac.id\/index.php\/jgg"
+        }
+      ],
+      "metadata_visibility": "show",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/29605",
+      "type": "article",
+      "volume": 1,
+      "datestamp": "2021-04-24 03:07:03",
+      "dir": "disk0\/00\/02\/96\/05",
+      "divisions": [
+        "FT11"
+      ],
+      "abstract": "Sistem satelit navigasi dalam perkembangannya saat ini tergabung dalam satu sistem, yaitu sistem GNNS.\r\nSistem GNSS ini terdiri dari beberapa sistem satelit, yaitu GPS, Glonass, Galileo, Compass\/Beidou, IRNSS,\r\ndan QZSS. Dengan semakin banyaknya sistem satelit GNSS yang beroperasi, maka jumlah satelit yang teramati akan lebih banyak, sehingga geometri satelit akan menjadi lebih baik dan lebih kuat, dan ketelitian serta parameter yang akan diestimasi juga akan semakin baik. Universitas Lampung memiliki satu titik ikat yaitu ULP1 akan tetapi kondisi lingkungan yang berada disekitar titik dapat menyebabkan menurunnya kualitas data yang didapatkan menggunakan pengamatan GNSS, sehingga perlu dilakukan pendefinisian koordinat definitif titik baru bernama titik ULP2 menggunakan sistem satelit GPS, GLONASS, dan kombinasinya.Penelitian ini berfokus pada pendefinisian titik ULP2 serta perbandingan ketelitian koordinat yang dihasilkan dari sistem satelit GPS, GLONASS, dan kombinasinya. Data yang digunakan dalam penelitian ini meliputi data pengamatan GNSS doy 303 dan 304, serta data pendukung seperti: data pengamatan titik ikat, data final orbit, dan data broadcast ephemeris. Pengolahan menggunakan perangkat ilmiah GAMIT. Penelitian ini menghasilkan nilai koordinat definitif titik ULP2 yaitu-1669327,667(X), 6127212,686(Y), -592068,038(Z), koordinat geodetik ialah -5,3620393069⸰ (lintang), 105,2400573554⸰ (bujur) dan 130,56824 meter (tinggi elipsoid) dan untuk koordinat UTM zona 48S ialah 526596,3370 meter (Timur) dan 9407310,9970 meter (Utara). Berdasarkan analisa yang telah dilakukan, nilai koordinat yang dihasilkan dari sistem satelit GLONASS secara statistik tidak memiliki perbedaaan dengan nilai koordinat yang dihasilkan dari sistem satelit GNSS ataupun sistem satelit GPS.\r\n\r\nKata Kunci: GNSS, definitif, ULP2, GAMIT",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "m.bimo290897@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Bimantara",
+            "given": "Muhammad Bimo"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Fadly",
+            "given": "Romi"
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Eko",
+            "family": "Rahmadi"
+          },
+          "id": "eko.rahmadi@eng.unila.ac.id"
+        }
+      ],
+      "official_url": "http:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/1840",
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "full_text_status": "public",
+      "rev_number": 24,
+      "number": 1,
+      "refereed": "TRUE",
+      "eprintid": 29605,
+      "lastmod": "2021-04-24 03:07:03",
+      "contact_email": "romi.fadly@eng.unila.ac.id"
+    },
+    {
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "eprint_status": "archive",
+      "abstract": "The aim of this research was to study about the effect of base catalyst concentration in synthesis curcumin analogs under ultrasound irradiation. Moreover, to determined concentrationof base catalyst KOH which obtained highest yield.  Synthesis of curcumin analog between benzaldehyde derivatives and ketones in ethanol at room temperature using KOH catalyst with variation concentrasion of 2.5%; 5%; 7.5% and 10%. The synthesized of curcumin analog under ultrasound irradiation for 15 minute. Products were identified using UV, IR and NMR. The synthesized of curcumin analogs with various KOH catalyst concentration were obtained in 55.99%; 59.63%; 81.11%; and 54.53%, respectively. In this study indicated the variation in the concentration of base catalyst has an effect on the synthesized of curcumin analogs. That is indicated by the yield quantity of curcumin analogs which increases at a KOH catalyst concentration of 2.5% to 7.5%, but decreases at concentration of 10%. The concentration of KOH catalyst 7.5% was obtained highest yield.",
+      "ispublished": "submitted",
+      "divisions": [
+        "FMIPA8"
+      ],
+      "dir": "disk0\/00\/02\/49\/66",
+      "datestamp": "2020-11-12 02:18:04",
+      "lastmod": "2020-11-12 02:18:04",
+      "eprintid": 24966,
+      "refereed": "FALSE",
+      "pres_type": "lecture",
+      "full_text_status": "public",
+      "official_url": "http:\/\/snk.conference.unesa.ac.id\/",
+      "rev_number": 8,
+      "creators": [
+        {
+          "id": "devinur@fmipa.unila.ac.id",
+          "name": {
+            "family": "Devi Nur Anisa",
+            "given": "Anisa",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Ilim",
+            "family": "Ilim"
+          },
+          "id": "ilim@fmipa.unila.ac.id"
+        }
+      ],
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 38710,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "pos": 1,
+            "eprintid": 24966,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/226024",
+                  "fileid": 226024,
+                  "filesize": 1125932,
+                  "mtime": "2020-11-11 08:36:40",
+                  "hash": "0bb492e7de393216551228aa7f886b7b",
+                  "datasetid": "document",
+                  "objectid": 38710,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash_type": "MD5",
+                  "filename": "Devi Nur Anisa.docx"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38710",
+            "rev_number": 1,
+            "main": "Devi Nur Anisa.docx",
+            "language": "en"
+          }
+      ],
+      "userid": 3269,
+      "funders": [
+        "BLU LPPM"
+      ],
+      "event_title": "Seminar Nasional Kimia 2020",
+      "status_changed": "2020-11-12 02:18:04",
+      "event_type": "conference",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24966",
+      "metadata_visibility": "show",
+      "title": "Pengaruh Konsentrasi Katalis dalam Sintesis Senyawa Analog Kurkumin dengan Metode Ultrasound",
+      "subjects": [
+        "QB"
+      ]
+    },
+    {
+      "userid": 240,
+      "status_changed": "2023-04-06 08:44:51",
+      "documents": [
+          {
+            "main": "LEMBAR HASIL PENILAIAN GABUNGAN (2).pdf",
+            "language": "en",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 189417,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "LEMBAR HASIL PENILAIAN GABUNGAN (2).pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/539251",
+                  "fileid": 539251,
+                  "filesize": 972921,
+                  "mtime": "2023-04-06 08:11:23",
+                  "hash": "e7514fccd3a842c5f4a0da5b322a6f80"
+                }
+            ],
+            "eprintid": 49782,
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189417",
+            "mime_type": "application\/pdf",
+            "docid": 189417,
+            "placement": 1,
+            "security": "public",
+            "format": "text"
+          }
+      ],
+      "place_of_pub": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2088",
+      "date": "2021-11-02",
+      "metadata_visibility": "show",
+      "title": "Review Jurnal: NALISIS DEFORMASI GUNUNG SINABUNG BERDASARKAN DATA PENGAMATAN GPS PERIODE 2017-2018",
+      "subjects": [
+        "Q1",
+        "QB",
+        "T1"
+      ],
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49782",
+      "divisions": [
+        "FT11"
+      ],
+      "datestamp": "2023-04-06 08:44:51",
+      "dir": "disk0_bak\/00\/04\/97\/82",
+      "eprint_status": "archive",
+      "abstract": "Gunung Sinabung merupakan salah satu gunung api aktif yang ada di Indonesia yang terletak di provinsi Sumatera Utara. Gunung Sinabung tercatat tidak pernah meletus sejak tahun 1600an, tetapi pada Agustus 2010 Gunung Sinabung mengalami erupsi untuk pertama kali setelah sekian lama tidak ada aktivitas di Gunung Sinabung. Potensi bahaya yang dihasilkan oleh hasil erupsi Gunung Sinabung mampu menghasilkan material berukuran abu sampai awan panas. Oleh karena itu, perlu dilakukan pengamatan yang signifikan dan kontinyu terhadap aktivitas Gunung Sinabung ini. Penelitian ini bertujuan untuk mengetahui besar pergeseran Gunung Sinabung. Metode yang digunakan untuk pemantauan aktivitas Gunung Sinabung dengan metode geodetik yaitu metode pengamatan GPS secara kontinyu. Dengan dilakukannya pemantauan dan analisis pergeseran titik pengamatan pada Gunung Sinabung, diharapkan dapat memberikan gambaran kecenderungan aktivitas Gunung Sinabung, sehingga dapat membantu bagaimana pergeseran yang terjadi pada titik pengamatan Gunung Sinabung. Berdasarkan analisis yang dilakukan, terdapat 2 periode pengamatan yaitu periode 1 deformasi pada stasiun pengamatan Gunung Sinabung bergerak ke segala arah dan mengalami pergeseran yang signifikan dan inflasi yang besar pada semua stasiun pengamatan Gunung Sinabung. Periode 2 deformasi pada stasiun pengamatan Gunung Sinabung bergerak ke segala arah. Namun terdapat perbedaan pada stasiun pengamatan dimana MRDG mengalami deflasi sedangkan KBYK, LKWR dan SNBG terjadi inflasi. Kata kunci: gunung sinabung, deformasi, pergeseran, gps.",
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 49782,
+      "lastmod": "2023-04-06 08:44:51",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/index",
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "creators": [
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Fadly",
+            "given": "Romi"
+          }
+        }
+      ]
+    },
+    {
+      "pagerange": "1-10",
+      "subjects": [
+        "Q1",
+        "QB"
+      ],
+      "metadata_visibility": "show",
+      "title": "ANALISIS PERBANDINGAN PARAMETER TRANSFORMASI ANTAR ITRF HASIL HITUNGAN KUADRAT TERKECIL MODEL HELMERT 14-PARAMETER DENGAN PARAMETER STANDAR IERS",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/ft-sipil.unila.ac.id\/ejournals\/index.php\/jrekayasa\/article\/view\/175\/pdf"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41343",
+      "type": "article",
+      "issn": "0852-7733",
+      "volume": 18,
+      "userid": 240,
+      "status_changed": "2022-04-18 01:08:37",
+      "publication": "Rekayasa, Jurnal Teknik Sipil dan Perencanaan",
+      "date": "2014-04",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162966",
+            "eprintid": 41343,
+            "pos": 1,
+            "files": [
+                {
+                  "filesize": 197130,
+                  "fileid": 458369,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/458369",
+                  "hash": "7998a070346aafd07a526ff780ce04e2",
+                  "mtime": "2022-04-15 22:20:25",
+                  "objectid": 162966,
+                  "datasetid": "document",
+                  "filename": "175-330-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "language": "en",
+            "main": "175-330-1-PB.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 162966,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "date_type": "published",
+      "official_url": "https:\/\/ft-sipil.unila.ac.id\/ejournals\/index.php\/jrekayasa\/article\/view\/175\/pdf",
+      "rev_number": 7,
+      "publisher": "Jurusan Teknik Sipil Fakultas Teknik Universitas Lampung",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "family": "Fadly",
+            "given": "Romi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "citradewirohana@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Dewi",
+            "given": "Citra"
+          }
+        }
+      ],
+      "eprintid": 41343,
+      "lastmod": "2022-04-18 01:08:37",
+      "number": 1,
+      "refereed": "TRUE",
+      "divisions": [
+        "FT11"
+      ],
+      "dir": "disk0\/00\/04\/13\/43",
+      "datestamp": "2022-04-18 01:08:37",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Penelitian ini bertujuan membandingkan 14 parameter transformasi antar kerangka acuan global ITRF hasil hitungan menggunakan model Helmert 14-parameter dengan parameter standar IERS. Parameter transformasi dihitung dari koordinat ITRF05 ke ITRF00 epok 2000.00, dan dari ITRF08 ke ITRF05 epok 2005.00. Parameter transformasi hasil hitungan dibandingkan dengan parameter standar  IERS  kemudian  dilakukan  uji  signifikansi  perbedaannya.  Parameter  hitungan  yang diperoleh digunakan untuk transformasi balik guna mendapatkan koordinat titik sekutu ITRF00 dan ITRF05. Empatbelas parameter digunakan juga untuk mentransformasi koordinat titik uji guna mendapatkan koordinat ITRF00 dan ITRF05. Hasil analisisi menunjukkan ada perbedaan nilai\r\nRMSe koordinat hasil transformasi balik titik sekutu model Helmert 14-parameter menggunakan parameter hitungan dan parameter standar IERS sebesar 0,1 mm untuk ITRF00 dan 0,8 mm untuk ITRF05.  Hasil  uji  signifikansi  14  parameter  transformasi  hasil  hitungan  menggunakan  model Helmert 14-parameter terhadap parameter standar IERS hanya faktor skala (ds) hasil transformasi dari ITRF05 ke ITRF00 yang berbeda signifikan secara statistik. Tetapi nilai RMSe koordinat hasil transformasi  titik uji model Helmert 14-parameter menggunakan parameter hasil hitungan dan parameter standar IERS tidak terdapat perbedaan nilai RMSe-nya. Dapat disimpulkan bahwa hasil hitungan  parameter  transformasi  model  Helmert  14-parameter  dengan  hitung  kuadrat  terkecil metode kombinasi tidak berbeda jauh dengan parameter standar IERS.\r\n\r\nKata kunci: Parameter transformasi, Helmert 14-parameter, ITRF.",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ]
+    },
+    {
+      "date_type": "published",
+      "lastmod": "2022-01-26 10:02:15",
+      "eprintid": 38331,
+      "number": 2,
+      "refereed": "TRUE",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2089",
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "given": "M. Alfin",
+            "family": "Jurin",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "alfin.opq@gmail.com"
+        },
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "given": "Romi",
+            "family": "Fadly",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Eko",
+            "family": "Rahmadi"
+          },
+          "id": "eko.rahmadi@eng.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FT11"
+      ],
+      "datestamp": "2022-01-26 10:02:15",
+      "dir": "disk0\/00\/03\/83\/31",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Panjang baseline dan perangkat lunak adalah dua faktor yang dapat mempengaruhi hasil pengolahan data GPS. Panjang baseline dapat mempengaruhi ketelitian posisi yang dihasilkan. Faktor yang lainnya adalah perangkat lunak, Net Diff adalah perangkat lunak yang belum banyak digunakan oleh praktisi terkait untuk pengolahan data GPS. Oleh karena itu dilakukan kajian terkait faktor-faktor tersebut.Metode pengamatan menggunakan metode static radial, sedanglan pengolahan data secara post processing. Data diambil dengan 6 jam pengamatan, dan panjang baseline berbeda-beda, yaitu ±2 km, ±5 km, ±10 km, ±20 km, ±50 km dari base station. Kemudian dilakukan pengolahan data menggunakan perangkat lunak Net Diff, hasilnya akan di analisis menggunakan hasil dari pengolahan menggunakan GAMIT.Hasil dari penelitian pengolahan data GPS menggunakan perangkat lunak Net Diff, adalah selisih panjang baseline Net Diff terhadap GAMIT paling kecil dengan nilai 0.013 m terjadi di baseline pendek, yaitu titik HJMN, dengan panjang baseline 1595.35 m. Ketelitian koordinat Net Diff terhadap GAMIT paling kecil terjadi di baseline pendek, yaitu titik HJMN dengan nilai parameter X 0.003, dan parameter Z 0.003m. Kemudian titik PKOR dengan nilai parameter X0.002m. Pada penelitian ini, panjang baseline sampai dengan ±50 km, masih memberikan hasil yang baik. Dibuktikan oleh hasil uji t, dengan tingkat kepercayaan 95%.\r\n\r\n\r\nKata kunci : gamit, net diff, panjang baseline",
+      "metadata_visibility": "show",
+      "title": "KAJIAN PENGARUH PANJANG BASELINE TERHADAP PENGOLAHAN DATA GPS METODE STATIC RADIAL MENGGUNAKAN PERANGKAT LUNAK NET DIFF",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2089"
+        }
+      ],
+      "pagerange": "18-22",
+      "subjects": [
+        "G1",
+        "GA",
+        "QB"
+      ],
+      "volume": 1,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38331",
+      "issn": "2776-9283",
+      "userid": 240,
+      "status_changed": "2022-01-26 10:02:15",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 159406,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "main": "134-64-PB.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "134-64-PB.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 159406,
+                  "hash": "39b1a2a580500a340a570c6ce12478af",
+                  "mtime": "2022-01-25 11:25:35",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/434655",
+                  "fileid": 434655,
+                  "filesize": 596320
+                }
+            ],
+            "pos": 1,
+            "eprintid": 38331,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159406",
+            "rev_number": 1
+          }
+      ],
+      "publication": "Journal of Geodesy and Geomatics",
+      "date": "2021-12-25"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/29608",
+      "type": "article",
+      "volume": 1,
+      "subjects": [
+        "G1",
+        "Q1",
+        "QB",
+        "QE"
+      ],
+      "pagerange": "18-27",
+      "metadata_visibility": "show",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/1842"
+        }
+      ],
+      "title": "PENDEFINISIAN KOORDINAT ULP2 UNIVERSITAS LAMPUNG TERHADAP ITRF 2014 SERTA ANALISA PENGGUNAAN TIGA MACAM RECEIVER YANG BERBEDA",
+      "publication": "Journal of Geodesy and Geomatics",
+      "date": "2021-03",
+      "documents": [
+          {
+            "main": "132-19-PB.pdf",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 29608,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 43805,
+                  "mime_type": "application\/pdf",
+                  "filename": "132-19-PB.pdf",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/262054",
+                  "fileid": 262054,
+                  "filesize": 1247978,
+                  "hash": "8ad2bb6de5d82d34fef80e86323d0bf3",
+                  "mtime": "2021-04-23 12:54:54"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/43805",
+            "rev_number": 2,
+            "docid": 43805,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "content": "published",
+            "placement": 1,
+            "format": "text"
+          }
+      ],
+      "userid": 240,
+      "status_changed": "2021-04-24 03:07:19",
+      "official_url": "http:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/1842",
+      "rev_number": 16,
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Putri",
+            "given": "Gita Nindya"
+          },
+          "id": "gitanindya60@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Romi",
+            "family": "Fadly"
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Eko",
+            "family": "Rahmadi"
+          },
+          "id": "eko.rahmadi@eng.unila.ac.id"
+        }
+      ],
+      "eprintid": 29608,
+      "lastmod": "2021-04-24 03:07:19",
+      "number": 1,
+      "refereed": "TRUE",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "abstract": "Survei Global Navigation Satellite System (GNSS) merupakan suatu metode penentuan posisi yang dapat digunakan untuk menentukan Titik Kontrol Geodetik, baik untuk skala nasional, regional, atau global. Universitas Lampung telah memiliki titik kontrol BM (BenchMark) bernama ULP1. Pada saat ini, kondisi di sekitar titik ULP1 telah ditumbuhi banyak pohon tinggi. Hal tersebut dapat menjadi objek penghalang sinyal satelit dan menyebabkan kesalahan yang\r\nserius pada hasil ketelitian posisi jika dilakukan pengukuran. Berdasarkan permasalahan tersebut, maka dilakukan penelitian pengamatan GNSS untuk mendefinisikan titik kontrol baru yaitu titik ULP2. Titik ULP2 berada di Universitas Lampung tepatnya dijalan depan Perpustakaan Unila. Periode penelitian dimulai tanggal 30 Oktober 2018 hingga 28 Januari 2019. Jenis metode pengamatan yang digunakan adalah metode statik dan menggunakan tiga macam receiver GNSS yang berbeda. Data hasil pengamatan diolah menggunakan software TEQC dan GAMIT\/GLOBK untuk mendapatkan koordinat. Uji statistik digunakan untuk melihat signifikansi koordinat antara tiga macam receiver GNSS yang berbeda.  Hasil pengolahan menggunakan GAMIT\/GLOBK adalah koordinat definitif titik ULP2 Universitas Lampung. Koordinat geodetis, 5.3620393436° LS dan 105.2400574228° BT, koordinat kartesian, X= -1669327.667 m ± 0.012 m, Y = 6127212.656 m ± 0.039 m,\r\ndan Z = -592068.0398 m ± 0.007 m, koordinat UTM 48S, E= 526596.344 m, N=9407310.993 m, h= 130.539 m. Hasil uji statistik menggunakan uji t tidak menunjukan adanya\r\nperbedaan yang signifikan pada semua skenario, yang artinya penggunaan receiver yang berbeda tidak berpengaruh besar terhadap koordinat yang dihasilkan. \r\n\r\nKata kunci: pendefinisian titik koordinat, GAMIT\/GLOBK, receiver GNSS",
+      "ispublished": "pub",
+      "divisions": [
+        "FT11"
+      ],
+      "dir": "disk0\/00\/02\/96\/08",
+      "datestamp": "2021-04-24 03:07:19"
+    },
+    {
+      "status_changed": "2022-01-26 10:02:13",
+      "userid": 240,
+      "date": "2021-12-01",
+      "publication": "Journal of Geodesy and Geomatics",
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 159403,
+            "files": [
+                {
+                  "filesize": 391232,
+                  "fileid": 434634,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/434634",
+                  "hash": "a3ec902118fb2a976600523bc3493055",
+                  "mtime": "2022-01-25 10:30:32",
+                  "objectid": 159403,
+                  "datasetid": "document",
+                  "filename": "134-63-PB.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "eprintid": 38328,
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159403",
+            "main": "134-63-PB.pdf",
+            "language": "en"
+          }
+      ],
+      "pagerange": "13-17",
+      "subjects": [
+        "GA",
+        "GB",
+        "Q1",
+        "QB"
+      ],
+      "title": "ANALISIS DEFORMASI GUNUNG SINABUNG BERDASARKAN DATA PENGAMATAN GPS PERIODE 2017-2018",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2088",
+          "type": "pub"
+        }
+      ],
+      "metadata_visibility": "show",
+      "issn": "2776-9283",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38328",
+      "type": "article",
+      "volume": 1,
+      "dir": "disk0\/00\/03\/83\/28",
+      "datestamp": "2022-01-26 10:02:13",
+      "divisions": [
+        "FT11"
+      ],
+      "ispublished": "pub",
+      "abstract": "Gunung Sinabung merupakan salah satu gunung api aktif yang ada di Indonesia yang terletak di provinsi Sumatera Utara.  Gunung Sinabung tercatat tidak pernah meletus sejak tahun 1600an, tetapi pada Agustus 2010 Gunung Sinabung mengalami erupsi untuk pertama kali setelah sekian lama tidak ada aktivitas di Gunung Sinabung.  Potensi bahaya yang dihasilkan oleh hasil erupsi Gunung Sinabung mampu menghasilkan material berukuran abu sampai awan panas.  Oleh karena itu, perlu dilakukan pengamatan yang signifikan dan kontinyu terhadap aktivitas Gunung Sinabung ini.  Penelitian ini bertujuan untuk mengetahui besar pergeseran Gunung Sinabung. Metode yang digunakan untuk pemantauan aktivitas Gunung Sinabung dengan metode geodetik yaitu metode pengamatan GPS secara kontinyu.  Dengan dilakukannya pemantauan dan analisis pergeseran titik pengamatan pada Gunung Sinabung, diharapkan dapat memberikan gambaran kecenderungan aktivitas Gunung Sinabung, sehingga dapat membantu bagaimana pergeseran yang terjadi pada titik pengamatan Gunung Sinabung. Berdasarkan analisis yang dilakukan, terdapat 2 periode pengamatan yaitu periode\r\n1 deformasi pada stasiun pengamatan Gunung Sinabung bergerak ke segala arah dan mengalami pergeseran yang signifikan dan inflasi yang besar pada semua stasiun pengamatan Gunung Sinabung.  Periode 2 deformasi pada stasiun pengamatan Gunung Sinabung bergerak ke segala arah.  Namun terdapat perbedaan pada stasiun pengamatan dimana MRDG mengalami deflasi sedangkan KBYK, LKWR dan SNBG terjadi inflasi. \r\n\r\n\r\nKata kunci: gunung sinabung, deformasi, pergeseran,  gps.",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "tsari401@gmail.com",
+          "name": {
+            "family": "Rahmawati",
+            "given": "Tania Sari",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "romgd2002@yahoo.com",
+          "name": {
+            "given": "Romi",
+            "family": "Fadly",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rahmadi",
+            "given": "Eko"
+          },
+          "id": null
+        }
+      ],
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2088",
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "full_text_status": "public",
+      "rev_number": 16,
+      "number": 2,
+      "refereed": "TRUE",
+      "lastmod": "2022-01-26 10:02:13",
+      "eprintid": 38328
+    },
+    {
+      "divisions": [
+        "FMIPA9"
+      ],
+      "datestamp": "2020-05-26 01:56:54",
+      "dir": "disk0\/00\/02\/04\/52",
+      "eprint_status": "archive",
+      "ispublished": "submitted",
+      "abstract": "Karya Ilmiah ini bertujuan membangun korespondensi lintasan Matahari dan Bulan dalam bentuk matematis pada koordinat kartesius bidang datar untuk merancang database kecerahan sinar Bulan 100% (Bulan Purnama) dan 0% (Bulan Mati). Momen Bulan Purnama dan Bulan Mati merupakan saat potensial terjadi gerhana bulan dan gerhana matahari dengan demikian disetsakan bahwa matahari, bumi dan bulan berada pada posisi segaris. Pendekatan matematis yang diajukan adalah menggunakan fungsi linier. Pendekatan matematis Lintasan matahari yang diajukan y = x dan pendekatan matematis lintasan bulan yang diajukan y = 1.0310022 x. Data korespondensi lintasan matahari dan momen bulan purnama berikut bulan mati disusun dalam bentuk tabel sebagai informasi untuk waspada dini terhadap kemungkinan fenomena ektrem yang dapat ditimbulkan. \r\n\t\r\nKeywords:  Korespondensi, kecerahan, fungsi linier, database",
+      "eprintid": 20452,
+      "lastmod": "2020-05-26 01:56:54",
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "rev_number": 10,
+      "event_dates": "12 November 2019",
+      "event_location": "Bandar Lampung",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "family": "Ruby",
+            "given": "Tiryono",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "userid": 746,
+      "event_title": "Simposium Nasional Ilmu Teknik (SIMTEK 2019)",
+      "status_changed": "2020-05-26 01:56:54",
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "docid": 33793,
+            "mime_type": "application\/msword",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33793",
+            "rev_number": 1,
+            "eprintid": 20452,
+            "pos": 1,
+            "files": [
+                {
+                  "mtime": "2020-05-25 06:53:56",
+                  "hash": "076774a31a95597d49bc0c869acd3160",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/192206",
+                  "fileid": 192206,
+                  "filesize": 27648,
+                  "mime_type": "application\/msword",
+                  "hash_type": "MD5",
+                  "filename": "KORESPONDENSI LINTASAN MATAHARI DAN BULAN simtek.doc",
+                  "datasetid": "document",
+                  "objectid": 33793
+                }
+            ],
+            "language": "en",
+            "main": "KORESPONDENSI LINTASAN MATAHARI DAN BULAN simtek.doc"
+          }
+      ],
+      "date": "2019-11-12",
+      "metadata_visibility": "show",
+      "title": "KORESPONDENSI LINTASAN MATAHARI DAN BULAN SEBAGAI DASAR UNTUK MEMBANGUN MODEL DAN DATABASE EKTREM\r\nKALEDERISASI BULAN PURNAMA DAN BULAN MATI",
+      "subjects": [
+        "QB"
+      ],
+      "event_type": "conference",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20452"
+    },
+    {
+      "status_changed": "2019-11-04 08:24:57",
+      "event_title": "SN SMIAP",
+      "userid": 746,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15161",
+      "type": "conference_item",
+      "event_type": "conference",
+      "subjects": [
+        "QB"
+      ],
+      "title": "MODEL RANCANG BANGUN ALAT BUSUR LINTASAN BULAN SEBAGAI ILMU DASAR YUNUS-5 UNTUK MEMBUAT TABEL KALENDERISASI \r\nTERNAK KURBAN 10 DZULHIJAH",
+      "metadata_visibility": "show",
+      "abstract": "Karya ilmiah ini atas dasar teori surat yunus-5 “matahari sebagai sumber sinar dan bulan sebagai pemantul sinar, dan beredar pada orbitnya masing-masing” maka dari permukaan bumi dapat dirancang busur lintasan keduanya. Busur lintasan matahari dan busur lintasan bulan setengah lingkaran (terbit-terbenam) dari hasil pengamatan memiliki perbedaan perioda durasi waktu, busur lintasan matahari terbit-terbenam durasi waktu selama 12 jam dan busur lintasan bulan terbit-terbenam durasi waktu selama 12 jam dan 24,5 menit. \r\nSelisih 24,5 menit terakumulasi dalam setahun dibulatkan 11 hari, perioda waktu  satu tahun kalender  lintasan matahari 365 hari dan perioda waktu satu tahun kalender lintasan bulan 354 hari. Tujuan karya ilmiah ini menerapkan teori matematika sehingga tersusun tabel korespondensi momen kurban pada kalender hijriyah dan kalender masehi. Pendekatan momen ternak kurban yang diajukan adalah tanggal 10 dhulhijah, kecerahan bulan dengan persamaan trigonometri  y = sin (0.5 x), (0 < x ≤ 2π)  dan usaha penggemukan ternak kurban persamaan eksponensial  y = y0 ekt dengan koefisien pertumbuhan sapi k1 = 0.058 dan kambing k2 = 0.1155",
+      "ispublished": "unpub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/01\/51\/61",
+      "datestamp": "2019-11-04 08:24:57",
+      "divisions": [
+        "FMIPA9"
+      ],
+      "creators": [
+        {
+          "id": "tiryono.1962@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ruby",
+            "given": "Tiryono"
+          }
+        }
+      ],
+      "full_text_status": "none",
+      "rev_number": 6,
+      "refereed": "TRUE",
+      "pres_type": "paper",
+      "lastmod": "2019-11-04 08:24:57",
+      "eprintid": 15161
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Tiryono",
+            "family": "Ruby",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "tiryono.1962@fmipa.unila.ac.id"
+        }
+      ],
+      "rev_number": 8,
+      "full_text_status": "none",
+      "eprintid": 15187,
+      "lastmod": "2019-11-04 07:44:28",
+      "abstract": "Karya ilmiah ini atas dasar teori surat yunus-5 “matahari sebagai sumber sinar dan bulan sebagai pemantul sinar, dan beredar pada orbitnya masing-masing” maka dari permukaan bumi dapat dirancang busur lintasan keduanya. Busur lintasan matahari dan busur lintasan bulan setengah lingkaran (terbit-terbenam) dari hasil pengamatan memiliki perbedaan perioda durasi waktu, busur lintasan matahari terbit-terbenam durasi waktu selama 12 jam dan busur lintasan bulan terbit-terbenam durasi waktu selama 12 jam dan 24,5 menit. \r\nSelisih 24,5 menit terakumulasi dalam setahun dibulatkan 11 hari, perioda waktu  satu tahun kalender  lintasan matahari 365 hari dan perioda waktu satu tahun kalender lintasan bulan 354 hari. Tujuan karya ilmiah ini menerapkan teori matematika sehingga tersusun tabel korespondensi momen kurban pada kalender hijriyah dan kalender masehi. Pendekatan momen ternak kurban yang diajukan adalah tanggal 10 dhulhijah, kecerahan bulan dengan persamaan trigonometri  y = sin (0.5 x), (0 < x ≤ 2π)  dan usaha penggemukan ternak kurban persamaan eksponensial  y = y0 ekt dengan koefisien pertumbuhan sapi k1 = 0.058 dan kambing k2 = 0.1155",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/01\/51\/87",
+      "datestamp": "2019-11-04 07:44:28",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15187",
+      "type": "artefact",
+      "subjects": [
+        "QB",
+        "QC"
+      ],
+      "title": "MODEL RANCANG BANGUN ALAT BUSUR LINTASAN BULAN SEBAGAI ILMU DASAR YUNUS-5 UNTUK MEMBUAT TABEL KALENDERISASI \r\nTERNAK KURBAN 10 DZULHIJAH",
+      "metadata_visibility": "show",
+      "status_changed": "2019-11-04 07:44:28",
+      "userid": 746
+    },
+    {
+      "status_changed": "2019-11-04 07:43:01",
+      "userid": 746,
+      "type": "dataset",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15248",
+      "title": "MODEL RANCANG BANGUN ALAT BUSUR LINTASAN BULAN SEBAGAI ILMU DASAR YUNUS-5 UNTUK MEMBUAT TABEL KALENDERISASI \r\nTERNAK KURBAN 10 DZULHIJAH",
+      "metadata_visibility": "show",
+      "subjects": [
+        "H1",
+        "Q1",
+        "QB"
+      ],
+      "abstract": "Karya ilmiah ini atas dasar teori surat yunus-5 “matahari sebagai sumber sinar dan bulan sebagai pemantul sinar, dan beredar pada orbitnya masing-masing” maka dari permukaan bumi dapat dirancang busur lintasan keduanya. Busur lintasan matahari dan busur lintasan bulan setengah lingkaran (terbit-terbenam) dari hasil pengamatan memiliki perbedaan perioda durasi waktu, busur lintasan matahari terbit-terbenam durasi waktu selama 12 jam dan busur lintasan bulan terbit-terbenam durasi waktu selama 12 jam dan 24,5 menit. \r\nSelisih 24,5 menit terakumulasi dalam setahun dibulatkan 11 hari, perioda waktu  satu tahun kalender  lintasan matahari 365 hari dan perioda waktu satu tahun kalender lintasan bulan 354 hari. Tujuan karya ilmiah ini menerapkan teori matematika sehingga tersusun tabel korespondensi momen kurban pada kalender hijriyah dan kalender masehi. Pendekatan momen ternak kurban yang diajukan adalah tanggal 10 dhulhijah, kecerahan bulan dengan persamaan trigonometri  y = sin (0.5 x), (0 < x ≤ 2π)  dan usaha penggemukan ternak kurban persamaan eksponensial  y = y0 ekt dengan koefisien pertumbuhan sapi k1 = 0.058 dan kambing k2 = 0.1155",
+      "ispublished": "unpub",
+      "eprint_status": "archive",
+      "data_type": "kalenderisasi",
+      "datestamp": "2019-11-04 07:43:01",
+      "dir": "disk0\/00\/01\/52\/48",
+      "lastmod": "2019-11-04 07:43:01",
+      "eprintid": 15248,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Tiryono",
+            "family": "Ruby"
+          },
+          "id": "tiryonoruby@gmail"
+        }
+      ],
+      "rev_number": 11,
+      "full_text_status": "none"
+    },
+    {
+      "datestamp": "2019-11-04 07:44:06",
+      "dir": "disk0\/00\/01\/52\/40",
+      "abstract": "Karya ilmiah ini atas dasar teori surat yunus-5 “matahari sebagai sumber sinar dan bulan sebagai pemantul sinar, dan beredar pada orbitnya masing-masing” maka dari permukaan bumi dapat dirancang busur lintasan keduanya. Busur lintasan matahari dan busur lintasan bulan setengah lingkaran (terbit-terbenam) dari hasil pengamatan memiliki perbedaan perioda durasi waktu, busur lintasan matahari terbit-terbenam durasi waktu selama 12 jam dan busur lintasan bulan terbit-terbenam durasi waktu selama 12 jam dan 24,5 menit. \r\nSelisih 24,5 menit terakumulasi dalam setahun dibulatkan 11 hari, perioda waktu  satu tahun kalender  lintasan matahari 365 hari dan perioda waktu satu tahun kalender lintasan bulan 354 hari. Tujuan karya ilmiah ini menerapkan teori matematika sehingga tersusun tabel korespondensi momen kurban pada kalender hijriyah dan kalender masehi. Pendekatan momen ternak kurban yang diajukan adalah tanggal 10 dhulhijah, kecerahan bulan dengan persamaan trigonometri  y = sin (0.5 x), (0 < x ≤ 2π)  dan usaha penggemukan ternak kurban persamaan eksponensial  y = y0 ekt dengan koefisien pertumbuhan sapi k1 = 0.058 dan kambing k2 = 0.1155",
+      "eprint_status": "archive",
+      "creators": [
+        {
+          "id": "tiryonoruby@gmail",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ruby",
+            "given": "Tiryono"
+          }
+        }
+      ],
+      "rev_number": 8,
+      "full_text_status": "none",
+      "lastmod": "2019-11-04 07:44:06",
+      "eprintid": 15240,
+      "status_changed": "2019-11-04 07:44:06",
+      "userid": 746,
+      "subjects": [
+        "Q1",
+        "QB"
+      ],
+      "title": "MODEL RANCANG BANGUN ALAT BUSUR LINTASAN BULAN SEBAGAI ILMU DASAR YUNUS-5 UNTUK MEMBUAT TABEL KALENDERISASI \r\nTERNAK KURBAN 10 DZULHIJAH",
+      "metadata_visibility": "show",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15240",
+      "type": "exhibition"
+    },
+    {
+      "full_text_status": "none",
+      "rev_number": 8,
+      "creators": [
+        {
+          "id": "tiryono.1962@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ruby",
+            "given": "Tiryono"
+          }
+        }
+      ],
+      "lastmod": "2020-06-03 02:29:43",
+      "eprintid": 21539,
+      "dir": "disk0\/00\/02\/15\/39",
+      "datestamp": "2020-06-03 02:29:43",
+      "eprint_status": "archive",
+      "abstract": "Lintasan Bulan sangat pegang peranan dalam memperingati hari-hari sakral keagamaan. Lintasan bulan sabit pertama (new-moon) didefinisikan sebagai tanggal satu , lintasan bulan separuh (half-moon) didefinisikan sebagai tanggal tujuh, lintasan bulan penuh (full-moon) didefinisikan sebagai tanggal empat belas, lintasan bulan separuh tua (old half-moon) didefinisikan sebagai tanggal 21, lintasan bulan sabit-tua (old-moon) didefinisikan sebagai tanggal 28, dan lintasan bulan mati (death-moon) didefinisikan sebagai tanggal 29 serta lintasan kabisat bulan mati didefinisikan sebagai tanggal digenapkan tanggal 30.\r\n\r\nHari raya idul kurban diperingati setiap tahunnya jatuh pada setiap tanggal 10 Dzulhijah kalender Hijriyah; Sistem kalender Hijriyah berbasis Bulan memiliki durasi satu tahun sama dengan 354,24 hari yang terbagi menjadi 12 bulan, sedangkan Sistem kalender berbasis Matahari perioda satu tahun memiliki 365,25 hari, dengan demikian ada gap atau selisih 11 hari Kalender Hijriyah lebih cepat setiap tahunnya. Oleh karena itu perayaan Idul Kurban 10 Dzulhijah terhadap Sistem kalender Masehi dari tahun ke tahun selalu berubah tanggalan merah (hari libur) pada penanggalan berbasis Matahari (Kalender Masehi). Konsekuensinya jika hari Idul Kurban 10 Dzulhijah jatuh pada tanggal lebih kecil dari 11 di Januari maka pada tahun tersebut juga terjadi peringatan hari raya Idul Kurban 10 Dzulhijah di Desember tahun yang sama. \r\n\r\nHari raya Idul Fitri diperingati setiap tahunnya jatuh pada setiap tanggal 1 Syawal kalender Hijriyah, seperti telah dijelaskan di pemaparan bahwa ada selisih 11 hari terhadap kalender berbasis Matahari, maka peringatan hari raya Idul Fitri 1 Syawal selalu berubah tanggalan merah (hari libur) pada penanggalan berbasis Matahari (Kalender Masehi), dan konsekuensi yang sama yaitu jika perayaan hari raya Idul Fitri jatuh di Januari dibawah tanggal 11 maka di tahun yang sama pada Desembaer akan memperingati hari raya Idul Fitri juga.\r\n\r\nPeringatan wafat Nabi Isa Alaihisalam didefinisikan dengan memperhatikan lintasan bulan purnama atau tanggal empat belas (full-moon) yang terdekat dengan tanggal 3 April dan pilih hari Jum’at untuk ditetapkan sebagai hari libur (tanggal-merah), oleh karena itu harus memperhatikan fenomena Bulan Purnama yang terjadi di Maret dan fenomena Bulan Purnama yang terjadi di April, selanjutnya pilih Purnama yang terdekat terhadap 3 April dan pilih hari Jum’at; Secara garis bilangan kalender maka tanggal merah peringatan wafat Nabi Isa Alaihisalam akan berada pada interval 20 Maret – 17 April, antisipasi 17 April adalah hari Sabtu maka pilih Jum’at 23 April sebagai tanggal merah peringatan wafat Nabi Isa Alaihisalam.\r\n\r\nBerikut adalah tersusun tabel dari tahun ke tahun peringatan hari raya Idul Kurban 10 Dzulhijah, peringatan hari raya Idul Fitri 1 syawal dan tabel tanggal merah peringatan wafat Nabi Isa Alaihisalam.",
+      "subjects": [
+        "QA",
+        "QB"
+      ],
+      "metadata_visibility": "show",
+      "title": "PENETUAN TANGGAL MERAH (HARI LIBUR) BERBASIS KALENDER BULAN: HARI BESAR IDUL KURBAN, HARI RAYA IDUL FITRI DAN TANGGAL MERAH PERINGATAN WAFAT NABI ISA ALAIHISALAM",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21539",
+      "type": "artefact",
+      "userid": 746,
+      "status_changed": "2020-06-03 02:29:43"
+    },
+    {
+      "eprintid": 20659,
+      "lastmod": "2020-05-27 04:12:25",
+      "full_text_status": "none",
+      "rev_number": 8,
+      "creators": [
+        {
+          "id": "tiryono.1962@fmipa.unila.ac.id",
+          "name": {
+            "family": "Ruby",
+            "given": "Tiryono",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "eprint_status": "archive",
+      "abstract": "Artepark Tempat Pengamatan Astronomi-Islam Tropong Bulan Balam dirancang kontruksi 3-lantai, dimana lt-1 untuk ruang poster dalam bentuk benner dari hasil-hasil pengamatan astronomi adadassinina atau kalenderisasi, poster alat-alat peraga astronomi seperti tropong, monokuler, busur monitoring lintasan bulan, Nisfhu-board, dan benner alat peraga balansing wajan sistem tatasurya. Lantai-2 dirancang untuk class-room berukuran 4x7 meterpersegi dan lantai-3 adalah lab peralatan pemantauan astronomi yang dilengkapi softwarenya.",
+      "datestamp": "2020-05-27 04:12:25",
+      "dir": "disk0\/00\/02\/06\/59",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20659",
+      "type": "artefact",
+      "metadata_visibility": "show",
+      "title": "Rancang Bangun Artepark Tempat Pengamatan Astronomi-Islam Tropong Bulan Bandar Lampung (TPA TROPONG BULAN BALAM)",
+      "subjects": [
+        "QB"
+      ],
+      "userid": 746,
+      "status_changed": "2020-05-27 04:12:25"
+    },
+    {
+      "eprint_status": "archive",
+      "abstract": "Kehidupan di era pandemik COVID-19 banyak mengalami perubahan-perubahan dibanding kehidupan secara normal, antara lain bagi para peneliti yang biasanya ke lapangan maka kegiatan tersebut di batalkan atau ditunda; Kegiatan kuliah tatap-muka antara dosen dan mahasiswa di lockdown diubah menjadi pembelajaran secara daring atau online; Resiko dan Peluang para produsen makanan olahan di tengah pandemik Covid-19; Jadwal Operasional Bandara dan Terminal di era pandemik Covid-19;  Dan kegiatan seminar workshop pelatihan itu semua beralih secara daring di era pandemik Covid-19. \r\nSehubungan dengan situasi era pandemik Covid-19 dimana tekanan kehidupan mengutamakan keselamatan secara global maka dicanangkan kehidupan sosial-distancing, lockdown tinggal di rumah saja, Pembelajaran tatap muka di kelas dialihkan menjadi pembelajaran online secara daring menggunakan peralatan Imformasi Teknologi HandPhone, Komputer, Android dan pasilitas jaringan sebagai sarana penghubungnya. Banyak cara untuk melakukan pembelajaran secara online misalnya dengan menggunakan software zoom-meeting, skype, microsoft-meet, whatsApp (WA) dan lain sebagainya.\r\nUntuk mengatasi hal-hal terkait belajar-mengajar antara dosen dan mahasiswa maka pada kondisi ini saya menggunakan pasilitas website dan blog, adapun link terkait degan materi perkuliahan tugas, UTS dan UAS di upload pada situs https:\/\/g.page\/Sekolah TPA TROPONG BULAN CAB BALAM, www.staf.unila.ac.id\/tiryono. Atau Google-Search: “Sekolah TPA TROPONG BULAN CAB LAMPUNG”",
+      "datestamp": "2020-06-12 14:15:12",
+      "dir": "disk0\/00\/02\/23\/80",
+      "rev_number": 7,
+      "full_text_status": "none",
+      "creators": [
+        {
+          "id": "tiryono.1962@fmipa.unila.ac.id",
+          "name": {
+            "family": "Ruby",
+            "given": "Tiryono",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "eprintid": 22380,
+      "lastmod": "2020-06-12 14:15:12",
+      "userid": 746,
+      "status_changed": "2020-06-12 14:15:12",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22380",
+      "type": "artefact",
+      "subjects": [
+        "QB"
+      ],
+      "metadata_visibility": "show",
+      "title": "Rancangan Pembelajaran Secara Daring Dalam Rangka Lawan Covid-19 “PEMBELAJARAN DOSEN DAN MAHASISWA DI RUMAH SAJA” Menggunakan Pasilitas Website dan Blog."
+    },
+    {
+      "volume": 1,
+      "issn": "2776-9283",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38333",
+      "type": "article",
+      "title": "ANALISIS PERGESERAN DAN REGANGAN WILAYAH LAMPUNG BERDASARKAN DATA PENGAMATAN GPS EPISODIK TAHUN 2018-2019",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2090",
+          "type": "pub"
+        }
+      ],
+      "metadata_visibility": "show",
+      "pagerange": "23-30",
+      "subjects": [
+        "G1",
+        "GA",
+        "QB"
+      ],
+      "documents": [
+          {
+            "main": "134-65-PB.pdf",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 38333,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "134-65-PB.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 159408,
+                  "hash": "40f55d3b29c3f1396225408fa9febb47",
+                  "mtime": "2022-01-25 11:41:00",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/434666",
+                  "filesize": 375011,
+                  "fileid": 434666
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159408",
+            "docid": 159408,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "format": "text"
+          }
+      ],
+      "date": "2021-12-01",
+      "publication": "Journal of Geodesy and Geomatics",
+      "status_changed": "2022-01-26 10:02:19",
+      "userid": 240,
+      "number": 2,
+      "refereed": "TRUE",
+      "eprintid": 38333,
+      "lastmod": "2022-01-26 10:02:19",
+      "creators": [
+        {
+          "id": "meyliaasinta@email.com",
+          "name": {
+            "given": "Meylia Sinta",
+            "family": "Salsabila",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "family": "Fadly",
+            "given": "Romi",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Rahmadi",
+            "given": "Eko",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "eko.rahmadi@eng.unila.ac.id"
+        }
+      ],
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2090",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "date_type": "published",
+      "ispublished": "pub",
+      "abstract": "Lampung berdekatan dengan pertemuan Lempeng Indo-Australia dan Lempeng Eurasia, menyebabkan terbentuknya zona subduksi di Pesisir Lampung. Selain itu, Lampung dilalui“The Great Sumatran Fault”, Sesar Tarahan dan sesar kecil lainnya membuat wilayah Lampung rawan akan aktivitas geodinamika. Tsunami yang melanda wilayah Lampung, gempa tektonik yang menimbulkan korban jiwa, serta aktivitas vulkanisme yang tinggi merupakan implikasi dari geodinamika yang terjadi. Maka diperlukan penelitian untuk menentukan pola deformasi yang terjadi diwilayahLampung. Penelitian ini bertujuan menghitung besar pergeseran, kecepatan pergeseran dan arah pergeseran serta regangan arah horizontal. Data yang digunakan hasil pengamatan GPS di 9 titik CORS yang berada diwilayah Lampung, yaitu CBJY, CMEN, CTCN, CSBK, CWJP, CPRI, CKMN, CKRI, CLGI dan data pengamatan GPS titik ULP2 yang berada di Universitas Lampung. Titik ikat yang digunakan sebanyak 14 stasiun IGS yaitu, BAKO, COCO, CUSV, DARW, DGAR, NTUS, HYDE, IISC, KARR, KAT1, LHAZ, POHN, XMIS, YAR3. \r\nPengolahan dilakukan menggunakan software GAMIT\/GLOBK 10.7. Hasil penelitian ini yaitu, pergeseran dengan rentang 0.20 – 29.78 mm untuk sumbu easting, -0.6 – -30.56 mm untuk sumbu northing dan 1.2 – 47.86 mm\/tahun untuk perubahan ketinggian. Kecepatan pergeseran horizontal sebesar 7.237 – 18.104 mm\/tahun yang didominasi bergerak mengarah ke Barat Daya,  serta regangan yang terjadi didominasi pola kompresi dengan nilai 0.0098  s.d -0.8251 µstrain\/tahun.\r\n\r\n \r\n\r\nKata Kunci : Deformasi, GPS, Lampung, Pergeseran, Regangan",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/03\/83\/33",
+      "datestamp": "2022-01-26 10:02:19",
+      "divisions": [
+        "FT11"
+      ]
+    },
+    {
+      "userid": 760,
+      "status_changed": "2022-08-29 01:38:18",
+      "publication": "IOP Conf. Series: Materials Science and Engineering",
+      "date": "2021-09",
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "docid": 166348,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166348",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "Plagiarism Checker  Coal velocity and proximate analysis relationship (IOP Conference series).pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 166348,
+                  "hash": "5c52f7d148445f8014a7d43fe15d57b1",
+                  "mtime": "2022-08-26 11:31:05",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/481011",
+                  "filesize": 347175,
+                  "fileid": 481011
+                }
+            ],
+            "pos": 1,
+            "eprintid": 44262,
+            "language": "en",
+            "main": "Plagiarism Checker  Coal velocity and proximate analysis relationship (IOP Conference series).pdf"
+          }
+      ],
+      "subjects": [
+        "QB",
+        "QE"
+      ],
+      "pagerange": "1-6",
+      "id_number": "10.1088\/1757-899X\/1173\/1\/012010",
+      "metadata_visibility": "show",
+      "title": "Coal velocity and proximate analysis relationship using\r\nMultiple Linear Regression",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/iopscience.iop.org\/issue\/1757-899X\/1173\/1"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44262",
+      "type": "article",
+      "issn": 17426588,
+      "divisions": [
+        "FT1"
+      ],
+      "dir": "disk0\/00\/04\/42\/62",
+      "datestamp": "2022-08-29 01:38:18",
+      "eprint_status": "archive",
+      "abstract": "Coal properties such a velocity (Vp) are essential to building a lateral distribution of\r\ncoal seam using seismic data. The experimental determination of velocity analysis is\r\nsophisticated, long time consumed, and expensive. On the contrary, statistical approaches such\r\nas linear regression can be run rapidly. The study's two main objectives were to develop models\r\nfor coal velocity using well log data variables (density and natural Gamma-Ray) and found the\r\nrelationship between velocity with proximate analysis results. Multiple linear regression (MLR)\r\nmethods were applied to estimate Vp's relationship between estimated and proximate analysis.\r\nBy conducting cross-validation, the prediction analysis of the models has been tested by using\r\nR2. The result showed that between Vp estimated versus Vp log have R2 0.80 and Vp estimated\r\nversus proximate analysis that reflected have R2 of 0.52. Correlations can estimate the\r\nrelationship between Vp and proximate analysis, then applied that correlation to distributed in\r\nseismic volume to obtain coal seam characteristic",
+      "ispublished": "pub",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUI"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUD"
+        }
+      ],
+      "date_type": "published",
+      "official_url": "https:\/\/iopscience.iop.org\/issue\/1757-899X\/1173\/1",
+      "rev_number": 11,
+      "publisher": "IOP Publishing",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Erfani",
+            "family": "Sandri",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Siregar",
+            "family": "Mustika"
+          },
+          "id": null
+        },
+        {
+          "id": "ahmad.zaenudin@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "ahmad",
+            "family": "zaenudin"
+          }
+        },
+        {
+          "id": "rustadi_2007@yahoo.com",
+          "name": {
+            "family": "Rustadi",
+            "given": "Rustadi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yogi",
+            "given": "Ida Bagus Suananda"
+          },
+          "id": "suananda.yogi@eng.unila.ac.id"
+        },
+        {
+          "id": "catur3712@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "rahmat",
+            "family": "catur wibowo"
+          }
+        }
+      ],
+      "eprintid": 44262,
+      "lastmod": "2022-08-29 01:38:18",
+      "refereed": "TRUE"
+    },
+    {
+      "date": "2021-12-01",
+      "publication": "Journal of Geodesy and Geomatics",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159409",
+            "pos": 1,
+            "eprintid": 38334,
+            "files": [
+                {
+                  "hash": "b8676e2f204b5f4249a59f6b20d02b6f",
+                  "mtime": "2022-01-25 11:46:49",
+                  "filesize": 585345,
+                  "fileid": 434674,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/434674",
+                  "filename": "134-66-PB.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 159409,
+                  "datasetid": "document"
+                }
+            ],
+            "language": "en",
+            "main": "134-66-PB.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 159409,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "status_changed": "2022-01-26 10:02:22",
+      "userid": 240,
+      "issn": "2776-9283",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38334",
+      "volume": 1,
+      "pagerange": "31-42",
+      "subjects": [
+        "G1",
+        "GA",
+        "QB"
+      ],
+      "title": "ANALISIS PERGESERAN DAN REGANGAN SELAT SUNDA BERDASARKAN DATA CORS BIG TAHUN2017-2019",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2091",
+          "type": "pub"
+        }
+      ],
+      "metadata_visibility": "show",
+      "ispublished": "pub",
+      "abstract": "Selat Sunda merupakan wilayah perairan yang berada pada pertemuan dua lempeng tektonik, yaitu lempeng Benua Eurasia dan lempeng Samudera Indo-Australia pertemuan lempeng tersebut membentuk zona subduksi sehingga menyebabkan patahan yang bergerak dan dikenal dengan Sesar Sumatra. Selain Sesar Sumatera di Selat Sunda juga terdapat aktivitas vulkanik yang disebabkan oleh aktivitas Gunung Anak Krakatau. Hal tersebut menyebabkan tingginya aktifitas geodinamika dan potensi bencana di Selat Sunda, mengingat wilayah selat sunda dikelilingi oleh provinsi yang padat penduduk dan menjadi jalur tranfortasi laut sehingga jika terjadi bencana maka banyak kerugian yang ditimbulkan. Oleh karena itu perlu adanya mitigasi bencana. Untuk mendukung mitigasi bencana maka dapat dilakuakan pemantauan pergeseran dan regangan Selat Sunda. Penelitian ini bertujuan menghitung besar pergeseran, kecepatan dan regangan Selat Sunda. Data yang digunakan yaitu data episodik titik CORS CGON, CLGI, CPSR, CSBK, CTCN dan CUJK, yang diikatkan ke 14 stasiun IGS BAKO, COCO, NTUS, XMIS, YAR3, DARW, KAT1, LHAZ, POHN, HYDE, DGAR,\r\n\r\nCUSV, SGOC, IISC, KARR dan pengolahan menggunakan software Gamit\/GLOBK 10.7. Hasil penelitian ini yaitu, pergeseran horizontal titik pengamatan sebesar 34,2 – 0,0525 mm dan pergeseran ketinggian sebesar 10,9 mm s.d -45,3 mm. Kecepatan pergeseran horizontal titik pengamatan sebesar  15,832 - 25,875 mm\/,   titik pengamatan dominan bergerak ke arah tenggara dengan arah pergeseran sebesar 78,3260- 135,5190. Pola regangan titik pengamatan yaitu, kompresi dengan nilai kompresi -0,4254 μstrain s.d -0.2382 μstrain.\r\n\r\n \r\n\r\nKata Kunci:KecepatanPergeseran, Pergeseran, Regangan, Selat Sunda.",
+      "eprint_status": "archive",
+      "datestamp": "2022-01-26 10:02:22",
+      "dir": "disk0\/00\/03\/83\/34",
+      "divisions": [
+        "FT11"
+      ],
+      "creators": [
+        {
+          "name": {
+            "family": "Santi",
+            "given": "Ely",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "Elysanti258@email.com"
+        },
+        {
+          "name": {
+            "family": "Fadly",
+            "given": "Romi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        },
+        {
+          "id": "eko.rahmadi@eng.unila.ac.id",
+          "name": {
+            "family": "Rahmadi",
+            "given": "Eko",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "official_url": "https:\/\/journal.eng.unila.ac.id\/index.php\/jgg\/article\/view\/2091",
+      "publisher": "Department of Geodesy and Geomatics, University of Lampung",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 2,
+      "lastmod": "2022-01-26 10:02:22",
+      "eprintid": 38334,
+      "date_type": "published"
+    }
+]
+

@@ -1,0 +1,91 @@
+[
+    {
+      "status_changed": "2020-02-17 03:41:04",
+      "userid": 2755,
+      "date": 2019,
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30393",
+            "pos": 1,
+            "eprintid": 17286,
+            "files": [
+                {
+                  "filename": "Kegagalan Gerakan Buruh dan Partai Buruh.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 30393,
+                  "datasetid": "document",
+                  "hash": "aadc17f0e9af9c7421b784696da0be5c",
+                  "mtime": "2019-12-09 05:06:17",
+                  "filesize": 863012,
+                  "fileid": 146384,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/146384"
+                }
+            ],
+            "language": "en",
+            "main": "Kegagalan Gerakan Buruh dan Partai Buruh.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 30393,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "subjects": [
+        "JN"
+      ],
+      "pagerange": "167-182",
+      "issn": "2087-7900",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17286",
+      "type": "article",
+      "volume": 10,
+      "datestamp": "2020-02-17 03:41:04",
+      "ispublished": "pub",
+      "abstract": "Artikel ini membahas tentang gerakan buruh dalam agenda membangun partainya sendiri untuk memperjuangkan aspirasi-aspirasi buruh yang selama ini tidak diakomodasi. Strategi yang bisa dilakukan oleh gerakan buruh untuk membuka kemungkinan membentuk partai politik yaitu dengan membangun konstituen yang kuat dengan cara melaksanakan penyerapan aspirasi dari bawah dalam mengidentifikasi masalah beserta tawaran solusi sebagai bentuk dari pendidikan politik bagi rakyat dan buruh. Selain itu, untuk mengurangi fragmentasi antar lintas organisasi, gerakan buruh juga harus segera melakukan konsolidasi. Seluruh aktivis buruh duduk bersama dan bermusyawarah merumuskan tujuan pembangunan partai buruh secara deliberatif. Hal yang tidak kalah penting dalam agenda membangun partai buruh ini yaitu pentingnya penyelenggaraan pemilu yang tidak mempersulit gerak partai-partai alternatif. Oleh karenanya, segala aturan administratif yang memberatkan dalam regulasi pembentukan partai politik saat ini perlu direvisi untuk meningkatkan kualitas demokratisasi dan demokrasi yang lebih baik di Indonesia.",
+      "eprint_status": "archive",
+      "contributors": [
+        {
+          "id": "dodi.faedlulloh@fisip.unila.ac.id",
+          "name": {
+            "family": "Dodi",
+            "given": "Faedlulloh",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "date_type": "published",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "official_url": "https:\/\/jurnal.dpr.go.id\/index.php\/politica\/article\/view\/1448",
+      "refereed": "TRUE",
+      "contact_email": "dodi.faedlulloh@fisip.unila.ac.id",
+      "lastmod": "2020-02-17 03:41:04",
+      "eprintid": 17286,
+      "referencetext": "Baumol, William J, Robert E. Litan, and Carl J. Schramm. Good Capitalism, Bad Capitalism: Kapitalisme Baik, Kapitalisme Buruk, Dan Ekonomi Pertumbuhan Dan Kemakmuran. Jakarta: Gramedia Pustaka Utama, 2010.\r\n\r\nBudiman, Arief. “The 1998 Crisis: Change and Continuity in Indonesia.” In Reformasi: Crisis and Change in Indonesia, edited by Arief Budiman, Barbara Hatley, and Damien Kingsbury, 87–99. Melbourne: MOnash Asia Institute, 1998.\r\n\r\nCaraway, Teri L. “Freedom of Association: Battering Ram or Trojan Horse?” Review of International Political Economy 13, no. 2 (2006).\r\n\r\nDenhardt, Janet V, and Robert B. Denhardt. The New Public Service: Service Not Steering. 4th edition. England: Routledge, 2015.\r\n\r\nFaedlulloh, Dodi. “Local Public Sphere for Discursive Public Service in Indonesia: Habermas Perspective.” European Journal of Social Sciences Education and Research 5, no. 1 (2015): 427–32.\r\n\r\nFord, M. Economic Unionsm and Labour’s Poor Performance in Indonesia’s 1999 and 2004 Elections. Sydney: AIRAANZ, 2005.\r\n\r\nHabermas, Jurgen. The Theory of Communicative Action: Reason and The Rationalization Of Society. Volume I. Boston: Beacon Press, 1984.\r\n\r\nHabibi, Muhtar. “Gerakan Buruh Pasca Soeharto: Politik Jalanan Di Tengah Himpitan Pasar Kerja Fleksibel.” Jurnal Ilmu Sosial Dan Ilmu Politik 16, no. 3 (2013).\r\n\r\nHadiz, Vedi R. “Mencerminkan Masa Lalu Atau Membayangkan Masa Depan?Kelas Dan Pluralisme Religius Dalam Tenaga Kerja Indonesia.” In Politik Multikulturalisme Menggugat Realitas Kebangsaan, edited by Robert W Hefner, 435–65. Yogyakarta: Impulse dan Penerbit Kanisius, 2007.\r\n\r\n———. “The Indonesian Labour Movement: Resurgent or Constrained?” Southeast Asian Affairs, 2002.\r\n\r\nIngleson, J. Perkotaan, Masalah Sosial, & Perburuhan Di Jawa Masa Kolonial. Jakarta: Komunitas Bambu, 2013.\r\n\r\nJuliawan, B.H. Menantang Elite: Peluang Partisipasi Buruh Dalam Pemilu Dalam Kebangkitan Gerakan Buruh: Refleksi Era Reformasi. Jakarta: Marjin Kiri, 2014.\r\n\r\nMurillo, M. V. Labour Unions, Partisan Coalitions, and Market Reforms in Latin America. Cambrdige: Cambridge University Press, 2001.\r\n\r\nRobison, R, and V Hadiz. Reorganizing Power In Indonesia: The Politics of Oligarchy in an Age of Markets. London: Routledge, 2004.\r\n\r\nRochadi, Sigit. “Dualitas Dalam Gerakan Buruh Di Indonesia.” SOSIOHUMANIKA: Jurnal Pendidikan Sains Sosial Dan Kemanusiaan, 9(1) Mei 2016 9, no. 1 (2016).\r\n\r\nRoyce, Edward. Classical Social Theory and Modern Society Marx, Durkheim, Weber. London: Rowman & Littlefield, 2015.\r\n\r\nSaleh, Moh Didit. “Belajar Pada Gerakan Buruh ‘Go Politic.’” Dipresentasikan dalam diskusi publik yang diselenggarakan Koperasi Riset Purusha dengan tajuk “Buruh Go Politic” di Owl House Coffe, Jakarta pada 19 Desember 2015, 2015.\r\n\r\nStiglitz, J. E. Frontiers of Development Economics: The Future in Perspective. World Bank and Oxford University Press, 2001.\r\n\r\nSuryomenggolo, J. Kebangkitan Gerakan Buruh (Pengantar) Dalam Kebangkitan Gerakan Buruh: Refleksi Era Reformasi. Jakarta: Marjin Kiri, 2014.\r\n\r\nSuwignyo, A. Buruh Bergerak, Membangun Kesadaran Kelas. Jakarta: Friedrich Ebert Stiftung, 2012.\r\n\r\nThirkell, John, Richard Scase, and Sarah Vickerstaff. Labour Relation and Political Change in Eastern Europe. London: Taylor and Francis, 2005.\r\n\r\nTornquist, O. “Labour and Democracy? Reflections on The Indonesian Impasse.” Journal of Contemporary Asia 43, no. 3 (2004).\r\n\r\nTriyono. “Buruh Dalam Pusaran Politik 2014.” LIPI, 2014. http:\/\/kependudukan.lipi.go.id\/en\/population-study\/employment\/152-buruh-dalam-pusaran-politik-2014.\r\n\r\nWarouw, Nicolaas. “Pekerja Industri Indonesia, Gerakan Buruh, Dan New Social Movement: Merajut Sebuah Kemungkinan.” Jurnal Analisis Sosial 10, No. 2 (2005): 1–18.\r\n\r\nZuhdan, M. “Perjuangan Gerakan Buruh Tidak Sekedar Upah Melacak Perkembangan Isu Gerakan Buruh Di Indonesia Pasca Reformasi.” Jurnal Ilmu Sosial Dan Ilmu Politik 17, no. 3 (2014).",
+      "publication": "Jurnal Politica",
+      "title": "Kegagalan Gerakan Buruh dan Partai Buruh Pada Pemilu Era Reformasi",
+      "metadata_visibility": "show",
+      "id_number": "https:\/\/doi.org\/10.22212\/jp.v10i2.1448",
+      "dir": "disk0\/00\/01\/72\/86",
+      "divisions": [
+        "FISIP2"
+      ],
+      "creators": [
+        {
+          "id": "dodi.faedlulloh@fisip.unila.ac.id",
+          "name": {
+            "given": "Faedlulloh",
+            "family": "Dodi",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "publisher": "Pusat Penelitian Badan Keahlian DPR RI  - Sekretariat Jenderal DPR R",
+      "number": 2
+    }
+]
+

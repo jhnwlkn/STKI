@@ -1,0 +1,121 @@
+[
+    {
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "docid": 159497,
+            "mime_type": "application\/pdf",
+            "pos": 1,
+            "eprintid": 38400,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/435238",
+                  "fileid": 435238,
+                  "filesize": 666595,
+                  "hash": "db72c91eb0a8b13d96fbb97b86e56f6d",
+                  "mtime": "2022-01-26 06:45:53",
+                  "datasetid": "document",
+                  "objectid": 159497,
+                  "mime_type": "application\/pdf",
+                  "filename": "Isu Perubahan Agraria Dalam Lirik Lagu Populer Indonesia 1950-1980 - Fuad Abdulgani (2019).pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159497",
+            "rev_number": 1,
+            "main": "Isu Perubahan Agraria Dalam Lirik Lagu Populer Indonesia 1950-1980 - Fuad Abdulgani (2019).pdf",
+            "language": "en"
+          },
+          {
+            "eprintid": 38400,
+            "pos": 2,
+            "files": [
+                {
+                  "mtime": "2022-01-26 06:46:32",
+                  "hash": "c9f379c848b443251885410bc3dbd690",
+                  "fileid": 435243,
+                  "filesize": 23686,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/435243",
+                  "hash_type": "MD5",
+                  "filename": 869,
+                  "mime_type": "text\/html",
+                  "objectid": 159499,
+                  "datasetid": "document"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159499",
+            "rev_number": 3,
+            "main": 869,
+            "language": "id",
+            "placement": 2,
+            "content": "published",
+            "security": "public",
+            "format": "text",
+            "docid": 159499,
+            "mime_type": "text\/html"
+          }
+      ],
+      "date": "2019-10-10",
+      "publication": "Journal of Music, Technology, and Industry",
+      "status_changed": "2022-01-26 10:04:42",
+      "userid": 19826,
+      "volume": 2,
+      "issn": "2622-8211",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38400",
+      "title": "Isu Perubahan Agraria dalam Lirik Lagu Populer Indonesia 1950-1980",
+      "metadata_visibility": "show",
+      "subjects": [
+        "D880",
+        "GN",
+        "HN"
+      ],
+      "corp_creators": [
+        "Lecturer \/ Researcher"
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Abdulgani",
+            "given": "Fuad"
+          },
+          "id": "fuad.abdulgani@fisip.unila.ac.id"
+        }
+      ],
+      "abstract": "Indonesia is an agricultural country where the majority of the population lives from cultivating land, both in rather sophisticated and simple ways, and making a living from the produce of the earth. The picture can be said to be correct for, at least, until the last decade before entering the millennium era. If you look at Indonesia's macroeconomic statistics from 1961 to 2011, it will be seen a decrease in the presentation of the population working in the agricultural sector. Along with that, the number of people working in the industrial (manufacturing) sector is increasing. Significant improvement is most clearly seen in the service sector. So that in 2011 the number beat the population of Indonesia who worked in the agricultural sector. If the change in agrarian society is seen as a popular change for Indonesians - in the sense that the change is experienced by many people, occurs in a broad spatial scope and with a significant impact - the question is, how will the change in an agrarian society be captured and interpreted in the mind by artists and especially musicians who, I think, have a role as recorders of the age? To answer that question, the writer selected a number of popular Indonesian songs from the 1950s to the 1980s with poems containing pieces of agrarian change.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/03\/84\/00",
+      "datestamp": "2022-01-26 10:04:42",
+      "divisions": [
+        "FISIP7"
+      ],
+      "refereed": "TRUE",
+      "number": 2,
+      "eprintid": 38400,
+      "lastmod": "2022-01-26 10:04:42",
+      "contact_email": "fuad.abdulgani@fisip.unila.ac.id",
+      "creators": [
+        {
+          "name": {
+            "given": "Fuad",
+            "family": "Abdulgani",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "fuad.abdulgani@fisip.unila.ac.id"
+        }
+      ],
+      "publisher": "Institut Seni Indonesia Denpasar",
+      "official_url": "https:\/\/jurnal.isi-dps.ac.id\/",
+      "full_text_status": "public",
+      "rev_number": 10,
+      "date_type": "published"
+    }
+]
+

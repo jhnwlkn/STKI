@@ -1,0 +1,169 @@
+[
+    {
+      "subjects": [
+        "GV",
+        "HT",
+        "NK",
+        "Q1",
+        "SB"
+      ],
+      "metadata_visibility": "show",
+      "title": "Pelatihan Pembuatan Flos-Insecta Embedding sebagai Cinderamata Masyarakat Sekitar Kebun Raya Liwa Kabupaten Lampung Barat",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43601",
+      "issn": "2745-7699",
+      "userid": 3262,
+      "status_changed": "2022-07-25 01:56:57",
+      "publication": "Tabikpun",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mtime": "2022-07-24 12:50:56",
+                  "hash": "d7f597125f76bd1e5f6cffbbeca80541",
+                  "fileid": 475687,
+                  "filesize": 638813,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/475687",
+                  "hash_type": "MD5",
+                  "filename": "85-Article Text-872-1-10-20220723.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 165548,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 43601,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165548",
+            "rev_number": 1,
+            "main": "85-Article Text-872-1-10-20220723.pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 165548
+          }
+      ],
+      "rev_number": 10,
+      "publisher": "FMIPA Universitas Lampung",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Achmad",
+            "family": "Arifiyanto"
+          },
+          "id": "achmad.arifiyanto@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Nuning Nurcahyani",
+            "given": "Nuning"
+          }
+        },
+        {
+          "id": "emantisrosa@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Rosa",
+            "family": "Emantis"
+          }
+        },
+        {
+          "name": {
+            "family": "Ekowati",
+            "given": "Christina Nugroho",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "lastmod": "2022-07-25 01:56:57",
+      "eprintid": 43601,
+      "refereed": "TRUE",
+      "dir": "disk0\/00\/04\/36\/01",
+      "datestamp": "2022-07-25 01:56:57",
+      "eprint_status": "archive",
+      "ispublished": "pub"
+    },
+    {
+      "metadata_visibility": "show",
+      "title": "LOGO DIES 55 UNIVERSITAS LAMPUNG",
+      "output_media": "IMAGE",
+      "subjects": [
+        "N1",
+        "NC",
+        "ND",
+        "NE",
+        "NK",
+        "NX"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24661",
+      "type": "image",
+      "userid": 72,
+      "status_changed": "2020-11-09 09:13:13",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38406",
+            "rev_number": 1,
+            "pos": 1,
+            "eprintid": 24661,
+            "files": [
+                {
+                  "filesize": 695889,
+                  "fileid": 223843,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/223843",
+                  "hash": "f55b953e01bfe38e42bac7bb9c63b3f1",
+                  "mtime": "2020-11-08 01:27:14",
+                  "objectid": 38406,
+                  "datasetid": "document",
+                  "filename": "LOGO Dies 55 Unila.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "language": "en",
+            "main": "LOGO Dies 55 Unila.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 38406,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "date": "2020-07",
+      "date_type": "published",
+      "lastmod": "2020-11-09 09:13:13",
+      "eprintid": 24661,
+      "full_text_status": "public",
+      "publisher": "Dies Natalis 55 Unila",
+      "rev_number": 12,
+      "creators": [
+        {
+          "name": {
+            "family": "KURNIAWAN",
+            "given": "PANJI",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FT9"
+      ],
+      "dir": "disk0\/00\/02\/46\/61",
+      "datestamp": "2020-11-09 09:13:13",
+      "eprint_status": "archive",
+      "abstract": "ARTI LOGO :\r\n\r\nBentuk Setengah Lingkaran Berwarna Kuning, memiliki arti Surya\/Matahari yang bersinar dengan membawa kemakmuran, kegemilangan, berwarna kuning denan latar depan siluet orang dengan keceriaan, merupakan dominasi warna Universitas Lampung, sebagai wadah pendidikan yang mampu menghantarkan civitas akademisnya meraih kesuksesan.\r\nSiluet Garis Horizon berwarna Biru, merupakan Fakultas Penyelenggara yang dalam Hal ini adalah FKIP dan Fakultas Teknik.\r\nRiak Gelombang Ungu yang menyerupai tangan menengadah, merupakan refleksi keluasan ilmu pengetahuan, dan keleluasaan keilmuan (kurikulum merdeka) yang mampu mencapai ke seluruh ruang dan tempat dan mampu beradaptasi dengan kondisi apapun dan dimanapun, dengan tetap menjadikan kebesaran Tuhan YME, Allah SWT sebagai satu-satunya sumber dari segala Ilmu dalam Kehidupan.\r\nSiluet Pohon, Orang sebagai Tunas, dengan Daun Berwarna-warni, merefleksikan Kemampuan & Komitmen Unila untuk mampu Menciptakan Generasi yang Unggul, melalui sejumlah Fakultas yang dimilikinya.",
+      "ispublished": "pub"
+    }
+]
+

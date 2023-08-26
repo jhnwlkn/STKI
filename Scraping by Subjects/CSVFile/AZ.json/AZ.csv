@@ -1,0 +1,17 @@
+division,title,abstract,subjects,publication,date,keywords
+FKIP24,Karya seni batik,Motif batik nekara dan bejana lampung,"AZ, D1, NX",,2020-08-14,
+FT5,Rancang Bangun Multilevel Boost Converter Untuk Catu Daya Motor Arus Searah Pada Kendaraan Listrik Berbasis Mikrokontroler,"Rangkaian multilevel boost converter memiliki prinsip kerja yang sama dengan boost converter
+konvensional namun rasio tegangan keluarannya lebih tinggi. Dimana tegangan keluaran dari multilevel boost
+converter ini akan digunakan sebagai catu daya untuk mengendalikan kecepatan putar motor arus searah
+(MAS). Kemudian akan dilakukan perbandingan antara tegangan keluaran multilevel boost converter dengan
+boost converter konvensional yang digunakan sebagai catu daya MAS. Pada penelitian ini nilai tegangan
+keluaran multilevel boost converter saat dihubungkan pada MAS dengan duty cycle 20% yaitu 80,3 volt dan
+MAS sudah mulai berputar dengan kecepatan 350 rpm. Sementara tegangan keluaran boost converter
+konvensional sebesar 39,4 volt namun MAS belum dapat berputar pada duty cycle 20% dan tegangan masukan
+yang sama yaitu 12,3 volt. Kemudian dilakukan penambahan beban MAS pada pengujian multilevel boost
+converter. Dimana semakin berat beban pada MAS maka torsinya akan meningkat. Dengan demikian
+perangkat multilevel boost converter dapat digunakan sebagai catu daya MAS untuk kendaraan listrik.
+Kata kunci: Multilevel boost converter, boost converter, motor arus searah",AZ,Rancang Bangun Multilevel Boost Converter Untuk Catu Daya Motor Arus Searah Pada Kendaraan Listrik Berbasis Mikrokontroler,2019-08-21,
+,MENEMBUS SALJU MENGGAPAI CITA,"Buku “Menembus Salju Menggapai Cita”: Biografi Muhajir Utomo ini menceritakan parjalanan panjang Prof. Ir. Muhajir Utomo, Ph.D., M.Sc. seorang anak transmigran dalam rangka mewujudkan cita-citanya. Penulis menyusun buku biografi ini karena rasa penghormatan yang tinggi pada Prof. Ir. Muhajir Utomo, Ph.D., M.Sc. yang merupakan seorang pejuang yang dapat dijadikan panutan oleh penulis.
+Penulis berharap dengan terbitnya buku in, bahwa liku-liku perjuangan kehidupan Muhajir dapat dijadikan motivasi kehidupan perjuangan anak bangsa. Perjuangan untuk sukses bisa dimulai dengan “modal dengkul” artinya modal kehidupan yang sangat sederhana dengan kondisi fisik dan harta yang sangat “pas-pasan”. Dengan demikian mudah-mudahan buku ini dapat menimbulkan motivasi pembacanya. Pembaca yang masih mudah dapat mengambil contoh untuk berjuang. Pembaca ang sudah lanjut usia dapat menjadikan bahan nasehat pada generasi muda.
+Selanjutnya penuslis mengucapkan terima kasih pada Ibu Maria Harjani Sanusi, S.T. dan Bapak Budi Sutedjo Dharma Oetomo, S.Kom., M.M. yang berusaha memberi semangat penuslisan buku ini dan mendampingi sampai terselesaikannya buku ini. Kepada semua pembaca kami mohon kritik dan saran yang membangun untuk perbaikan atas segala kesalahan yang dijumpai.",AZ,,2020-06,

@@ -1,0 +1,131 @@
+[
+    {
+      "metadata_visibility": "show",
+      "title": "Overseas Lahat Community in Bandarlampung",
+      "pagerange": "1-8",
+      "subjects": [
+        "BC"
+      ],
+      "volume": 8,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43478",
+      "issn": "2364-5369",
+      "userid": 1000,
+      "status_changed": "2022-07-20 09:46:53",
+      "documents": [
+          {
+            "docid": 165418,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "main": "Jurnal 001.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165418",
+            "eprintid": 43478,
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Jurnal 001.pdf",
+                  "datasetid": "document",
+                  "objectid": 165418,
+                  "mtime": "2022-07-20 05:07:27",
+                  "hash": "cd12d18179c45102aa4b4721c6d72c1f",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474633",
+                  "fileid": 474633,
+                  "filesize": 531861
+                }
+            ]
+          }
+      ],
+      "publication": "Overseas Lahat Community in Bandarlampung",
+      "date": "2021-06",
+      "date_type": "published",
+      "lastmod": "2022-07-20 09:46:53",
+      "eprintid": 43478,
+      "number": 6,
+      "refereed": "TRUE",
+      "official_url": "https:\/\/ijmmu.com\/index.php\/ijmmu\/article\/view\/2588\/2305",
+      "full_text_status": "public",
+      "publisher": "Teti Feriyani, Erlina Rufaidah, Pargito",
+      "rev_number": 10,
+      "creators": [
+        {
+          "id": "-",
+          "name": {
+            "family": "Teti",
+            "given": "Feriyani",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Rufaidah",
+            "family": "Erlina"
+          },
+          "id": "-"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "-",
+            "family": "Pargito"
+          },
+          "id": "-"
+        }
+      ],
+      "divisions": [
+        "FP1"
+      ],
+      "dir": "disk0\/00\/04\/34\/78",
+      "datestamp": "2022-07-20 09:46:53",
+      "corp_creators": [
+        "Teti Feriyani",
+        "Erlina Rufaidah",
+        "Pargito"
+      ],
+      "contributors": [
+        {
+          "id": "-",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Teti",
+            "given": "Feriyani"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "-",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Rufaidah",
+            "family": "Erlina"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "given": "-",
+            "family": "Pargito",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "-"
+        }
+      ],
+      "eprint_status": "archive",
+      "abstract": "The Lahat people are one of the people who are very obedient to customs. Adat is something that \r\nmust be adhered to firmly. Even though the Lahat people are far from their hometown, they still maintain \r\nand also preserve their cultural customs. One of them is the philosophy of Seganti Setungguan. The \r\npurpose of this study was to determine the implementation of the philosophy of seganti setungguan \r\namong overseas communities in Bandarlampung. The method used in this research is the descriptive \r\nqualitative research method. The approach used in this research is ethnography. The research location is \r\nin the city of Bandarlampung, this location was chosen as a research location because there are Lahat \r\npeople who live and live in Lampung Province. So that researchers can see facts or realities in society that \r\nhave these characteristics. The results showed that the Lahat people who were overseas continued to carry \r\nout and preserve the philosophy of the Lahat by forming an association of Lahat people. The form of \r\nimplementation of the philosophy as a wavering is carried out in the form of joyful activities such as \r\nweddings, then mourning activities, such as death and calamities, then educational activities, and religious \r\nactivities. The implementation of this philosophy is as much as a striving, indirectly forming mechanical \r\nsocial solidarity that binds fellow Lahat people overseas due to the feeling of coincidence, helping, and \r\ncaring for others.",
+      "ispublished": "pub"
+    }
+]
+

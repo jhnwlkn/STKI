@@ -1,0 +1,80 @@
+[
+    {
+      "title": "Getah Jarak (Jatropha curcas L.) sebagai Penghambat Pertumbuhan Bakteri\r\nStreptococcus mutans pada Karies Gigi",
+      "metadata_visibility": "show",
+      "subjects": [
+        "RK"
+      ],
+      "pagerange": "62-67",
+      "volume": 5,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2109",
+      "type": "article",
+      "status_changed": "2017-05-31 02:12:20",
+      "userid": 1081,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 1984,
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "main": "Devi-Restina.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1984",
+            "files": [
+                {
+                  "objectid": 1984,
+                  "datasetid": "document",
+                  "filename": "Devi-Restina.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "filesize": 889664,
+                  "fileid": 14585,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/14585",
+                  "hash": "45c1cfdef3aed625e9be49eb2ad77fbf",
+                  "mtime": "2017-05-30 07:04:24"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 2109
+          }
+      ],
+      "date": "2016-09",
+      "publication": "Majority",
+      "date_type": "published",
+      "refereed": "TRUE",
+      "number": 3,
+      "lastmod": "2017-05-31 02:12:20",
+      "eprintid": 2109,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Restina",
+            "given": "Devi"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Efrida",
+            "family": "Warganegara"
+          }
+        }
+      ],
+      "rev_number": 7,
+      "full_text_status": "public",
+      "dir": "disk0\/00\/00\/21\/09",
+      "datestamp": "2017-05-31 02:12:20",
+      "divisions": [
+        "FK1"
+      ],
+      "abstract": "Karies gigi adalah penyakit infeksi pada gigi yang disebabkan oleh Streptococcus mutans yang menyebabkan demineralisasi\r\npada jaringan sehingga menyebabkan terjadinya disolusi dan kerusakan yang terlokalisir pada jaringan tersebut. Karies gigi\r\nditandai dengan lubang pada gigi. Pada sepuluh orang di Indonesia, enam diantaranya telah menderita karies gigi yang\r\nartinya, prevalensi penyakit karies gigi di Indonesia telah mencapai 60%. Untuk mengurangi jumlah mikroorganisme S.\r\nmutans, masyarakat dapat memanfaatkan bahan alam. Salah satu bahan alam tersebut adalah getah jarak. Getah jarak\r\n(Jatropha curcas L.) efektif dalam menghambat pertumbuhan bakteri Streptococcus mutans dimana daya hambat tersebut\r\nsangat dipengaruhi oleh adanya zat-zat antimikroba yang terdapat pada getah jarak yaitu flavonoid, saponin dan tanin.\r\nFlavonoid bekerja dengan cara membentuk senyawa kompleks dengan protein ekstraseluler dan terlarut sehingga dapat\r\nmerusak membran sel bakteri. Saponin bekerja dengan cara menurunkan tegangan permukaan, sehingga mengakibatkan\r\nnaiknya permeabilitas atau kebocoran sel dan mengakibatkan senyawa intraseluler akan keluar dari sel bakteri. Senyawa ini\r\nberdifusi melalui membran luar dan dinding sel yang rentan lalu mengikat membran sitoplasma sehingga mengurangi\r\nkestabilan itu dan menyebabkan terjadinya kematian sel. Sedangkan tanin dapat membunuh bakteri karena aktivitas\r\nantibakteri yang dimilikinya. Pemakaian getah jarak untuk karies gigi dapat digunakan dengan cara meneteskan satu sampai\r\ndua tetes getah ke dalam lubang gigi.\r\nKata kunci: karies gigi, Streptococcus mutans, getah jarak",
+      "ispublished": "pub",
+      "eprint_status": "archive"
+    }
+]
+

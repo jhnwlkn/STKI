@@ -1,0 +1,70 @@
+[
+    {
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "datestamp": "2023-06-19 01:17:44",
+      "dir": "disk0_bak\/00\/05\/21\/73",
+      "divisions": [
+        "FISIP8"
+      ],
+      "refereed": "FALSE",
+      "lastmod": "2023-06-19 01:17:44",
+      "eprintid": 52173,
+      "creators": [
+        {
+          "id": "roby.rakhmadi007@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Roby",
+            "family": "Rakhmadi"
+          }
+        }
+      ],
+      "publisher": "Terekam Jejak",
+      "official_url": "https:\/\/terekamjejak.com\/marshall-plan-strategi-amerika-mainkan-politik-belanda\/",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 252519,
+            "files": [
+                {
+                  "mtime": "2023-06-17 12:57:09",
+                  "hash": "5de43d3ad53967fc58bc991d1312228e",
+                  "filesize": 682267,
+                  "fileid": 618203,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/618203",
+                  "hash_type": "MD5",
+                  "filename": "Marshall Plan, Strategi Amerika Mainkan Politik Belanda - Terekam Jejak.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 252519,
+                  "datasetid": "document"
+                }
+            ],
+            "eprintid": 52173,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252519",
+            "rev_number": 1,
+            "main": "Marshall Plan, Strategi Amerika Mainkan Politik Belanda - Terekam Jejak.pdf",
+            "language": "en"
+          }
+      ],
+      "date": "2022-04-23",
+      "publication": "https:\/\/terekamjejak.com\/",
+      "status_changed": "2023-06-19 01:17:44",
+      "userid": 2796,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52173",
+      "title": "Marshall Plan, Strategi Amerika Mainkan Politik Belanda",
+      "metadata_visibility": "show",
+      "subjects": [
+        "E151"
+      ]
+    }
+]
+

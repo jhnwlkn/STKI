@@ -1,0 +1,1155 @@
+[
+    {
+      "date": 2020,
+      "documents": [
+          {
+            "files": [
+                {
+                  "filename": "LP book chapter_fuad abdulgani.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 161961,
+                  "datasetid": "document",
+                  "hash": "5b92ba077a6f4de6210c73f4d79121e8",
+                  "mtime": "2022-03-28 06:04:34",
+                  "filesize": 439786,
+                  "fileid": 452246,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/452246"
+                }
+            ],
+            "eprintid": 40599,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161961",
+            "rev_number": 1,
+            "main": "LP book chapter_fuad abdulgani.pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 161961
+          }
+      ],
+      "userid": 19826,
+      "status_changed": "2022-03-28 06:58:07",
+      "type": "other",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40599",
+      "subjects": [
+        "B1",
+        "H1",
+        "HX"
+      ],
+      "metadata_visibility": "show",
+      "title": "Pemikiran Ekologis Friedrich Engels: Tawaran Menuju Ekologi Manusia Marxian",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/05\/99",
+      "datestamp": "2022-03-28 06:58:07",
+      "publisher": "Ultimus",
+      "rev_number": 9,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "family": "Abdulgani",
+            "given": "Fuad",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "fuad.abdulgani@fisip.unila.ac.id"
+        }
+      ],
+      "eprintid": 40599,
+      "lastmod": "2022-03-28 06:58:07"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37623",
+      "type": "book_section",
+      "editors": [
+        {
+          "name": {
+            "given": "Dede",
+            "family": "Mulyanto",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "fuad.abdulgani@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Fuad",
+            "family": "Abdulgani"
+          }
+        }
+      ],
+      "title": "Pemikiran Ekologis Friedrich Engels: Tawaran menuju Ekologi Manusia Marxian",
+      "metadata_visibility": "show",
+      "subjects": [
+        "B1",
+        "HX"
+      ],
+      "documents": [
+          {
+            "docid": 158554,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "main": "Pemikiran_Ekologis_Friedrich_Engels_Tawa (2).pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158554",
+            "rev_number": 1,
+            "pos": 1,
+            "eprintid": 37623,
+            "files": [
+                {
+                  "filesize": 318850,
+                  "fileid": 429338,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/429338",
+                  "hash": "37e4221b633a222490d176c8252fa72b",
+                  "mtime": "2022-01-05 07:32:34",
+                  "objectid": 158554,
+                  "datasetid": "document",
+                  "filename": "Pemikiran_Ekologis_Friedrich_Engels_Tawa (2).pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf"
+                }
+            ]
+          }
+      ],
+      "date": 2020,
+      "place_of_pub": "Bandung",
+      "status_changed": "2022-01-06 01:13:29",
+      "book_title": "Friedrich Engels: Pemikiran dan Kritik",
+      "userid": 19826,
+      "refereed": "TRUE",
+      "eprintid": 37623,
+      "lastmod": "2022-01-06 01:13:29",
+      "creators": [
+        {
+          "name": {
+            "family": "Abdulgani",
+            "given": "Fuad",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "rev_number": 8,
+      "publisher": "Ultimus",
+      "full_text_status": "public",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Abdulgani",
+            "given": "Fuad",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Fuad",
+            "family": "Abdulgani",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/EDT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/EDT",
+          "name": {
+            "family": "Mulyanto",
+            "given": "Dede",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "ispublished": "pub",
+      "abstract": "Sejak dua dasawarsa terakhir anggapan bahwa Marxisme yang 'Promethean' telah dipatahkan oleh serangkaian pembacaan baru yang mengemukakan pentingnya dimensi ekologis dalam pemikiran Marx dan Engels. Urgensi ini diartikulasikan dalam konsepsi metabolisme yang Marx gunakan untuk memahami relasi manusia dan alam. Perhatian atas dimensi ekologis serta ilmu pengetahuan alam juga kentara dalam karya‐karya Friedrich Engels. Esai ini ditujukan untuk memperkenalkan pemikiran ekologi Friedrich Engels. Pandangan Engels tentang ekologi sesungguhnya memiliki relevansi yang kuat dengan perkembangan pemikiran dalam bidang kajian antropologi lingkungan atau ekologi manusia.",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/03\/76\/23",
+      "datestamp": "2022-01-06 01:13:29",
+      "divisions": [
+        "FISIP7"
+      ]
+    },
+    {
+      "documents": [
+          {
+            "docid": 158555,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "main": "PERHIMPUNAN_MUDA_Collected_Notes_from_Marxism Studies.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158555",
+            "eprintid": 37624,
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/429346",
+                  "filesize": 3158713,
+                  "fileid": 429346,
+                  "mtime": "2022-01-05 07:43:43",
+                  "hash": "76fe1fd765436ddccdb763faba622bee",
+                  "datasetid": "document",
+                  "objectid": 158555,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "PERHIMPUNAN_MUDA_Collected_Notes_from_Marxism Studies.pdf"
+                }
+            ]
+          }
+      ],
+      "pages": 327,
+      "date": "2020-04",
+      "status_changed": "2022-01-06 01:13:31",
+      "userid": 19826,
+      "type": "book",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37624",
+      "title": "Perhimpunan Muda Collected Notes from Marxism Studies in 2014",
+      "metadata_visibility": "show",
+      "subjects": [
+        "B1",
+        "HX"
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUI",
+          "name": {
+            "given": "Fuad",
+            "family": "Abdulgani",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/03\/76\/24",
+      "datestamp": "2022-01-06 01:13:31",
+      "divisions": [
+        "FISIP7"
+      ],
+      "refereed": "TRUE",
+      "eprintid": 37624,
+      "lastmod": "2022-01-06 01:13:31",
+      "contact_email": "fuad.abdulgani@fisip.unila.ac.id",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Abdulgani",
+            "given": "Fuad"
+          }
+        },
+        {
+          "name": {
+            "given": "Benny",
+            "family": "Syahrani",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Hugo",
+            "given": "Fransesco",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Sasongko",
+            "given": "Kresna",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Hilmawan",
+            "given": "Reza",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Rengga",
+            "family": "Frinaldi"
+          }
+        }
+      ],
+      "publisher": "Perhimpunan Muda",
+      "rev_number": 8,
+      "full_text_status": "public"
+    },
+    {
+      "divisions": [
+        "FP1"
+      ],
+      "dir": "disk0\/00\/04\/34\/81",
+      "datestamp": "2022-07-20 09:47:14",
+      "eprint_status": "archive",
+      "abstract": "This type of research uses qualitative phenomenology. The \r\nterm phenomenology has been used so widely that there are \r\ndifferent interpretations among experts. According to \r\nPolkinghorne (Creswell 1998), phenomenological studies \r\ndescribe the meaning of a life experience for some people \r\nabout a concept or phenomenon. People who are involved in \r\ndealing with a phenomenon explore the structure of awareness \r\nof human life experience. The focus of phenomenological \r\nresearch is on essence (essence or basic things), invariant \r\nstructure (structures that remain essential of live experience \r\n(things that are important from life experience) a group of \r\npeople (community).",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "id": "-",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Allen Nurs",
+            "given": "Atanacio"
+          }
+        },
+        {
+          "id": "-",
+          "name": {
+            "family": "Trinaningsih",
+            "given": "-",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "-",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Rufaidah",
+            "family": "Erlina"
+          }
+        }
+      ],
+      "corp_creators": [
+        "Allen Nurs Atanacio",
+        "Trinaningsih",
+        "Erlina Rufaidah"
+      ],
+      "date_type": "published",
+      "publisher": "www.rsisinternational.org",
+      "official_url": "https:\/\/www.rsisinternational.org\/journals\/ijriss\/Digital-Library\/volume-4-issue-9\/50-51.pdf",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Atanacio",
+            "family": "Allen Nurs"
+          },
+          "id": "-"
+        },
+        {
+          "id": "-",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "-",
+            "family": "Trinaningsih"
+          }
+        },
+        {
+          "name": {
+            "family": "Erlina",
+            "given": "Rufaidah",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "-"
+        }
+      ],
+      "eprintid": 43481,
+      "lastmod": "2022-07-20 09:47:14",
+      "refereed": "TRUE",
+      "number": 9,
+      "userid": 1000,
+      "status_changed": "2022-07-20 09:47:14",
+      "publication": "International Journal of Research and Innovation in Social Science (IJRISS)",
+      "date": "2020-09",
+      "documents": [
+          {
+            "language": "en",
+            "main": "Jurnal 003.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165420",
+            "pos": 1,
+            "eprintid": 43481,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "Jurnal 003.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 165420,
+                  "hash": "69fade6909831a5921980f52c2d919a1",
+                  "mtime": "2022-07-20 05:45:25",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474650",
+                  "filesize": 397857,
+                  "fileid": 474650
+                }
+            ],
+            "docid": 165420,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "pagerange": "50-51",
+      "subjects": [
+        "B1"
+      ],
+      "metadata_visibility": "show",
+      "title": "Community Diversion Behavior in Pringsewu District",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43481",
+      "issn": "2454-6186",
+      "volume": 4
+    },
+    {
+      "status_changed": "2022-10-03 02:07:37",
+      "userid": 1000,
+      "date": 2020,
+      "documents": [
+          {
+            "eprintid": 45428,
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "1. Jurnal Community Diversion.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 167420,
+                  "hash": "a7e78aba412b7afd24d95f18ee71b7bb",
+                  "mtime": "2022-10-03 01:55:58",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/487961",
+                  "fileid": 487961,
+                  "filesize": 831571
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/167420",
+            "main": "1. Jurnal Community Diversion.pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 167420,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "subjects": [
+        "B1"
+      ],
+      "title": "Community Diversion Behavior in Pringsewu District",
+      "metadata_visibility": "show",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/45428",
+      "type": "other",
+      "datestamp": "2022-10-03 02:07:37",
+      "dir": "disk0\/00\/04\/54\/28",
+      "divisions": [
+        "FP1"
+      ],
+      "ispublished": "pub",
+      "abstract": "This type of research uses qualitative phenomenology. The term phenomenology has been used so widely that there are different interpretations among experts. According to Polkinghorne (Creswell 1998), phenomenological studies describe the meaning of a life experience for some people about a concept or phenomenon. People who are involved in dealing with a phenomenon explore the structure of awareness of human life experience. The focus of phenomenological research is on essence (essence or basic things), invariant structure (structures that remain essential of live experience (things that are important from life experience) a group of people (community).",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Allen Nurs Atanacio",
+            "given": "Allen"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Trisna",
+            "family": "Trisnaningsih"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Erlina Rufaidah",
+            "given": "ER"
+          },
+          "id": "erlinarufaidah1958@gmail.com"
+        }
+      ],
+      "rev_number": 11,
+      "official_url": "https:\/\/www.rsisinternational.org\/journals\/ijriss\/Digital-Library\/volume-4-issue-9\/50-51.pdf",
+      "publisher": "International Journal of Research and Innovation in Social Science (IJRISS)",
+      "full_text_status": "public",
+      "eprintid": 45428,
+      "lastmod": "2022-10-03 02:07:37"
+    },
+    {
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Faisal",
+            "given": "Emil El"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Riswan",
+            "family": "Jaenudin"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Alfiandra",
+            "family": "Alfiandra"
+          }
+        },
+        {
+          "id": "ana.mentari@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Mentari",
+            "given": "Ana"
+          }
+        }
+      ],
+      "rev_number": 8,
+      "publisher": "Bening Media Publishing",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2023-02-01 01:43:45",
+      "eprintid": 48228,
+      "date_type": "published",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "dir": "disk0_bak\/00\/04\/82\/28",
+      "datestamp": "2023-02-01 01:43:45",
+      "divisions": [
+        "FKIP12"
+      ],
+      "isbn": "978-623-6991-76-3",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48228",
+      "type": "book",
+      "subjects": [
+        "B1",
+        "L1"
+      ],
+      "title": "BUKU AJAR FILSAFAT ILMU",
+      "metadata_visibility": "show",
+      "date": "2021-10",
+      "place_of_pub": "Palembang",
+      "documents": [
+          {
+            "docid": 187495,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "A5_ BUKU AJAR FILSAFAT ILMU.pdf",
+            "language": "en",
+            "eprintid": 48228,
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 187495,
+                  "mime_type": "application\/pdf",
+                  "filename": "A5_ BUKU AJAR FILSAFAT ILMU.pdf",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/527025",
+                  "filesize": 2132286,
+                  "fileid": 527025,
+                  "hash": "b215facb5346338a89aa6f5891c5b2fb",
+                  "mtime": "2023-01-31 11:44:43"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187495",
+            "rev_number": 1
+          }
+      ],
+      "status_changed": "2023-02-01 01:43:45",
+      "userid": 3045
+    },
+    {
+      "volume": 4,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43483",
+      "type": "article",
+      "issn": "2454-6186",
+      "metadata_visibility": "show",
+      "title": "The Effectiveness of Multicultural- Based Social Sciences Teaching Materials for Optimizing Nationality Character of Students in Junior High School One Natar South Lampung Regency",
+      "pagerange": "469-473",
+      "subjects": [
+        "B1",
+        "BL",
+        "GF"
+      ],
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165422",
+            "rev_number": 1,
+            "pos": 1,
+            "eprintid": 43483,
+            "files": [
+                {
+                  "objectid": 165422,
+                  "datasetid": "document",
+                  "filename": "Jurnal 005.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "filesize": 676628,
+                  "fileid": 474663,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474663",
+                  "hash": "5100f6cb3fef3d87c511ed4b7fd1370c",
+                  "mtime": "2022-07-20 06:03:24"
+                }
+            ],
+            "language": "en",
+            "main": "Jurnal 005.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 165422,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "publication": "International Journal of Research and Innovation in Social Science (IJRISS)",
+      "date": "2020-07",
+      "userid": 1000,
+      "status_changed": "2022-07-20 09:47:19",
+      "lastmod": "2022-07-20 09:47:19",
+      "eprintid": 43483,
+      "number": 7,
+      "refereed": "TRUE",
+      "publisher": "www.rsisinternational.org",
+      "official_url": "https:\/\/www.rsisinternational.org\/journals\/ijriss\/Digital-Library\/volume-4-issue-7\/469-473.pdf",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "creators": [
+        {
+          "name": {
+            "given": "Efendi",
+            "family": "Meri",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "-"
+        },
+        {
+          "name": {
+            "given": "Sinaga",
+            "family": "Risma Margaretha",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "-"
+        },
+        {
+          "id": "-",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Erlina",
+            "given": "Rufaidah"
+          }
+        }
+      ],
+      "date_type": "published",
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Meri",
+            "given": "Efendi"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "-"
+        },
+        {
+          "id": "-",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Sinaga",
+            "family": "Risma Margaretha"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Erlina",
+            "given": "Rufaidah"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "-"
+        }
+      ],
+      "corp_creators": [
+        "Meri Efendi",
+        "Risma Margaretha Sinaga",
+        "Erlina Rufaida"
+      ],
+      "eprint_status": "archive",
+      "abstract": "This research is motivated by the lack of nationality \r\nand multicultural values, the limited number of textbooks in \r\nschools that are only received from the government and the lack \r\nof interesting books. Then, the need for multicultural-based \r\nlearning modules that have nationality character values. The \r\nresearch aims to produce IPS multicultural based teaching \r\nmaterial products and to analyze the effectiveness of the use of \r\nmulticultural based IPS teaching materials. This research is a \r\ndevelopment research (R&D) of Borg and Gall. The module \r\nproducts are validated by learning material experts, learning \r\nmedia or design experts, linguists, social studies teachers and \r\nstudents. The effectiveness of the product is obtained by using a \r\npre-test and post-test (control group design) experimental test. \r\nThe pre test and post test results of IPS tests were analyzed using \r\nt test and normalized gain comparison. Based on the results of \r\ndata analysis and discussion, the following conclusions are \r\nobtained: 1) Learning that uses multicultural-based teaching \r\nmaterials in social studies subjects as learning resources in social \r\nstudies learning can improve student character values. 2) \r\nLearning social studies using multicultural-based social studies \r\nteaching materials for eighth grade junior high school students is \r\nmore effective than using non-development modules in schools. \r\nThe module's teaching materials are effective by being proven 1) \r\nLearning that uses multicultural-based teaching materials in \r\nsocial studies subjects as learning resources in social studies \r\nlearning can improve student character values. 2) Learning \r\nsocial studies using multicultural-based social studies teaching \r\nmaterials for eighth grade junior high school students is more \r\neffective than using non-development modules in schools. The \r\nmodule's teaching materials are effective by being proven 1) \r\nLearning that uses multicultural-based teaching materials in \r\nsocial studies subjects as learning resources in social studies \r\nlearning can improve student character values. 2) Learning \r\nsocial studies using multicultural-based social studies teaching \r\nmaterials for eighth grade junior high school students is more \r\neffective than using non-development modules in schools. The \r\nmodule's teaching materials are effective by being provent-test \r\nanalysis of pre-test and post-test data on the learning outcomes \r\nof the control class and the experimental class, it is known that \r\nthe average learning outcomes of the experimental class are \r\nbetter than the control class. From these results there is clearly a \r\ndifference between the experimental class and the control class. \r\nThus thatmulticultural-based IPS teaching materialswhich \r\nproved to be more effectively used in learning. The results of the \r\ntest indicate that there is a significant difference and increase in \r\nstudent character outcomes from the experimental and control \r\nclass",
+      "ispublished": "pub",
+      "divisions": [
+        "FP1"
+      ],
+      "dir": "disk0\/00\/04\/34\/83",
+      "datestamp": "2022-07-20 09:47:19"
+    },
+    {
+      "datestamp": "2022-07-20 09:47:17",
+      "dir": "disk0\/00\/04\/34\/82",
+      "divisions": [
+        "FP1"
+      ],
+      "abstract": "Qualitative research according to Bodgan and Taylor (1992) \r\nin Sujarweni (2014: 19) is a research procedure that produces \r\ndescriptive data in the form of speech or writing and the \r\nbehavior of the people being observed.\r\nThis approach strategy was chosen on the basis of the \r\nconsideration that (1) a qualitative approach, even though it \r\nonly covers a small \/ limited scale of the research location, is \r\nable to develop a broader conceptual framework, (2) this \r\napproach model is not only concerned with results, but also \r\naspects of the process is something more important, even (3) \r\nthis ethnographic qualitative approach is very good if a study \r\nwants to explain a phenomenon in depth and thoroughly so \r\nthat the results of the research are detailed descriptions that \r\nare not rigid but also in-depth (Bogdan & Tylor, 1982: 35-\r\n37).\r\nFurther considerations regarding this research approach are \r\nbased on the diversity of carvings and spatial layouts in the \r\nPernong testimonials, compared to the other four testimonies, \r\nso that the focus of this research is based on the meaning of \r\nspatial values and the value of carvings at the Pernong Palace. TThe data collection technique used to obtain data in the \r\nstudy was triangulation, which is a data collection technique \r\nthat combines various data collection techniques and existing \r\ndata sources. Researchers used different data collection \r\ntechniques to obtain data from the same source. Researchers \r\nused observation, in-depth interviews and documentation.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "contributors": [
+        {
+          "id": "-",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Wardhana",
+            "family": "Muhammad Aji Wira"
+          }
+        },
+        {
+          "id": "-",
+          "name": {
+            "family": "Risma M.",
+            "given": "Sinaga",
+            "honourific": null,
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "-",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Erlina",
+            "given": "Rufaidah"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "corp_creators": [
+        "Muhammad Aji Wira Wardhana",
+        "Risma M. Sinaga",
+        "Erlina Rufaida"
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "-",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Wardhana",
+            "family": "Muhammad Aji Wira"
+          }
+        },
+        {
+          "id": "-",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Risma M",
+            "given": "Sinaga"
+          }
+        },
+        {
+          "name": {
+            "given": "Rufaida",
+            "family": "Erlina",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "-"
+        }
+      ],
+      "publisher": "www.rsisinternational.org",
+      "official_url": "https:\/\/www.rsisinternational.org\/journals\/ijriss\/Digital-Library\/volume-4-issue-7\/469-473.pdf",
+      "rev_number": 7,
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 9,
+      "eprintid": 43482,
+      "lastmod": "2022-07-20 09:47:17",
+      "status_changed": "2022-07-20 09:47:17",
+      "userid": 1000,
+      "date": "2020-09",
+      "publication": "International Journal of Research and Innovation in Social Science (IJRISS)",
+      "documents": [
+          {
+            "docid": 165421,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "Jurnal 004.pdf",
+            "language": "en",
+            "eprintid": 43482,
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 165421,
+                  "datasetid": "document",
+                  "filename": "Jurnal 004.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "filesize": 312386,
+                  "fileid": 474656,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474656",
+                  "hash": "1434137ad85b1b3e31d9af44c67bf87f",
+                  "mtime": "2022-07-20 05:52:25"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165421"
+          }
+      ],
+      "pagerange": "24-27",
+      "subjects": [
+        "B1",
+        "BL"
+      ],
+      "title": "Preservation of Meaning and Value of Local Wisdom\r\nTraditional House of Lampung Kepaksian Pernong\r\nWest Lampung",
+      "metadata_visibility": "show",
+      "issn": "2454-6186",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43482",
+      "type": "article",
+      "volume": 4
+    },
+    {
+      "date": 2020,
+      "documents": [
+          {
+            "docid": 161960,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "main": "LP buku editing_fuad abdulgani.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161960",
+            "pos": 1,
+            "eprintid": 40598,
+            "files": [
+                {
+                  "objectid": 161960,
+                  "datasetid": "document",
+                  "filename": "LP buku editing_fuad abdulgani.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 452237,
+                  "filesize": 486991,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/452237",
+                  "hash": "6ed734b303c6c073391ac8d3546973e0",
+                  "mtime": "2022-03-28 06:02:22"
+                }
+            ]
+          }
+      ],
+      "userid": 19826,
+      "status_changed": "2022-03-28 06:58:05",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40598",
+      "type": "other",
+      "subjects": [
+        "B1",
+        "H1",
+        "HX"
+      ],
+      "metadata_visibility": "show",
+      "title": "Friedrich Engels: Pemikiran dan Kritik",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/05\/98",
+      "datestamp": "2022-03-28 06:58:05",
+      "publisher": "Ultimus",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "creators": [
+        {
+          "name": {
+            "given": "Dede",
+            "family": "Mulyanto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "fuad.abdulgani@fisip.unila.ac.id",
+          "name": {
+            "family": "Abdulgani",
+            "given": "Fuad",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "eprintid": 40598,
+      "lastmod": "2022-03-28 06:58:05"
+    },
+    {
+      "creators": [
+        {
+          "id": "muhammad.nurwahidin@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Muhammad",
+            "family": "Nurwahidin"
+          }
+        }
+      ],
+      "official_url": "https:\/\/www.sciencepubco.com\/index.php\/IJET",
+      "publisher": "Publisher of International Academic Journals",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "number": 2.29,
+      "refereed": "TRUE",
+      "lastmod": "2021-03-18 02:50:19",
+      "eprintid": 28448,
+      "date_type": "published",
+      "abstract": "Lecturers are a noble and more promising job. Many young people want to become lecturers. Nevertheless, more and more demands in developing a lecturers career will have an impact on well-being of lecturers. The purpose of this research is to know the role of gratitude and religiosity towards well-being of lecturers. The sample for this research is 123 lecturers from several universities in Jakarta. Data collection tools used in this study is the psychological scale of the scale of gratitude, the scale of religiosity and scale well-being. Result in this research is there is relationship of gratitude and religiosity to well-being.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "corp_creators": [
+        "Program Studi Bimbingan dan Konseling Jur IP FKIP Unila"
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "datestamp": "2021-03-18 02:50:19",
+      "dir": "disk0\/00\/02\/84\/48",
+      "divisions": [
+        "FKIP2"
+      ],
+      "issn": "227-524X",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/28448",
+      "type": "article",
+      "volume": 7,
+      "pagerange": "652-654",
+      "subjects": [
+        "B1"
+      ],
+      "title": "Well-Being on Lecturer: Reviewed from Gratitude and\r\nReligiosity",
+      "metadata_visibility": "show",
+      "date": 2018,
+      "publication": "International Journal of Engineering & Technology",
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/42496",
+            "pos": 1,
+            "eprintid": 28448,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "IJET-13992 Well being.pdf",
+                  "datasetid": "document",
+                  "objectid": 42496,
+                  "mtime": "2021-03-17 10:44:36",
+                  "hash": "4fdb014b832b771a035737762ae0a896",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/252744",
+                  "filesize": 146735,
+                  "fileid": 252744
+                }
+            ],
+            "language": "en",
+            "main": "IJET-13992 Well being.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 42496,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "status_changed": "2021-03-18 02:50:19",
+      "userid": 6154
+    },
+    {
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Prasetyo",
+            "given": "Wulandari"
+          },
+          "id": "-"
+        },
+        {
+          "id": "-",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sudjarwo",
+            "given": "-"
+          }
+        },
+        {
+          "id": "-",
+          "name": {
+            "given": "Rufaidah",
+            "family": "Erlina",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "official_url": "https:\/\/waqafilmunusantara.com\/wp-content\/uploads\/2022\/03\/2677-8331-1-PB-8.pdf",
+      "full_text_status": "public",
+      "publisher": "Prasetyo Wulandari; Sudjarwo; Erlina Rufaidah",
+      "rev_number": 6,
+      "refereed": "TRUE",
+      "number": 6,
+      "lastmod": "2022-07-20 09:47:12",
+      "eprintid": 43479,
+      "datestamp": "2022-07-20 09:47:12",
+      "dir": "disk0\/00\/04\/34\/79",
+      "divisions": [
+        "FP1"
+      ],
+      "abstract": "This study aims to analyze the effect of emotional intelligence on students characters, to analyze \r\nthe influence of spiritual intelligence with student characteristics, analyzing the influence of emotional \r\nintelligence and spiritual intelligence on the character of students. This research method is a quantitative \r\nstudy using correlational analysis. The population in this study were students of class VII SMP Negeri 2 \r\nWonosobo Tanggamus. The research sample of 69 students, the sampling technique used was simple \r\nrandom sampling. This research uses data collection techniques using observation, interviews, \r\nquestionnaires, documentation, literature study. The results of this study indicate that: 1) there is an effect \r\nof emotional intelligence on the character of class students with tcount> ttable or 3.268> 1.996; 2) there is \r\nan influence of spiritual intelligence on the character of students with tcount> ttable or 3,112> 1,996; and \r\n3) there is an influence of emotional intelligence and spiritual intelligence on the character of students \r\nwith Fcount> Ftable or 10.139> 3.14. This indicates that the higher the emotional intelligence and \r\nspiritual intelligence, the better the character of the students.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "corp_creators": [
+        "Prasetyo Wulandari",
+        "Sudjarwo",
+        "Erlina Rufaidah"
+      ],
+      "contributors": [
+        {
+          "id": "-",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Wulandari",
+            "family": "Prasetyo"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sudjarwo",
+            "given": "-"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "-"
+        },
+        {
+          "id": "-",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Erlina",
+            "given": "Rufaidah"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "pagerange": "108-114",
+      "subjects": [
+        "B1"
+      ],
+      "title": "The Effect of Emotional Intelligence and Intelligence Spiritual with Student \r\nCharacters",
+      "metadata_visibility": "show",
+      "issn": "2364-5369",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43479",
+      "volume": 8,
+      "status_changed": "2022-07-20 09:47:12",
+      "userid": 1000,
+      "date": "2021-06",
+      "publication": "International Journal of Multicultural and Multireligious Understanding",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474643",
+                  "fileid": 474643,
+                  "filesize": 578107,
+                  "mtime": "2022-07-20 05:33:30",
+                  "hash": "80b371620d815ba39422047f514d93ec",
+                  "datasetid": "document",
+                  "objectid": 165419,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Jurnal 002.pdf"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 43479,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165419",
+            "main": "Jurnal 002.pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 165419
+          }
+      ]
+    }
+]
+

@@ -1,0 +1,2305 @@
+[
+    {
+      "subjects": [
+        "GE",
+        "GV"
+      ],
+      "title": "Jalur Interpretasi \"Bird Watching\" di Rawa Bento Taman nasional Kerinci Seblat",
+      "metadata_visibility": "show",
+      "issn": "2337-7771",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/36371",
+      "volume": 9,
+      "status_changed": "2021-11-12 07:40:36",
+      "userid": 168,
+      "publication": "Jurnal Hutan Tropis",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 157307,
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "214_LoA_Aji Zahwan_Unila.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "mtime": "2021-11-12 02:40:04",
+                  "hash": "c426dadb4ed02f5fa3d981052caf2087",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/420214",
+                  "fileid": 420214,
+                  "filesize": 581806,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "214_LoA_Aji Zahwan_Unila.pdf",
+                  "datasetid": "document",
+                  "objectid": 157307
+                }
+            ],
+            "pos": 1,
+            "eprintid": 36371,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/157307"
+          }
+      ],
+      "date_type": "completed",
+      "creators": [
+        {
+          "name": {
+            "given": "Aji Zahwan",
+            "family": "Alim",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "gundowino@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Gunardi Djoko",
+            "family": "Winarno"
+          }
+        },
+        {
+          "id": "aslulila@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Setiawan",
+            "given": "Agus"
+          }
+        }
+      ],
+      "official_url": "https:\/\/ppjp.ulm.ac.id\/journal\/index.php\/jht",
+      "rev_number": 7,
+      "publisher": "Fakultas Kehutanan Universitas Lambung Mangkurat",
+      "full_text_status": "public",
+      "number": 3,
+      "refereed": "TRUE",
+      "lastmod": "2021-11-12 07:40:36",
+      "eprintid": 36371,
+      "dir": "disk0\/00\/03\/63\/71",
+      "datestamp": "2021-11-12 07:40:36",
+      "ispublished": "inpress",
+      "abstract": "Jalur Interpretasi \"Bird Watching\" di Rawa Bento Taman nasional Kerinci Seblat",
+      "eprint_status": "archive"
+    },
+    {
+      "refereed": "TRUE",
+      "eprintid": 43601,
+      "lastmod": "2022-07-25 01:56:57",
+      "creators": [
+        {
+          "id": "achmad.arifiyanto@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Arifiyanto",
+            "given": "Achmad"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Nuning Nurcahyani",
+            "given": "Nuning",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Rosa",
+            "family": "Emantis"
+          },
+          "id": "emantisrosa@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Christina Nugroho",
+            "family": "Ekowati"
+          },
+          "id": null
+        }
+      ],
+      "publisher": "FMIPA Universitas Lampung",
+      "full_text_status": "public",
+      "rev_number": 10,
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "datestamp": "2022-07-25 01:56:57",
+      "dir": "disk0\/00\/04\/36\/01",
+      "issn": "2745-7699",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43601",
+      "title": "Pelatihan Pembuatan Flos-Insecta Embedding sebagai Cinderamata Masyarakat Sekitar Kebun Raya Liwa Kabupaten Lampung Barat",
+      "metadata_visibility": "show",
+      "subjects": [
+        "GV",
+        "HT",
+        "NK",
+        "Q1",
+        "SB"
+      ],
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165548",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "85-Article Text-872-1-10-20220723.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 165548,
+                  "hash": "d7f597125f76bd1e5f6cffbbeca80541",
+                  "mtime": "2022-07-24 12:50:56",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/475687",
+                  "fileid": 475687,
+                  "filesize": 638813
+                }
+            ],
+            "eprintid": 43601,
+            "pos": 1,
+            "language": "en",
+            "main": "85-Article Text-872-1-10-20220723.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "mime_type": "application\/pdf",
+            "docid": 165548
+          }
+      ],
+      "publication": "Tabikpun",
+      "status_changed": "2022-07-25 01:56:57",
+      "userid": 3262
+    },
+    {
+      "volume": 34,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4280",
+      "type": "article",
+      "issn": "2528-2050",
+      "metadata_visibility": "show",
+      "title": "Keanekaragaman Jenis Amfibi untuk Mendukung Kegiatan Ekowisata \r\ndi Desa Braja Harjosari Kabupaten Lampung Timur",
+      "subjects": [
+        "GV",
+        "S1",
+        "SB",
+        "SD",
+        "SF"
+      ],
+      "pagerange": "103-109",
+      "documents": [
+          {
+            "main": "458-2253-1-PB.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "hash": "c4334e7cd50abff838fc9bca83d99a19",
+                  "mtime": "2017-11-01 15:57:40",
+                  "fileid": 42993,
+                  "filesize": 712877,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/42993",
+                  "filename": "458-2253-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 17173,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 4280,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17173",
+            "mime_type": "application\/pdf",
+            "docid": 17173,
+            "security": "public",
+            "placement": 1,
+            "format": "text"
+          },
+          {
+            "format": "text",
+            "content": "published",
+            "security": "public",
+            "placement": 2,
+            "mime_type": "text\/html",
+            "docid": 17174,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17174",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 17174,
+                  "mime_type": "text\/html",
+                  "hash_type": "MD5",
+                  "filename": "index.html",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/42996",
+                  "fileid": 42996,
+                  "filesize": 26349,
+                  "mtime": "2017-11-01 15:59:13",
+                  "hash": "36687a109c017e92f98e101d010f9792"
+                }
+            ],
+            "eprintid": 4280,
+            "pos": 2,
+            "language": "en",
+            "main": "index.html"
+          }
+      ],
+      "publication": "BIOSFERA",
+      "date": "2017-09-31",
+      "userid": 623,
+      "status_changed": "2017-11-10 16:47:05",
+      "lastmod": "2017-11-10 16:47:05",
+      "eprintid": 4280,
+      "refereed": "TRUE",
+      "number": 3,
+      "publisher": "Unsoed",
+      "official_url": "https:\/\/journal.bio.unsoed.ac.id\/index.php\/biosfera\/",
+      "rev_number": 12,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Arista",
+            "given": "A."
+          }
+        },
+        {
+          "name": {
+            "given": "Gunardi Djoko",
+            "family": "Winarno",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Rudi",
+            "family": "Hilmanto"
+          }
+        }
+      ],
+      "date_type": "published",
+      "eprint_status": "archive",
+      "abstract": "Amphibian life in nature is an interesting case which can be an ecotourism interest. The life cycle as well as the uniqe behaviours of the amphibi, is an interesting case to support the ecotourism activities. This research intends to determine the richness of amphibian minds, the diversity of amphibian kinds, and the amphibian distribution in order to support the ecotourism activities and to determine the society perception in utilizing the amphibi for the ecotourism activities. A combination of line transect method and Visual Encounter Survey method were used to know the species richness diversity and the distribution. One score one indicator quisioner was used to know the society perception against the amphibi to support ecotourism. The research was conducted in Braja Harjasari Village, East Lampung\r\nRegency during March to April 2017. Data analyzing was used a Shannon-wiener and Margalef index. The sosciety\r\nperception was analyzed descriptively and showed in a chart. The result showed that the amphibian richness was 0,6 which mean low, the diversity was 1,0 which meant medium, the shannon-wiener and margalef index was 0,9 which mean low community was stable and each kind of the amphibi was distributed equally. The society perception\r\nagainst the amphibi to support the ecotourism activities was mostly positive.",
+      "ispublished": "pub",
+      "divisions": [
+        "FP5"
+      ],
+      "dir": "disk0\/00\/00\/42\/80",
+      "datestamp": "2017-11-10 16:47:05"
+    },
+    {
+      "abstract": "Sektor pariwisata terkena dampak di masa pandemik covid-19. Hal ini disebabkan oleh minimnya mobilitas masyarakat untuk menghindari penyebaran virus. Pengelolaan destinasi pariwisata ekologis patut memperhatikan kebutuhan pengunjung namun juga pengelolaan sumber daya alam dan kelestarian lingkungan. Pengelolaan sumber daya alam merupakan hal utama bagi destinasi pariwisata ekologis. Kondisi pandemik ini, memunculkan dua isu strategis yang menjadi pertimbangan; pengembangan produk turunan hasil konservasi dan penggunaan fitur daring untuk pariwisata.\r\n\r\nKata kunci: ekowisata, pariwisata ekologis, strategi pengembangan pariwisata",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "corp_creators": [
+        "Jurusan Ilmu Administrasi Bisnis, FISIP, Universitas Lampung",
+        "Yayasan Sahabat Alam"
+      ],
+      "datestamp": "2020-09-10 01:12:36",
+      "rev_number": 13,
+      "full_text_status": "restricted",
+      "official_url": "http:\/\/jpb.fisip.unila.ac.id\/index.php\/jpb",
+      "refereed": "FALSE",
+      "contact_email": "gita.djausal@fisip.unila.ac.id",
+      "lastmod": "2020-09-10 01:12:36",
+      "eprintid": 22392,
+      "date_type": "published",
+      "date": "2020-05-31",
+      "documents": [
+          {
+            "pos": 2,
+            "eprintid": 22392,
+            "files": [
+                {
+                  "hash": "755d29df0ea09aec2c84a572e4b2bb1e",
+                  "mtime": "2020-06-12 16:31:32",
+                  "fileid": 205675,
+                  "filesize": 3867,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/205675",
+                  "filename": 11,
+                  "hash_type": "MD5",
+                  "mime_type": "text\/html",
+                  "objectid": 35813,
+                  "datasetid": "document"
+                }
+            ],
+            "rev_number": 6,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35813",
+            "main": 11,
+            "language": "id",
+            "security": "validuser",
+            "content": "published",
+            "placement": 2,
+            "format": "text",
+            "formatdesc": "STRATEGI PARIWISATA EKOLOGIS DALAM TANTANGAN MASA PANDEMI COVID-19",
+            "docid": 35813,
+            "mime_type": "text\/html"
+          }
+      ],
+      "status_changed": "2020-09-10 01:12:36",
+      "userid": 2805,
+      "issn": "2338-1115",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22392",
+      "volume": 3,
+      "subjects": [
+        "GV"
+      ],
+      "pagerange": "57-61",
+      "dir": "disk0\/00\/02\/23\/92",
+      "divisions": [
+        "FISIP1"
+      ],
+      "creators": [
+        {
+          "id": "gita.djausal@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Gita Paramita",
+            "family": "Djausal"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Alia",
+            "family": "Larasati"
+          },
+          "id": null
+        }
+      ],
+      "publisher": "Administrasi Bisnis FISIP Universitas Lampung",
+      "number": 1,
+      "publication": "Jurnal Perspektif Bisnis",
+      "title": "STRATEGI PARIWISATA EKOLOGIS DALAM TANTANGAN MASA PANDEMI COVID-19",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/jpb.fisip.unila.ac.id\/index.php\/jpb"
+        }
+      ],
+      "metadata_visibility": "show"
+    },
+    {
+      "date": "2021-09-18",
+      "documents": [
+          {
+            "main": "2021-08-10 23-09-54.mkv",
+            "language": "en",
+            "files": [
+                {
+                  "mtime": "2021-11-09 06:45:22",
+                  "hash": "7cbef820d771c65efdbe7853eb453e6f",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/414940",
+                  "filesize": 39772668,
+                  "fileid": 414940,
+                  "mime_type": "video\/x-matroska",
+                  "hash_type": "MD5",
+                  "filename": "2021-08-10 23-09-54.mkv",
+                  "datasetid": "document",
+                  "objectid": 156579
+                }
+            ],
+            "eprintid": 35652,
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156579",
+            "mime_type": "video\/x-matroska",
+            "docid": 156579,
+            "security": "public",
+            "placement": 1,
+            "format": "video"
+          }
+      ],
+      "userid": 2805,
+      "status_changed": "2021-11-09 10:05:18",
+      "type": "video",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35652",
+      "subjects": [
+        "GE",
+        "GV"
+      ],
+      "metadata_visibility": "show",
+      "title": "Visitors Experience on Sumatran Butterfly Ecotourism in Sustainable Environmental Awareness",
+      "eprint_status": "archive",
+      "ispublished": "unpub",
+      "abstract": "Sustainable development can be realized by contributing to environmental sustainability. Objectives on this were stressing on sustainable environmental awareness in butterfly conservation. Taking sample of 100 visitor respondents who had visited Gita Persada Butterfly Park, an ecotourism based on Sumatran butterfly conservation in Bandar Lampung City, Lampung Province, Indonesia. There were 16 question on respondent’s background and knowledge on butterfly conservation knowledge. The responses show that visitors had ecological knowledge about butterfly life. Referring to 15 items on tourist activities and 14 items on knowledge of butterfly’s life cycle, the results showing that visitors had specific interest on having experiences in butterfly ecotourism. Transfer knowledge on conservating butterfly giving possibility on participatory of people for supporting and conservating the butterfly ecosystem. Furthermore, it gave contribution on achieving sustainable development goals.",
+      "contributors": [
+        {
+          "id": "gita.djausal@fisip.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Djausal",
+            "given": "Gita Paramita"
+          }
+        }
+      ],
+      "divisions": [
+        "FISIP1"
+      ],
+      "dir": "disk0\/00\/03\/56\/52",
+      "datestamp": "2021-11-09 10:05:18",
+      "publisher": 2021,
+      "rev_number": 9,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Gita Paramita",
+            "family": "Djausal"
+          },
+          "id": "gita.djausal@fisip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "lilih",
+            "family": "muflihah",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Linda",
+            "family": "Rosalia"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "M Hanif Khairy",
+            "family": "Vidiantari"
+          }
+        }
+      ],
+      "lastmod": "2021-11-09 10:05:18",
+      "contact_email": "gita.djausal@fisip.unila.ac.id",
+      "eprintid": 35652,
+      "date_type": "published"
+    },
+    {
+      "volume": 4,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20146",
+      "type": "article",
+      "issn": "e-ISSN 2550-1089",
+      "metadata_visibility": "show",
+      "id_number": "http:\/\/dx.doi.org\/10.23960\/jss.v4i1.200",
+      "title": "Pemanfaatan Drone Untuk Pemetaan Potensi Ekowisata di Kecamatan Panca Jaya, Mesuji",
+      "subjects": [
+        "GE",
+        "GV"
+      ],
+      "pagerange": "1-5",
+      "documents": [
+          {
+            "language": "id",
+            "main": 124,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33488",
+            "rev_number": 3,
+            "eprintid": 20146,
+            "pos": 1,
+            "files": [
+                {
+                  "hash": "5cb4e776f0e2d34a31d638c26deec916",
+                  "mtime": "2020-05-19 08:47:43",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/190124",
+                  "filesize": 3587,
+                  "fileid": 190124,
+                  "mime_type": "text\/html",
+                  "filename": 124,
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 33488
+                }
+            ],
+            "docid": 33488,
+            "mime_type": "text\/html",
+            "format": "text",
+            "content": "published",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "publication": "SAKAI SAMBAYAN",
+      "date": "2020-03-27",
+      "userid": 2546,
+      "status_changed": "2020-05-19 13:59:22",
+      "eprintid": 20146,
+      "lastmod": "2020-05-19 13:59:22",
+      "refereed": "TRUE",
+      "number": 1,
+      "full_text_status": "public",
+      "official_url": "http:\/\/jss.lppm.unila.ac.id\/index.php\/ojs\/article\/view\/200",
+      "publisher": "Lembaga Penelitian dan Pengabdian Kepada Masyarakat",
+      "rev_number": 8,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Mochamad Firman",
+            "family": "Ghazali"
+          },
+          "id": "firman.ghazali@eng.unila.ac.id"
+        },
+        {
+          "id": "hesti.9201@eng.unila.ac.id",
+          "name": {
+            "given": "Hesti",
+            "family": "Hesti",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "I Gede Boy",
+            "family": "Darmawan"
+          },
+          "id": "igedeboy@staff.unila.ac.id"
+        }
+      ],
+      "date_type": "published",
+      "eprint_status": "archive",
+      "abstract": "Perlunya kegiatan pemetaan potensi ekowisata di Kecamatan Panca Jaya berkaitan dengan upaya pemberdayaan masyarakat desa. Kecamatan ini merupakan wilayah berupa dataran rendah dengan mayoritas penduduknya bekerja di bidang pertanian dan perkebunan. Penurunan harga komoditas perkebunan menyebabkan banyak petani mengalihfungsikan lahan perkebunan menjadi tanaman singkong. Namun secara geologi, wilayah ini didominasi oleh batuan endapan rawa yang memiliki potensi kandungan batubara muda. Kurangnya data potensi lokasi wisata di daerah ini menyebabkan sedikitnya perhatian masyarakat terhadap potensi ekowisata di wilayah mereka. Pengabdian ini bertujuan untuk mengatasi permasalahan tersebut dengan memetakan potensi ekowisata baru yang dapat dikembangkan dan dikelola oleh masyarakat, mengedukasi masyarakat dalam peningkatan kualitas dan keunggulan\/ kearifan lokal yang berimbas pada peningkatan nilai ekonomi kawasan ekowisata dengan pemanfaatan teknologi informasi seperti drone. Manfaat dari pengabdian ini adalah terpetakannya potensi ekowisata yang dapat dikembangkan dan dikelola oleh masyarakat serta terbentuknya media promosi video profil kawasan wisata yang dapat disebarkan melalui media internet sehingga wisatawan dapat dengan mudah mengenal dan tertarik untuk berkunjung ke Panca Jaya.",
+      "ispublished": "pub",
+      "divisions": [
+        "FT11",
+        "FT1"
+      ],
+      "dir": "disk0\/00\/02\/01\/46",
+      "datestamp": "2020-05-19 13:59:22"
+    },
+    {
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "abstract": "West Lampung Regency has beautiful landscape conditions and its very potential for natural tourism development. Kebun Raya Liwa (KRL) or Liwa Botanical Garden is one of the main tourist attractions with the aim of ecotourism destination and plant species collection. Although it has already known, the management still requires a lot of attention so an efficient and targeted strategy is needed. The SWOT method was used to analyze internal (IFAS) and external (EFAS) KRL conditions and determine the chosen strategy. A total of 50 questionnaires involving various stakeholders: Managers, Communities and Researchers were used as the basis for the analysis. The results shown that IFAS scores for Strength 1.59 and Weaknesses 1.81. While EFAS for Opportunity 1.72 and Threat reached 1.43. Strength-Opportunities Strategy Score 3.31; Weaknessess-Opportunities Strategy 3.53; The Strength-Threats Strategy 3.02 and the Weaknessess-Threats Strategy 3.24. So that the Weaknessess-Opportunities strategy determined by minimizing the weaknesses of KRL while continuing to take advantage of existing opportunities. The final selected choice of strategy is: 1) Development of types of tourism activities based on the wishes of tourists and the community; 2) The condition of mountainous landscapes can be used optimally; 3) Adding road signs to the KRL 4) Optimizing the promotion of tourism potential on KRL so that distance is not a problem for potential tourists.\r\n\r\nKeyword: SWOT, Kebun Raya Liwa, Development, Strategy",
+      "ispublished": "unpub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/01\/50\/79",
+      "datestamp": "2019-11-04 08:28:10",
+      "divisions": [
+        "FP5"
+      ],
+      "refereed": "FALSE",
+      "pres_type": "speech",
+      "eprintid": 15079,
+      "lastmod": "2019-11-04 08:28:10",
+      "creators": [
+        {
+          "id": "sugeng.harianto@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Sugeng P.",
+            "family": "Harianto"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Niskan Walid",
+            "family": "Masruri"
+          }
+        },
+        {
+          "id": "trio.santoso1003@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Trio",
+            "family": "Santoso"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Machya K.",
+            "family": "Tsani"
+          },
+          "id": "Machya.kartika@fp.unila.ac.id"
+        },
+        {
+          "id": "gundowino@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Gunardi Djoko",
+            "family": "Winarno"
+          }
+        }
+      ],
+      "event_location": "Yogyakarta",
+      "full_text_status": "public",
+      "rev_number": 11,
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "docid": 28219,
+            "files": [
+                {
+                  "objectid": 28219,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "SWOT ANALYSIS TO DETERMINE DEVELOPMENT STRATEGIES.docx",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "fileid": 129856,
+                  "filesize": 15838,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/129856",
+                  "mtime": "2019-11-03 08:13:41",
+                  "hash": "e6061d76a303b4ca325843102549f407"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 15079,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28219",
+            "main": "SWOT ANALYSIS TO DETERMINE DEVELOPMENT STRATEGIES.docx",
+            "language": "en"
+          }
+      ],
+      "date": 2019,
+      "event_title": "SWOT ANALYSIS TO DETERMINE DEVELOPMENT STRATEGIES  OF KEBUN RAYA LIWA KABUPATEN LAMPUNG BARAT",
+      "status_changed": "2019-11-04 08:28:10",
+      "userid": 1131,
+      "event_type": "conference",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15079",
+      "title": "SWOT ANALYSIS TO DETERMINE DEVELOPMENT STRATEGIES \r\nOF KEBUN RAYA LIWA KABUPATEN LAMPUNG BARAT",
+      "metadata_visibility": "show",
+      "subjects": [
+        "GV",
+        "H1",
+        "SD"
+      ]
+    },
+    {
+      "lastmod": "2019-11-04 08:28:06",
+      "eprintid": 15083,
+      "pres_type": "paper",
+      "refereed": "FALSE",
+      "event_location": "Lampung",
+      "event_dates": "Oktober 2019",
+      "full_text_status": "public",
+      "rev_number": 11,
+      "creators": [
+        {
+          "name": {
+            "given": "Sugeng P.",
+            "family": "Harianto",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "Sugeng.harianto@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Gunardi Djoko",
+            "family": "Winarno"
+          },
+          "id": "gundowino@gmail.com"
+        },
+        {
+          "name": {
+            "family": "Santoso",
+            "given": "Trio",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "trio.santoso1003@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Tsani",
+            "given": "Machya K.",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Masruri",
+            "given": "Niskan Walid",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "divisions": [
+        "FP5"
+      ],
+      "dir": "disk0\/00\/01\/50\/83",
+      "datestamp": "2019-11-04 08:28:06",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "eprint_status": "archive",
+      "ispublished": "unpub",
+      "abstract": "Abstak: Pengembangan suatu destinasi wisata harus memperhatikan kebutuhan wisatawan. Untuk memenuhi kebutuhan tersebut terdapat 4 komponen utama yang harus terpenuhi. Penelitian ini bertujuan untuk mengetahui penilaian wisatawan terhadap 4 komponen utama tersebut (atraksi, fasilitas, aksesibilitas, dan pelayanan tambahan) pada objek wisata alam di Kebun Raya Liwa. Penelitian ini dilakukan di Kebun Raya Liwa yang terletak di Desa Pekon Kubu Perahu, Kecamatan Balik Bukit, Kota Liwa, Kabupaten Lampung Barat. Populasi  yang  dijadikan  obyek  penelitian  ini  diambil langsung  dari  wisatawan  yang  berkunjung  di  KRL sejumlah 100 wisatawan. Sumber data adalah dari hasil wawancara mendalam dengan pihak pengelola dan kuesioner wisatawan. Analisis data penelitian menggunakan skala likert. Variabel penelitian dijabarkan menjadi indikator penelitian berupa pernyataan yang dinilai oleh wisatawan berdasarkan lima alternative jawaban. Setelah diperoleh data penilaian indikator penelitian, kemudian data akan diolah untuk menghasilkan skor sesuai dengan gradasi skala likert yang digunakan. Berdasarkan hasil penelitian dapat disimpulkan bahwa atraksi utama objek wisata Kebun Raya Liwa adalah keindahan alamnya dilihat dari skor tertinggi yang bernilai 393 dengan kategori memuaskan, diikuti dengan spot foto, koleksi tanaman dan kebersihan. Adapun dalam segi aksesibilitas akses jalan menuju KRL sudah memadai dengan skor tertingi 349. Sedangkan yang masih perlu diperhatikan lagi adalah angkutan umum yang memiliki skor terendah sebesar 295 dengan kategori cukup. Selanjutnya, variable amenitas memiliki 7 indikator dengan skor tertinggi pada indikator mushola dengan nilai 341 pada kategori memuaskan. Indikator yang perlu lebih diperhatikan adalah indikator dengan skor terendah yaitu penginapan. Komponen 4A terakhir adalah fasilitas tambahan yang memiliki 5 indikator dimana semua indikator memperoleh penilaian dalam kategori cukup. Indikator tempat sampah mendapatkan skor tertinggi dan listrik mendapatkan skor terendah.\r\nKey words: Penilaian wisatawan, atraksi, aksesibilitas, amenitias, fasilitas tambahan",
+      "metadata_visibility": "show",
+      "title": "Penilaian Wisatawan Terhadap Komponen Destinasi Wisata: Atraction, Amenities, Accessibility, dan Ancillary Service Pada Objek Wisata Kebun Raya Liwa",
+      "subjects": [
+        "GV",
+        "S1",
+        "SD"
+      ],
+      "event_type": "conference",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15083",
+      "userid": 1131,
+      "event_title": "Seminar Nasional Fakultas Ekonomi dan Bisnis Universitas Lampung 2019",
+      "status_changed": "2019-11-04 08:28:06",
+      "documents": [
+          {
+            "mime_type": "application\/msword",
+            "docid": 28223,
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "main": "SPH_KRL_FEB (1).doc",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28223",
+            "rev_number": 1,
+            "files": [
+                {
+                  "hash": "66f4227b9ba398a0d4bb446daca39792",
+                  "mtime": "2019-11-03 08:41:08",
+                  "filesize": 358400,
+                  "fileid": 129885,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/129885",
+                  "filename": "SPH_KRL_FEB (1).doc",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/msword",
+                  "objectid": 28223,
+                  "datasetid": "document"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 15083
+          }
+      ],
+      "date": 2019
+    },
+    {
+      "ispublished": "pub",
+      "abstract": "Indonesia have a wide wetland area, 21% of its lands area is a wetland comprising more\r\nthan 38 million hectare. Kibang pacing village at east menggala district is one of the\r\nwetlands in the lampung province that have a plenty species of bird comprising 40 species of\r\n21 families (Triyanah, 2014). Further research was needed to determine the potential bird\r\nspecies that will be used as attraction bird (birdwatching) in terms of its conservation status\r\nand ecological status. This research was aimed to determine the potential bird that will be\r\nused as birdwatching object, compare the result with the former research result that has been\r\ndone by Triyanah at 2014, determine the effect of habitat conditions and vegetation type to\r\nthe existence and activity of the bird, and knowing society perception about birdwatching. Tis\r\nresearch was using point count method, rapid assessment, and semistructured interview. The\r\nresearch found 27 endemic species of birds and 13 species of birds categorized as protected.\r\nHabitat condition and vegetation type was affecting the presence and birds activity. Most of\r\nthe birds was found in gelam vegetation because there was a plenty source of food. Society\r\nwas fully support the development of birdwatching tourism in the kibang pacing village.\r\nKeywords: Birdwatching, Kibang pacing, wetland",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/00\/55\/90",
+      "datestamp": "2017-11-16 04:58:38",
+      "creators": [
+        {
+          "id": "kurniawanenal9999@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kurniawan",
+            "given": "Enal"
+          }
+        },
+        {
+          "id": "aslulila@yahoo.com",
+          "name": {
+            "family": "Setiawan",
+            "given": "Agus",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "RUSITA",
+            "given": "RUSITA",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "rusitaunila@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Sugeng P.",
+            "family": "Harianto",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "rev_number": 6,
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "lastmod": "2017-11-16 04:58:38",
+      "eprintid": 5590,
+      "publication": "Sylva Lestari",
+      "documents": [
+          {
+            "docid": 18541,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "main": "Enal.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18541",
+            "eprintid": 5590,
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 18541,
+                  "datasetid": "document",
+                  "filename": "Enal.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "fileid": 52324,
+                  "filesize": 123796,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/52324",
+                  "hash": "c2c61ead65b98b43586d07d9b867b29e",
+                  "mtime": "2017-11-15 08:23:43"
+                }
+            ]
+          }
+      ],
+      "status_changed": "2017-11-16 04:58:38",
+      "userid": 1105,
+      "issn": "2339-0913",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5590",
+      "subjects": [
+        "GV"
+      ],
+      "title": "STUDI WISATA PENGAMATAN BURUNG (BIRDWATCHING)\r\nDI LAHAN BASAH DESA KIBANG PACING KECAMATAN MENGGALA TIMUR\r\nKABUPATEN TULANG BAWANG\r\nPROVINSI LAMPUNG",
+      "metadata_visibility": "show"
+    },
+    {
+      "userid": 1199,
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "status_changed": "2020-09-21 03:27:39",
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "docid": 37801,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37801",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 37801,
+                  "mime_type": "application\/pdf",
+                  "filename": "EC00201705342-meizano.pdf",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/219413",
+                  "filesize": 190985,
+                  "fileid": 219413,
+                  "hash": "a7ec1bc34c454cc6856d69ff70830001",
+                  "mtime": "2020-09-20 05:02:52"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 24098,
+            "language": "en",
+            "main": "EC00201705342-meizano.pdf"
+          }
+      ],
+      "patent_applicant": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung",
+      "date": "2017-09-17",
+      "metadata_visibility": "show",
+      "id_number": "EC00201705342",
+      "title": "Hak Cipta Program Komputer Aplikasi Android PahawangTravel",
+      "subjects": [
+        "GV",
+        "T1",
+        "T201"
+      ],
+      "type": "patent",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24098",
+      "divisions": [
+        "FT8"
+      ],
+      "datestamp": "2020-09-21 03:27:39",
+      "dir": "disk0\/00\/02\/40\/98",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Aplikasi Android PahawangTravel adalah aplikasi yang menampilkan informasi mengenai pariwisata Pulau Pahawang mengenai rekreasi yang ada, berita tentang pariwisata pulau Pahawang, informasi paket wisata, dan kontak ke pengelola pariwisata Pulau Pahawang.",
+      "date_type": "published",
+      "eprintid": 24098,
+      "lastmod": "2020-09-21 03:27:39",
+      "rev_number": 9,
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/index.php\/hakcipta\/MkVSMHVFYzMxb1NWQmwzWWhVU1Nydz09",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "family": "Muhammad",
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": ".",
+            "given": "Mardiana"
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 155035,
+                  "datasetid": "document",
+                  "filename": "Pagarjaya.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "filesize": 708115,
+                  "fileid": 405928,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/405928",
+                  "hash": "db1861006fbd81102fcbf041bad16401",
+                  "mtime": "2021-10-12 03:06:05"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 34513,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155035",
+            "main": "Pagarjaya.pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 155035
+          }
+      ],
+      "date": "2021-06",
+      "publication": "Advances in Engineering Research, volume 202",
+      "status_changed": "2021-10-12 04:39:53",
+      "userid": 824,
+      "volume": 202,
+      "issn": "2352-5401",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34513",
+      "type": "article",
+      "title": "Strategies of Development of MarineEcotourism in\r\nPagarjaya Village – District of Pesawaran - Lampung -\r\nIndonesia",
+      "metadata_visibility": "show",
+      "subjects": [
+        "GV"
+      ],
+      "ispublished": "pub",
+      "abstract": "This study aims to determine the perceptions of visitors and the village community of Pagarjaya towards its marine \r\necotourism and to find out the suitable strategy for the sustainable management of marine ecotourism. The research was \r\nconducted in the village of Pagarjaya, Punduh Pedada, Pesawaran District, Lampung Province of Indonesia. The data used \r\nin this study were obtained through data collection techniques by means of interviews then the data were processed using \r\nthe Likert scale method and SWOT analysis was performed. The Likert scale was used to explain the perceptions of tourists \r\nand coastal communities towards marine ecotourism in the village of Pagarjaya by determining a score for each question. \r\nMeanwhile, SWOT analysis was used to identify strengths, weaknesses, opportunities, and threats which can be used to \r\nelaborate the potential for marine ecotourism in the village of Pagarjaya. Interviews were conducted with the village \r\ncommunity of Pagarjaya, tourists, civil servants of Tourism Office of the Pesawaran District and the head village of \r\nPagarjaya. The results showed that instead of its high potential of marine ecosystem, the development of marine ecotourism \r\nin the village of Pagarjaya was still not optimal. Facilities, infrastructure, promotions, road access to marine ecotourism in \r\nthe village of Pagarjaya were needed, while the right strategy for the development of marine ecotourism in the village of \r\nPagarjaya was to elaborate more in Wayang islands and Teluk Hantu as the main destination of marine ecotourism. In \r\naddition to it, promotion or marketing, increasing cooperation with the government, and increasing the empowerment of the \r\nvillage community of Pagarjaya were the most crucial to be done.\r\nKeywords: Ecotourism, Pagarjaya, Pesawaran\r\n1. INTRODUCTION\r\nIndonesia is well known to be one of archipelago \r\ncountry with 16,056 verified islands and with 81,000 km \r\nof coastline [1]. The nature potential of the Indonesian \r\nsmall islands was mostly fishery as well as mariculture \r\nand ecotourism [2].\r\nLampung Province is one of the Indonesian provinces \r\nwith many potential marine ecotourism destinations. This \r\nprovince covers 35,367.5 km2 of land area with coastline \r\nof 1,105 km and total water area is 51,991 km2\r\ncontributed to 71 small islands [3]. Its districts with the \r\nhighest number of small island is Pesawaran District. \r\nUnder regional regulation of Pesawaran District Number \r\n4\/2012 about Areal Planning Management of Pesawaran \r\nDistrict year 2011 – 2031, it listed that 37 small islands \r\nare under governed by Pesawaran District. Many of its \r\ncoastal line as well as small island potential of marine \r\necotourism are not well explored, one of which is coastal \r\nvillage of Pagarjaya. Many coastal line of Pagarjaya could \r\nbe potential used for marine ecotourism, such as Cukuh \r\nGedang,",
+      "eprint_status": "archive",
+      "datestamp": "2021-10-12 04:39:53",
+      "dir": "disk0\/00\/03\/45\/13",
+      "divisions": [
+        "FP12"
+      ],
+      "refereed": "TRUE",
+      "lastmod": "2021-10-12 04:39:53",
+      "eprintid": 34513,
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": "Perdana",
+            "given": "Supra Jaya",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Abdullah Aman",
+            "family": "Damai"
+          }
+        },
+        {
+          "id": "elwidi@yahoo.com",
+          "name": {
+            "given": "E.L.",
+            "family": "Widiastuti",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "full_text_status": "public",
+      "publisher": "Atlantis Press",
+      "rev_number": 8
+    },
+    {
+      "place_of_pub": "Bandarlampung",
+      "date": "2019-03-01",
+      "pages": 157,
+      "documents": [
+          {
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 26273,
+            "mime_type": "application\/pdf",
+            "eprintid": 13274,
+            "pos": 1,
+            "files": [
+                {
+                  "filesize": 1381928,
+                  "fileid": 116400,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/116400",
+                  "mtime": "2019-05-24 08:04:16",
+                  "hash": "7a431fb84693656182b199f38220639d",
+                  "objectid": 26273,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "Desa wisata Lada-2018-CP.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26273",
+            "rev_number": 1,
+            "main": "Desa wisata Lada-2018-CP.pdf",
+            "language": "en"
+          }
+      ],
+      "userid": 408,
+      "status_changed": "2019-11-08 05:07:03",
+      "type": "book_section",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13274",
+      "volume": 2,
+      "subjects": [
+        "GV"
+      ],
+      "pagerange": "57-70",
+      "eprint_status": "archive",
+      "abstract": "Abstrak\r\n\r\nProvinsi Lampung memiliki kejayaan sejarah dan budaya dalam pengembangan komoditas lada, khususnya lada hitam, dalam beberapa dekade lada hitam Lampung bahan diekspor sampai ke Eropah. Saat ini produksi lada Lampung terus menurun, padahal perkebunan lada tersebar di hampir seluruh wilayah Provinsi Lampung, terumata di Kabupaten Lampung Utara, Lampung Barat, Lampung Timur, Way Kanan  dan Tanggamus. Jika dikaitkan dengan sektor pariwisata, maka kebangkitan kejayaan lada hitam Lampung dapat dimulai dengan mengembangkan kampung-kampung lada yang ada saat ini melalui Desa Wisata Lada atau Kampung Kreatif Lada. Langkah pertama adalah mengidentifikasi persebaran kebun-kebun lada yang berada pada jalur atau rute parwisata di Provinsi Lampung seperti: Lampung Timur, Tanggamus dan Lampung Barat.  Paket Wisata agro lada juga dapat dikombinasikan dengan paket wisata agro lainnya atau dengan paket wisata pendidikan, dan  paket wisata sejarah. Pengembangan paket wisata tematik seperti ini sedang berkembang pesat, thema wisata yang berkaitan dengan lada seperti: wisata agro, wisata pendidikan, wisata sejarah, dan wisata lainnya. Langkah kedua adalah , menyiapkan sumber daya manusia di desa wisata, baik berkaitan dengan budidaya lada maupun kepariwisataan. Terakhir, komitmen dan keseriusan berbagai stakeholders terutama Pemerintah Daerah untuk menyusun perencanaan yang partisipatif, infrastruktur, dan kelembagan adalah suatu keniscayaan agar lada dapat kembali membawa harum nama Lampung di tingkat nasional dan internasional.",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sudarsono",
+            "given": "Hamim"
+          }
+        },
+        {
+          "name": {
+            "given": "Admi",
+            "family": "Syarif",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Erwanto",
+            "given": "Erwanto",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Yusuf",
+            "family": "Barusman",
+            "honourific": null,
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Wan Abbas",
+            "family": "Zakaria"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hasunudin",
+            "given": "Udin"
+          }
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Nurdin",
+            "given": "Bartoven Vivit",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Kairunnisa",
+            "family": "Berawi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rangga",
+            "given": "Azhari"
+          }
+        },
+        {
+          "name": {
+            "given": "Syaiful",
+            "family": "Hikam",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Nova",
+            "family": "Anggraini"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Hendarto",
+            "given": "Kus",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "datestamp": "2019-11-08 05:07:03",
+      "isbn": "978-623-211-040-3",
+      "full_text_status": "public",
+      "official_url": "http:\/\/www.aura-publishing.com",
+      "rev_number": 24,
+      "lastmod": "2019-11-08 05:07:03",
+      "eprintid": 13274,
+      "refereed": "TRUE",
+      "date_type": "published",
+      "projects": [
+        "Bunga Rampai Pemikiran DRD dan Pemerhati Lada Provinsi Lampung 2019"
+      ],
+      "book_title": "Revitalisasi Lada Lampung Sebagai Komoditas Warisan",
+      "funders": [
+        "Pemerintah Provinsi Lampung"
+      ],
+      "metadata_visibility": "show",
+      "editors": [
+        {
+          "name": {
+            "given": "Hamim",
+            "family": "Sudarsono",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "hamim.sudarsono@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Erwanto",
+            "given": "Erwanto"
+          }
+        }
+      ],
+      "title": "KAMPUNG LADA KAMPUNG WISATA \r\nPengembangan Desa Wisata Berbasis Kehidupan Masyarakat Agraris di Provinsi Lampung",
+      "divisions": [
+        "FT9"
+      ],
+      "dir": "disk0\/00\/01\/32\/74",
+      "publisher": "AURA",
+      "creators": [
+        {
+          "id": "citra.persada@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Persada",
+            "given": "Citra"
+          }
+        }
+      ]
+    },
+    {
+      "ispublished": "pub",
+      "abstract": "Provinsi Lampung memiliki hampir semua persyaratan sebagai destinasi unggulan, tetapi sampai saat ini pengembangan pariwisata di Provinsi ini masih belum menjadi pilihan utama wisatawan. Posisi geostrategis Provinsi Lampung belum secara maksimal membawa pengaruh kepada kedatangan wisatawan, karena dari aspek aksesibilitas obyek wisata di Provinsi Lampung relatif masih “sulit” dicapai. Walaupun selalu terjadi peningkatan jumlah wisatawan yang berkunjung ke Lampung, tetapi jumlah tersebut masih sangat sedikit dibanding yang datang ke Indonesia. Dari aspek atraksi dan amenitas, Provinsi Lampung memiliki daya tarik wisata yang lengkap yaitu obyek wisata alam, budaya dan buatan manusia, tetapi belum semua obyek wisata tersebut didukung prasarana dan sarana pariwisata yang memadai. Produk wisata yang dikenal dengan 3 A (aksesibilitas, atraksi dan amenitas) merupakan suatu sistem, dimana satu sama lain saling berkaitan, sehingga dibutuhkan pengelolaan yang terpadu antar produk tersebut. Sebagai suatu sistem yang kompleks, maka, pariwisata adalah industri jasa yang mempunyai karakteristik unik multidimensional (multi sektor, multi aktor, multi region dan multi aspek). Karakter pariwisata yang multidimensional tersebut menyebabkan sektor ini sangat tergantung pada keteraduan pengelolaan agar terselenggaranya tujuan pembangunan pariwisata yang diinginkan. Sehubungan dengan karakter tersebut, tulisan ini menganalisis pendekatan perencanaan pembangunan pariwisata dan  kelembagaan yang sesuai untuk pengembangan pariwisata di Provinsi Lampung. Perumusan  perencanaan  pembangunan dengan pendekatan tematik-holistik kiranya sangat tepat untuk sektor parwisata. Dari sisi pengembangan kelembagaan, maka pendekatan kolaborasi dan sinergitas antara stakeholders (pengusaha, pemerintah,  masyarakat, media) sangat dibutuhkan dalam membangun pariwisata Lampung.\r\nKata Kunci: kolaborasi, sinergitas, tematik, holistik",
+      "eprint_status": "archive",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "dir": "disk0\/00\/00\/85\/79",
+      "datestamp": "2018-08-03 07:34:27",
+      "divisions": [
+        "FT9"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Persada",
+            "given": "Citra"
+          },
+          "id": "citra.persada@eng.unila.ac.id"
+        }
+      ],
+      "full_text_status": "public",
+      "publisher": "Aura Bandarlampung",
+      "rev_number": 8,
+      "refereed": "TRUE",
+      "contact_email": "citra.persada@eng.unila.ac.id",
+      "lastmod": "2018-08-03 07:34:27",
+      "eprintid": 8579,
+      "date_type": "published",
+      "date": "2017-10",
+      "publication": "Bunga Rampai Pemikiran Anggota Dewan Riset Daerah Provinsi Lampung",
+      "documents": [
+          {
+            "language": "en",
+            "main": "bunga rampai-kelembagaan-sep2017.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21638",
+            "rev_number": 1,
+            "pos": 2,
+            "eprintid": 8579,
+            "files": [
+                {
+                  "objectid": 21638,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "bunga rampai-kelembagaan-sep2017.pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 469318,
+                  "fileid": 84058,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/84058",
+                  "mtime": "2018-07-05 16:35:17",
+                  "hash": "a5b4ad735b527b32dc55723c4d265d7a"
+                }
+            ],
+            "docid": 21638,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 2
+          }
+      ],
+      "funders": [
+        "Pemerintah Provinsi Lampung"
+      ],
+      "status_changed": "2018-08-03 07:34:27",
+      "userid": 408,
+      "issn": "ISBN: 978 6026739 39 1",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8579",
+      "pagerange": "27-40",
+      "subjects": [
+        "GV"
+      ],
+      "title": "Kolaborasi dan Sinergitas dalam Pembangunan Pariwisata Lampung menuju Lampung sebagai Destinasi Unggulan",
+      "metadata_visibility": "show"
+    },
+    {
+      "volume": 1,
+      "type": "book",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13278",
+      "subjects": [
+        "GV"
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "main": "BUKU-PERENC-PARIWISATA-CITRA.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26275",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 26275,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "BUKU-PERENC-PARIWISATA-CITRA.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/116430",
+                  "filesize": 4547609,
+                  "fileid": 116430,
+                  "mtime": "2019-05-24 08:27:45",
+                  "hash": "444a9dd09c6dbd772e19b47200d90590"
+                }
+            ],
+            "eprintid": 13278,
+            "pos": 1,
+            "mime_type": "application\/pdf",
+            "docid": 26275,
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "place_of_pub": "Bandarlampung",
+      "pages": 168,
+      "date": "2018-11-01",
+      "userid": 408,
+      "status_changed": "2019-11-08 05:08:15",
+      "eprintid": 13278,
+      "lastmod": "2019-11-08 05:08:15",
+      "refereed": "TRUE",
+      "full_text_status": "public",
+      "rev_number": 8,
+      "official_url": "http:\/\/www.aura-publishing.com",
+      "date_type": "published",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "eprint_status": "archive",
+      "abstract": "Buku ini menyajikan berbagai literatur dan aplikasi berkaitan dengan perencanaan pariwisata berkelanjutan. Aplikasi teori berupa praktek perencanaan pariwisata dengan contoh kasus Provinsi Lampung yang merupakan hasil penelitian dan pengamatan penulis selama lebih kurang 20 tahun terakhir. Perencanaan Pariwisata hendaknya terintegrasi dengan dokumen perencanaan di daerah dan disesuaikan dengan sistem perencanaan pembangunan daerah.Buku ini diharapkan dapat membuka cakrawala pembaca seperti: mahasiswa, perencana, peneliti dan pemerhati maupun penentu kebijakan untuk mengetahui berbagai aspek yang perlu dipertimbangkan dalam perencanaan pariwisata berkelanjutan.Sejalan dengan karakteristik sektor pariwisata yang multidimensi, maka membutuhkan perencanaan yang holistik dan terintegrasi dengan melibatkan semua pihak terkait.",
+      "ispublished": "pub",
+      "isbn": "978-602-5940-73-6",
+      "datestamp": "2019-11-08 05:08:15",
+      "metadata_visibility": "show",
+      "editors": [
+        {
+          "id": "irfannurandadjafar@gmail.com",
+          "name": {
+            "family": "Djafar",
+            "given": "Irfan Nuranda",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "title": "PERENCANAAN PARIWISATA DALAM PEMBANGUNAN WILAYAH BERKELANJUTAN",
+      "projects": [
+        "Buku Ajar"
+      ],
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "publisher": "AURA",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Persada",
+            "given": "Citra"
+          },
+          "id": "citra.persada@eng.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FT9"
+      ],
+      "dir": "disk0\/00\/01\/32\/78"
+    },
+    {
+      "eprintid": 34708,
+      "lastmod": "2021-10-29 01:05:03",
+      "full_text_status": "public",
+      "publisher": "UBL Press",
+      "rev_number": 10,
+      "creators": [
+        {
+          "id": "citrapersada65@gmail.com",
+          "name": {
+            "given": "Citra",
+            "family": "Persada",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Octadynata",
+            "given": "Andyzon"
+          },
+          "id": "andyz.architect@gmail.com"
+        }
+      ],
+      "date_type": "published",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Dinas Perumahan dan Kawasan Permukiman, Cipta Karya, Provinsi Lmapung"
+      ],
+      "eprint_status": "archive",
+      "abstract": "Kota merupakan ekosistem yang unik, yang mencakup lingkungan alami, buatan dan budaya. Pariwisata perkotaan terus berkembang, karena disamping dapat meningkatkan perekonomian, juga dapat melestarikan kebudayaan atau tempat bersejarah yang terdapat di kota tersebut. Kota Bandarlampung memiliki beberapa lokasi bersejarah, diantaranya kawasan Pecinan yang merupakan Kawasan Kota Tua di Kecamatan Teluk Betung Selatan (TBS). Saat ini kawasan TBS adalah pusat perdagangan dan jasa serta menjadi pusat oleh-oleh Kota Bandarlampung. Kawasan ini belum dikembangkan sebagai salah satu tujuan wisata, padahal pada kawasan ini terdapat banyak bangunan dan tempat bernilai sejarah diantaranya: Vihara Thay Hin Bio, Masjid Jami” Al-Anwar dan Taman Dipangga. Tulisan ini akan membahas tentang: (1) Kajian kebijakan Pemerintah Kota Bandarlampung terhadap Kawasan Kota Tua TBS, (2) Identifikasi potensi dan peluang wisata heritage di Kawasan Kota Tua TBS. (3) Rancangan konsep jalur wisata heritage di Kawasan Kota Tua TBS. Metode penelitian yang digunakan ialah deskriptif kualitatif. Dibutuhkan komitmen yang kuat dari Pemerintah Kota Bandarlampung untuk penataan kawasan Kota Tua TBS sebagai kawasan wisata heritage. Konsep jalur wisata yang diperoleh dari tulisan ini dapat dimanfaatkan Pemerintah Kota Bandarlampung untuk pengembangan kawasan Kota Tua TBS menjadi destinasi wisata heritage kota Bandarlampung.",
+      "ispublished": "pub",
+      "divisions": [
+        "FT9"
+      ],
+      "datestamp": "2021-10-29 01:05:03",
+      "dir": "disk0\/00\/03\/47\/08",
+      "monograph_type": "documentation",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/34708",
+      "type": "monograph",
+      "metadata_visibility": "show",
+      "title": "Pengembangan Jalur Wisata Heritage di Kawasan Kota Tua Teluk Betung Selatan Kota Bandarlampung",
+      "subjects": [
+        "GV"
+      ],
+      "documents": [
+          {
+            "language": "en",
+            "main": "Draft Buku Monograf Lampung Sinergi_full article_18082021_new.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155359",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/407478",
+                  "filesize": 17598718,
+                  "fileid": 407478,
+                  "hash": "236d53faa290b91df9db2b9126ba9a0f",
+                  "mtime": "2021-10-28 22:56:30",
+                  "datasetid": "document",
+                  "objectid": 155359,
+                  "mime_type": "application\/pdf",
+                  "filename": "Draft Buku Monograf Lampung Sinergi_full article_18082021_new.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "eprintid": 34708,
+            "pos": 1,
+            "mime_type": "application\/pdf",
+            "docid": 155359,
+            "format": "text",
+            "security": "public",
+            "placement": 1
+          },
+          {
+            "main": "paper-citra-monograf (2772021).docx",
+            "language": "en",
+            "files": [
+                {
+                  "filesize": 5025009,
+                  "fileid": 407483,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/407483",
+                  "hash": "320b6b31db8319726ef9c8fda1692a14",
+                  "mtime": "2021-10-28 23:14:04",
+                  "objectid": 155360,
+                  "datasetid": "document",
+                  "filename": "paper-citra-monograf (2772021).docx",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                }
+            ],
+            "pos": 2,
+            "eprintid": 34708,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155360",
+            "rev_number": 1,
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "docid": 155360,
+            "placement": 2,
+            "security": "public",
+            "format": "text"
+          }
+      ],
+      "projects": [
+        "Mandiri"
+      ],
+      "place_of_pub": "Bandarlampung",
+      "pages": 336,
+      "date": "2021-09-01",
+      "userid": 408,
+      "status_changed": "2021-10-29 01:05:03",
+      "funders": [
+        "Mandiri"
+      ]
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "family": "Persada",
+            "given": "Citra",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "citra.persada@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Fadhilah",
+            "family": "Rusmiati",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "fadhilah_rusmiati@yahoo.com"
+        }
+      ],
+      "publisher": "Pusaka Media",
+      "dir": "disk0\/00\/02\/61\/34",
+      "divisions": [
+        "FISIP3"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/jip.fisip.unila.ac.id",
+          "type": "org"
+        }
+      ],
+      "editors": [
+        {
+          "name": {
+            "given": "Syafarudin",
+            "family": "Syafarudin",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "syafarudin.1972@fisip.unila.ac.id"
+        },
+        {
+          "id": "Ernarochana433@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Erna",
+            "given": "Rochana"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Bagus",
+            "given": "Wardianto",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Erizal",
+            "given": "Barnawi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "title": "Ketika Pariwisata Terguncang dan harus Beradaptasi \r\nMenghadapi Pandemi Covid-19",
+      "metadata_visibility": "show",
+      "funders": [
+        "Lapolotda Universitas Lampung"
+      ],
+      "book_title": "Covid19 dan Disrupsi: Tatanan Sosial Budaya, Ekonomi, Politik dan Multi",
+      "official_url": "http:\/\/jip.fisip.unila.ac.id",
+      "full_text_status": "public",
+      "rev_number": 13,
+      "refereed": "TRUE",
+      "eprintid": 26134,
+      "lastmod": "2020-11-19 11:35:58",
+      "date_type": "published",
+      "ispublished": "pub",
+      "abstract": "Pandemi Covid-19 yang melanda hampir seluruh dunia, termasuk Indonesia dan juga Lampung. Bencana non alam ini berdampak luas pada sektor-sektor penting ekonomi global, tak terkecuali industri pariwisata. Respon para pemangku kepentingan sektor pariwisata terhadap pandemi sangat beragam, sebagian besar berusaha menyiapkan langkah-langkah adaptasi agar bisa bangkit dengan cepat. Pada setiap tahapan adaptasi sektor pariwisata dalam tulisan ini terlihat bahwa peran stakeholders dan komunitas sangat penting, baik pada tahap Tanggap Darurat-Tangguh (Outbreak to Survival Phase); tahap Pemulihan (Recovery Phase) maupun pada tahap Normal dengan Kebiasaan Baru (Normalitation phase). Dalam menghadapi masa tanggap darurat pandemi, adaptasi yang dilakukan adalah bertahan (survival) bagi pelaku pariwisata, sebagaimana sektor lainnya. Para pelaku pariwisata banyak yang melakukan aksi sosial dan juga pindah ke industri kreatif yang menjadi kebutuhan dasar, seperti kuliner dan fashion. Dalam tahapan kedua adalah persiapan menuju new normal, pada tahap ini pelaku pariwisata bersama masyarakat bersama-sama menyiapkan produk pariwisata sesuai dengan kebiasaan baru. Pada tahap new normal, sektor pariwisata diharapkan sudah memiliki paradigma pengembangan adaptif dan inovatif dalam kesiapan menghadapi kebiasaan baru tersebut. Sebagai industri jasa, pariwisata bukan hanya bicara target ekonomi atau investasi di obyek wisata semata, pariwisata adalah tentang manusianya dalam hal ini wisatawan dan tuan rumah (masyarakat lokal). Ketika pandemi datang, orang “dipaksa” untuk tidak melakukan perjalanan dan masyarakat lokal menjadi “curiga” dengan tamu dari luar atau pengunjung. .  Banyak faktor yang mempengaruhi seberapa cepat pemulihan pariwisata di era new normal. Pergeseran produk dan pasar pariwisata di masa kebiasaan baru (new normal) adalah keniscayaan. Respon kebijakan yang tepat di bidang pariwisata, kondisi psikologis positif masyarakat untuk kembali berwisata, dan kesiapan masyarakat di destinasi pariwisata adalah tiga hal yang utama. Akhirnya, kesiapan stakehoders bidang pariwisata, mulai dari pemerintah daerah, dan pelaku pariwisata (swasta atau pengelola wisata, dan masyarakat) menjadi kunci new normal.  Dari sisi kebijakan, Provinsi Lampung memiliki potensi pariwisata yang sangat mungkin dikembangkan, oleh sebab itu perlu dilakukan re-plan, re-focus dan re-upgrade di bidang pariwisata. Pengelola pariwisata segera berbenah melakukan re-branding bersama pemerintah daerah. Kampanye dan uji coba pariwisata yang bersih, sehat, dan aman dapat segera dilakukan, dilanjutkan dengan sertifikasi destinasi wisata yang memenuhi syarat untuk dikunjungi agar pariwisata menggeliat kembali.",
+      "eprint_status": "archive",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "datestamp": "2020-11-19 11:35:58",
+      "isbn": "978-623-6569-62-7",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26134",
+      "type": "book_section",
+      "volume": 1,
+      "pagerange": "431-444",
+      "subjects": [
+        "GV"
+      ],
+      "date": "2020-11-01",
+      "pages": 481,
+      "place_of_pub": "Bandarlampung",
+      "documents": [
+          {
+            "pos": 1,
+            "eprintid": 26134,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/235678",
+                  "fileid": 235678,
+                  "filesize": 5990233,
+                  "hash": "1a40eeb4d3bb420e663bb35f386a8431",
+                  "mtime": "2020-11-19 00:25:17",
+                  "datasetid": "document",
+                  "objectid": 40015,
+                  "mime_type": "application\/pdf",
+                  "filename": "COVID19 & DISRUPSI Rev2 Upload.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40015",
+            "rev_number": 1,
+            "main": "COVID19 & DISRUPSI Rev2 Upload.pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 40015,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "status_changed": "2020-11-19 11:35:58",
+      "userid": 408
+    },
+    {
+      "userid": 532,
+      "status_changed": "2018-06-28 01:53:18",
+      "publication": "Jurnal Hutan Pulau-Pulau Kecil: Jurnal Ilmu-Ilmu Kehutanan dan Pertanian",
+      "date": "2016-12",
+      "documents": [
+          {
+            "main": "Pulau-pulau.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/17636",
+                  "filesize": 1857297,
+                  "fileid": 17636,
+                  "hash": "65e6e9175121a9ba588dabbbd943e891",
+                  "mtime": "2017-05-31 07:48:31",
+                  "datasetid": "document",
+                  "objectid": 2435,
+                  "mime_type": "application\/pdf",
+                  "filename": "Pulau-pulau.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 2553,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2435",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 2435,
+            "placement": 1,
+            "security": "public",
+            "format": "text"
+          }
+      ],
+      "subjects": [
+        "GV"
+      ],
+      "pagerange": "84-91",
+      "metadata_visibility": "show",
+      "title": "Kajian Potensi Hutan Mangrove di Lampung Mangrove Centre (LMC) untuk Pengembangan Ekowisata Berbasis Masyarakat",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2553",
+      "issn": "2541-1241",
+      "volume": 1,
+      "divisions": [
+        "FP11"
+      ],
+      "datestamp": "2018-06-28 01:53:18",
+      "dir": "disk0\/00\/00\/25\/53",
+      "eprint_status": "archive",
+      "abstract": "Hutan menyediakan pelyanan ekosistem yang mendasar bagi penghidupan dan kesejahteraan penduduk di sekitar hutan, khususnya mereka yang miskin. Salah satu kawasan hutan yang potensial untuk dikembangkan sebagai kawasan ekowisata berbasis masyarakat adalah Lampung Mangrove Center yang terletak di Desa Margasari, Kabupaten Lampung Timur dengan luas 700 Ha.  Peneiitian bertujuan untuk mengkaji potensi hutan mangrove sebagai tujuan ekowisata berbasis masyarakat.  Data dikumpulkan melalui pengamatan langsung terhadap potensi hutan mangrove, wawancara dengan masyarakat, wisatwan dan instansi terkait dan menghitung daya dukung serta dianalisis dengan menggunakan SWOT. Hssil memnujukkan masyarakat setuju jika hutan mangrove dikembangkan sebagai ekowisata berbasis masyarakat. Motivasi wisatawan berkunjung untuk rekreasi. Daya dukung LMC sebanyak 170 orang per hari.  Analisis SWOT menggambarkan hutan mangrove di LMC berpotensi dikembangkan sebagai tujuan ekowisata berbasis masyarakat.\r\n\r\nKata kunci :ekowisata, berbasis masyarakat, hutn mangrove, LMC",
+      "ispublished": "pub",
+      "date_type": "published",
+      "rev_number": 8,
+      "publisher": "Program Studi Manajemen Hutan Pascasarjana Universitas Pattimura - Ambon",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "rusy_ta@yahoo.co.id",
+          "name": {
+            "given": "Rusita",
+            "family": "Rusita",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Elly L.",
+            "family": "Rustiati"
+          },
+          "id": "ely.jazdzyk@yahoo.com"
+        },
+        {
+          "id": "gundowino@gmail.com",
+          "name": {
+            "given": "Gunardi Djoko",
+            "family": "Winarno",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Dewi",
+            "given": "Bainah Sari",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "lastmod": "2018-06-28 01:53:18",
+      "eprintid": 2553,
+      "refereed": "TRUE",
+      "number": 2
+    },
+    {
+      "status_changed": "2019-05-02 04:22:39",
+      "userid": 623,
+      "documents": [
+          {
+            "language": "en",
+            "main": "Prosiding Seminar Nasional BKS-PTN tahun 2018_Fix.pdf",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24270",
+            "rev_number": 1,
+            "files": [
+                {
+                  "fileid": 102670,
+                  "filesize": 8803530,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/102670",
+                  "mtime": "2019-04-24 01:53:28",
+                  "hash": "782134659a3cc07cb70f244801678f6f",
+                  "objectid": 24270,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "Prosiding Seminar Nasional BKS-PTN tahun 2018_Fix.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 11263,
+            "mime_type": "application\/pdf",
+            "docid": 24270,
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "pages": 179,
+      "date": "2019-03",
+      "place_of_pub": "Kota Serang, Banten",
+      "title": "Potensi Tutupan Lahan Pertanian di\r\nTaman Nasional Bukit Barisan Selatan untuk Mendukung Kedaulatan Pangan",
+      "metadata_visibility": "show",
+      "subjects": [
+        "G1",
+        "GB",
+        "GV",
+        "S1",
+        "SB",
+        "SD"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11263",
+      "type": "book",
+      "isbn": "978-979-19929-5-4",
+      "dir": "disk0\/00\/01\/12\/63",
+      "datestamp": "2019-05-02 04:22:39",
+      "divisions": [
+        "FP5"
+      ],
+      "abstract": "Kubu Perahu Resort Balik Taman Nasional Bukit Barisan Selatan merupakan daerah enclave, dimana masyarakat tinggal di sekitar daerah tersebut. Masyarakat Kubu Perahu sebagaian besar bekerja sebagai petani.  Berdasarkan UU No 18 Tahun 2012 kedaulatan pangan\r\nmerupakan hak negara dan bangsa yang secara mandiri menentukan kebijakan pangan yang menjamin hak atas pangan bagi rakyat dan yang memberikan hak bagi masyarakat untuk\r\nmenentukan sistem pangan yang sesuai dengan potensi sumber daya lokal.  Maka dari itu penelitian dilakukan untuk mengetahui informasi potensi tentang luasan lahan pertanian di lokasi penelitian menggunaan teknik penginderaan jauh sebagai sarana melalui sistem informasi\r\ngeografi.  Metode pengumpulan data dilakukan dengan cara pengamatan langsung di lapangan,mendownload citra landsat, studi pustaka, dan pengamatan dengan analisis citra dan analisis daya dukung kemampuan lahan dengan menghitung nilai CCR.  Hasil dari klasifikasi.  Dari hasil klasifikasi didapatkan besar luasan tutupan lahan di Kubu Perahu TNBBS yaitu 4590 (ha)dengan luasan lahan pertanian 259 ha dan yaitu sebesar 6%. Dari hasil perhitungan analisis daya dukung kemampuan lahan didapatkan nilai CCR sebesar 1,17 itu mengartikan bahwa wialayah Kubu Perahu masih dapat mendukung kebutuhan pokok. Hal tersesbut membuktikan bahwa potensi di\r\nTaman Nasional Bukit Barisan Selatan dapat memberikan dukungan bagi kedaulatan pangan di sekitar lokasi penelitian.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "refereed": "TRUE",
+      "eprintid": 11263,
+      "contact_email": "bksptn.fp@untirta.ac.id",
+      "lastmod": "2019-05-02 04:22:39",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Bagus",
+            "family": "Sugiarto"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Hilmanto",
+            "given": "Rudi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "christine.wulandari@fp.unila.ac.id",
+          "name": {
+            "given": "Christine",
+            "family": "Wulandari",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "full_text_status": "public",
+      "official_url": "http:\/\/www.bksptn-fp.untirta.ac.id\/",
+      "publisher": "Fakultas Pertanian, Universitas Sultan Ageng Tirtayasa",
+      "rev_number": 12
+    },
+    {
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0_bak\/00\/04\/97\/27",
+      "datestamp": "2023-04-06 00:54:58",
+      "divisions": [
+        "FISIP3"
+      ],
+      "creators": [
+        {
+          "name": {
+            "family": "Warganegara",
+            "given": "Arizka",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "arizka.warganegara@fisip.unila.ac.id"
+        }
+      ],
+      "full_text_status": "public",
+      "publisher": "Bappenas RI",
+      "rev_number": 9,
+      "lastmod": "2023-04-06 00:54:58",
+      "eprintid": 49727,
+      "contact_email": "arizka.warganegara@fisip.unila.ac.id",
+      "date_type": "published",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "docid": 189363,
+            "mime_type": "application\/pdf",
+            "pos": 1,
+            "eprintid": 49727,
+            "files": [
+                {
+                  "hash": "f685b55bad4c0ff532d6b26fa6aefb7d",
+                  "mtime": "2023-04-05 16:06:17",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/538827",
+                  "fileid": 538827,
+                  "filesize": 692909,
+                  "mime_type": "application\/pdf",
+                  "filename": "Similarity Tourism and Earthquake.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 189363
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189363",
+            "main": "Similarity Tourism and Earthquake.pdf",
+            "language": "en"
+          }
+      ],
+      "status_changed": "2023-04-06 00:54:58",
+      "userid": 570,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49727",
+      "type": "other",
+      "subjects": [
+        "G1",
+        "GV",
+        "JA"
+      ],
+      "title": "Similarity- Tourism and Earthquake",
+      "metadata_visibility": "show"
+    },
+    {
+      "userid": 532,
+      "status_changed": "2017-05-30 01:16:53",
+      "documents": [
+          {
+            "main": "Gunardi-Jurnal interl-Gunardi..pdf",
+            "language": "en",
+            "eprintid": 1879,
+            "pos": 1,
+            "files": [
+                {
+                  "filesize": 635539,
+                  "fileid": 13153,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/13153",
+                  "mtime": "2017-05-29 08:33:07",
+                  "hash": "095ccd7a30ee7598ed676d2281fac07a",
+                  "objectid": 1740,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "Gunardi-Jurnal interl-Gunardi..pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1740",
+            "docid": 1740,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "format": "text"
+          }
+      ],
+      "publication": "International Journal of Multidisciplinary Research and Development",
+      "date": "2015-05",
+      "metadata_visibility": "show",
+      "title": "The Alignment Of Perceptions, Motivations and Preferences\r\n Amongst Stake Holders On Wild Wild Elephant Ecotourism Development  In Bukit Barisan Selatan, Lampung Province - Indonesia",
+      "subjects": [
+        "GV"
+      ],
+      "pagerange": "277-288",
+      "volume": 2,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1879",
+      "type": "article",
+      "issn": "2349-4182",
+      "divisions": [
+        "FP5"
+      ],
+      "dir": "disk0\/00\/00\/18\/79",
+      "datestamp": "2017-05-30 01:16:53",
+      "corp_creators": [
+        "Universitas Lampung",
+        "IPB",
+        "IPB",
+        "Litbanghut Bogor"
+      ],
+      "eprint_status": "archive",
+      "abstract": "Abstract \r\nThe  alignment of perceptions, motivations and preferences amongst stakeholders in ecotourism development program does not only cause an inefficiency and uneffective process of ecotourism developement, but also cause such kind degradation value of ecotourism resources itself. In this matter, a research regarding the alignment of perceptions, motivations and preferences between stakeholders in elephant ecotourism development in the Bukit Barisan Selatan National Park (BBSNP)  is important to be conducted. This study involved three vital stakeholder in BBSNP, namely local people (Pemerihan, Sumberejo, and Way Haru villages), the BBSNP-officers, and tourists. In assessing the alignment, a close-ended questionnaire was designed to map the perceptions, motivations, and preferences of every stakeholder about elephant, program of elephant ecotourism, ecological impact, social-economy and cultural aspects, as well as about  management orientation. The result of  chi-square test on 100 sets of stakeholder’s perceptions  showed that  only 60% which are statistical aggregately classified as  insignificant (aligned); aggregately the perception between local people, BBSNP-officers, and tourists also only shows 50% of alignment. The aggregate value of motivation between the people of Pemerihan, Sumberejo & Way Haru is 60.3% un-aligned, while the aggregate value of motivation between local people, BBSNP-officers and tourists is 100% in un-aligned. Last, the aggregate value of preferences amongst all stakeholders  is  also 100% in un-aligned.\r\n\r\n\r\nKeywords: Elephant Ecotourism, Perception, Motivation, National Park.",
+      "ispublished": "pub",
+      "date_type": "published",
+      "lastmod": "2017-05-30 01:16:53",
+      "eprintid": 1879,
+      "refereed": "TRUE",
+      "number": 5,
+      "publisher": "ijmrd",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "gundowino@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Gunardi Djoko",
+            "family": "Winarno"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Avenzora",
+            "given": "Ricky"
+          },
+          "id": "avenzora19@yahoo.com"
+        },
+        {
+          "id": "sambas_basuni@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Basuni",
+            "given": "Sambas"
+          }
+        },
+        {
+          "id": "bismark_forda@yahoo.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Muhammad",
+            "family": "Bismark"
+          }
+        }
+      ]
+    },
+    {
+      "publication": "International Journal of Sciences: Basic and Applied Research (IJSBAR)",
+      "date": 2015,
+      "documents": [
+          {
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1710",
+            "pos": 1,
+            "eprintid": 1853,
+            "files": [
+                {
+                  "hash": "ba806cbf3d4e8f692501cf6b53a2d7b1",
+                  "mtime": "2017-05-29 07:22:13",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12979",
+                  "fileid": 12979,
+                  "filesize": 3109011,
+                  "mime_type": "application\/pdf",
+                  "filename": "Gunardi-IJSBARJurnalterbit-3947-9586-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 1710
+                }
+            ],
+            "language": "en",
+            "main": "Gunardi-IJSBARJurnalterbit-3947-9586-1-PB.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "docid": 1710,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "userid": 532,
+      "status_changed": "2017-05-29 08:11:10",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1853",
+      "type": "article",
+      "issn": "2307-4531",
+      "volume": 22,
+      "subjects": [
+        "GV"
+      ],
+      "pagerange": "130-148",
+      "metadata_visibility": "show",
+      "title": "The Planning of Ecotourism Opportunities Spectrum of Elephant Related Ecotourism Activities on Sumatran Elephant Home Range in Bukit Barisan Selatan National Park Province Lampung Indonesia",
+      "eprint_status": "archive",
+      "abstract": "Abstract\r\nWildlife ecotourism has economical benefits and become important to be used as a strategy in conserving wildlife. One of the interesting animals that can be utilized as tourism object in Indonesia is wild elephant (Elephas maximus sumatranus) in National Park of Bukit Barisan Selatan (NPBBS).  In fact, wild elephant is difficult to find, but the satisfaction level of  wildlife ecotourism merely can be gained when the tourists successfully encounter the wild animals. Therefore, a design of Elephant Ecotourism Opportunities Spectrum (EEOS) in NPBSS is important to be made. The ecotourism scientific planning approach (Avenzora, 2008) has been used to identify the EEOS of the elephants population in Pemerihan and Way Haru Resorts. The GPS-collar technology used to detect the elephant moving pattern and home-range; as well as the Landsat Imagery TM-7 with Erdas Imagine was used to analyze the habitat characteristics. The design of EEOS was developed by mapping observed potentials into human-attracted points (Avenzora, 2013). The results of this study show that the total area of elephant home range is 15,301.20 Ha, which is equal to 32-folds of Camp Elephant Patrol (CEP) area that has been used as single focal point of elephant ecotourism for the last 6 years. Furthermore, a habitat-characters-based-EEOS design can improve the varieties of elephant tourism activities. Its quantity and quality are increasing into 30 varieties, which can be distributed in the home range for the whole year and improve the benefits of wild elephant ecotourism activities.\r\nKeywords: Sumatran Elephant; NPBBS; Ecotourism Scientific Planning.",
+      "ispublished": "pub",
+      "corp_creators": [
+        "Universitas Lampung",
+        "IPB",
+        "IPB",
+        "Litbanghut Bogor"
+      ],
+      "divisions": [
+        "FP5"
+      ],
+      "datestamp": "2017-05-29 08:11:10",
+      "dir": "disk0\/00\/00\/18\/53",
+      "full_text_status": "public",
+      "publisher": "GSSRR",
+      "rev_number": 7,
+      "creators": [
+        {
+          "name": {
+            "family": "Winarno",
+            "given": "Gunardi Djoko",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "gundowino@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Ricky",
+            "family": "Avenzora",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "avenzora19@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Basuni",
+            "given": "Sambas"
+          },
+          "id": "sambas_basuni@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Muhammad",
+            "family": "Bismark"
+          },
+          "id": "bismark_forda@yahoo.com"
+        }
+      ],
+      "lastmod": "2017-05-29 08:11:10",
+      "eprintid": 1853,
+      "refereed": "TRUE",
+      "number": 2,
+      "date_type": "published"
+    },
+    {
+      "abstract": "Potensi  geowisata  di  Air  Naningan,  Tanggamus  di  dominasi  oleh  potensi  wisata  air.  Diantaranya,  Air  Terjun  Curug Tirai dan  Curug  Bengkok. Air  terjun  Curug  Tirai  merupakan  aliran  Sungai  Sukamanah,  sedangkan  Curug  Bengkok merupakan  aliran  Sungai  Way  Sekampung. Lokasi  pertama  merupakan  air  terjun  yang  tersusun  dari  tiga  air  terjun yang mengalir melalui batuan beku vulkanik. Batuan yang tersingkap didominasi oleh batuan beku andesit. Salah satu struktur yang paling menarik dari air terjun ini adalah singkapan batuan andesit dengan kekar tiang (columnar joints) yang  dikelilingi  oleh  batuan  breksi  vulkanik.  Pola  singkapan  struktur  kekar  tiang  yang berulang  di  bagian  air  terjun atas  dan  air terjun  di  bawahnya  mengindikasikan  jenis  kekar  tiang  MUF  (multiple  unit  flow).  Kondisi  lingkungan pengendapan batuan lava andesit di lokasi air terjun secara geomorfologi merupakan daerah lembahan yang memiliki kelerengan yang sangat curam. Potensi longsor berupa rock fall sangat mungkin terjadi akibat ketidakstabilan batuan andesit  di  lereng  bukit  yang  menjadi  jalan  menuju  air  terjun  yang  berada  di  atas.  Intensitas  pelapukan  yang  cukup \r\ntinggi  disertai  banyaknya  kekar  gerus  akan  melemahkan  kemampuan  batuan  untuk  menahan  stabilitasnya.  Dengan \r\nkondisi hutan yang memiliki tingkat curah hujan yang tinggi berakibat pada tingginya faktor air dalam proses erosi dan \r\npelapukan pada batuan lereng tersebut. Dengan kondisi bentang ala mini, Pokdarwis Jaya Lestari bersama tim peneliti telah  mengembangkan  wahana  geowisata  berupa  kemah  alam,  rappelling  (turun  tebing),  dan  arung  jeram.  Untuk mendukung  wisatawan  dari  luar  daerah\/luar  negeri  disediakan home  stay,  dimana  masyarakat  diedukasi  untuk  bisa memanfaatkan potensi alamnya untuk menambah penghasilan selain sebagai pekebun atau petani.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "datestamp": "2019-11-05 10:51:46",
+      "dir": "disk0\/00\/01\/54\/17",
+      "creators": [
+        {
+          "id": "ahmad.zaenudin@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "ahmad",
+            "family": "zaenudin"
+          }
+        },
+        {
+          "id": "suharno@eng.unila.ac.id",
+          "name": {
+            "family": "Suharno",
+            "given": "Suharno",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Nandi",
+            "family": "Haerudin",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "nandithea@yahoo.com"
+        },
+        {
+          "id": "igedeboy@staff.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "I Gede Boy",
+            "family": "Darmawan"
+          }
+        }
+      ],
+      "rev_number": 7,
+      "official_url": "http:\/\/senapati.eng.unila.ac.id\/prosiding-2019\/",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "number": 14,
+      "lastmod": "2019-11-05 10:51:46",
+      "eprintid": 15417,
+      "date_type": "published",
+      "date": "2019-06-29",
+      "publication": "PROSIDING SENAPATI SEMINAR NASIONAL PENGABDIAN  KEPADA MASYARAKAT TEKNOLOGI DAN INOVASI",
+      "documents": [
+          {
+            "docid": 28539,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "language": "en",
+            "main": "14.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28539",
+            "pos": 1,
+            "eprintid": 15417,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 28539,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "14.pdf",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/132950",
+                  "filesize": 1044667,
+                  "fileid": 132950,
+                  "mtime": "2019-11-04 13:00:07",
+                  "hash": "36543403368a0ddbff58ddb4a6c5bd8b"
+                }
+            ]
+          }
+      ],
+      "status_changed": "2019-11-05 10:51:46",
+      "userid": 2546,
+      "issn": "2685-0427",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15417",
+      "volume": 1,
+      "subjects": [
+        "GV",
+        "QE"
+      ],
+      "pagerange": "46-51",
+      "title": "PEMETAAN POTENSI GEOWISATA DAN UAPAYA PENINGKATAN PARTISIPASI MASYARAKAT DALAM TATA KELOLA PARIWISATA DI AIR NANINGAN, TANGGAMUS",
+      "metadata_visibility": "show"
+    }
+]
+

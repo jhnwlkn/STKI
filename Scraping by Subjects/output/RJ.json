@@ -1,0 +1,1460 @@
+[
+    {
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Latar belakang: Skrofuloderma merupakan tuberkulosis (TB) kulit sekunder yang disebabkan Mycobacterium tuberculosis dan terjadi\r\nperkontinuitatum. Skrofuloderma merupakan kasus yang jarang dan sering mengalami keterlambatan dalam diagnosis. Gambaran klinis\r\nskrofuloderma dapat menyerupai penyakit infeksi kulit lainnya. Skrofuloderma diawali dengan timbul benjolan di area kelenjar limfe\r\nyang makin membesar dan pecah membentuk ulkus dengan pinggir merah kebiru-biruan dan dinding bergaung. Pengobatan yang tidak\r\ntepat dan ketidakpatuhan dapat menyebabkan resistensi kuman tuberkulosis sehingga tidak memberikan respon terapi yang baik.\r\nTujuan: melaporkan satu kasus pada seorang pasien anak dengan skrofuloderma dan Infeksi Human Immunodeficiency Virus (HIV) serta\r\ngizi buruk. Kasus: seorang anak perempuan berusia 6 tahun dengan keluhan timbul benjolan-benjolan dan menjadi luka pada area\r\npinggang, perut bawah, dan lipat paha sejak 4 bulan yang lalu. Keluhan tidak nyeri atau gatal. Pada regio flank, suprapubik dan inguinal\r\nsinistra tampak ulkus multipel, dangkal, bentuk iregular, tepi livide, dinding bergaung dan dasar bersih. Pada inguinal dextra tampak\r\nnodul soliter, ukuran 3x4 cm, bewarna livide. Pada pemeriksaan rontgen thoraks terdapat gambaran TB paru dengan skoring TB\r\ndiperoleh skor 7. Pemeriksaan HIV diperoleh hasil reaktif. pasien menderita gizi buruk dengan berat badan\/umur pasien kurang dari\r\n80%. Pasien didiagnosis dengan skrofuloderma, TB paru, HIV, dan gizi buruk. Penatalaksanaan: pemberian obat oral antituberkulosis\r\n(OAT) pada anak berupa rifampisin, isoniazid, pirazinamid, etambutol selama 2 bulan dan dilanjutkan dengan rifampisin dan Isoniazid\r\nselama 4 bulan. Hasil terapi memberikan hasil baik. Kesimpulan: Skrofuloderma terjadi secara perkontinuitatum pada pasien anak\r\ndengan TB paru dan dapat sembuh dengan pengobatan oral OAT.\r\nKata kunci: gizi buruk, HIV, skrofuloderma, tuberkulosis, obat antituberkulosis",
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/02\/12\/70",
+      "datestamp": "2020-05-31 07:52:55",
+      "lastmod": "2020-05-31 07:52:55",
+      "eprintid": 21270,
+      "number": 2,
+      "refereed": "FALSE",
+      "rev_number": 7,
+      "official_url": "https:\/\/juke.kedokteran.unila.ac.id\/index.php\/JK\/article\/view\/2518\/2461",
+      "publisher": "Fakultas Kedokteran Universitas Lampung",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "dwiindriaanggraini@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Anggraini",
+            "given": "Dwi Indria"
+          }
+        },
+        {
+          "name": {
+            "family": "Roro",
+            "given": "Rukmi W P",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "roro.rukmi@fk.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Piesta Prima Beta",
+            "family": "Pairul"
+          }
+        }
+      ],
+      "date_type": "published",
+      "documents": [
+          {
+            "docid": 34667,
+            "mime_type": "application\/pdf",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "main": "2518-3214-1-PB.pdf",
+            "language": "en",
+            "eprintid": 21270,
+            "pos": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "2518-3214-1-PB.pdf",
+                  "datasetid": "document",
+                  "objectid": 34667,
+                  "mtime": "2020-05-31 07:04:27",
+                  "hash": "49eeb7095fb6c18e50e5e01f2533302f",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/197931",
+                  "filesize": 778496,
+                  "fileid": 197931
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34667"
+          }
+      ],
+      "publication": "JK Unila JURNAL KEDOKTERAN UNIVERSITAS LAMPUNG",
+      "date": 2019,
+      "userid": 626,
+      "status_changed": "2020-05-31 07:52:55",
+      "volume": 3,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21270",
+      "issn": "2527-3612",
+      "metadata_visibility": "show",
+      "title": "Diagnosis dan Tatalaksana Skrofuloderma pada Anak\r\ndengan Infeksi Human Immunodeficiency Virus dan Gizi Buruk",
+      "pagerange": "296-300",
+      "subjects": [
+        "RJ",
+        "RL"
+      ]
+    },
+    {
+      "volume": 9,
+      "issn": "2339-1227",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21611",
+      "title": "Karakteristik Ibu Terkait Pemberian Stimulasi Motorik Kasar Anak Usia 0-12 Bulan di Posyandu di Kelurahan Penengahan Raya Kecamatan Kedaton Bandar Lampung",
+      "related_url": [
+        {
+          "url": "https:\/\/juke.kedokteran.unila.ac.id\/index.php\/medula\/article\/view\/2594"
+        }
+      ],
+      "metadata_visibility": "show",
+      "subjects": [
+        "R1",
+        "RJ"
+      ],
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 34996,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "main": "2594-3331-1-PB.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200161",
+                  "fileid": 200161,
+                  "filesize": 586443,
+                  "mtime": "2020-06-03 03:57:02",
+                  "hash": "d934dcbc6dc316103ea234bbefbf09bc",
+                  "datasetid": "document",
+                  "objectid": 34996,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "2594-3331-1-PB.pdf"
+                }
+            ],
+            "eprintid": 21611,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34996",
+            "rev_number": 1
+          }
+      ],
+      "date": "2019-07",
+      "publication": "MEDULA, medicalprofession journal of lampung university",
+      "status_changed": "2020-06-03 04:43:31",
+      "userid": 60,
+      "number": 2,
+      "refereed": "TRUE",
+      "lastmod": "2020-06-03 04:43:31",
+      "eprintid": 21611,
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Indah Sari",
+            "family": "Anugrah",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Roro",
+            "given": "Rukmi W P",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "roro.rukmi@fk.unila.ac.id"
+        }
+      ],
+      "official_url": "https:\/\/juke.kedokteran.unila.ac.id\/index.php\/medula\/index",
+      "publisher": "fakultas kedokteran universitas lampung",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "date_type": "published",
+      "ispublished": "pub",
+      "abstract": "Motorik Kasar merupakan salah satu aspek perkembangan anak yang harus dideteksi sedini mungkin untuk meminimalisir keterlambatan perkembangan anak. Usia < 3 tahun merupakan Golden Age Period dimana otak anak berkembang dengan pesat. Stimulasi merupakan salah satu metode yang dapat melatih perkembangan anak. Stimulasi pada usia 0-12 bulan sangat diperlukan guna mengoptimalkan perkembangan anak. Penelitian ini bertujuan meneliti karakteristik ibu terkait pemberian stimulasi motorik kasar anak usia 0-12 bulan di posyandu di Kelurahan Penengahan Raya Kecamatan Kedaton Bandar Lampung. Desain penelitian ini adalah deskriptif observasional terhadap 27 ibu yang memiliki anak usia 0-12 bulan di posyandu kelurahan Penengahan Raya kecamatan Kedaton. Data yang diambil berupa data primer yaitu kuisioner untuk menilai stimulasi ibu. Didapatkan jumlah ibu yang berusia 25-35 tahun sebanyak 18 orang dan berusia <25tahun sebanyak 9 orang. Untuk distribusi pekerjaan, ibu yang bekerja sebagai IRT sebanyak 23 orang, wirausaha 2 orang dan karyawati 2 orang. Untuk distribusi pendidikan terakhir, SD 1 orang, SMP 10 orang, SMA 14 orang dan perguruan tinggi 2 orang. Menurut stimulasi yang diberikan, 20 orang memberikan stimulasi cukup dan 7 orang memberikan stimulasi kurang Stimulasi motorik kasar untuk anak usia 0-12 bulan yang baik diberikan oleh ibu dengan usia 25-35 tahun, pekerjaan sebagai ibu rumah tangga dan pendidikan terakhir SMA.\r\nKata kunci: Anak usia 0-12 bulan, posyandu, stimulasi motorik kasar",
+      "eprint_status": "archive",
+      "datestamp": "2020-06-03 04:43:31",
+      "dir": "disk0\/00\/02\/16\/11",
+      "divisions": [
+        "FK1"
+      ]
+    },
+    {
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25829",
+            "rev_number": 1,
+            "files": [
+                {
+                  "mtime": "2019-05-14 03:37:34",
+                  "hash": "73e2bcc5ffa3b617df9e7a7572a0bd44",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/113291",
+                  "fileid": 113291,
+                  "filesize": 242197,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "BPJ_Vol_12_No_1_p_239-243.pdf",
+                  "datasetid": "document",
+                  "objectid": 25829
+                }
+            ],
+            "eprintid": 12845,
+            "pos": 1,
+            "language": "en",
+            "main": "BPJ_Vol_12_No_1_p_239-243.pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "docid": 25829
+          }
+      ],
+      "publication": "Biomedical & Pharmacology Journal",
+      "date": "2019-03",
+      "userid": 575,
+      "status_changed": "2019-05-14 08:24:07",
+      "volume": 12,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12845",
+      "issn": "0974-6242",
+      "metadata_visibility": "show",
+      "title": "Decreasing Zinc Levels in Stunting Toddlers in Lampung Province, Indonesia",
+      "pagerange": "239-243",
+      "subjects": [
+        "RJ"
+      ],
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Stunting is a condition of chronic malnutrition in children that causes the posture is not optimal and triggers other disorders such as deacreasing of immunity and intelligence. The level of adequacy of zinc is one of the factors that influence the incidence of stunting. Zinc is needed to activate and begin the synthesis of Growth Hormone (GH) so that children with zinc deficiency cause GH receptors to be disrupted and GH production to be resistant. This study aims to examine the decrease in zinc levels by looking at the difference in mean zinc levels in stunting and non-stunting toddlers. The research method was carried out observational analytic with a cross sectional approach used in this study. The study sample was 40 toddlers aged 24-60 months with 18 stunting toddlers and 22 non-stunting toddlers in Gunung Sugih District, Central Lampung Regency. The results of univariate analysis revealed that the average zinc level of toddlers serum was 52.60 ug \/ dl with the largest value of 76 ug \/ dl and the lowest value was 24 ug \/ dl. The results of bivariate analysis showed that there were significant differences in the mean zinc levels of stunting and non-stunting children (p = 0.01). The mean zinc content of stunting infants was 45.06 ± 12.21 lower than the mean zinc level of non-stunting infants 58.77 ± 12.98. There is a decrease in serum zinc levels in stunting toddlers compared to non stunting toddlers.\r\n\r\nKeywords:\r\n\r\nChronic Malnutrition; Stabilizing Cell Membranes; Toddlers",
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/01\/28\/45",
+      "datestamp": "2019-05-14 08:24:07",
+      "eprintid": 12845,
+      "lastmod": "2019-05-14 08:24:07",
+      "refereed": "TRUE",
+      "number": 1,
+      "publisher": "Oriental Scientific Publishing Company",
+      "official_url": "http:\/\/biomedpharmajournal.org\/",
+      "full_text_status": "public",
+      "rev_number": 7,
+      "creators": [
+        {
+          "id": "nisaberawi0226@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Khairun",
+            "given": "Nisa Berawi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Nurul Hidayati",
+            "family": "Maya"
+          }
+        },
+        {
+          "id": "susiantiglb@yahoo.com",
+          "name": {
+            "given": "Susianti",
+            "family": "Susianti",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Rukmi W P",
+            "family": "Roro",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "roro.rukmi@fk.unila.ac.id"
+        },
+        {
+          "id": "susantiningsifh@fk.unila.ac.id",
+          "name": {
+            "given": "Susantingsih",
+            "family": "Tiwuk",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Ani",
+            "given": "Melani Maskoen"
+          },
+          "id": null
+        }
+      ],
+      "date_type": "published"
+    },
+    {
+      "status_changed": "2020-06-03 03:30:27",
+      "userid": 60,
+      "date": "2019-03",
+      "publication": "Majority",
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash": "4602aa153f023a0f8ef25af3ef2cfb38",
+                  "mtime": "2020-06-03 02:56:17",
+                  "fileid": 200060,
+                  "filesize": 667129,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200060",
+                  "filename": "2314-3034-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 34975,
+                  "datasetid": "document"
+                }
+            ],
+            "eprintid": 21589,
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34975",
+            "main": "2314-3034-1-PB.pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 34975
+          }
+      ],
+      "subjects": [
+        "R1",
+        "RJ"
+      ],
+      "title": "Peran Zink terhadap Pertumbuhan Anak",
+      "metadata_visibility": "show",
+      "issn": "2337-3776",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21589",
+      "type": "article",
+      "volume": 8,
+      "dir": "disk0\/00\/02\/15\/89",
+      "datestamp": "2020-06-03 03:30:27",
+      "divisions": [
+        "FK1"
+      ],
+      "ispublished": "pub",
+      "abstract": "Zink adalah mineral esensial yang berperan dalam aktivasi dan sintesis hormon pertumbuhan (GH), menjaga kekebalan tubuh, sebagai antioksidan, berperan dalam fungsi pengecapan, serta stabilisasi membran sel. International Zinc Nutrition Consultative Group (IZincG) menunjukan prevalensi global defisiensi zink diperkirakan sebesar 31%. Defisiensi zink terjadi terutama pada populasi balita dan anak-anak yang dapat disebabkan oleh beberapa faktor seperti: (1) asupan yang tidak adekuat dan penyerapan yang terhambat; (2) kehilangan zinc yang berlebihan; (3) konsentrasi albumin dalam plasma. Anak dengan defisiensi zink dapat mengalami gangguan pertumbuhan yang disebabkan oleh terhambatnya efek metabolit GH sehingga sintesis dan sekresi Insulin Like Growth Factor 1 (IGF-1 ) berkurang. Defisiensi zink dapat megganggu fungsi kekebalan tubuh sehingga anak mudah terkena infeksi. Penyakit infeksi yang diderita anak menyebabkan absorbsi makanan dan nafsu makan menurun sementara kebutuhan tubuh semakin meningkat. Hal ini juga dapat mengakibatkan gangguan pertumbuhan. Suplementasi zink dinilai dapat berpengaruh terhadap pertumbuhan yang lebih baik karena konsumsi zink dapat menstimulasi nafsu makan, meningkatkan asupan energi serta meningkatkan massa bebas lemak pada tubuh\r\nKata kunci : pertumbuhan, zink, defisiensi zink",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "family": "Maya",
+            "given": "Nurul Hidayati",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "roro.rukmi@fk.unila.ac.id",
+          "name": {
+            "given": "Rukmi W P",
+            "family": "Roro",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Karima",
+            "family": "Nisa"
+          }
+        }
+      ],
+      "rev_number": 7,
+      "official_url": "https:\/\/juke.kedokteran.unila.ac.id\/index.php\/majority\/index",
+      "publisher": "FK Unila",
+      "full_text_status": "public",
+      "refereed": "TRUE",
+      "number": 1,
+      "eprintid": 21589,
+      "lastmod": "2020-06-03 03:30:27"
+    },
+    {
+      "volume": 8,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21604",
+      "type": "article",
+      "issn": "2337-3776",
+      "metadata_visibility": "show",
+      "related_url": [
+        {
+          "url": "https:\/\/juke.kedokteran.unila.ac.id\/index.php\/majority\/article\/view\/2302"
+        }
+      ],
+      "title": "Karakteristik Bronkopneumonia pada Anak Balita dengan Penyakit Jantung Bawaan Asianotik di Bangsal Alamanda Rumah Sakit Abdul Moeloek Bandar Lampung",
+      "subjects": [
+        "R1",
+        "RJ"
+      ],
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 34984,
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "main": "2302-3022-1-PB.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34984",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200114",
+                  "fileid": 200114,
+                  "filesize": 915426,
+                  "hash": "c17cec0d8aae13fbf17bd6c7c1d704f2",
+                  "mtime": "2020-06-03 03:45:22",
+                  "datasetid": "document",
+                  "objectid": 34984,
+                  "mime_type": "application\/pdf",
+                  "filename": "2302-3022-1-PB.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 21604
+          }
+      ],
+      "publication": "Majority",
+      "date": "2019-03",
+      "userid": 60,
+      "status_changed": "2020-06-03 04:43:16",
+      "lastmod": "2020-06-03 04:43:16",
+      "eprintid": 21604,
+      "refereed": "TRUE",
+      "number": 1,
+      "full_text_status": "public",
+      "official_url": "https:\/\/juke.kedokteran.unila.ac.id\/index.php\/majority\/index",
+      "publisher": "FK Unila",
+      "rev_number": 7,
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Rukmana Dewi",
+            "family": "Mega"
+          }
+        },
+        {
+          "name": {
+            "given": "Rukmi W P",
+            "family": "Roro",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "roro.rukmi@fk.unila.ac.id"
+        },
+        {
+          "id": "maulanamukhlis1978@gmail.com",
+          "name": {
+            "given": "Maulana",
+            "family": "Mukhlis",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "eprint_status": "archive",
+      "abstract": "Penyakit jantung bawaan merupakan salah satu penyakit yang sering terjadi kira-kira pada 10 dari 1000 anak yang lahir. Di Indonesia, presentase cacat jantung bawaan berkisar antara 0,8% sampai 1% dari jumlah kelahiran per tahun. Diperkirakan, terdapat 40.000 sampai 50.000 bayi lahir menderita cacat jantung bawaan setiap tahunnya. Infeksi menjadi masalah pada penyakit jantung bawaan asianotik khusunya infeksi saluran pernapasan bawah. Bronkopneumonia menjadi predisposi penyakit pada anak dengan penyakit jantung bawaan asianotik serta menjadi penyakit yang paling sering ditemukan pada anak dengan penyakit jantung bawaan asianotik. Penelitian ini menggunakan metode observasional dengan pendekatan cross sectional. Sampel penelitian sebanyak 27 subyek anak dengan penyakit jantung bawaan asianotik yang menderita bronkopneumonia usia 0-60 bulan yang dirawat di bangsal alamanda Rumah Sakit Abdul Moeloek Bandar Lampung periode Januari 2017-Oktober 2018 dengan metode total sampling. Data dikumpulkan dari rekam medis. Pada penelitian ini, anak perempuan lebih banyak daripada laki-laki (51,9%), subjek terbanyak berusia 12-<24 bulan (55,6%), anak dengan penyakit jantung bawaan asianotik terbanyak yang menderita bronkopneumonia yaitu DSA (33,3%), DAP (25,9%) serta DSV (14,8%) . Kata kunci : Penyakit Jantung Bawaan Asianotik, Bronkopneumonia, Anak",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/02\/16\/04",
+      "datestamp": "2020-06-03 04:43:16"
+    },
+    {
+      "status_changed": "2020-11-24 01:26:41",
+      "userid": 60,
+      "documents": [
+          {
+            "main": "2685-3389-1-PB.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 40749,
+                  "mime_type": "application\/pdf",
+                  "filename": "2685-3389-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/240420",
+                  "filesize": 829244,
+                  "fileid": 240420,
+                  "hash": "4b8dbb3abcd5c768d921884ca28387c1",
+                  "mtime": "2020-11-23 15:46:00"
+                }
+            ],
+            "eprintid": 26768,
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40749",
+            "mime_type": "application\/pdf",
+            "docid": 40749,
+            "security": "public",
+            "placement": 1,
+            "format": "text"
+          }
+      ],
+      "date": "2020-07",
+      "publication": "Majority",
+      "title": "Faktor-Faktor yang Berhubungan dengan Status Imunisasi Lanjutan Pentavalen (DPT-HB-Hib) di Wilayah Kerja Puskesmas Labuhan Ratu Kota Bandar Lampung Tahun 2018",
+      "metadata_visibility": "show",
+      "subjects": [
+        "RJ"
+      ],
+      "volume": 9,
+      "issn": "2337-3776",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26768",
+      "type": "article",
+      "datestamp": "2020-11-24 01:26:41",
+      "dir": "disk0\/00\/02\/67\/68",
+      "divisions": [
+        "FK1"
+      ],
+      "ispublished": "pub",
+      "abstract": "Imunisasi Pentavalen (DPT-HB-Hib) merupakan imunisasi lanjutan untuk mencegah penyakit difteri, pertusis, tetanus, hepatitis B, dan Haemophilus influenzae tipe b. Cakupan imunisasi lanjutan pentavalen terendah di Kota Bandar Lampung yaitu berada di wilayah kerja Puskesmas Labuhan Ratu dengan presentase 26,9%. Beberapa faktor yang dapat menyebabkan status kelengkapan imunisasi tersebut adalah pengetahuan ibu, sikap ibu, status pekerjaan ibu, status pendidikan ibu, keterjangkauan ketempat pelayanan kesehatan, dan peran tenaga kesehatan. Tujuan penelitian ini adalah untuk mengetahui faktor-faktor yang berhubungan dengan status imunisasi lanjutan pentavalen di wilayah kerja Puskesmas Labuhan Ratu Kota Bandar Lampung. Penelitian ini menggunakan metode analitik observasional dengan pendekatan cross sectional. Sampel penelitian sebanyak 42 responden yang berada di wilayah kerja Puskesmas Labuhan Ratu Kota Bandar Lampung dengan menggunakan metode purposive sampling. Hasil analisis univariat 42,9% responden memiliki status imuniasi lanjutan pentavalen lengkap dan 57,1% tidak lengkap. Hasil analisis bivariat diperoleh variabel yang berhubungan dengan kelengkapan status imuniasi lanjutan pentavalen di wilayah kerja Puskesmas Labuhan Ratu Kota Bandar Lampung yaitu pengetahuan ibu (p value 0,029), sikap ibu (p value 0,022) dan pekerjaan ibu (p value 0,014). Sementara variabel yang tidak berhubungan yaitu status pendidikan ibu (p value 0,384), keterjangkauan ketempat pelayanan kesehatan (p value 0,344) dan peran petugas kesehatan (p value 0,571). Kesimpulannya adalah pengetahuan ibu, sikap ibu, dan status pekerjaan ibu berhubungan dengan status imunisasi lanjutan Pentavalen di wilayah kerja Puskesmas Labuhan Ratu Kota Bandar Lampung tahun 2018.\r\nKata kunci: Pentavalen, faktor yang berhubungan",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "refereed": "TRUE",
+      "number": 1,
+      "lastmod": "2020-11-24 01:26:41",
+      "eprintid": 26768,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Salsabila Itsa",
+            "family": "Nanda"
+          },
+          "id": null
+        },
+        {
+          "id": "roro.rukmi@fk.unila.ac.id",
+          "name": {
+            "given": "Rukmi W P",
+            "family": "Roro",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Mutiara",
+            "family": "Hanna",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "publisher": "Juke Unila",
+      "official_url": "https:\/\/juke.kedokteran.unila.ac.id\/index.php\/majority\/index",
+      "full_text_status": "public",
+      "rev_number": 6
+    },
+    {
+      "volume": 9,
+      "issn": "2337-3776",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26770",
+      "title": "Hidrops Fetalis",
+      "metadata_visibility": "show",
+      "subjects": [
+        "RG",
+        "RJ"
+      ],
+      "documents": [
+          {
+            "docid": 40750,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "main": "2674-3378-1-PB.pdf",
+            "language": "en",
+            "eprintid": 26770,
+            "pos": 1,
+            "files": [
+                {
+                  "fileid": 240427,
+                  "filesize": 756453,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/240427",
+                  "mtime": "2020-11-23 15:49:59",
+                  "hash": "be94eecd108c20f6c07cb2299af5dd6b",
+                  "objectid": 40750,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "2674-3378-1-PB.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40750"
+          }
+      ],
+      "date": "2020-07",
+      "publication": "Majority",
+      "status_changed": "2020-11-24 01:26:54",
+      "userid": 60,
+      "refereed": "TRUE",
+      "number": 1,
+      "lastmod": "2020-11-24 01:26:54",
+      "eprintid": 26770,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Fahryl",
+            "family": "Norman"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Roro",
+            "given": "Rukmi W P",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "roro.rukmi@fk.unila.ac.id"
+        }
+      ],
+      "official_url": "https:\/\/juke.kedokteran.unila.ac.id\/index.php\/majority\/index",
+      "rev_number": 7,
+      "publisher": "Juke Unila",
+      "full_text_status": "public",
+      "date_type": "published",
+      "abstract": "Hidrops fetalis adalah suatu kondisi patologis dimana terdapat penumpukan cairan jaringan lunak dan rongga serosa janin, dimana terdapat ≥ 2 akumulasi cairan abnormal pada fetus. Hidrops fetalis ini merupakan kasus yang serius yang pada janin dan memiliki prognosis yang buruk. Insidensi terjadinya hidrops fetalis diperkirakan 1 dalam 3000 kehamilan. Prevalensi penderita dari waktu ke waktu cenderung meningkat. Etiologi hidrops fetalis dapat dibagi menjadi 2, yaitu Immune Hydrops Fetalis (IHF) dan Non-Immune Hydrops Fetalis (NIHF). Sebelumnya, kasus hidrops fetalis ini didominasi oleh adanya isoimunisasi Rhesus yang berakibat pada kondisi fetal yang berat. Namun, setelah berkembangnya pengobatan dan diagnosis pada Rh-isoimunisasi, kebanyakan kasus hidrops disebabkan oleh kondisi nonimun. Salah satu penyebab hidrops nonimun adalah kelainan hematologi atau anemia. Anemia ini sendiri memliki beberapa faktor penyebab, antara lain, kelainan genetik, infeksi, malformasi vaskular, dan fetomaternal hemoragik. Alpha thalassemia adalah suatu kelainan darah yang menyebabkan penurunan produksi hemoglobin. Jenis yang paling berat adalah hemoglobin Bart (Hb Bart) sindrom hidrops fetalis. Alpha thalassemia adalah penyebab paling sering mendasari terjadinya hidrops fetalis pada negara di Asia Tenggara. Kasus ini adalah seorang wanita hamil 33 minggu dengan hidrops fetalis disertai kelainan hematologi berupa anemia. Laporan kasus ini menyoroti adanya keterkaitan antara anemia dengan hidrops fetalis serta penanganan pada kasus hidrops fetalis.\r\nKata Kunci: anemia, hidrops fetalis, kelainan hematologi",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "dir": "disk0\/00\/02\/67\/70",
+      "datestamp": "2020-11-24 01:26:54",
+      "divisions": [
+        "FK1"
+      ]
+    },
+    {
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "family": "Oktarlina",
+            "given": "Rasmi Zakiah",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "rasmizakiahoktarlina@gmail.com"
+        },
+        {
+          "name": {
+            "family": "Prasetyani",
+            "given": "Radita Dewi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "official_url": "http:\/\/juke.kedokteran.unila.ac.id\/index.php\/agro\/article\/view\/1562",
+      "publisher": "fakultas kedokteran universitas lampung",
+      "rev_number": 12,
+      "full_text_status": "restricted",
+      "number": 1,
+      "refereed": "TRUE",
+      "eprintid": 5131,
+      "lastmod": "2017-11-10 14:39:27",
+      "dir": "disk0\/00\/00\/51\/31",
+      "datestamp": "2017-11-10 14:39:27",
+      "divisions": [
+        "FK1"
+      ],
+      "ispublished": "pub",
+      "abstract": "Diatesis hemoragik merupakan keadaan patologi yang timbul akibat kelainan faal hemostasis. Salah satu penyakit akibat kurangnya faktor koagulasi adalah hemofilia. Diatesis hemoragik akibat kelainan vaskuler, defisiensi atau disfungsi trombosit dan kurangnya faktor koagulasi. Hemofilia adalah salah satu penyakit akibat gangguan produksi faktor\r\npembekuan yang diturunkan. Pasien hemofilia mencakup 63% seluruh pasien dengan kelainan perdarahan. Manifestasi klinis hemofilia yaitu perdarahan yang sukar berhenti. Pasien anak laki-laki, usia 8 tahun 5 bulan, datang dengan keluhan gusi berdarah yang sukar berhenti sejak 1 hari yang lalu. Pasien mengaku sebelum gusi berdarah merasakan bahwa giginya goyang. Enam bulan yang lalu pasien mengalami perdarahan pada gusi yang sukar berhenti setelah melakukan pencabutan gigi oleh dokter gigi. Pada waktu itu, gusi yang berdarah tidak kunjung mengering. Dari pemeriksaan fisik keadaan umum tampak sakit sedang, kesadaran komposmentis, konjungtiva anemis (-\/-) sklera ikterik (-\/-), gusi berdarah (+), abdomen datar (+), nyeri tekan (-), hepar dan lien tidak teraba pembesaran. Pada ektremitas tidak ditemukan memar, purpura serta\r\npucat (-). Pada pemeriksaan penunjang laboratorium, trombosit 270.000\/uL dan PT: 16,8 detik, APTT: 75,1 detik. Penatalaksanaan terdiri dari non medikamentosa meliputi rest, ice, compression, elevation pada lokasi yang mengalami perdarahan, edukasi dan memberikan dukungan psikososial bagi pasien dan keluarganya. Penatalaksanaan edikamentosa\r\nberupa injeksi asam traneksamat 250mg\/8jam dan transfusi Fresh Frozen Plasma (FFP) 2x150cc. Setelah itu, pasien dirujuk ke rumah sakit Cipto Mangunkusumo untuk melakukan pemeriksaan kadar faktor VIII dan faktor IX.\r\n\r\nKata kunci: defisiensi faktor koagulasi, diatesis hemoragik, hemofilia",
+      "eprint_status": "archive",
+      "corp_creators": [
+        "Fakultas Kedokteran Universitas Lampung",
+        "Fakultas Kedokteran Universitas Lampung"
+      ],
+      "subjects": [
+        "RJ"
+      ],
+      "pagerange": "126-132",
+      "title": "Diatesis Hemoragik e.c Suspek Hemofilia pada Anak Laki-Laki 8 Tahun",
+      "metadata_visibility": "show",
+      "issn": "2346-332x",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5131",
+      "volume": 4,
+      "status_changed": "2017-11-10 14:39:27",
+      "userid": 208,
+      "date": "2017-06",
+      "publication": "Jurnal Agromedicine",
+      "documents": [
+          {
+            "docid": 18050,
+            "mime_type": "application\/xml",
+            "security": "staffonly",
+            "placement": 1,
+            "format": "text",
+            "date_embargo": "2017-12",
+            "formatdesc": "Jurnal Agromedicine",
+            "main": 1562,
+            "language": "id",
+            "pos": 1,
+            "eprintid": 5131,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/48922",
+                  "fileid": 48922,
+                  "filesize": 17668,
+                  "hash": "dc20b6ebee1d0b927275dfd2d43d4e98",
+                  "mtime": "2017-11-10 08:54:40",
+                  "datasetid": "document",
+                  "objectid": 18050,
+                  "mime_type": "application\/xml",
+                  "filename": 1562,
+                  "hash_type": "MD5"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18050",
+            "rev_number": 5
+          }
+      ]
+    },
+    {
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/01\/28\/34",
+      "datestamp": "2019-05-14 08:32:57",
+      "lastmod": "2019-05-14 08:32:57",
+      "eprintid": 12834,
+      "pres_type": "paper",
+      "refereed": "TRUE",
+      "rev_number": 14,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "roro.rukmi@fk.unila.ac.id",
+          "name": {
+            "family": "Roro",
+            "given": "Rukmi W P",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "documents": [
+          {
+            "pos": 1,
+            "eprintid": 12834,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/113218",
+                  "fileid": 113218,
+                  "filesize": 62540,
+                  "hash": "35280d02fd92cfb1b94c4963c7a1aa0f",
+                  "mtime": "2019-05-14 02:19:55",
+                  "datasetid": "document",
+                  "objectid": 25819,
+                  "mime_type": "image\/jpeg",
+                  "filename": "WhatsApp Image 2019-04-29 at 08.31.15.jpeg",
+                  "hash_type": "MD5"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25819",
+            "main": "WhatsApp Image 2019-04-29 at 08.31.15.jpeg",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "format": "image",
+            "docid": 25819,
+            "mime_type": "image\/jpeg"
+          }
+      ],
+      "date": 2019,
+      "userid": 60,
+      "event_title": "The 2nd Asian Pediatric Mechanical Ventilation Forum (APMVF) 2019",
+      "status_changed": "2019-05-14 08:32:57",
+      "event_type": "conference",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12834",
+      "metadata_visibility": "show",
+      "title": "A 1 Month Old Boy With Intracranial Hemorrhage Post Craniotomy and Left Lung Atelectasis : A Case Report",
+      "subjects": [
+        "RJ"
+      ]
+    },
+    {
+      "status_changed": "2020-06-03 03:30:23",
+      "userid": 60,
+      "date": "2019-03",
+      "publication": "JK Unila JURNAL KEDOKTERAN UNIVERSITAS LAMPUNG",
+      "documents": [
+          {
+            "docid": 34973,
+            "mime_type": "application\/pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 1,
+            "language": "en",
+            "main": "2220-2940-1-PB.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34973",
+            "eprintid": 21586,
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 34973,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "2220-2940-1-PB.pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 556326,
+                  "fileid": 200047,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/200047",
+                  "mtime": "2020-06-03 02:47:47",
+                  "hash": "41ace927c796ff4e5ee7bcd63bb843be"
+                }
+            ]
+          }
+      ],
+      "subjects": [
+        "RJ"
+      ],
+      "title": "Asma Bronkial pada Anak",
+      "metadata_visibility": "show",
+      "issn": "2527-3612",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21586",
+      "volume": 3,
+      "datestamp": "2020-06-03 03:30:23",
+      "dir": "disk0\/00\/02\/15\/86",
+      "divisions": [
+        "FK1"
+      ],
+      "ispublished": "pub",
+      "abstract": "Batasan asma menurut Global Initiative for Asthma (GINA) adalah penyakit heterogen berupa inflamasi kronik saluran nafas. Gejala penyakit ini berupa mengi, sesak napas, dada terasa berat, dan batuk yang bervariasi serta keterbatasan aliran udara yang bervariasi.Wheezing berulang dan \/ atau batuk kronik berulang merupakan titik awal untuk menegakkan diagnosis. Pemeriksaan penunjang untuk menegakkan diagnosis seperti uji fungsi paru. Penyakit ini dapat diklasifikasikan menjadi asma episodik jarang, episodik sering serta persisten. Sedangkan saat serangan dibagi menjadi asma serangn ringan, sedang, berat dan ancaman henti napas. Tujuan tatalaksana asma anak secara umum adalah untuk menjamin tercapainya potensi tumbuh kembang anak secara optimal. Kata kunci : asma, GINA, wheezing",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "roro.rukmi@fk.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Rukmi W P",
+            "family": "Roro"
+          }
+        }
+      ],
+      "full_text_status": "public",
+      "official_url": "https:\/\/juke.kedokteran.unila.ac.id\/index.php\/JK\/index",
+      "publisher": "FK Unila",
+      "rev_number": 6,
+      "number": 1,
+      "refereed": "TRUE",
+      "eprintid": 21586,
+      "lastmod": "2020-06-03 03:30:23"
+    },
+    {
+      "lastmod": "2019-05-14 08:23:22",
+      "eprintid": 12835,
+      "number": 2,
+      "refereed": "TRUE",
+      "official_url": "https:\/\/paediatricaindonesiana.org\/index.php\/paediatrica-indonesiana",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "given": "Rukmi W P",
+            "family": "Roro",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "roro.rukmi@fk.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Bambang",
+            "given": "Sudarmanto"
+          }
+        }
+      ],
+      "date_type": "published",
+      "eprint_status": "archive",
+      "abstract": "Background High-risk acute lymphoblastic leukemia (ALL) is one of the most common childhood malignancies in Indonesia. Many factors can inhibit the induction of remission. Hematological parameters are usually not normal. Identification of corresponding factors is important to increase the likelihood of successful inductions.\r\nObjective To assess for associations between hematological parameters and induction of remission in children with acute lymphoblastic leukemia.\r\nMethods Data were collected from medical records of ALL patients hospitalized in the Pediatric Ward at Dr. Kariadi Hospital from May 2014 – May 2016. Dependent variables were hemoglobin, leukocytes, platelets, and absolute neutrophil count (ANC) levels; the independent variable was induction of remission.\r\nResults Out of 55 patients, 33 (60%) had anemia, 6 (10.9%) had leukocytosis, and 1 (1.8%) had hyperleukocytosis, whereas 9 (34.5%) had leukopenia and 29 (52,7%) had normal leukocyte levels. Thirty-one subjects (56.4%) had thrombocytopenia, 15 (27.3%) had thrombocytosis, and only 9 (16.4%) patients had normal platelet counts. There were 29 (52.7%) with ANC > 500, whereas 26 (47.3%) had ANC level ≤ 500. Most patients (80%) experienced remission induction, while 20% did not. There were significant associations between ANC level and induction of remission (P=0.010) as well as between platelet level and induction of remission (P= 0.033). Regression logistic test revealed that ANC level ≤ 500 was associated with a 7-fold lower remission event compared to ANC level > 500 (RR 7.147; 95%CI 1.38 to 37.14).\r\nConclusion Lower ANC level (≤ 500) is significantly associated with lower remission compared to higher ANC level (> 500). [Paediatr Indones. 2018;58:71-4; doi: http:\/\/dx.doi.org\/10.14238\/pi58.1.2018.71-4].",
+      "ispublished": "pub",
+      "divisions": [
+        "FK1"
+      ],
+      "datestamp": "2019-05-14 08:23:22",
+      "dir": "disk0\/00\/01\/28\/35",
+      "volume": 5,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12835",
+      "issn": "2338-476X",
+      "metadata_visibility": "show",
+      "title": "Hematological parameters and remission induction of childhood acute lymphoblastic leukemia",
+      "related_url": [
+        {
+          "url": "https:\/\/paediatricaindonesiana.org\/index.php\/paediatrica-indonesiana\/article\/view\/1382"
+        }
+      ],
+      "subjects": [
+        "RJ"
+      ],
+      "pagerange": "71-74",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "docid": 25820,
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "main": "1382-Article Text-5022-1-10-20180430.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "fileid": 113229,
+                  "filesize": 220755,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/113229",
+                  "hash": "bc42a6bbcddff686d28050e4f9dc0f2e",
+                  "mtime": "2019-05-14 02:29:01",
+                  "objectid": 25820,
+                  "datasetid": "document",
+                  "filename": "1382-Article Text-5022-1-10-20180430.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 12835,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25820",
+            "rev_number": 1
+          }
+      ],
+      "publication": "Paediatrica Indonesiana",
+      "date": "2018-03-02",
+      "userid": 60,
+      "status_changed": "2019-05-14 08:23:22"
+    },
+    {
+      "full_text_status": "public",
+      "rev_number": 8,
+      "creators": [
+        {
+          "id": "roro.rukmi@fk.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Rukmi W P",
+            "family": "Roro"
+          }
+        },
+        {
+          "id": "nisaberawi0226@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Khairun",
+            "given": "Nisa Berawi"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Nur Fiana",
+            "family": "Dewi"
+          },
+          "id": null
+        }
+      ],
+      "lastmod": "2021-11-11 08:40:01",
+      "eprintid": 36130,
+      "divisions": [
+        "FK1"
+      ],
+      "dir": "disk0\/00\/03\/61\/30",
+      "datestamp": "2021-11-11 08:40:01",
+      "eprint_status": "archive",
+      "ispublished": "unpub",
+      "subjects": [
+        "R1",
+        "RJ"
+      ],
+      "metadata_visibility": "show",
+      "title": "Hubungan Gambaran Klinis, Elektroensefalogram Dan Terapi Awal Dengan Luaran Penderita Epilepsi Pada Anak Di Rsud Abdul Moeloek Provinsi Lampung",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/36130",
+      "type": "experiment",
+      "userid": 60,
+      "status_changed": "2021-11-11 08:40:01",
+      "date": 2021,
+      "documents": [
+          {
+            "main": "laporan penelitian dipa unila 2021 edit(2).pdf",
+            "language": "en",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/418432",
+                  "fileid": 418432,
+                  "filesize": 1190602,
+                  "hash": "4f64f4949c0fa2cf440927855c9e0100",
+                  "mtime": "2021-11-11 07:38:11",
+                  "datasetid": "document",
+                  "objectid": 157066,
+                  "mime_type": "application\/pdf",
+                  "filename": "laporan penelitian dipa unila 2021 edit(2).pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "eprintid": 36130,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/157066",
+            "rev_number": 1,
+            "mime_type": "application\/pdf",
+            "docid": 157066,
+            "security": "public",
+            "placement": 1,
+            "format": "text"
+          }
+      ]
+    },
+    {
+      "volume": 5,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12842",
+      "type": "article",
+      "issn": "2356-332X",
+      "metadata_visibility": "show",
+      "title": "Bayi Usia 28 Hari dengan Bronkopneumonia",
+      "pagerange": "648-654",
+      "subjects": [
+        "RJ"
+      ],
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash": "72e98146a65207f3ef29a7c6ee1778d6",
+                  "mtime": "2019-05-14 03:17:44",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/113274",
+                  "filesize": 607678,
+                  "fileid": 113274,
+                  "mime_type": "application\/pdf",
+                  "filename": "2128-2847-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 25827
+                }
+            ],
+            "pos": 1,
+            "eprintid": 12842,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25827",
+            "main": "2128-2847-1-PB.pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 25827
+          }
+      ],
+      "publication": "Jurnal Agromedicine",
+      "date": "2018-12-01",
+      "userid": 60,
+      "status_changed": "2019-05-14 08:23:43",
+      "lastmod": "2019-05-14 08:23:43",
+      "eprintid": 12842,
+      "refereed": "TRUE",
+      "number": 2,
+      "official_url": "http:\/\/juke.kedokteran.unila.ac.id\/index.php\/agro\/index",
+      "publisher": "Fakultas Kedokteran Universitas Lampung",
+      "full_text_status": "public",
+      "rev_number": 6,
+      "creators": [
+        {
+          "id": "roro.rukmi@fk.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Roro",
+            "given": "Rukmi W P"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Noviana",
+            "given": "Hartika Sari",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "eprint_status": "archive",
+      "abstract": "Bronkopneumonia adalah suatu infeksi saluran pernafasan akut bagian bawah dari parenkim paru yang melibatkan bronkus atau bronkiolus dan juga mengenai alveolus di sekitarnya. Etiologi penyakit ini disebabkan oleh bakteri, virus, jamur dan benda asing. Pada kasus ini kami melaporkan neonatus berusia 28 hari datang dengan keluhan utama sesak nafas. Keluhan tersebut disertai demam dan batuk. Lima hari sebelumnya pasien mengalami demam tinggi. Demam dirasakan terus menerus dan tidak pernah turun. Batuk yang awalnya kering kemudian menjadi produktif dengan dahak yang sulit untuk dikeluarkan. Batuk memberat saat malam hari. Pasien juga dikatakan nafsu makannya menurun. Dari pemeriksaan fisik didapatkan kesadaran komposmentis, frekuensi nadi 153x\/menit, laju pernapasan 66x\/menit, dan suhu 38,5oC, panjang badan 50 cm, berat badan 4,1 kg, lingkar kepala 39cm, dan saturasi oksigen 86%. Status gizi WAZ 0 s\/d 2 SD, HAZ 0 s\/d 2 SD, WHZ 1 s\/d 2 SD yang memberikan kesan normal. Terdapat retraksi substernal, retraksi interkostal, dan retraksi subcostal, serta ronki basah halus nyaring pada kedua lapang paru. Pada pemeriksaan penunjang darah lengkap didapatkan hasil leukositosis dan pemeriksaan foto toraks didapatkan peningkatan corakan bronkovaskuler bilateral, infiltrat pada suprahiler, perihiler bilateral. Pasien dalam kasus ini didiagnosis bronkopneumonia dan anemia ringan.\r\nKata kunci: bronkopneumoni, demam, leukositosis, ronki, sesak",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/01\/28\/42",
+      "datestamp": "2019-05-14 08:23:43"
+    },
+    {
+      "subjects": [
+        "RJ"
+      ],
+      "pagerange": "181-187",
+      "title": "Overload Cairan pada Anak dengan Nefritis Lupus",
+      "metadata_visibility": "show",
+      "issn": "ISSN 2527-3612",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/12844",
+      "type": "article",
+      "volume": 2,
+      "status_changed": "2019-05-14 08:24:01",
+      "userid": 60,
+      "date": "2018-07-01",
+      "publication": "JURNAL KEDOKTERAN UNIVERSITAS LAMPUNG",
+      "documents": [
+          {
+            "language": "en",
+            "main": "1957-2675-1-PB.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/25828",
+            "files": [
+                {
+                  "filename": "1957-2675-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 25828,
+                  "datasetid": "document",
+                  "hash": "21e4287eb899461f4e5203cfc220cba2",
+                  "mtime": "2019-05-14 03:24:50",
+                  "filesize": 499290,
+                  "fileid": 113284,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/113284"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 12844,
+            "mime_type": "application\/pdf",
+            "docid": 25828,
+            "format": "text",
+            "placement": 1,
+            "security": "public"
+          }
+      ],
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "roro.rukmi@fk.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Rukmi W P",
+            "family": "Roro"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Risti",
+            "given": "Graharti"
+          }
+        }
+      ],
+      "full_text_status": "public",
+      "official_url": "http:\/\/juke.kedokteran.unila.ac.id\/index.php\/JK\/index",
+      "publisher": "FK Unila",
+      "rev_number": 6,
+      "refereed": "TRUE",
+      "number": 2,
+      "eprintid": 12844,
+      "lastmod": "2019-05-14 08:24:01",
+      "dir": "disk0\/00\/01\/28\/44",
+      "datestamp": "2019-05-14 08:24:01",
+      "divisions": [
+        "FK1"
+      ],
+      "ispublished": "pub",
+      "abstract": "Systemic lupus erythematosus (SLE) merupakan kelainan autoimun multisistem dengan karakteristik disregulasi sistem imun, pembentukan autoantibodi dan kompleks imun. Nefritis lupus adalah komplikasi ginjal pada SLE. Penyakit ini ditandai periode remisi dan episode serangan akut dengan gambaran klinis yang beragam dengan berbagai organ yang terlibat. Penyebab kematian pasien dengan SLE onset anak merupakan multifaktorial. Penyebab paling umum meliputi infeksi, gagal ginjal, dan penyakit kardiopulmoner.Pada laporan kasus kematian ini, dilaporkan kasus seorang anak perempuan usia 12 tahun 3 bulan yang menderita nefritis lupus dengan komorbiditas, selama perawatan terjadi overload cairan memperburuk fungsi respirasi serta kontraktilitas jantung. Pada anamnesis didapatkan bahwa 1,5 tahun pertama kali muncul keluhan demam naik turun, pucat, nyeri sendi, bercak merah di telapak tangan, pipi dan dahi, juga didapatkan sariawan di mulut..Keterlibatan mukokutan terjadi pada hampir 90% pasien dengan SLE. Terdapat tiga ruam yang dijelaskan dalam kriteria klasifikasi SLE, termasuk fotosensitivitas. The malar rash atau “butterfly” rash merupakan manifestasi kulit yang umum ditemukan dan merupakan ciri khas dari penyakit ini. Terjadi pada eminensia malar dan melintasi hidung tapi tidak melewati lipatan nasolabial. Dahi dan dagu juga mungkin akan terpengaruh. Ruam dapat muncul sebagai blush atau erupsi makulopapular bersisik dan biasanya tidak gatal. Anamnesis pasien didapatkan bahwa pasien tersebut mengalami adanya bercak kemerahan pada pipi dandahi. Pada perawatan saat ini didapatkan ulkus yang tersebar di mukosa mulut. Kata kunci: anak, komplikasi, nefritis lupus.",
+      "eprint_status": "archive"
+    },
+    {
+      "publication": "MEDULA, medicalprofession journal of lampung university",
+      "date": "2020-10",
+      "documents": [
+          {
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "docid": 40748,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40748",
+            "rev_number": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/240409",
+                  "fileid": 240409,
+                  "filesize": 606930,
+                  "mtime": "2020-11-23 15:39:24",
+                  "hash": "59d7b579c23ead6fd85387a898d45a26",
+                  "datasetid": "document",
+                  "objectid": 40748,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "86-Research-87-1-10-20200919.pdf"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 26767,
+            "language": "en",
+            "main": "86-Research-87-1-10-20200919.pdf"
+          }
+      ],
+      "userid": 60,
+      "status_changed": "2020-11-24 01:26:36",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26767",
+      "type": "article",
+      "issn": "2339-1227",
+      "volume": 10,
+      "subjects": [
+        "RJ"
+      ],
+      "pagerange": "398-403",
+      "metadata_visibility": "show",
+      "title": "Relationship Between Mother Knowledge, Social Culture and Information Of Health Workers in Practice of Giving Early Food With The Incidence of Acute Diarrhea in Infant",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Diarrhea is one of the main causes of illness and death in childhood in developing countries. Diarrhea is caused by various factors one of which is the practice of early giving weaning food. The purpose of this study was to determine the relationship between the factors that influence the practice of giving early weaning food with the incidence of diarrhea in infants aged 0-6 months in Kemiling Health Center. This type of research is analytic observational research with cross sectional design, the sample in this study were all infants aged 0-6 months who sought treatment in Kemiling Health Center in February-March 2018 with consecutive sampling techniques and analyzed using chi square. The results show that there was a significant relationship between mother’s knowledge about early giving weaning food with the incidence of acute diarrhea in infants with a p-value of 0.009 (<α = 0.05), a significant relationship between socio-culture and the provision of early giving weaning food with the incidence of acute diarrhea in infants with a p-value of 0.003 (<α = 0.05 ), and a significant relationship between health care worker information about early giving weaning food and the incidence of acute diarrhea in infants with a p-value of 0.001 (<α = 0.05). There is a significant relationship between mother’s knowledge factor, socio culture factor, and health care worker information factor that influence the practice of early giving weaning food and diarrhea in infants aged 0-6 months at Kemiling Health Center in Bandar Lampung City.",
+      "divisions": [
+        "FK1"
+      ],
+      "datestamp": "2020-11-24 01:26:36",
+      "dir": "disk0\/00\/02\/67\/67",
+      "rev_number": 7,
+      "official_url": "http:\/\/journalofmedula.com",
+      "publisher": "Lakuna",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Salsabila",
+            "given": "Ardhani"
+          }
+        },
+        {
+          "id": "roro.rukmi@fk.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Roro",
+            "given": "Rukmi W P"
+          }
+        },
+        {
+          "name": {
+            "family": "agustyas",
+            "given": "Tjiptaningrum",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "eprintid": 26767,
+      "lastmod": "2020-11-24 01:26:36",
+      "number": 3,
+      "refereed": "TRUE",
+      "date_type": "published"
+    },
+    {
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Agustyas",
+            "family": "Tjiptaningrum"
+          },
+          "id": "tyaskirani@gmail.com"
+        },
+        {
+          "name": {
+            "family": "Timan",
+            "given": "Ina S.",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "full_text_status": "public",
+      "event_dates": "28-30, September 2010",
+      "event_location": "Jakarta",
+      "rev_number": 10,
+      "refereed": "TRUE",
+      "pres_type": "poster",
+      "eprintid": 16741,
+      "lastmod": "2019-11-18 07:21:04",
+      "dir": "disk0\/00\/01\/67\/41",
+      "datestamp": "2019-11-18 07:21:04",
+      "abstract": "Reference Value of Fecal Alpha 1- Antitrypsin Concentration in Children of 1-5 Years Old\r\nA Tjiptaningrum, Ina S Timan\r\nDepartment of Clinical Pathology University of Indonesia, Cipto Mangunkusumo Referral Hospital\r\nIntroduction. Alpha-1 antitrypsin (AAT-1) is 52 kDa glycoprotein and produced primarily by hepatocyte. Its function is blocking of human neutrophil elastase (HNE). Concentration of serum AAT-1 is 2-5 g\/L. Physiologically, it can be found in stool as a result of intestinal cell turn over and paraseluler plasm protein transport by passive diffusion in tight junction. It can be used as marker of protein losing enteropathy because its molecular weight is similar with albumin but its half life time is shorter. In addition, AAT-1 can‟t be destroyed by proteolytic enzyme in intestinal, and not absorbed or secreted actively in intestinal.\r\nThere are different values of fecal AAT-1concentration from several studies. Interpretation of FAAT-1 concentration needs reference value. This can be established by observation quantitavely in normal subject. Nowday, there is no reference value for FAAT- 1 concentration in children with 1-5 years old at Indonesia. This study aimed to establish reference value for FAAT-1 concentration in children with 1-5 years old in Clinical Pathology Departement of RSCM.\r\n77\r\n￼￼￼￼￼Proceedings of the 11th International Congress of ANCLS and the 5th IAHL National Meeting 2010\r\nMaterial and methods. This was a cross-sectional study that was performed at Gastrohepatoenterology division in Clinical Pathology Departement and Pediatric Departement of RSCM from July-November 2007. Stool sample was from children who came in Posyandu at Pasar Minggu. Fecal AAT-1 was examined by ELISA method using α1 antitrypsin ELISA kit from immundiagnostik.\r\nResult. The FAAT-1 concentration in children 1-5 years old has mean 23,83 mg\/dL. The reference value is 23.83 ± 9.63 mg\/dL. There is no different value between male and female children.\r\nConclusion. Reference value of FAAT concentration in children 1-5 years old, using α1 antitrypsin ELISA kit, is 4,56 - 43,10 mg\/dL.\r\nKeywords: Fecal alpha-1antitrypsin, protein losing enteropathy",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "subjects": [
+        "R1",
+        "RB",
+        "RJ"
+      ],
+      "pagerange": "77-78",
+      "title": "Reference Value of Fecal Alpha 1- Antitrypsin Concentration in Children of 1-5 Years Old",
+      "metadata_visibility": "show",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16741",
+      "type": "conference_item",
+      "event_type": "conference",
+      "event_title": "The 11th International Congress of Asian Network for Clinical Laboratory Standardization and Harmonization and the 5th National Meeting of Indonesian Association of Health Laboratory",
+      "status_changed": "2019-11-18 07:21:04",
+      "userid": 280,
+      "date": "2010-09",
+      "documents": [
+          {
+            "main": "2010 ANCLS PROCEEDING FULL FINAL.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "filename": "2010 ANCLS PROCEEDING FULL FINAL.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 29822,
+                  "datasetid": "document",
+                  "hash": "680428d1c2518f0ce9e735a0f1fcfe7b",
+                  "mtime": "2019-11-17 01:39:32",
+                  "filesize": 1566801,
+                  "fileid": 142413,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/142413"
+                }
+            ],
+            "eprintid": 16741,
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29822",
+            "mime_type": "application\/pdf",
+            "docid": 29822,
+            "security": "public",
+            "placement": 1,
+            "format": "text"
+          }
+      ]
+    },
+    {
+      "dir": "disk0\/00\/00\/56\/54",
+      "datestamp": "2017-11-16 06:53:03",
+      "divisions": [
+        "FK1"
+      ],
+      "abstract": "Hipertensi portal adalah peningkatan tekanan vena portal di atas 5 mmHg. Referensi lain menyebutkan tekanan normal\r\nvena portal antara 5-10 mmHg dan apabila lebih dari 12 mmHg terjadi komplikasi seperti varises dan asites. Etiologi\r\nhipertensi portal terdiri prehepatik, hepatik dan pos hepatik. Manifestasi klinis dapat berupa perdarahan gastrointestinal,\r\nsplenomegali, sites, gagal hati (liver failure), dan sistemik portoensefalopati. Tata laksana hipertensi portal terdiri dari\r\npengobatan dengan medikamentosa terutama untuk mencegah perdarahan varises akibat peningkatan tekanan portal,\r\ndapat berupa operatif. Pemeriksaan penunjang yang dilakukan antara lain Pemeriksaan hematologi menentukan adanya\r\ntanda-tanda hipersplenisme anemia, leukopenia dan trombositopenia, waktu protrombin dan faal pembekuan lainnya.\r\nPemeriksaan fungsi hati secara biokimia, gangguan fungsi hati lebih sering didapatkan pada penyebabkan intrahepatik\r\ndibanding prehepatik. Pemeriksaan USG dapat terlihat adanya kolateral dan splenomegali, perubahan echotexture.\r\nSedangkan colour Doppler dapat memberikan informasi kecepatan dan arah vena porta, vena hepatika, dan vena cava.\r\nEndoskopi gastrointestinal dapat digunakan untuk melihat gambaran mukosa seperti gastropati dan varises. CT dan MRI\r\ndapat digunakan untuk evaluasi lesi fokal, derajat obstruksi vena dan keadaan parenkim liver. Biopsi liver per kutan\r\ndilakukan bila tidak ada kontra indikasi terutama untuk mengetahui penyebab intrahepatik.\r\nPengobatan medikamentosa terdiri dari short acting splanchnic vasoactive agents, growth hormone inhibitor factor,\r\nvasokonstriktor, long acting splanchnic vasoactive agents, beta-adrenergik vasoactive agents, alpha –adrenergik receptors\r\nblockers, 5HT receptor antagonis, nitrovasodilator, diuretics.\r\nKata kunci : hepatik, hipertensi portal, poshepatik, prehepatik",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "number": 3,
+      "refereed": "TRUE",
+      "lastmod": "2017-11-16 06:53:03",
+      "eprintid": 5654,
+      "creators": [
+        {
+          "id": "rororwp@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Roro Rukmi",
+            "family": "Windi Perdani"
+          }
+        }
+      ],
+      "rev_number": 6,
+      "publisher": "Fakultas Kedokteran Universitas Lampung",
+      "full_text_status": "public",
+      "status_changed": "2017-11-16 06:53:03",
+      "userid": 60,
+      "documents": [
+          {
+            "language": "en",
+            "main": "1728-2437-1-PB.pdf",
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18599",
+            "files": [
+                {
+                  "filesize": 1169519,
+                  "fileid": 52995,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/52995",
+                  "hash": "e0b0715bcd858852f45eff9bc7cab62f",
+                  "mtime": "2017-11-16 04:07:21",
+                  "objectid": 18599,
+                  "datasetid": "document",
+                  "filename": "1728-2437-1-PB.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "eprintid": 5654,
+            "pos": 1,
+            "mime_type": "application\/pdf",
+            "docid": 18599,
+            "format": "text",
+            "security": "public",
+            "placement": 1
+          }
+      ],
+      "date": 2017,
+      "publication": "Jurnal Kedokteran dan Kesehatan Universitas Lampung",
+      "related_url": [
+        {
+          "url": "http:\/\/juke.kedokteran.unila.ac.id\/index.php\/JK\/article\/view\/1728\/1684"
+        }
+      ],
+      "title": "Hipertensi Porta pada Anak",
+      "metadata_visibility": "show",
+      "subjects": [
+        "RJ"
+      ],
+      "pagerange": "603-611",
+      "volume": 1,
+      "issn": "2088-9348",
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5654"
+    }
+]
+

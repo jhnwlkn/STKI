@@ -1,0 +1,1436 @@
+[
+    {
+      "userid": 5092,
+      "status_changed": "2023-01-04 06:11:47",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186679",
+            "rev_number": 1,
+            "pos": 1,
+            "eprintid": 47607,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "Buku Model Desain Pembelajaran.pdf",
+                  "datasetid": "document",
+                  "objectid": 186679,
+                  "mtime": "2023-01-04 03:59:02",
+                  "hash": "68e5bfc27db3aaed1b8b7ab39896fa7b",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/521701",
+                  "fileid": 521701,
+                  "filesize": 3522486
+                }
+            ],
+            "language": "en",
+            "main": "Buku Model Desain Pembelajaran.pdf",
+            "format": "text",
+            "placement": 1,
+            "security": "public",
+            "docid": 186679,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "place_of_pub": "Bandar Lampung",
+      "pages": 74,
+      "date": "2022-12",
+      "metadata_visibility": "show",
+      "title": "MODEL DESAIN PEMBELAJARAN",
+      "subjects": [
+        "L1",
+        "LT"
+      ],
+      "type": "book",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47607",
+      "isbn": "978-623-418-141-8",
+      "divisions": [
+        "FKIP18"
+      ],
+      "datestamp": "2023-01-04 06:11:47",
+      "dir": "disk0_bak\/00\/04\/76\/07",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Buku ini menyajikan berbagai teori model desain pembelajaran yang mudah dipahami oleh guru dan calon guru sehingga dapat membantu guru dan calon guru dalam merancang dan mempersiapkan pembelajaran. Penulisa menyajikan pula informasi secara lengkap tentang beberapa model desain pembelajaran secara sistematis dan mudah dipahami, mulai dari konsep model desain pembelajaran, sejarah munculnya model desain pembelajaran, langkah-langkah dalam merancang model desain pembelajaran, serta kelebihan dan kekurangan model desain pembelajaran.\r\nDalam buku ini, penulis menyajikan berbagai Model Desain Pembelajaran, antara lain; (1) Dick And Carrey, (2) ADDIE, (3) ASSURE, (4) Kemp, (5) Hanafin & Peck, (6) IDI, (7) ILDF, (8) PPSI.",
+      "date_type": "published",
+      "lastmod": "2023-01-04 06:11:47",
+      "eprintid": 47607,
+      "refereed": "TRUE",
+      "publisher": "Pusaka Media",
+      "full_text_status": "public",
+      "rev_number": 10,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Dian Utami",
+            "given": "Mrs"
+          },
+          "id": "dian.utami@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Sri Utami",
+            "family": "Rahma Kurnia"
+          },
+          "id": "rahma.kurnia@fkip.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "status_changed": "2023-02-01 01:43:52",
+      "userid": 3045,
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 187498,
+            "files": [
+                {
+                  "fileid": 527045,
+                  "filesize": 2831388,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/527045",
+                  "hash": "1ccb66ee8b7dbcf055261f65b6685261",
+                  "mtime": "2023-01-31 12:04:53",
+                  "objectid": 187498,
+                  "datasetid": "document",
+                  "filename": "A5_BUKU AJAR INTEGRASI NASIONAL REVISI.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 48231,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187498",
+            "main": "A5_BUKU AJAR INTEGRASI NASIONAL REVISI.pdf",
+            "language": "en"
+          }
+      ],
+      "date": "2022-11",
+      "place_of_pub": "Palembang",
+      "title": "Buku Ajar Integrasi Nasional",
+      "metadata_visibility": "show",
+      "subjects": [
+        "H1",
+        "L1",
+        "LT"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48231",
+      "type": "book",
+      "dir": "disk0_bak\/00\/04\/82\/31",
+      "datestamp": "2023-02-01 01:43:52",
+      "divisions": [
+        "FKIP12"
+      ],
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "refereed": "TRUE",
+      "eprintid": 48231,
+      "lastmod": "2023-02-01 01:43:52",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Emil El",
+            "family": "Faisal",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Jaenudin",
+            "given": "Riswan"
+          }
+        },
+        {
+          "name": {
+            "family": "Sulkipani",
+            "given": "Sulkipani",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "ana.mentari@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Ana",
+            "family": "Mentari"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Camellia",
+            "given": "Camellia"
+          }
+        }
+      ],
+      "full_text_status": "public",
+      "publisher": "Bening Media Publishing",
+      "rev_number": 10
+    },
+    {
+      "pages": 156,
+      "documents": [
+          {
+            "main": "aproval ke-2 Paragraph Writing for Academic.pdf",
+            "language": "en",
+            "files": [
+                {
+                  "hash": "6669a7c3d92f87a0d2ad36494faebdeb",
+                  "mtime": "2017-11-14 03:35:38",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/51305",
+                  "fileid": 51305,
+                  "filesize": 1055587,
+                  "mime_type": "application\/pdf",
+                  "filename": "aproval ke-2 Paragraph Writing for Academic.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 18389
+                }
+            ],
+            "eprintid": 5449,
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18389",
+            "mime_type": "application\/pdf",
+            "docid": 18389,
+            "security": "public",
+            "placement": 1,
+            "format": "text"
+          }
+      ],
+      "userid": 754,
+      "status_changed": "2017-11-14 03:42:51",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5449",
+      "type": "book",
+      "subjects": [
+        "LT"
+      ],
+      "metadata_visibility": "show",
+      "title": "Paragraph Writing for Academic Courses",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "divisions": [
+        "FKIP1"
+      ],
+      "dir": "disk0\/00\/00\/54\/49",
+      "datestamp": "2017-11-14 03:42:51",
+      "isbn": 9786022624585,
+      "full_text_status": "public",
+      "publisher": "Graha Ilmu",
+      "rev_number": 7,
+      "creators": [
+        {
+          "id": "basturi_hasan@yahoo.com",
+          "name": {
+            "family": "Hasan",
+            "given": "Basturi",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "eprintid": 5449,
+      "lastmod": "2017-11-14 03:42:51",
+      "refereed": "TRUE"
+    },
+    {
+      "dir": "disk0\/00\/00\/54\/50",
+      "datestamp": "2017-11-16 08:08:23",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "lastmod": "2017-11-16 08:08:23",
+      "eprintid": 5450,
+      "refereed": "TRUE",
+      "publisher": "Graha Ilmu",
+      "rev_number": 9,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "basturihasan@gmail.com",
+          "name": {
+            "given": "Basturi",
+            "family": "Hasan",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "userid": 754,
+      "status_changed": "2017-11-16 08:08:23",
+      "documents": [
+          {
+            "main": "buku_pak_bas.pdf",
+            "language": "en",
+            "pos": 1,
+            "eprintid": 5450,
+            "files": [
+                {
+                  "objectid": 18395,
+                  "datasetid": "document",
+                  "hash_type": "MD5",
+                  "filename": "buku_pak_bas.pdf",
+                  "mime_type": "application\/pdf",
+                  "fileid": 51368,
+                  "filesize": 1657222,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/51368",
+                  "mtime": "2017-11-14 03:59:26",
+                  "hash": "dc5f824d913cea09cd720c2614444d14"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18395",
+            "docid": 18395,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "format": "text"
+          }
+      ],
+      "metadata_visibility": "show",
+      "title": "Refining Sentence Writing Skills for Professional and Academic Purposes",
+      "subjects": [
+        "LT"
+      ],
+      "type": "book",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5450"
+    },
+    {
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/9916",
+      "issn": "2615-1642",
+      "volume": 2,
+      "subjects": [
+        "L1",
+        "LT",
+        "M1"
+      ],
+      "pagerange": "1-87",
+      "keywords": "Budaya Lokal, Fun Learning, Gamolan, Rolling Group",
+      "metadata_visibility": "show",
+      "title": "Program Pelatihan Gamolan Anak Daerah",
+      "publication": "POLA GANDA (PROGRAM PELATIHAN GAMOLAN ANAK DAERAH) SEBAGAI UPAYA TERWUJUDNYA GENERASI BERWAWASAN BUDAYA DI SDN 2 SULUSUBAN LAMPUNG TENGAH",
+      "date": "2018-06-01",
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 93380,
+                  "filesize": 830488,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/93380",
+                  "hash": "b2a0a2efa2788d660718e10d5313f716",
+                  "mtime": "2018-11-14 08:55:33",
+                  "objectid": 22925,
+                  "datasetid": "document",
+                  "filename": "JURNAL SENI 2018----.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "pos": 1,
+            "eprintid": 9916,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/22925",
+            "rev_number": 2,
+            "main": "JURNAL SENI 2018----.pdf",
+            "language": "id",
+            "security": "public",
+            "content": "published",
+            "placement": 1,
+            "formatdesc": "JURNAL SENI",
+            "format": "text",
+            "mime_type": "application\/pdf",
+            "docid": 22925
+          }
+      ],
+      "userid": 129,
+      "status_changed": "2018-11-14 09:53:44",
+      "publisher": "Jurnal Warna",
+      "rev_number": 14,
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "hasyimkan@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hasyim",
+            "given": "kan"
+          }
+        },
+        {
+          "id": "hasyimkan@gmail.com",
+          "name": {
+            "family": "Endah",
+            "given": "Cahyani",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Arum",
+            "given": "Sage Cani",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "hasyimkan@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Pratiwi",
+            "family": "Decgrist"
+          },
+          "id": "hasyimkan@gmail.com"
+        },
+        {
+          "id": "hasyimkan@gmail.com",
+          "name": {
+            "family": "Ilham",
+            "given": "Sanjaya",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": "hasyimkan@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Nuzulika",
+            "family": "Lufia"
+          }
+        }
+      ],
+      "contact_email": "hasyimkan@gmail.com",
+      "eprintid": 9916,
+      "lastmod": "2018-11-14 09:53:44",
+      "number": 1,
+      "refereed": "TRUE",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Kegiatan pengabdian Pola Ganda (Program Pelatihan Gamolan Anak Daerah) dilatarbelakangi dari pemikiran bahwa perlu adanya pengenalan dan pengembangan alat musik Gamolan di SD Negeri 2 Sulusuban. Hal tersebut dikarenakan Gamolan yang merupakan salah satu kebanggaan masyarakat Lampung memperlihatkan fakta yang cukup ironi, karena pada kenyataannya sebagian besar masyarakat Lampung khususnya di Desa Sulusuban Kabupaten Lampung Tengah belum mengetahui alat musik tersebut. Dengan harapan bahwa melalui pengabdian  ini dapat meluruskan pengertian yang keliru di masyarakat sekaligus sebagai upaya pelestarian, perlindungan, pengembangan dan pemanfaatan Gamolan, serta bertujuan untuk mengefektifkan Pola Ganda dalam mewujudkan generasi berwawasan budaya sekaligus mampu menjadi pertimbangan dan memberi semangat pemerintah untuk lebih melestarikan budaya lokal. Pengabdian Pola Ganda dilakukan dengan cara memberikan pembelajaran mengenai sejarah dan pembuatan Gamolan serta pelatihan secara intensif beberapa tabuhan Gamolan yang dikolaborasikan dengan Rebana dan Gong kepada siswa yang tergabung dalam komunitas Muli-Meranai Gamolan serta dewan guru SD Negeri 2 Sulusuban. Proses pelatihan menggunakan metode Rolling Group dan pembelajaran yang bersifat fun learning.",
+      "contributors": [
+        {
+          "id": "hasyimkan@gmail.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Hasyim",
+            "given": "kan"
+          }
+        }
+      ],
+      "divisions": [
+        "FKIP25"
+      ],
+      "dir": "disk0\/00\/00\/99\/16",
+      "datestamp": "2018-11-14 09:53:44"
+    },
+    {
+      "pagerange": "1-87",
+      "subjects": [
+        "AC",
+        "LT"
+      ],
+      "metadata_visibility": "show",
+      "title": "POLA GANDA (PROGRAM PELATIHAN GAMOLAN ANAK DAERAH) SEBAGAI UPAYA TERWUJUDNYA GENERASI BERWAWASAN BUDAYA DI SDN 2 SULUSUBAN LAMPUNG TENGAH",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/9891",
+      "type": "conference_item",
+      "event_type": "workshop",
+      "userid": 129,
+      "event_title": "POLA GANDA (PROGRAM PELATIHAN GAMOLAN ANAK DAERAH) SEBAGAI UPAYA TERWUJUDNYA GENERASI BERWAWASAN BUDAYA DI SDN 2 SULUSUBAN LAMPUNG TENGAH",
+      "status_changed": "2019-01-02 07:59:50",
+      "date": "2018-06-01",
+      "documents": [
+          {
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "docid": 23427,
+            "mime_type": "application\/pdf",
+            "eprintid": 9891,
+            "pos": 1,
+            "files": [
+                {
+                  "objectid": 23427,
+                  "datasetid": "document",
+                  "filename": "JURNAL SENI 2018----.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "filesize": 830488,
+                  "fileid": 96792,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/96792",
+                  "hash": "b2a0a2efa2788d660718e10d5313f716",
+                  "mtime": "2018-11-26 13:06:38"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23427",
+            "rev_number": 1,
+            "main": "JURNAL SENI 2018----.pdf",
+            "language": "en"
+          }
+      ],
+      "date_type": "published",
+      "full_text_status": "public",
+      "event_location": "SDN 2 SULUSUBAN LAMPUNG TENGAH",
+      "rev_number": 8,
+      "creators": [
+        {
+          "id": "hasyimkan@gmail.com",
+          "name": {
+            "family": "Hasyimkan",
+            "given": "Hasyimkan",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Cahyani",
+            "family": "Endah"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Sage Cani",
+            "family": "Arum"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Decgrist",
+            "given": "Pratiwi"
+          }
+        },
+        {
+          "name": {
+            "family": "Ilham",
+            "given": "Sanjaya",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Lufia",
+            "given": "Nuzulika"
+          },
+          "id": null
+        }
+      ],
+      "eprintid": 9891,
+      "contact_email": "hasyimkan@gmail.com",
+      "lastmod": "2019-01-02 07:59:50",
+      "pres_type": "paper",
+      "refereed": "TRUE",
+      "divisions": [
+        "FKIP25"
+      ],
+      "dir": "disk0\/00\/00\/98\/91",
+      "datestamp": "2019-01-02 07:59:50",
+      "eprint_status": "archive",
+      "abstract": "Kegiatan pengabdian Pola Ganda (Program Pelatihan Gamolan Anak Daerah) dilatarbelakangi dari pemikiran bahwa perlu adanya pengenalan dan pengembangan alat musik Gamolan di SD Negeri 2 Sulusuban. Hal tersebut dikarenakan Gamolan yang merupakan salah satu kebanggaan masyarakat Lampung memperlihatkan fakta yang cukup ironi, karena pada kenyataannya sebagian besar masyarakat Lampung khususnya di Desa Sulusuban Kabupaten Lampung Tengah belum mengetahui alat musik tersebut. Dengan harapan bahwa melalui pengabdian ini dapat meluruskan pengertian yang keliru di masyarakat sekaligus sebagai upaya pelestarian, perlindungan, pengembangan dan pemanfaatan Gamolan, serta bertujuan untuk mengefektifkan Pola Ganda dalam mewujudkan generasi berwawasan budaya sekaligus mampu menjadi pertimbangan dan memberi semangat pemerintah untuk lebih melestarikan budaya lokal. Pengabdian Pola Ganda dilakukan dengan cara memberikan pembelajaran mengenai sejarah dan pembuatan Gamolan serta pelatihan secara intensif beberapa tabuhan Gamolan yang dikolaborasikan dengan Rebana dan Gong kepada siswa yang tergabung dalam komunitas Muli-Meranai Gamolan serta dewan guru SD Negeri 2 Sulusuban. Proses pelatihan menggunakan metode Rolling Group dan pembelajaran yang bersifat fun learning.",
+      "ispublished": "pub"
+    },
+    {
+      "datestamp": "2019-01-02 08:00:37",
+      "dir": "disk0\/00\/01\/04\/05",
+      "ispublished": "pub",
+      "abstract": "Kegiatan pengabdian Pola Ganda (Program Pelatihan Gamolan Anak Daerah) dilatarbelakangi dari pemikiran bahwa perlu adanya pengenalan dan pengembangan alat musik Gamolan di SD Negeri 2 Sulusuban. Hal tersebut dikarenakan Gamolan yang merupakan salah satu kebanggaan masyarakat Lampung memperlihatkan fakta yang cukup ironi, karena pada kenyataannya sebagian besar masyarakat Lampung khususnya di Desa Sulusuban Kabupaten Lampung Tengah belum mengetahui alat musik tersebut. Dengan harapan bahwa melalui pengabdian ini dapat meluruskan pengertian yang keliru di masyarakat sekaligus sebagai upaya pelestarian, perlindungan, pengembangan dan pemanfaatan Gamolan, serta bertujuan untuk mengefektifkan Pola Ganda dalam mewujudkan generasi berwawasan budaya sekaligus mampu menjadi pertimbangan dan memberi semangat pemerintah untuk lebih melestarikan budaya lokal. Pengabdian Pola Ganda dilakukan dengan cara memberikan pembelajaran mengenai sejarah dan pembuatan Gamolan serta pelatihan secara intensif beberapa tabuhan Gamolan yang dikolaborasikan dengan Rebana dan Gong kepada siswa yang tergabung dalam komunitas Muli-Meranai Gamolan serta dewan guru SD Negeri 2 Sulusuban. Proses pelatihan menggunakan metode Rolling Group dan pembelajaran yang bersifat fun learning.",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "pres_type": "paper",
+      "refereed": "TRUE",
+      "lastmod": "2019-01-02 08:00:37",
+      "eprintid": 10405,
+      "creators": [
+        {
+          "id": "hasyimkan@gmail.com",
+          "name": {
+            "given": "Hasyimkan",
+            "family": "Hasyimkan",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Endah",
+            "given": "Cahyani",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Sage Cani",
+            "family": "Arum",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Pratiwi",
+            "family": "Decgrist"
+          }
+        },
+        {
+          "name": {
+            "family": "Ilham",
+            "given": "Sanjaya",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Nuzulika",
+            "family": "Lufia"
+          },
+          "id": null
+        }
+      ],
+      "full_text_status": "public",
+      "event_location": "SDN 2 SULUSUBAN LAMPUNG TENGAH",
+      "rev_number": 10,
+      "status_changed": "2019-01-02 08:00:37",
+      "event_title": "POLA GANDA (PROGRAM PELATIHAN GAMOLAN ANAK DAERAH) SEBAGAI UPAYA TERWUJUDNYA GENERASI BERWAWASAN BUDAYA DI SDN 2 SULUSUBAN LAMPUNG TENGAH,",
+      "userid": 129,
+      "documents": [
+          {
+            "pos": 1,
+            "eprintid": 10405,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "JURNAL SENI 2018----.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 23426,
+                  "hash": "b2a0a2efa2788d660718e10d5313f716",
+                  "mtime": "2018-11-26 12:51:14",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/96783",
+                  "filesize": 830488,
+                  "fileid": 96783
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23426",
+            "main": "JURNAL SENI 2018----.pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 23426,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "date": "2018-06-01",
+      "title": "POLA GANDA (PROGRAM PELATIHAN GAMOLAN ANAK DAERAH) SEBAGAI UPAYA TERWUJUDNYA GENERASI BERWAWASAN BUDAYA DI SDN 2 SULUSUBAN LAMPUNG TENGAH,",
+      "metadata_visibility": "show",
+      "pagerange": "1-87",
+      "subjects": [
+        "AC",
+        "LT"
+      ],
+      "event_type": "workshop",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10405",
+      "type": "conference_item"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7793",
+      "type": "book",
+      "editors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Mahpul",
+            "given": "Mahpul"
+          },
+          "id": "mahpu_mahpul@yahoo.com"
+        }
+      ],
+      "title": "Basic Understanding of Translation: Theoretical and Practical Points of View",
+      "metadata_visibility": "show",
+      "subjects": [
+        "LT"
+      ],
+      "documents": [
+          {
+            "docid": 20828,
+            "mime_type": "image\/jpeg",
+            "placement": 1,
+            "content": "published",
+            "security": "public",
+            "format": "image",
+            "main": "1 cover buku.jpg",
+            "language": "en",
+            "eprintid": 7793,
+            "pos": 1,
+            "files": [
+                {
+                  "hash": "0dd24b475c2723fcd88a4ef1b8681842",
+                  "mtime": "2018-06-26 02:16:09",
+                  "fileid": 69713,
+                  "filesize": 2532538,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/69713",
+                  "filename": "1 cover buku.jpg",
+                  "hash_type": "MD5",
+                  "mime_type": "image\/jpeg",
+                  "objectid": 20828,
+                  "datasetid": "document"
+                }
+            ],
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20828"
+          }
+      ],
+      "pages": 94,
+      "date": "2017-08-31",
+      "status_changed": "2018-06-26 02:51:29",
+      "userid": 1177,
+      "refereed": "TRUE",
+      "eprintid": 7793,
+      "contact_email": "gputrawan08@gmail.com",
+      "lastmod": "2018-06-26 02:51:29",
+      "creators": [
+        {
+          "name": {
+            "given": "GEDE EKA",
+            "family": "PUTRAWAN",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "gputrawan08@gmail.com"
+        }
+      ],
+      "publisher": "Graha Ilmu",
+      "official_url": "http:\/\/grahailmu.id\/penulis\/gede-eka-putrawan\/?orderby=date",
+      "rev_number": 11,
+      "full_text_status": "public",
+      "date_type": "published",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "isbn": 9786022625858,
+      "dir": "disk0\/00\/00\/77\/93",
+      "datestamp": "2018-06-26 02:51:29",
+      "divisions": [
+        "FKIP1"
+      ]
+    },
+    {
+      "divisions": [
+        "FKIP1"
+      ],
+      "dir": "disk0\/00\/02\/02\/64",
+      "datestamp": "2020-05-22 02:50:32",
+      "isbn": 9786020738291,
+      "eprint_status": "archive",
+      "abstract": "Buku Grammar First: Menguasai 12 Tenses Dasar Bahasa Inggris ini memberikan pemaparan dasar struktur tenses Bahasa Inggris yang sangat penting bagi para pemelajar sebagai modal dan pondasi awal untuk menuju penguasaan struktur gramatika Bahasa Inggris lanjut yang ditulis dalam Bahasa Indonesia yang singkat, jelas, dan non-teknis. Selain itu, buku ini juga disertai dengan supplementary information penting yang meliputi irregular verbs, Yes\/No questions dan question words (wh-questions), alphabet, numbers, greetings, telling time, bentuk be, tongue twister (pembelit lidah), dan cara pembentukan kalimat dalam bahasa Inggris.",
+      "ispublished": "pub",
+      "date_type": "published",
+      "publisher": "CV. Rumahkayu Pustaka Utama",
+      "full_text_status": "public",
+      "rev_number": 9,
+      "creators": [
+        {
+          "name": {
+            "given": "GEDE EKA",
+            "family": "PUTRAWAN",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "gputrawan08@gmail.com"
+        }
+      ],
+      "lastmod": "2020-05-22 02:50:32",
+      "eprintid": 20264,
+      "refereed": "TRUE",
+      "userid": 1177,
+      "status_changed": "2020-05-22 02:50:32",
+      "pages": 184,
+      "date": "2019-12",
+      "documents": [
+          {
+            "main": "grammar first.pdf",
+            "language": "en",
+            "eprintid": 20264,
+            "pos": 1,
+            "files": [
+                {
+                  "hash": "378351b2451e8a656328b5110cca934e",
+                  "mtime": "2020-05-20 12:56:41",
+                  "filesize": 585723,
+                  "fileid": 190902,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/190902",
+                  "filename": "grammar first.pdf",
+                  "hash_type": "MD5",
+                  "mime_type": "application\/pdf",
+                  "objectid": 33603,
+                  "datasetid": "document"
+                }
+            ],
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33603",
+            "docid": 33603,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "content": "published",
+            "placement": 1,
+            "format": "text"
+          }
+      ],
+      "subjects": [
+        "L1",
+        "LT"
+      ],
+      "metadata_visibility": "show",
+      "title": "Grammar first: Menguasai 12 tenses dasar bahasa Inggris",
+      "related_url": [
+        {
+          "url": "https:\/\/isbn.perpusnas.go.id\/Account\/SearchAdv?searchCat=Pengarang&searchTxt=gede+eka+putrawan"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20264",
+      "type": "book"
+    },
+    {
+      "metadata_visibility": "show",
+      "title": "Essentials of English: Pemahaman Dasar Kelas Kata dan Tenses Bahasa Inggris",
+      "subjects": [
+        "L1",
+        "LT",
+        "PE"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10532",
+      "type": "book",
+      "userid": 1177,
+      "referencetext": "Azar, Betty Schrampfer. 1993. Fundamentals of English Grammar 2nd Edition. Jakarta: Binarupa Aksara\r\n\r\n__________________. 1999. Understanding and Using English Grammar 3rd Edition. New York: Longman\r\n\r\nHewings, Martin. 2001. Advanced Grammar in Use: A Self-study Reference and Practice Book for Advanced Learners of English 2nd Edition. Jakarta: Penerbit Erlangga\r\n\r\nMurphy, Raymond. 1994. English Grammar in Use: A Reference and Practice Book for Intermediate Students 2nd Edition. Cambridge: Cambridge University Press\r\n\r\nPurlan, Matt. 2004. Big Grammar Book. UK: English Banana.com\r\n\r\nSurjadi H, John et.al. 1986. ABC English Grammar. Surabaya: Penerbit Indah",
+      "status_changed": "2019-01-29 04:17:42",
+      "documents": [
+          {
+            "eprintid": 10532,
+            "pos": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 23549,
+                  "mime_type": "application\/pdf",
+                  "filename": "Buku Essentials_of_English_2018.pdf",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/97703",
+                  "fileid": 97703,
+                  "filesize": 222675,
+                  "hash": "9e77cb8f7d37682029c448212d526a50",
+                  "mtime": "2019-01-09 14:20:08"
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23549",
+            "main": "Buku Essentials_of_English_2018.pdf",
+            "language": "en",
+            "placement": 1,
+            "security": "public",
+            "format": "text",
+            "docid": 23549,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "place_of_pub": 2018,
+      "pages": 112,
+      "date": 2018,
+      "date_type": "published",
+      "lastmod": "2019-01-29 04:17:42",
+      "contact_email": "gputrawan08@gmail.com",
+      "eprintid": 10532,
+      "refereed": "TRUE",
+      "rev_number": 10,
+      "publisher": "Graha Ilmu",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "id": "gputrawan08@gmail.com",
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "GEDE EKA",
+            "family": "PUTRAWAN"
+          }
+        },
+        {
+          "name": {
+            "given": "Ari",
+            "family": "Nurweni",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "nurweniari@gmail.com"
+        }
+      ],
+      "isbn": "978-602-262-841-5",
+      "divisions": [
+        "FKIP1"
+      ],
+      "datestamp": "2019-01-29 04:17:42",
+      "dir": "disk0\/00\/01\/05\/32",
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Mempelajari dan memahami struktur gramatika Bahasa Inggris merupakan suatu keharusan bagi mahasiswa atau siapapun yang ingin menguasai bahasa tersebut.  Mempelajarinya tidaklah sulit karena bahasa ini memiliki pola yang sangat baik. Buku Essentials of English: Pemahaman Dasar Kelas Kata dan Tenses Bahasa Inggris ini memberikan pemaparan dasar kelas kata atau parts of speech dan struktur tenses Bahasa Inggris yang sangat penting bagi para pemelajar sebagai modal dasar dan pondasi awal untuk menuju penguasaan struktur gramatika Bahasa Inggris selanjutnya yang ditulis dalam Bahasa Indonesia yang singkat, jelas, dan non-teknis. \r\n\r\nBuku ini merupakan salah satu buku pegangan dalam mata kuliah Basic Structure di tingkat perguruan tinggi yang bertujuan agar mahasiswa mampu menguasai tata bahasa Inggris dan mampu menerapkan tata bahasa Inggris tingkat dasar dalam berkomunikasi lisan dan tulisan dengan cara mahasiswa mengkaji jenis-jenis kata atau parts of speech, berlatih mengidentifikasi unsur-unsur kalimat dalam berbagai jenis kalimat, mengkaji berbagai tense, berlatih mengidentifikasi berbagai tense, berlatih memproduksi kalimat lisan dan tulis dengan menggunakan berbagai bentuk dan jenis frasa, berlatih memproduksi kalimat lisan dan tulisan dengan menggunakan berbagai bentuk dan jenis klausa, dan berlatih memproduksi kalimat lisan dan tulis dengan menggunakan berbagai tense. \r\nSelain itu, buku Essentials of English: Pemahaman Dasar Kelas Kata dan Tenses Bahasa Inggris ini dapat digunakan oleh siapapun (siswa, mahasiswa, guru, akademisi, dan umum) yang tertarik memahami dan menguasai kelas kata atau parts of speech dan struktur tenses Bahasa Inggris. Dasar yang harus terlebih dahulu dipahami dan dikuasai sebagai pondasi awal dalam menguasai Bahasa Inggris yang dijelaskan dalam buku ini meliputi sembilan bentuk parts of speech dan delapan bentuk tenses untuk menunjukkan waktu terjadinya suatu kejadian atau peristiwa (waktu lampau, waktu sekarang, dan waktu yang akan datang) dan cara penggunaannya. \r\n\r\nDengan memberikan pemaparan dasar mengenai kelas kata atau parts of speech struktur tenses Bahasa Inggris, maka diharapkan buku ini mampu mengisi kekosongan diantara sumber-sumber ilmu pengetahuan Bahasa Inggris yang telah ada dan tersedia. \r\n\r\nBuku ini merupakan edisi pertama sehingga buku ini masih jauh dari sempurna. Oleh karena itu, kritik dan saran yang membangun dari para pembaca sangat diharapkan demi perbaikan buku ini pada edisi mendatang."
+    },
+    {
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "abstract": "Buku Model Pembelajaran Sentra (Implementasi di Lembaga PAUD ini dimaksudkan untuk memberikan sumber bacaan alternatif bagi para guru dan atau calon guru dalam merancang pembelajaran yang inovatif dan model pembelajaran sentra dapat dijadikan sebagai pilihan yang tepat dalam memberikan stimulasi yang sesuai dengan minat dan bakat anak usia dini.",
+      "isbn": "978-623-5334-14-1",
+      "divisions": [
+        "FKIP23"
+      ],
+      "datestamp": "2023-05-15 06:48:11",
+      "dir": "disk0_bak\/00\/05\/16\/44",
+      "eprintid": 51644,
+      "lastmod": "2023-05-15 06:48:11",
+      "refereed": "TRUE",
+      "official_url": "http:\/\/grahailmu.id\/media-akademi\/produk\/model-pembelajaran-sentra-implementasi-di-lembaga-pendidikan-anak-usia-dini\/",
+      "rev_number": 20,
+      "publisher": "Media Akademia",
+      "full_text_status": "public",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Oktaria",
+            "family": "Renti"
+          },
+          "id": "renti.oktaria@fkip.unila.ac.id"
+        }
+      ],
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/249625",
+            "rev_number": 1,
+            "pos": 2,
+            "eprintid": 51644,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/611826",
+                  "filesize": 3191362,
+                  "fileid": 611826,
+                  "hash": "64080052e290b0406604de74ef55309b",
+                  "mtime": "2023-05-15 04:53:06",
+                  "datasetid": "document",
+                  "objectid": 249625,
+                  "mime_type": "application\/pdf",
+                  "filename": "MODEL PEMBELAJARAN SENTRAC-hal cov sd romawi_3.pdf",
+                  "hash_type": "MD5"
+                }
+            ],
+            "language": "en",
+            "main": "MODEL PEMBELAJARAN SENTRAC-hal cov sd romawi_3.pdf",
+            "format": "text",
+            "security": "public",
+            "placement": 2,
+            "docid": 249625,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "place_of_pub": "Yogyakarta",
+      "date": "2022-07",
+      "pages": 70,
+      "userid": 2785,
+      "status_changed": "2023-05-15 06:48:11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51644",
+      "type": "book",
+      "metadata_visibility": "show",
+      "title": "Model Pembelajaran Sentra: Implementasi di Lembaga Pendidikan Anak Usia Dini",
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LB2361",
+        "LT"
+      ]
+    },
+    {
+      "dir": "disk0_bak\/00\/05\/02\/29",
+      "datestamp": "2023-04-11 07:51:20",
+      "divisions": [
+        "FKIP2"
+      ],
+      "isbn": "978-623-97050-5-3",
+      "abstract": "Psikologi pendidikan merupakan sebuah kajian psikologi yang diaplikasikan dalam proses pendidikan, terutama dalam proses pembelajaran termasuk segala yang terlibat dalam proses pembelajaran, upaya memaksimalkan proses pendidikan sesuai dengan tujuan pendidikan, baik tujuan pendidikan nasional, pendidikan institusional maupun instruksional. \r\nPsikologi pendidikan membahas tentang siswa selaku peserta didik dengan berbagai macam karkater dalam proses belajar dan guru sebagai pengajar. Tujuan dan fungsi psikologi pendidikan secara umum ialah untuk mengetahui proses interaksi belajar anak dalam kesaharian dan meningkatkan dan mengembangkan serta metode pelajaran dalam situasi tertentu yang sesuai dengan tingkat usia dalam limgkungan pendidikan. \r\nTujuan psikologi pendidikan adalah untuk mempelajari tingkah laku manusia, bagaimana tingkah laku itu tercipta dan bagaimana tingkah laku itu diubah melalui proses pendidikan. Tujuan psikologi pendidikan yaitu untuk menemukan berbagai fakta, generalisasai yang berkaitan dengan pendidikan untuk digunakan dalam melaksanakan proses pembelajran dan pendidikan yang efektif dan efisien. Mempelajari psikologi pendidikan tidak serta merta menjadikan pendidik, calon pendidik menjadi pendidik yang baik. (Mochamad Nursalim, dkk. 2007). Akan tetapi dengan mempelajari psikologi pendidikan pendidik dapat (a) memahami karakteristik peserta didik, (b) pemahaman karakteristik proses belajar mengajar, dan (c) memahami lingkungan sekitar peserta didik untuk dimanfaatkan dalam peningkatan proses dan hasil belajar, sehingga dapat memberikan prinsip-prinsip untuk digunakan dalam membuat keputusan dalam proses pendidikan Psikologi pendidikan memberikan gambaran dan penerapan tentang pengalama-npengalaman belajar seoarang individu sejak dilahirkan sampai usia tua, sehingga pendidik dengan mudah memahami karakter, bakat dan minat peserta didik dan akan lebih bijaksana mendidik dan membimbing anak didiknya dalam proses pembelajaran.",
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sama'",
+            "given": "Sama'"
+          }
+        },
+        {
+          "name": {
+            "given": "Annisa wahyuni",
+            "family": "wahyuni",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Anastasia dwi Anggraeni",
+            "family": "Anggraeni"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Tonasih",
+            "family": "Tonasih"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "Desak Made Yoniartani",
+            "family": "Yoniartani"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Sri Sofiani Amni",
+            "family": "Amni",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Ismarianti",
+            "family": "Ismarianti",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Helda Jolanda Pentury",
+            "family": "Pentury"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Inne Pelangi",
+            "family": "Pelangi",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": "ratna.widiastuti@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Ratna Widiastuti",
+            "family": "Widiastuti"
+          }
+        }
+      ],
+      "rev_number": 13,
+      "publisher": "Yayasan Penerbit Muhammad Zaini",
+      "full_text_status": "public",
+      "refereed": "FALSE",
+      "lastmod": "2023-04-11 07:51:20",
+      "eprintid": 50229,
+      "contact_email": "ratna.widiastuti@fkip.unila.ac.id",
+      "status_changed": "2023-04-11 07:51:20",
+      "book_title": "Psikologi Pendidikan",
+      "userid": 149,
+      "date": "2021-05-17",
+      "pages": 212,
+      "place_of_pub": "Pidie, Aceh",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "BUKU AJAR Psikologi Pendidikan.pdf",
+                  "hash_type": "MD5",
+                  "datasetid": "document",
+                  "objectid": 189933,
+                  "hash": "d4d7a0a21c27071e12099be862411712",
+                  "mtime": "2023-04-11 07:17:29",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/542804",
+                  "fileid": 542804,
+                  "filesize": 1619288
+                }
+            ],
+            "eprintid": 50229,
+            "pos": 1,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189933",
+            "main": "BUKU AJAR Psikologi Pendidikan.pdf",
+            "language": "id",
+            "content": "published",
+            "security": "public",
+            "placement": 1,
+            "format": "text",
+            "formatdesc": "BUKU AJAR PSIKOLOGI PENDIDIKAN",
+            "mime_type": "application\/pdf",
+            "docid": 189933
+          }
+      ],
+      "subjects": [
+        "L1",
+        "LT"
+      ],
+      "pagerange": "169-190",
+      "editors": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ardiawan",
+            "given": "I Ketut Ngurah Ardiawan"
+          }
+        }
+      ],
+      "title": "PSIKOLOGI PENDIDIKAN",
+      "metadata_visibility": "show",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50229",
+      "type": "book_section"
+    },
+    {
+      "documents": [
+          {
+            "files": [
+                {
+                  "mtime": "2021-09-09 15:52:55",
+                  "hash": "6592c23679748c793a211031605b6256",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/400278",
+                  "filesize": 290474,
+                  "fileid": 400278,
+                  "mime_type": "image\/jpeg",
+                  "hash_type": "MD5",
+                  "filename": "MARI-MENULIS-NASKAH-ARTIKEL-UNTUK-PUBLIKASI-DI-JURNAL-INTERNASIONAL (4).jpg",
+                  "datasetid": "document",
+                  "objectid": 154065
+                }
+            ],
+            "eprintid": 33825,
+            "pos": 1,
+            "rev_number": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/154065",
+            "main": "MARI-MENULIS-NASKAH-ARTIKEL-UNTUK-PUBLIKASI-DI-JURNAL-INTERNASIONAL (4).jpg",
+            "language": "en",
+            "security": "public",
+            "content": "published",
+            "placement": 1,
+            "format": "image",
+            "mime_type": "image\/jpeg",
+            "docid": 154065
+          }
+      ],
+      "date": "2021-05-31",
+      "pages": 114,
+      "place_of_pub": "Jakarta",
+      "status_changed": "2021-09-10 01:07:16",
+      "userid": 1177,
+      "type": "book",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33825",
+      "title": "Mari menulis naskah artikel untuk publikasi di jurnal internasional bereputasi: Panduan sederhana untuk mahasiswa dan dosen",
+      "related_url": [
+        {
+          "url": "https:\/\/prenadamedia.com\/product\/mari-menulis-naskah-artikel-untuk-publikasi-di-jurnal-internasional-bereputasi-panduan-sederhana-untuk-mahasiswa-dan-dosen\/",
+          "type": "pub"
+        }
+      ],
+      "editors": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Perdana",
+            "given": "Ryzal"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "subjects": [
+        "L1",
+        "LT"
+      ],
+      "ispublished": "pub",
+      "eprint_status": "archive",
+      "isbn": "978-623-218-895-2",
+      "datestamp": "2021-09-10 01:07:16",
+      "dir": "disk0\/00\/03\/38\/25",
+      "divisions": [
+        "FKIP1"
+      ],
+      "refereed": "TRUE",
+      "lastmod": "2021-09-10 01:07:16",
+      "eprintid": 33825,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "family": "Setiyadi",
+            "given": "Ag. Bambang"
+          },
+          "id": "bambang_setiyadi76@yahoo.co.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "GEDE EKA",
+            "family": "PUTRAWAN"
+          },
+          "id": "gputrawan08@gmail.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Hisham",
+            "family": "Dzakiria",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "full_text_status": "public",
+      "official_url": "https:\/\/prenadamedia.com\/product\/mari-menulis-naskah-artikel-untuk-publikasi-di-jurnal-internasional-bereputasi-panduan-sederhana-untuk-mahasiswa-dan-dosen\/",
+      "publisher": "Prenada Media",
+      "rev_number": 9,
+      "date_type": "published"
+    },
+    {
+      "volume": 8,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20134",
+      "title": "Cultural Values in a High School EFL Textbook in the Indonesian Context",
+      "related_url": [
+        {
+          "url": "http:\/\/www.hrpub.org\/journals\/article_info.php?aid=9157"
+        }
+      ],
+      "id_number": "doi: 10.13189\/ujer.2020.080531",
+      "metadata_visibility": "show",
+      "subjects": [
+        "H1",
+        "L1",
+        "LT"
+      ],
+      "pagerange": "1944-1952",
+      "documents": [
+          {
+            "main": "UJER31-19515439.pdf",
+            "language": "en",
+            "eprintid": 20134,
+            "pos": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/190043",
+                  "fileid": 190043,
+                  "filesize": 343825,
+                  "mtime": "2020-05-19 07:44:57",
+                  "hash": "8e4a060c21762a3c6fa10aa96c3c94c4",
+                  "datasetid": "document",
+                  "objectid": 33475,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "UJER31-19515439.pdf"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33475",
+            "rev_number": 3,
+            "docid": 33475,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "content": "published",
+            "placement": 1,
+            "format": "text"
+          }
+      ],
+      "date": "2020-05",
+      "publication": "Universal Journal of Educational Research",
+      "status_changed": "2020-05-19 13:56:16",
+      "userid": 4317,
+      "number": 5,
+      "refereed": "TRUE",
+      "eprintid": 20134,
+      "lastmod": "2020-05-19 13:56:16",
+      "creators": [
+        {
+          "id": "tuntunsinaga@gmail.com",
+          "name": {
+            "given": "Tuntun",
+            "family": "Sinaga",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "PUTRAWAN",
+            "given": "GEDE EKA",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": "gputrawan08@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Novita",
+            "family": "Nurdiana",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "novita.nurdiana@fkip.unila.ac.id"
+        }
+      ],
+      "official_url": "http:\/\/www.hrpub.org\/journals\/article_info.php?aid=9157",
+      "rev_number": 9,
+      "publisher": "Horizon Research Publishing",
+      "full_text_status": "public",
+      "date_type": "published",
+      "ispublished": "pub",
+      "abstract": "Although considerable amount of research on culture and ideology in textbooks has appeared previously in the literature, less attention has been paid to cultural values and gender ideology in EFL textbooks in the Indonesian context. They are inseparable from education goals that can form learners' characters in the context of national education system. Therefore, this study was aimed at explaining cultural values and identifying gender ideology contained in one of EFL textbooks in Indonesia. This study was conducted through a descriptive qualitative approach in which the data were collected from an EFL textbook through a systematic procedure of document analysis involving skimming, reading (thorough examination), and interpretation. The results indicate that the high school EFL textbook under investigation contains cultural values and gender ideology. Females are more prominent in terms of intellectual portrayals compared to males. However, females are still attached to a more sensitive and caring image about humanity. In terms of personality, both females and males have an intellectual personality trait, a thinker. However, being domestic work-oriented, parenting, and caring for family are traits and occupational roles attributed to females. In addition, females are represented as weak beings (victims), while males are positioned as a strong and brave character. Seen from ideological point of view, gender ideology is found in the form of women's wider emancipation in the public sphere, but the stereotype of women as weak and domestic work-oriented beings and the prominent role of men as \"rulers\" of life are still apparent. The implications for EFL textbook writing and recommendations for future research are also discussed.",
+      "eprint_status": "archive",
+      "datestamp": "2020-05-19 13:56:16",
+      "dir": "disk0\/00\/02\/01\/34",
+      "divisions": [
+        "FKIP1"
+      ]
+    },
+    {
+      "userid": 265,
+      "status_changed": "2018-06-25 03:43:27",
+      "documents": [
+          {
+            "eprintid": 7675,
+            "pos": 2,
+            "files": [
+                {
+                  "mtime": "2018-06-25 03:15:13",
+                  "hash": "6b284651bcf05dc768db1fc17e47e2a6",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/68992",
+                  "fileid": 68992,
+                  "filesize": 184146,
+                  "mime_type": "application\/pdf",
+                  "hash_type": "MD5",
+                  "filename": "sertifikat_EC00201703219_PANDUAN DUKASAN.pdf",
+                  "datasetid": "document",
+                  "objectid": 20724
+                }
+            ],
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20724",
+            "main": "sertifikat_EC00201703219_PANDUAN DUKASAN.pdf",
+            "language": "en",
+            "security": "public",
+            "placement": 2,
+            "format": "text",
+            "docid": 20724,
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "patent_applicant": "Buku Panduan Media Dukasan",
+      "date": "2017-04-17",
+      "id_number": "EC00201703219",
+      "metadata_visibility": "show",
+      "title": "Buku Panduan Media Dukasan",
+      "subjects": [
+        "LT"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7675",
+      "type": "patent",
+      "divisions": [
+        "FKIP12"
+      ],
+      "dir": "disk0\/00\/00\/76\/75",
+      "datestamp": "2018-06-25 03:43:27",
+      "corp_creators": [
+        "UNIVERSITAS LAMPUNG"
+      ],
+      "eprint_status": "archive",
+      "ispublished": "pub",
+      "date_type": "published",
+      "eprintid": 7675,
+      "lastmod": "2018-06-25 03:43:27",
+      "full_text_status": "public",
+      "rev_number": 12,
+      "creators": [
+        {
+          "id": "sinarbanten1@yahoo.co.id",
+          "name": {
+            "given": "Hermi",
+            "family": "Yanzi",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ]
+    }
+]
+
