@@ -18,6 +18,7 @@ def extract_keywords(abstract):
     return ""
 
 for cat in tqdm(cats):
+    # print(cat)
     if not os.path.exists(os.path.join(csv_folder, cat)):
         os.makedirs(os.path.join(csv_folder, cat))
     
@@ -32,7 +33,7 @@ for cat in tqdm(cats):
         with open(csv_path, "w", newline="", encoding="utf-8") as csv_file:
             csv_writer = csv.writer(csv_file)
             
-            field_titles = ["division", "title", "abstract", "subjects", "publication", "date", "keywords"]
+            field_titles = ["division", "title", "abstract", "subjects", "publication", "publisher", "date", "keywords"]
             csv_writer.writerow(field_titles)
             
             for idx, data in enumerate(data_list):
@@ -41,8 +42,9 @@ for cat in tqdm(cats):
                 abstract = data.get("abstract", "")
                 subjects = ", ".join(data.get("subjects", []))
                 publication = data.get("publication", "")
+                publisher = data.get("publisher", "")
                 date = data.get("date", "")
                 keywords = extract_keywords(abstract)
                 
-                values = [division, title, abstract, subjects, publication, date, keywords]
+                values = [division, title, abstract, subjects, publication, publisher, date, keywords]
                 csv_writer.writerow(values)
